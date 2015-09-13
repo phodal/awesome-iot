@@ -1,6 +1,6 @@
 #Internet Of Things OpenSource Project
 
-##操作系统
+##OS(操作系统)
 
 1. [ARM mbed](http://mbed.org/)
 2. [Canonical Ubuntu and Snappy Ubuntu Core](http://developer.ubuntu.com/en/snappy/)
@@ -9,16 +9,9 @@
 5. [RIOT](http://www.riot-os.org/)
 6. [webinos](http://www.webinos.org/)
 
-##APIs
-
-1. [BipIO](https://bip.io/)
-2. [Qeo Tinq](https://github.com/brunodebus/tinq-core)
-3. [Zetta](http://www.zettajs.org/)
-4. [1248.io](http://wiki.1248.io/doku.php)
-
 ##Platform (平台)
 
-1. [Spark](http://spark.github.io/)
+1. [Lan](https://github.com/phodal/lan)
 2. [Canopy](http://canopy.link/)
 3. [Chimera IoT](https://chimeraiot.com/init/default/developers)
 4. [DeviceHive](https://github.com/devicehive/)
@@ -29,6 +22,14 @@
 9. [Open Source Internet of Things](http://osiot.org/) (OSIOT)
 10. [prpl Foundation](http://prplfoundation.org/)
 11. [SiteWhere](http://www.sitewhere.org/)
+12. [Spark](http://spark.github.io/)
+
+##APIs
+
+1. [BipIO](https://bip.io/)
+2. [Qeo Tinq](https://github.com/brunodebus/tinq-core)
+3. [Zetta](http://www.zettajs.org/)
+4. [1248.io](http://wiki.1248.io/doku.php)
 
 ##Middleware(中间件)
 1. [IoTSyS](https://code.google.com/p/iotsys/)
@@ -61,6 +62,9 @@
 5. [Pinoccio](https://pinocc.io/)
 6. [WeIO](http://we-io.net/hardware/)
 7. [WIZnet](http://wizwiki.net/wiki/doku.php)
+8. [Microduino](https://www.microduino.cc/)
+9. [NodeMCU](http://www.nodemcu.com/)
+10. [Pinocc](https://pinocc.io/)
 
 ##Home automation(智能家居)
 1. [Home Gateway Initiative](http://www.homegatewayinitiative.org/) (HGI)
