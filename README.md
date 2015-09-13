@@ -1,13 +1,19 @@
 #Internet Of Things OpenSource Project
 
+##Framework(框架)
+
+1. [Cylon](https://github.com/hybridgroup/cylon)(JavaScript, robotics, physical computing, IoT)
+2. [johnny-five](https://github.com/rwaldron/johnny-five)(JavaScript Robotics and IoT programming framework, developed at Bocoup, Firmata Protocol)
+
 ##OS(操作系统)
 
-1. [ARM mbed](http://mbed.org/)
-2. [Canonical Ubuntu and Snappy Ubuntu Core](http://developer.ubuntu.com/en/snappy/)
+1. [ARM mbed](http://mbed.org/)(ARM)
+2. [Snappy Ubuntu Core](http://developer.ubuntu.com/en/snappy/)(Canonical)
 3. [Contiki](http://www.contiki-os.org/)
 4. [Raspbian](http://raspbian.org/)
 5. [RIOT](http://www.riot-os.org/)
 6. [webinos](http://www.webinos.org/)
+7. [RT-Thread](https://github.com/RT-Thread/rt-thread)(ARM Cortex-M0, Cortex-M3/4/7, or a rich feature system like ARM Cortex-A8, ARM Cortex-A9 DualCore)
 
 ##Platform (平台)
 
@@ -23,6 +29,8 @@
 10. [prpl Foundation](http://prplfoundation.org/)
 11. [SiteWhere](http://www.sitewhere.org/)
 12. [Spark](http://spark.github.io/)
+13. [Clavin](https://github.com/EricssonResearch/calvin-base)(Ericsson Research)
+14. [IoT.js](https://github.com/Samsung/iotjs) (JavaScript, Samsung)
 
 ##APIs
 
@@ -36,11 +44,6 @@
 2. [OpenIoT](http://openiot.eu/)
 3. [OpenRemote](http://www.openremote.org/display/HOME/OpenRemote)
 4. [Kaa](http://www.kaaproject.org/)
-
-##Others
-
-1. [Node-RED](http://nodered.org/)
-2. [ThingBox](http://thethingbox.io/)
 
 ##Toolkits(工具集)
 1. [KinomaJS](https://github.com/kinoma)
@@ -79,7 +82,26 @@
 
 1. [Open Source Robotics Foundation](http://www.osrfoundation.org/)
 
-**Mesh networks**
+##Mesh networks
 
 1. [Open Garden](https://opengarden.com/)
 2. [OpenWSN](http://www.openwsn.org/)
+
+##Others
+
+1. [Node-RED](http://nodered.org/)(IBM)
+2. [ThingBox](http://thethingbox.io/)
+
+##Language
+
+1. [ELIoT](https://github.com/c3d/eliot)
+2. [JerryScript](http://samsung.github.io/jerryscript/) (A JavaScript engine for Internet of Things)
+
+##Protocol Library
+
+1. [Mosquitto](http://mosquitto.org/)(MQTT)
+
+##Tools
+
+1. [Paho](http://www.eclipse.org/paho)(Eclipse MQTT Client)
+2. [Smart.js](https://github.com/cesanta/smart.js)(ESP8266)
