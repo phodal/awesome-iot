@@ -4,14 +4,14 @@
 
 1. [Cylon](https://github.com/hybridgroup/cylon)(JavaScript, robotics, physical computing, IoT)
 2. [johnny-five](https://github.com/rwaldron/johnny-five)(JavaScript Robotics and IoT programming framework, developed at Bocoup, Firmata Protocol)
-
+3. [GoBot](https://github.com/hybridgroup/gobot)(Golang framework for robotics, physical computing, and the Internet of Things)
 ##OS(操作系统)
 
-1. [ARM mbed](http://mbed.org/)(ARM)
-2. [Snappy Ubuntu Core](http://developer.ubuntu.com/en/snappy/)(Canonical)
-3. [Contiki](http://www.contiki-os.org/)
-4. [Raspbian](http://raspbian.org/)
-5. [RIOT](http://www.riot-os.org/)
+1. [ARM mbed](http://mbed.org/)(The ARM® mbed™ IoT Device Platform provides the operating system, cloud services, tools and developer ecosystem to make the creation and deployment of commercial, standards-based IoT solutions possible at scale.)
+2. [Snappy Ubuntu Core](http://developer.ubuntu.com/en/snappy/)(Canonical, A new, transactionally updated Ubuntu for clouds and devices.)
+3. [Contiki](http://www.contiki-os.org/)(The Open Source OS for the Internet of Things)
+4. [Raspbian](http://raspbian.org/)(Raspbian is a free operating system based on Debian optimized for the Raspberry Pi hardware.)
+5. [RIOT](http://www.riot-os.org/)(The friendly Operating System for the Internet of Things)
 6. [webinos](http://www.webinos.org/)
 7. [RT-Thread](https://github.com/RT-Thread/rt-thread)(ARM Cortex-M0, Cortex-M3/4/7, or a rich feature system like ARM Cortex-A8, ARM Cortex-A9 DualCore)
 
