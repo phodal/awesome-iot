@@ -51,11 +51,10 @@
 2. [IoT Toolkit](http://iot-toolkit.com/)
 
 ##Data visualization(数据可视化)
-1. [Freeboard](https://github.com/Freeboard/freeboard)
-2. [ThingSpeak](https://thingspeak.com/)
-3. [ECharts](http://echarts.baidu.com)
-4. [HighCharts](http://www.highcharts.com)
-5. [D3.JS](http://d3js.org/)
+1. [Freeboard](https://github.com/Freeboard/freeboard)(A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.)
+2. [ECharts](http://echarts.baidu.com)(Enterprise Charts 商业产品图表库)
+3. [HighCharts](https://github.com/highslide-software/highcharts.com)(Highcharts JS, the JavaScript charting framework)
+4. [D3.JS](https://github.com/mbostock/d3)(A JavaScript visualization library for HTML and SVG)
 
 ##Hardware(硬件)
 
