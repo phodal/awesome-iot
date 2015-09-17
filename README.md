@@ -42,13 +42,12 @@
 
 ##Middleware(中间件)
 1. [IoTSyS](https://code.google.com/p/iotsys/)
-2. [OpenIoT](http://openiot.eu/)
-3. [OpenRemote](http://www.openremote.org/display/HOME/OpenRemote)
-4. [Kaa](http://www.kaaproject.org/)
+2. [Kaa](https://github.com/kaaproject/kaa)(Kaa open-source middleware platform for building, managing, and integrating connected products with the Internet of Everything.)
 
-##Toolkits(工具集)
-1. [KinomaJS](https://github.com/kinoma)
-2. [IoT Toolkit](http://iot-toolkit.com/)
+##Toolkits inlucde Non-OS(工具集)
+1. [KinomaJS](https://github.com/Kinoma/kinomajs)(A JavaScript runtime optimized for the applications that power IoT devices.)
+2. [IoT Toolkit](https://github.com/connectIOT/iottoolkit)(Reference implementation of the smart object API
+)
 
 ##Data visualization(数据可视化)
 1. [Freeboard](https://github.com/Freeboard/freeboard)(A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.)
