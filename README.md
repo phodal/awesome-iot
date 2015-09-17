@@ -41,8 +41,9 @@
 4. [1248.io](http://wiki.1248.io/doku.php)
 
 ##Middleware(中间件)
-1. [IoTSyS](https://code.google.com/p/iotsys/)
-2. [Kaa](https://github.com/kaaproject/kaa)(Kaa open-source middleware platform for building, managing, and integrating connected products with the Internet of Everything.)
+1. [Kaa] (https://github.com/kaaproject/kaa)(Kaa open-source middleware platform for building, managing, and integrating connected products with the Internet of Everything.)
+2. [OpenIoT] (https://github.com/OpenIotOrg/openiot) (The OpenIoT middleware infrastructure will support flexible configuration and deployment of algorithms for collection)
+3. [IoTSyS] (https://code.google.com/p/iotsys/)
 
 ##Toolkits inlucde Non-OS(工具集)
 1. [KinomaJS](https://github.com/Kinoma/kinomajs)(A JavaScript runtime optimized for the applications that power IoT devices.)
