@@ -110,5 +110,5 @@
 
 ##Tools
 
-1. [Paho](http://www.eclipse.org/paho)(Eclipse MQTT Client)
+1. [Paho](http://www.eclipse.org/paho)(The Paho project provides open-source client implementations of MQTT and MQTT-SN messaging protocols aimed at new, existing, and emerging applications for Machine‑to‑Machine (M2M) and Internet of Things (IoT).)
 2. [Smart.js](https://github.com/cesanta/smart.js)(ESP8266)
