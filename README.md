@@ -11,7 +11,8 @@
 
 ###Arduino
 
-1. [Windows Remote Arduino](https://github.com/ms-iot/remote-wiring)
+1. [Windows Remote Arduino](https://github.com/ms-iot/remote-wiring)(Remote "Arduino Wiring" interface for Windows 8.1, Windows Phone 8.1 and Windows 10. Used to control an Arduino from a Universal Windows Platform application.)
+2. [WiringPi](http://wiringpi.com/)(GPIO Interface library for the Raspberry Pi)
 
 ##OS(操作系统)
 
@@ -101,12 +102,12 @@
 
 ##Language
 
-1. [ELIoT](https://github.com/c3d/eliot)
+1. [ELIoT](https://github.com/c3d/eliot)(Extensible Language for the Internet of Things)
 2. [JerryScript](http://samsung.github.io/jerryscript/) (A JavaScript engine for Internet of Things)
 
 ##Protocol Library
 
-1. [Mosquitto](http://mosquitto.org/)(MQTT)
+1. [Mosquitto](http://mosquitto.org/)(MQTT)(An Open Source MQTT v3.1/v3.1.1 Broker)
 
 ##Tools
 
