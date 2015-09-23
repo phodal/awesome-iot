@@ -21,8 +21,7 @@
 3. [Contiki](http://www.contiki-os.org/)(The Open Source OS for the Internet of Things)
 4. [Raspbian](http://raspbian.org/)(Raspbian is a free operating system based on Debian optimized for the Raspberry Pi hardware.)
 5. [RIOT](http://www.riot-os.org/)(The friendly Operating System for the Internet of Things)
-6. [webinos](http://www.webinos.org/)
-7. [RT-Thread](https://github.com/RT-Thread/rt-thread)(ARM Cortex-M0, Cortex-M3/4/7, or a rich feature system like ARM Cortex-A8, ARM Cortex-A9 DualCore)
+6. [RT-Thread](https://github.com/RT-Thread/rt-thread)(ARM Cortex-M0, Cortex-M3/4/7, or a rich feature system like ARM Cortex-A8, ARM Cortex-A9 DualCore)
 
 ##Platform (平台)
 
