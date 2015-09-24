@@ -22,6 +22,7 @@
 4. [Raspbian](http://raspbian.org/)(Raspbian is a free operating system based on Debian optimized for the Raspberry Pi hardware.)
 5. [RIOT](http://www.riot-os.org/)(The friendly Operating System for the Internet of Things)
 6. [RT-Thread](https://github.com/RT-Thread/rt-thread)(ARM Cortex-M0, Cortex-M3/4/7, or a rich feature system like ARM Cortex-A8, ARM Cortex-A9 DualCore)
+7. [TinyOS](https://github.com/tinyos/tinyos-main)(designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters)
 
 ##Platform (平台)
 
@@ -48,9 +49,8 @@
 4. [1248.io](http://wiki.1248.io/doku.php)
 
 ##Middleware(中间件)
-1. [Kaa] (https://github.com/kaaproject/kaa)(Kaa open-source middleware platform for building, managing, and integrating connected products with the Internet of Everything.)
-2. [OpenIoT] (https://github.com/OpenIotOrg/openiot) (The OpenIoT middleware infrastructure will support flexible configuration and deployment of algorithms for collection)
-3. [IoTSyS] (https://code.google.com/p/iotsys/)
+1. [Kaa](https://github.com/kaaproject/kaa)(Kaa open-source middleware platform for building, managing, and integrating connected products with the Internet of Everything.)
+2. [OpenIoT](https://github.com/OpenIotOrg/openiot) (The OpenIoT middleware infrastructure will support flexible configuration and deployment of algorithms for collection)
 
 ##Toolkits inlucde Non-OS(工具集)
 1. [KinomaJS](https://github.com/Kinoma/kinomajs)(A JavaScript runtime optimized for the applications that power IoT devices.)
@@ -65,16 +65,17 @@
 
 ##Hardware(硬件)
 
-1. [Arduino Ethernet Shield](http://www.arduino.cc/en/Main/ArduinoEthernetShield)
-2. [BeagleBone](http://beagleboard.org/getting-started/)
-3. [Intel Galileo](http://www.arduino.cc/en/ArduinoCertified/IntelGalileo)
-4. [openPicus FlyportPro](http://www.openpicus.com/site/tools)
-5. [Pinoccio](https://pinocc.io/)
+1. [Arduino](http://www.arduino.cc/)(open-source electronics platform based on easy-to-use hardware and software.)
+2. [Raspberry Pi](https://www.raspberrypi.org/)(a tiny and affordable computer that you can use to learn programming through fun, practical projects)
+3. [BeagleBone](http://beagleboard.org/getting-started/)
+4. [Intel Galileo](http://www.arduino.cc/en/ArduinoCertified/IntelGalileo)
+5. [NodeMCU](http://www.nodemcu.com/)
 6. [WeIO](http://we-io.net/hardware/)
 7. [WIZnet](http://wizwiki.net/wiki/doku.php)
 8. [Microduino](https://www.microduino.cc/)
-9. [NodeMCU](http://www.nodemcu.com/)
+9. [Pinoccio](https://pinocc.io/)
 10. [Pinocc](https://pinocc.io/)
+11. [openPicus FlyportPro](http://www.openpicus.com/site/tools)
 
 ##Home automation(智能家居)
 1. [Home Gateway Initiative](http://www.homegatewayinitiative.org/) (HGI)
@@ -96,8 +97,7 @@
 
 ##Others
 
-1. [Node-RED](http://nodered.org/)(IBM)
-2. [ThingBox](http://thethingbox.io/)
+1. [Node-RED](https://github.com/node-red/node-red)(IBM)(A visual tool for wiring the Internet of Things)
 
 ##Language
 
@@ -112,3 +112,14 @@
 
 1. [Paho](http://www.eclipse.org/paho)(The Paho project provides open-source client implementations of MQTT and MQTT-SN messaging protocols aimed at new, existing, and emerging applications for Machine‑to‑Machine (M2M) and Internet of Things (IoT).)
 2. [Smart.js](https://github.com/cesanta/smart.js)(ESP8266)
+
+
+Thanks to:
+
+	project  : opensource-iot
+	repo age : 11 days
+	active   : 6 days
+	commits  : 13
+	files    : 1
+	authors  :
+		13	Fengda Huang  100.0%
