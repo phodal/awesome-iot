@@ -87,7 +87,6 @@
 
 ##Robotics(机器人)
 
-1. [Open Source Robotics Foundation](http://www.osrfoundation.org/)
 
 ##Mesh networks
 
