@@ -26,6 +26,7 @@
 5. [RIOT](http://www.riot-os.org/)(The friendly Operating System for the Internet of Things)
 6. [RT-Thread](https://github.com/RT-Thread/rt-thread)(ARM Cortex-M0, Cortex-M3/4/7, or a rich feature system like ARM Cortex-A8, ARM Cortex-A9 DualCore)
 7. [TinyOS](https://github.com/tinyos/tinyos-main)(designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters)
+8. [Brillo](https://developers.google.com/brillo/) (Brillo extends the Android platform to all your connected devices)
 
 ##Platform (平台)
 
@@ -79,6 +80,7 @@
 9. [Pinoccio](https://pinocc.io/)
 10. [Pinocc](https://pinocc.io/)
 11. [openPicus FlyportPro](http://www.openpicus.com/site/tools)
+12. [Tessel](https://tessel.io/)(Tessel is a completely open source and community-driven IoT and robotics development platform.)
 
 ##Home automation(智能家居)
 1. [Home Gateway Initiative](http://www.homegatewayinitiative.org/) (HGI)
