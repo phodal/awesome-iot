@@ -6,7 +6,7 @@
 2. [johnny-five](https://github.com/rwaldron/johnny-five)(JavaScript Robotics and IoT programming framework, developed at Bocoup, Firmata Protocol)
 3. [GoBot](https://github.com/hybridgroup/gobot)(Golang framework for robotics, physical computing, and the Internet of Things)
 
-##Library[库]
+##Library(库)
 
 ###SDK
 
