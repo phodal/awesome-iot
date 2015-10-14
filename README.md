@@ -1,5 +1,7 @@
 #Awesome Internet Of Things
 
+Similar with [IoT Document](https://github.com/phodal/iot-document)
+
 ##Framework(框架)
 
 1. [Cylon](https://github.com/hybridgroup/cylon)(JavaScript, robotics, physical computing, IoT)
