@@ -130,7 +130,12 @@ Similar with [IoT Document](https://github.com/phodal/iot-document)
 5. [txThings](https://github.com/siskin/txThings)(CoAP library for Twisted framework)
 6. [microcoap](https://github.com/1248/microcoap)(A small CoAP implementation for microcontrollers)
 7. [Californium](https://github.com/eclipse/californium)(Californium is a Java implementation of CoAP for the IoT backend and less constrained IoT devices. )
+8. 
 
+###Messaging
+
+1. [meshblu](https://github.com/octoblu/meshblu)(Machine-to-machine instant messaging platform for the internet of things)
+2. [IBM messaging](https://github.com/ibm-messaging)(Community around IBM Messaging products)
 
 ##Tools
 
