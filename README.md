@@ -151,6 +151,11 @@ Similar with [IoT Document](https://github.com/phodal/iot-document)
 
 ##Others
 
+1. [Freeboard](https://github.com/Freeboard/freeboard)(A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.)
+2. [connectthedots](https://github.com/Azure/connectthedots)(Connect tiny devices to Microsoft Azure services to build IoT solutions)
+3. [souliss](https://github.com/souliss/souliss)(Arduino based Distributed Networking Framework for Smart Homes and IoT)
+
+
 ![Internet Of Things Architect](struct.jpg)
 
 Thanks to:
