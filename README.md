@@ -13,6 +13,7 @@ Similar with [IoT Document](https://github.com/phodal/iot-document)
 ###SDK
 
 1. [Microsoft Azure IoT SDK](https://github.com/Azure/azure-iot-sdks)(SDKs for a variety of languages and platforms that help connect devices to Microsoft Azure IoT services)
+2. [ESP8266 Arduino core](https://github.com/esp8266/Arduino) (ESP8266 core for Arduino)
 
 ###Arduino
 
