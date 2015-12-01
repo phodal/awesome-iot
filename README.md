@@ -1,6 +1,6 @@
 #Awesome Internet Of Things
 
-Similar with [IoT Document](https://github.com/phodal/iot-document
+More about how iot work, see in [IoT Document](https://github.com/phodal/iot-document)
 
 ##Framework
 
