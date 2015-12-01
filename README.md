@@ -1,155 +1,151 @@
 #Awesome Internet Of Things
 
-Similar with [IoT Document](https://github.com/phodal/iot-document)
+Similar with [IoT Document](https://github.com/phodal/iot-document
 
 ##Framework
 
-1. [Cylon](https://github.com/hybridgroup/cylon)(JavaScript, robotics, physical computing, IoT)
-2. [johnny-five](https://github.com/rwaldron/johnny-five)(JavaScript Robotics and IoT programming framework, developed at Bocoup, Firmata Protocol)
-3. [GoBot](https://github.com/hybridgroup/gobot)(Golang framework for robotics, physical computing, and the Internet of Things)
-4. [heimcontrol.js](https://github.com/ni-c/heimcontrol.js)(Home-Automation with node.js and Raspberry PI
-)
+ - [Cylon](https://github.com/hybridgroup/cylon) - JavaScript framework for robotics, physical computing, and the Internet of Things.
+ - [johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup, Firmata Protocol.
+ - [GoBot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, physical computing, and the Internet of Things.
+ - [heimcontrol.js](https://github.com/ni-c/heimcontrol.js) - Home-Automation with node.js and Raspberry PI.
+
 
 ##Library
 
 ###SDK
 
-1. [Microsoft Azure IoT SDK](https://github.com/Azure/azure-iot-sdks)(SDKs for a variety of languages and platforms that help connect devices to Microsoft Azure IoT services)
-2. [ESP8266 Arduino core](https://github.com/esp8266/Arduino) (ESP8266 core for Arduino)
+ - [Microsoft Azure IoT SDK](https://github.com/Azure/azure-iot-sdks) - SDKs for a variety of languages and platforms that help connect devices to Microsoft Azure IoT services.
+ - [ESP8266 Arduino core](https://github.com/esp8266/Arduino) - Arduino core for ESP8266 WiFi chip.
 
 ###Arduino
 
-1. [Windows Remote Arduino](https://github.com/ms-iot/remote-wiring)(Remote "Arduino Wiring" interface for Windows 8.1, Windows Phone 8.1 and Windows 10. Used to control an Arduino from a Universal Windows Platform application.)
-2. [WiringPi](https://github.com/WiringPi/WiringPi)(Gordon's Arduino wiring-like WiringPi Library for the Raspberry Pi)
+ - [Windows Remote Arduino](https://github.com/ms-iot/remote-wiring) - Remote "Arduino Wiring" interface for Windows 8.1, Windows Phone 8.1 and Windows 10. Used to control an Arduino from a Universal Windows Platform application.
+ - [WiringPi](https://github.com/WiringPi/WiringPi) - Gordon's Arduino wiring-like WiringPi Library for the Raspberry Pi.
 
 ##OS
 
-1. [ARM mbed](http://mbed.org/)(The ARM® mbed™ IoT Device Platform provides the operating system, cloud services, tools and developer ecosystem to make the creation and deployment of commercial, standards-based IoT solutions possible at scale.)
-2. [Snappy Ubuntu Core](http://developer.ubuntu.com/en/snappy/)(Canonical, A new, transactionally updated Ubuntu for clouds and devices.)
-3. [Contiki](http://www.contiki-os.org/)(The Open Source OS for the Internet of Things)
-4. [Raspbian](http://raspbian.org/)(Raspbian is a free operating system based on Debian optimized for the Raspberry Pi hardware.)
-5. [RIOT](http://www.riot-os.org/)(The friendly Operating System for the Internet of Things)
-6. [RT-Thread](https://github.com/RT-Thread/rt-thread)(ARM Cortex-M0, Cortex-M3/4/7, or a rich feature system like ARM Cortex-A8, ARM Cortex-A9 DualCore)
-7. [TinyOS](https://github.com/tinyos/tinyos-main)(designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters)
-8. [Brillo](https://developers.google.com/brillo/) (Brillo extends the Android platform to all your connected devices)
-9. [NodeOS](https://github.com/nodeos/nodeos)(Lightweight operating system using Node.js as userspace)
+ - [ARM mbed](http://mbed.org/) - The ARM® mbed™ IoT Device Platform provides the operating system, cloud services, tools and developer ecosystem to make the creation and deployment of commercial, standards-based IoT solutions possible at scale.
+ - [Snappy Ubuntu Core](http://developer.ubuntu.com/en/snappy/) - Canonical, A new, transactionally updated Ubuntu for clouds and devices.
+ - [Contiki](http://www.contiki-os.org/) - The Open Source OS for the Internet of Things
+ - [Raspbian](http://raspbian.org/) - Raspbian is a free operating system based on Debian optimized for the Raspberry Pi hardware.
+ - [RIOT](http://www.riot-os.org/) - The friendly Operating System for the Internet of Things
+ - [RT-Thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source real-time operating system for embedded devices from China.
+ - [TinyOS](https://github.com/tinyos/tinyos-main) - designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters.
+ - [Brillo](https://developers.google.com/brillo/) - Brillo extends the Android platform to all your connected devices.
+ - [NodeOS](https://github.com/nodeos/nodeos) - Lightweight operating system using Node.js as userspace.
 
 ##Platform
 
-1. [Lan](https://github.com/phodal/lan)
-2. [Particle(原Spark)](http://spark.github.io/)(Particle (formally Spark) is a complete, open source, full-stack solution for cloud-connected devices.)
-3. [Chimera IoT](https://chimeraiot.com/init/default/developers)
-4. [DeviceHive](https://github.com/devicehive/)
-5. [Distributed Services Architecture](http://iot-dsa.org/) (DSA)
-6. [Pico Labs](https://github.com/Picolab/) (Kynetx open source assigned to Pico Labs)
-7. [M2MLabs Mainspring](http://www.m2mlabs.com/)
-8. [Nimbits](http://www.nimbits.com/index.jsp)
-9. [Open Source Internet of Things](http://osiot.org/) (OSIOT)
-10. [prpl Foundation](http://prplfoundation.org/)
-11. [SiteWhere](http://www.sitewhere.org/)
-12. [Canopy](http://canopy.link/)
-13. [Clavin](https://github.com/EricssonResearch/calvin-base)(Ericsson Research)(Calvin is an application environment that lets things talk to things. It comprises of both a development framework for application developers, and a runtime environment that handles the running application. )
-14. [IoT.js](https://github.com/Samsung/iotjs) (JavaScript, Samsung)
+ - [Lan](https://github.com/phodal/lan)
+ - [Particle(Spark)](http://spark.github.io/) - Particle (formally Spark) is a complete, open source, full-stack solution for cloud-connected devices.
+ - [Chimera IoT](https://chimeraiot.com/init/default/developers)
+ - [DeviceHive](https://github.com/devicehive/)
+ - [Distributed Services Architecture](http://iot-dsa.org/) - DSA
+ - [Pico Labs](https://github.com/Picolab/) - Kynetx open source assigned to Pico Labs/
+ - [M -Labs Mainspring](http://www.m -labs.com/)
+ - [Nimbits](http://www.nimbits.com/index.jsp)
+ - [Open Source Internet of Things](http://osiot.org/) - OSIOT
+ - [prpl Foundation](http://prplfoundation.org/)
+ - [SiteWhere](http://www.sitewhere.org/)
+ - [Canopy](http://canopy.link/)
+ - [Clavin](https://github.com/EricssonResearch/calvin-base) - Calvin is an application environment that lets things talk to things. It comprises of both a development framework for application developers, and a runtime environment that handles the running application. 
+ - [IoT.js](https://github.com/Samsung/iotjs) - Platform for Internet of Things with JavaScript.
 
 ##APIs
 
-1. [BipIO](https://bip.io/)
-2. [Qeo Tinq](https://github.com/brunodebus/tinq-core)
-3. [Zetta](http://www.zettajs.org/)
-4. [1248.io](http://wiki.1248.io/doku.php)
+ - [Qeo Tinq](https://github.com/brunodebus/tinq-core)
 
 ##Middleware
-1. [Kaa](https://github.com/kaaproject/kaa)(Kaa open-source middleware platform for building, managing, and integrating connected products with the Internet of Everything.)
-2. [OpenIoT](https://github.com/OpenIotOrg/openiot) (The OpenIoT middleware infrastructure will support flexible configuration and deployment of algorithms for collection)
+ - [Kaa](https://github.com/kaaproject/kaa) - Kaa open-source middleware platform for building, managing, and integrating connected products with the Internet of Everything.
+ - [OpenIoT](https://github.com/OpenIotOrg/openiot) (The OpenIoT middleware infrastructure will support flexible configuration and deployment of algorithms for collection
 
 ##Toolkits inlucde Non-OS
-1. [KinomaJS](https://github.com/Kinoma/kinomajs)(A JavaScript runtime optimized for the applications that power IoT devices.)
-2. [IoT Toolkit](https://github.com/connectIOT/iottoolkit)(Reference implementation of the smart object API
-)
+ - [KinomaJS](https://github.com/Kinoma/kinomajs) - A JavaScript runtime optimized for the applications that power IoT devices.
+ - [IoT Toolkit](https://github.com/connectIOT/iottoolkit) - Reference implementation of the smart object API
+
 
 ##Data visualization
-1. [Freeboard](https://github.com/Freeboard/freeboard)(A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.)
-2. [ECharts](http://echarts.baidu.com)(Enterprise Charts 商业产品图表库)
-3. [HighCharts](https://github.com/highslide-software/highcharts.com)(Highcharts JS, the JavaScript charting framework)
-4. [D3.JS](https://github.com/mbostock/d3)(A JavaScript visualization library for HTML and SVG)
+ - [Freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
+ - [ECharts](http://echarts.baidu.com) - Enterprise Charts 商业产品图表库
+ - [HighCharts](https://github.com/highslide-software/highcharts.com) - Highcharts JS, the JavaScript charting framework
+ - [D3.JS](https://github.com/mbostock/d3) A JavaScript visualization library for HTML and SVG
 
 ##Hardware
 
-1. [Arduino](http://www.arduino.cc/)(open-source electronics platform based on easy-to-use hardware and software.)
-2. [Raspberry Pi](https://www.raspberrypi.org/)(a tiny and affordable computer that you can use to learn programming through fun, practical projects)
-3. [BeagleBone](http://beagleboard.org/getting-started/)
-4. [Intel Galileo](http://www.arduino.cc/en/ArduinoCertified/IntelGalileo)
-5. [NodeMCU](http://www.nodemcu.com/)
-6. [WeIO](http://we-io.net/hardware/)
-7. [WIZnet](http://wizwiki.net/wiki/doku.php)
-8. [Microduino](https://www.microduino.cc/)
-9. [Pinoccio](https://pinocc.io/)
-10. [Pinocc](https://pinocc.io/)
-11. [openPicus FlyportPro](http://www.openpicus.com/site/tools)
-12. [Tessel](https://tessel.io/)(Tessel is a completely open source and community-driven IoT and robotics development platform.)
+ - [Arduino](http://www.arduino.cc/) - open-source electronics platform based on easy-to-use hardware and software.
+ - [Raspberry Pi](https://www.raspberrypi.org/) - a tiny and affordable computer that you can use to learn programming through fun, practical projects
+ - [BeagleBone](http://beagleboard.org/getting-started/)
+ - [Intel Galileo](http://www.arduino.cc/en/ArduinoCertified/IntelGalileo)
+ - [NodeMCU](http://www.nodemcu.com/)
+ - [WeIO](http://we-io.net/hardware/)
+ - [WIZnet](http://wizwiki.net/wiki/doku.php)
+ - [Microduino](https://www.microduino.cc/)
+ - [Pinoccio](https://pinocc.io/)
+ - [Pinocc](https://pinocc.io/)
+ - [openPicus FlyportPro](http://www.openpicus.com/site/tools)
+ - [Tessel](https://tessel.io/) - Tessel is a completely open source and community-driven IoT and robotics development platform.
 
 ##Home automation
-1. [Home Gateway Initiative](http://www.homegatewayinitiative.org/) (HGI)
-2. [Ninja Blocks](https://developers.ninja/)
-3. [openHAB](http://www.openhab.org/)
-4. [Eclipse SmartHome](http://eclipse.org/smarthome/)
-5. [PrivateEyePi](http://projects.privateeyepi.com/)
-6. [RaZberry](http://razberry.z-wave.me/)
-7. [The Thing System](http://thethingsystem.com/index.html)
+ - [Home Gateway Initiative](http://www.homegatewayinitiative.org/) - HGI
+ - [Ninja Blocks](https://developers.ninja/)
+ - [openHAB](http://www.openhab.org/)
+ - [Eclipse SmartHome](http://eclipse.org/smarthome/)
+ - [PrivateEyePi](http://projects.privateeyepi.com/)
+ - [RaZberry](http://razberry.z-wave.me/)
+ - [The Thing System](http://thethingsystem.com/index.html)
 
 ##Robotics
 
 
 ##Mesh networks
 
-1. [Open Garden](https://opengarden.com/)
-2. [OpenWSN](http://www.openwsn.org/)
+ - [Open Garden](https://opengarden.com/)
+ - [OpenWSN](http://www.openwsn.org/)
 
 ##Others
 
-1. [Node-RED](https://github.com/node-red/node-red)(IBM)(A visual tool for wiring the Internet of Things)
+ - [Node-RED](https://github.com/node-red/node-red) - IBM) - A visual tool for wiring the Internet of Things.
 
 ##Language
 
-1. [ELIoT](https://github.com/c3d/eliot)(Extensible Language for the Internet of Things)
-2. [JerryScript](http://samsung.github.io/jerryscript/) (A JavaScript engine for Internet of Things)
-3. [V7](https://github.com/cesanta/v7)是一个基于C语言的JavaScript引擎，它可以让物联网设备使用JavaScript语言。它可以从Arduino到MS Windows间的不同设备上运行，它的编译完的内核从40 KB - 200 KB。
+ - [ELIoT](https://github.com/c -/eliot) - Extensible Language for the Internet of Things.
+ - [JerryScript](http://samsung.github.io/jerryscript/) - A JavaScript engine for Internet of Things.
+ - [V7](https://github.com/cesanta/v7) - V7 is a JavaScript engine written in C. It makes it possible to program Internet of Things (IoT) devices in JavaScript.
 
 ###Others
 
-1. [mbed TLS](https://github.com/ARMmbed/mbedtls)(An open source, portable, easy to use, readable and flexible SSL library)
-2. [Mongoose](https://github.com/cesanta/mongoose) 是一个嵌入式Web服务器，可以运行在Linux/UNIX、QNX、eCos、Windows、 Android、iPhone等平台上。它支持MQTT、CoAP、Websocket、HTTP等物联网相关协议。
-3. [LittleD](https://github.com/graemedouglas/LittleD)(A relational database for embedded devices and sensors nodes.)
+ - [mbed TLS](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library
+ - [Mongoose](https://github.com/cesanta/mongoose) - Mongoose is ideal for embedded environments, it has been designed as an open source platform for connecting devices and bringing them online. 
+ - [LittleD](https://github.com/graemedouglas/LittleD) - A relational database for embedded devices and sensors nodes.
 
 ##Protocol Library
 
 ###MQTT
 
-1. [Mosquitto](http://mosquitto.org/)(MQTT)(An Open Source MQTT v3.1/v3.1.1 Broker)
+ - [Mosquitto](http://mosquitto.org/) - An Open Source MQTT v3.1/v3.1.1 Broker
 
 ###CoAP
 
-1. [Python CoAP](https://github.com/openwsn-berkeley/coap)(A CoAP Python library)
-2. [Node CoAP](https://github.com/mcollina/node-coap)(node-coap is a client and server library for CoAP modelled after the http module.)
-3. [Go CoAP](https://github.com/dustin/go-coap)(Implementation of CoAP in go.)
-4. [CoAP.NET](https://github.com/smeshlink/CoAP.NET)(A C# implementation of the CoAP protocol)
-5. [txThings](https://github.com/siskin/txThings)(CoAP library for Twisted framework)
-6. [microcoap](https://github.com/1248/microcoap)(A small CoAP implementation for microcontrollers)
-7. [Californium](https://github.com/eclipse/californium)(Californium is a Java implementation of CoAP for the IoT backend and less constrained IoT devices. )
-8. 
+ - [Python CoAP](https://github.com/openwsn-berkeley/coap) - A CoAP Python library
+ - [Node CoAP](https://github.com/mcollina/node-coap) - node-coap is a client and server library for CoAP modelled after the http module.
+ - [Go CoAP](https://github.com/dustin/go-coap) - Implementation of CoAP in go.
+ - [CoAP.NET](https://github.com/smeshlink/CoAP.NET) - A C# implementation of the CoAP protocol
+ - [txThings](https://github.com/siskin/txThings) - CoAP library for Twisted framework
+ - [microcoap](https://github.com/ - -/microcoap) - A small CoAP implementation for microcontrollers
+ - [Californium](https://github.com/eclipse/californium) - Californium is a Java implementation of CoAP for the IoT backend and less constrained IoT devices. 
 
 ###Messaging
 
-1. [meshblu](https://github.com/octoblu/meshblu)(Machine-to-machine instant messaging platform for the internet of things)
-2. [IBM messaging](https://github.com/ibm-messaging)(Community around IBM Messaging products)
+ - [meshblu](https://github.com/octoblu/meshblu) - Machine-to-machine instant messaging platform for the internet of things.
+ - [IBM messaging](https://github.com/ibm-messaging) - Community around IBM Messaging products.
 
 ##Tools
 
-1. [Paho](http://www.eclipse.org/paho)(The Paho project provides open-source client implementations of MQTT and MQTT-SN messaging protocols aimed at new, existing, and emerging applications for Machine‑to‑Machine (M2M) and Internet of Things (IoT).)
-2. [Smart.js](https://github.com/cesanta/smart.js)(ESP8266)
-
+ - [Paho](http://www.eclipse.org/paho) - The Paho project provides open-source client implementations of MQTT and MQTT-SN messaging protocols aimed at new, existing, and emerging applications for Machine‑to‑Machine (M-2-M) and Internet of Things (IoT).
+ - [Smart.js](https://github.com/cesanta/smart.js) - Embedded Javascript engine for C/C++ with networking, file, database and device interfaces
 
 ### Resources-websites-projects
+
 - [Hackday](https://hackaday.io/projects)
 - [Instructables - tech](http://www.instructables.com/tag/type-id/category-technology/)
 - [Hackster](http://www.hackster.io/)
@@ -157,16 +153,16 @@ Similar with [IoT Document](https://github.com/phodal/iot-document)
 
 ##Others
 
-1. [Freeboard](https://github.com/Freeboard/freeboard)(A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.)
-2. [connectthedots](https://github.com/Azure/connectthedots)(Connect tiny devices to Microsoft Azure services to build IoT solutions)
-3. [souliss](https://github.com/souliss/souliss)(Arduino based Distributed Networking Framework for Smart Homes and IoT)
+ - [Freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
+ - [connectthedots](https://github.com/Azure/connectthedots) - Connect tiny devices to Microsoft Azure services to build IoT solutions
+ - [souliss](https://github.com/souliss/souliss) - Arduino based Distributed Networking Framework for Smart Homes and IoT
 
 Thanks to:
 
 	project  : opensource-iot
-	repo age : 11 days
-	active   : 6 days
-	commits  : 13
+	repo age :  - days
+	active   :  -days
+	commits  :  -
 	files    : 1
 	authors  :
-		13	Fengda Huang  100.0%
+		 -	Fengda Huang   - - -
