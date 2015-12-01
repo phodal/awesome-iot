@@ -2,7 +2,7 @@
 
 Similar with [IoT Document](https://github.com/phodal/iot-document)
 
-##Framework(框架)
+##Framework
 
 1. [Cylon](https://github.com/hybridgroup/cylon)(JavaScript, robotics, physical computing, IoT)
 2. [johnny-five](https://github.com/rwaldron/johnny-five)(JavaScript Robotics and IoT programming framework, developed at Bocoup, Firmata Protocol)
@@ -10,7 +10,7 @@ Similar with [IoT Document](https://github.com/phodal/iot-document)
 4. [heimcontrol.js](https://github.com/ni-c/heimcontrol.js)(Home-Automation with node.js and Raspberry PI
 )
 
-##Library(库)
+##Library
 
 ###SDK
 
@@ -22,7 +22,7 @@ Similar with [IoT Document](https://github.com/phodal/iot-document)
 1. [Windows Remote Arduino](https://github.com/ms-iot/remote-wiring)(Remote "Arduino Wiring" interface for Windows 8.1, Windows Phone 8.1 and Windows 10. Used to control an Arduino from a Universal Windows Platform application.)
 2. [WiringPi](https://github.com/WiringPi/WiringPi)(Gordon's Arduino wiring-like WiringPi Library for the Raspberry Pi)
 
-##OS(操作系统)
+##OS
 
 1. [ARM mbed](http://mbed.org/)(The ARM® mbed™ IoT Device Platform provides the operating system, cloud services, tools and developer ecosystem to make the creation and deployment of commercial, standards-based IoT solutions possible at scale.)
 2. [Snappy Ubuntu Core](http://developer.ubuntu.com/en/snappy/)(Canonical, A new, transactionally updated Ubuntu for clouds and devices.)
@@ -34,7 +34,7 @@ Similar with [IoT Document](https://github.com/phodal/iot-document)
 8. [Brillo](https://developers.google.com/brillo/) (Brillo extends the Android platform to all your connected devices)
 9. [NodeOS](https://github.com/nodeos/nodeos)(Lightweight operating system using Node.js as userspace)
 
-##Platform (平台)
+##Platform
 
 1. [Lan](https://github.com/phodal/lan)
 2. [Particle(原Spark)](http://spark.github.io/)(Particle (formally Spark) is a complete, open source, full-stack solution for cloud-connected devices.)
@@ -58,22 +58,22 @@ Similar with [IoT Document](https://github.com/phodal/iot-document)
 3. [Zetta](http://www.zettajs.org/)
 4. [1248.io](http://wiki.1248.io/doku.php)
 
-##Middleware(中间件)
+##Middleware
 1. [Kaa](https://github.com/kaaproject/kaa)(Kaa open-source middleware platform for building, managing, and integrating connected products with the Internet of Everything.)
 2. [OpenIoT](https://github.com/OpenIotOrg/openiot) (The OpenIoT middleware infrastructure will support flexible configuration and deployment of algorithms for collection)
 
-##Toolkits inlucde Non-OS(工具集)
+##Toolkits inlucde Non-OS
 1. [KinomaJS](https://github.com/Kinoma/kinomajs)(A JavaScript runtime optimized for the applications that power IoT devices.)
 2. [IoT Toolkit](https://github.com/connectIOT/iottoolkit)(Reference implementation of the smart object API
 )
 
-##Data visualization(数据可视化)
+##Data visualization
 1. [Freeboard](https://github.com/Freeboard/freeboard)(A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.)
 2. [ECharts](http://echarts.baidu.com)(Enterprise Charts 商业产品图表库)
 3. [HighCharts](https://github.com/highslide-software/highcharts.com)(Highcharts JS, the JavaScript charting framework)
 4. [D3.JS](https://github.com/mbostock/d3)(A JavaScript visualization library for HTML and SVG)
 
-##Hardware(硬件)
+##Hardware
 
 1. [Arduino](http://www.arduino.cc/)(open-source electronics platform based on easy-to-use hardware and software.)
 2. [Raspberry Pi](https://www.raspberrypi.org/)(a tiny and affordable computer that you can use to learn programming through fun, practical projects)
@@ -88,7 +88,7 @@ Similar with [IoT Document](https://github.com/phodal/iot-document)
 11. [openPicus FlyportPro](http://www.openpicus.com/site/tools)
 12. [Tessel](https://tessel.io/)(Tessel is a completely open source and community-driven IoT and robotics development platform.)
 
-##Home automation(智能家居)
+##Home automation
 1. [Home Gateway Initiative](http://www.homegatewayinitiative.org/) (HGI)
 2. [Ninja Blocks](https://developers.ninja/)
 3. [openHAB](http://www.openhab.org/)
@@ -97,7 +97,7 @@ Similar with [IoT Document](https://github.com/phodal/iot-document)
 6. [RaZberry](http://razberry.z-wave.me/)
 7. [The Thing System](http://thethingsystem.com/index.html)
 
-##Robotics(机器人)
+##Robotics
 
 
 ##Mesh networks
@@ -160,9 +160,6 @@ Similar with [IoT Document](https://github.com/phodal/iot-document)
 1. [Freeboard](https://github.com/Freeboard/freeboard)(A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.)
 2. [connectthedots](https://github.com/Azure/connectthedots)(Connect tiny devices to Microsoft Azure services to build IoT solutions)
 3. [souliss](https://github.com/souliss/souliss)(Arduino based Distributed Networking Framework for Smart Homes and IoT)
-
-
-![Internet Of Things Architect](struct.jpg)
 
 Thanks to:
 
