@@ -65,6 +65,7 @@ Similar with [IoT Document](https://github.com/phodal/iot-document
 
 
 ##Data visualization
+ - [Dashing]()http://dashing.io/) - Dashing is a Sinatra based framework that lets you build beautiful dashboards.
  - [Freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
  - [ECharts](http://echarts.baidu.com) - Enterprise Charts 商业产品图表库
  - [HighCharts](https://github.com/highslide-software/highcharts.com) - Highcharts JS, the JavaScript charting framework
@@ -156,13 +157,3 @@ Similar with [IoT Document](https://github.com/phodal/iot-document
  - [Freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
  - [connectthedots](https://github.com/Azure/connectthedots) - Connect tiny devices to Microsoft Azure services to build IoT solutions
  - [souliss](https://github.com/souliss/souliss) - Arduino based Distributed Networking Framework for Smart Homes and IoT
-
-Thanks to:
-
-	project  : opensource-iot
-	repo age :  - days
-	active   :  -days
-	commits  :  -
-	files    : 1
-	authors  :
-		 -	Fengda Huang   - - -
