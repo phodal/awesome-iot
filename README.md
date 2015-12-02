@@ -139,6 +139,7 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
 
  - [meshblu](https://github.com/octoblu/meshblu) - Machine-to-machine instant messaging platform for the internet of things.
  - [IBM messaging](https://github.com/ibm-messaging) - Community around IBM Messaging products.
+ - [WAMP](http://wamp-proto.org/) - The Web Application Messaging Protocol The Web Application Messaging Protocol.
 
 ##Tools
 
