@@ -36,24 +36,15 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
 
 ##Platform
 
- - [Lan](https://github.com/phodal/lan)
+ - [Lan](https://github.com/phodal/lan) - Internet of Things Server Layer with CoAP, WebSocket, MQTT, HTTP Protocol
  - [Particle(Spark)](http://spark.github.io/) - Particle (formally Spark) is a complete, open source, full-stack solution for cloud-connected devices.
- - [Chimera IoT](https://chimeraiot.com/init/default/developers)
- - [DeviceHive](https://github.com/devicehive/)
- - [Distributed Services Architecture](http://iot-dsa.org/) - DSA
  - [Pico Labs](https://github.com/Picolab/) - Kynetx open source assigned to Pico Labs/
- - [M -Labs Mainspring](http://www.m -labs.com/)
- - [Nimbits](http://www.nimbits.com/index.jsp)
- - [Open Source Internet of Things](http://osiot.org/) - OSIOT
- - [prpl Foundation](http://prplfoundation.org/)
- - [SiteWhere](http://www.sitewhere.org/)
- - [Canopy](http://canopy.link/)
  - [Clavin](https://github.com/EricssonResearch/calvin-base) - Calvin is an application environment that lets things talk to things. It comprises of both a development framework for application developers, and a runtime environment that handles the running application. 
  - [IoT.js](https://github.com/Samsung/iotjs) - Platform for Internet of Things with JavaScript.
 
 ##APIs
 
- - [Qeo Tinq](https://github.com/brunodebus/tinq-core)
+ - [Qeo Tinq](https://github.com/brunodebus/tinq-core) - Tinq is completely based on the Qeo publish/subcribe framework produced by Technicolor as explained in the license section.
 
 ##Middleware
  - [Kaa](https://github.com/kaaproject/kaa) - Kaa open-source middleware platform for building, managing, and integrating connected products with the Internet of Everything.
@@ -75,15 +66,10 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
 
  - [Arduino](http://www.arduino.cc/) - open-source electronics platform based on easy-to-use hardware and software.
  - [Raspberry Pi](https://www.raspberrypi.org/) - a tiny and affordable computer that you can use to learn programming through fun, practical projects
- - [BeagleBone](http://beagleboard.org/getting-started/)
- - [Intel Galileo](http://www.arduino.cc/en/ArduinoCertified/IntelGalileo)
- - [NodeMCU](http://www.nodemcu.com/)
- - [WeIO](http://we-io.net/hardware/)
- - [WIZnet](http://wizwiki.net/wiki/doku.php)
- - [Microduino](https://www.microduino.cc/)
- - [Pinoccio](https://pinocc.io/)
- - [Pinocc](https://pinocc.io/)
- - [openPicus FlyportPro](http://www.openpicus.com/site/tools)
+ - [BeagleBone](http://beagleboard.org/getting-started/) -  BeagleBone Black is a low-cost, community-supported development platform for developers and hobbyists
+ - [Intel Galileo](http://www.arduino.cc/en/ArduinoCertified/IntelGalileo) - Galileo is a microcontroller board based on the Intel® Quark SoC X1000 Application Processor, a 32-bit Intel Pentium-class system on a chip
+ - [NodeMCU](http://www.nodemcu.com/) -  a firmware based on ESP8266 wifi-soc.
+ - [Microduino](https://www.microduino.cc/) - Microduino is about the size of a quarter and less than half the size of the original Arduino board.
  - [Tessel](https://tessel.io/) - Tessel is a completely open source and community-driven IoT and robotics development platform.
 
 ##Home automation
