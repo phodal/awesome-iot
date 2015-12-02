@@ -56,9 +56,9 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
 
 
 ##Data visualization
- - [Dashing]()http://dashing.io/) - Dashing is a Sinatra based framework that lets you build beautiful dashboards.
+ - [Dashing](http://dashing.io/) - Dashing is a Sinatra based framework that lets you build beautiful dashboards.
  - [Freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
- - [ECharts](http://echarts.baidu.com) - Enterprise Charts 商业产品图表库
+ - [ECharts](http://echarts.baidu.com) - Echarts is a commercial charting solution originally intended to address the report need of the Company's various business systems.
  - [HighCharts](https://github.com/highslide-software/highcharts.com) - Highcharts JS, the JavaScript charting framework
  - [D3.JS](https://github.com/mbostock/d3) A JavaScript visualization library for HTML and SVG
 
