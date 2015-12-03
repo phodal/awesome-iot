@@ -75,8 +75,8 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
 ##Home automation
  - [Home Gateway Initiative](http://www.homegatewayinitiative.org/) - HGI
  - [Ninja Blocks](https://developers.ninja/)
- - [openHAB](http://www.openhab.org/)
- - [Eclipse SmartHome](http://eclipse.org/smarthome/)
+ - [openHAB](http://www.openhab.org/) - a vendor and technology agnostic open source automation software for your home.
+ - [Eclipse SmartHome](http://eclipse.org/smarthome/) - Smart Home adoption will only gain momentum if the different devices can be connected into over-arching use cases, but currently the market for Smart Home systems and IoT gadgets is heavily fragmented. 
  - [PrivateEyePi](http://projects.privateeyepi.com/)
  - [RaZberry](http://razberry.z-wave.me/)
  - [The Thing System](http://thethingsystem.com/index.html)
