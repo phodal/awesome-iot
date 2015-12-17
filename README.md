@@ -24,7 +24,7 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
 
 ###low level
 
-- [uIP] - uIP is a very small implementation of the TCP/IP stack.
+- [uIP](https://github.com/adamdunkels/uip) - uIP is a very small implementation of the TCP/IP stack.
 
 ##OS
 
