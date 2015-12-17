@@ -114,6 +114,11 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
 ###MQTT
 
  - [Mosquitto](http://mosquitto.org/) - An Open Source MQTT v3.1/v3.1.1 Broker
+ - [PubSub Client](https://github.com/knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT.
+ - [MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
+ - [mosca](https://github.com/mcollina/mosca) - Mosca is a node.js mqtt broker
+ - [emqttd](https://github.com/emqtt/emqttd) - Erlang MQTT Broker
+
 
 ###CoAP
 
@@ -124,6 +129,7 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
  - [txThings](https://github.com/siskin/txThings) - CoAP library for Twisted framework
  - [microcoap](https://github.com/ - -/microcoap) - A small CoAP implementation for microcontrollers
  - [Californium](https://github.com/eclipse/californium) - Californium is a Java implementation of CoAP for the IoT backend and less constrained IoT devices. 
+ - [Copper](https://github.com/mkovatsc/Copper) - A Firefox add-on to browse the Internet of Things
 
 ###Messaging
 
