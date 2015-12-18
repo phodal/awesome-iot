@@ -81,9 +81,8 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
  - [Ninja Blocks](https://developers.ninja/)
  - [openHAB](http://www.openhab.org/) - a vendor and technology agnostic open source automation software for your home.
  - [Eclipse SmartHome](http://eclipse.org/smarthome/) - Smart Home adoption will only gain momentum if the different devices can be connected into over-arching use cases, but currently the market for Smart Home systems and IoT gadgets is heavily fragmented. 
- - [PrivateEyePi](http://projects.privateeyepi.com/)
- - [RaZberry](http://razberry.z-wave.me/)
- - [The Thing System](http://thethingsystem.com/index.html)
+ - [PrivateEyePi](http://projects.privateeyepi.com/) - Home Automation and Monitoring Projects for Raspberry Pi 
+ - [RaZberry](http://razberry.z-wave.me/) - RaZberry brings Z-Wave to the Raspberry PI platform. 
 
 ##Robotics
 
