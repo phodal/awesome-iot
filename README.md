@@ -78,8 +78,7 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
  - [Tessel](https://tessel.io/) - Tessel is a completely open source and community-driven IoT and robotics development platform.
 
 ##Home automation
- - [Home Gateway Initiative](http://www.homegatewayinitiative.org/) - HGI
- - [Ninja Blocks](https://developers.ninja/)
+ - [Ninja Blocks](https://developers.ninja/) - Smart home controller. A computer for the coffee table.
  - [openHAB](http://www.openhab.org/) - a vendor and technology agnostic open source automation software for your home.
  - [Eclipse SmartHome](http://eclipse.org/smarthome/) - Smart Home adoption will only gain momentum if the different devices can be connected into over-arching use cases, but currently the market for Smart Home systems and IoT gadgets is heavily fragmented. 
  - [PrivateEyePi](http://projects.privateeyepi.com/) - Home Automation and Monitoring Projects for Raspberry Pi 
