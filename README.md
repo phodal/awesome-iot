@@ -25,6 +25,7 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
 ###low level
 
 - [uIP](https://github.com/adamdunkels/uip) - uIP is a very small implementation of the TCP/IP stack.
+- [btstack](https://github.com/bluekitchen/btstack) - Dual-mode Bluetooth stack, with small memory footprint.
 
 ##OS
 
@@ -86,12 +87,6 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
 
 ##Robotics
 
-
-##Mesh networks
-
- - [Open Garden](https://opengarden.com/)
- - [OpenWSN](http://www.openwsn.org/)
-
 ##Others
 
  - [Node-RED](https://github.com/node-red/node-red) - IBM) - A visual tool for wiring the Internet of Things.
@@ -135,6 +130,11 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
  - [meshblu](https://github.com/octoblu/meshblu) - Machine-to-machine instant messaging platform for the internet of things.
  - [IBM messaging](https://github.com/ibm-messaging) - Community around IBM Messaging products.
  - [WAMP](http://wamp-proto.org/) - The Web Application Messaging Protocol The Web Application Messaging Protocol.
+
+##Software
+
+ - [Processing](https://github.com/processing/processing) - Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts. 
+ - [Copper](https://github.com/mkovatsc/Copper) - A Firefox add-on to browse the Internet of Things
 
 ##Tools
 
