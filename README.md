@@ -53,6 +53,11 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
 - [uIP](https://github.com/adamdunkels/uip) - uIP is a very small implementation of the TCP/IP stack.
 - [btstack](https://github.com/bluekitchen/btstack) - Dual-mode Bluetooth stack, with small memory footprint.
 
+##Android
+
+ - [PhoneGap NFC](https://github.com/chariotsolutions/phonegap-nfc) - PhoneGap NFC Plugin
+ - [Cordova BLE](https://github.com/evothings/cordova-ble) - Bluetooth Low Energy plugin for Cordova
+
 ##OS
 
  - [ARM mbed](http://mbed.org/) - The ARM® mbed™ IoT Device Platform provides the operating system, cloud services, tools and developer ecosystem to make the creation and deployment of commercial, standards-based IoT solutions possible at scale.
