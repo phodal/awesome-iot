@@ -110,6 +110,9 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
  - [NodeMCU](http://www.nodemcu.com/) -  a firmware based on ESP8266 wifi-soc.
  - [Microduino](https://www.microduino.cc/) - Microduino is about the size of a quarter and less than half the size of the original Arduino board.
  - [Tessel](https://tessel.io/) - Tessel is a completely open source and community-driven IoT and robotics development platform.
+ - [SquareWear](http://rayshobby.net/sqrwear/) - An Open-Source Arduino-based Wearable Microcontroller
+ - [Arduino ZERO](https://www.arduino.cc/en/Main/ArduinoBoardZero) - This board aims to provide a platform for innovative projects in smart IoT devices, wearable technology, high-tech automation, crazy robotics, and much more.
+ - [Cheapduino](http://www.dfrobot.com/wiki/index.php/CheapDuino_(SKU:DFR0236)) - CheapDuino is the most cheapest Arduino compatible processor in the world. 
 
 ##Home automation
  - [Ninja Blocks](https://developers.ninja/) - Smart home controller. A computer for the coffee table.
