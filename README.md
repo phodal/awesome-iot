@@ -69,6 +69,8 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
  - [TinyOS](https://github.com/tinyos/tinyos-main) - designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters.
  - [Brillo](https://developers.google.com/brillo/) - Brillo extends the Android platform to all your connected devices.
  - [NodeOS](https://github.com/nodeos/nodeos) - Lightweight operating system using Node.js as userspace.
+ - [JanOS](https://github.com/jan-os/janos) - JanOS is an operating system designed to run on the chipset of mobile phones. 
+ - [macchina.io](https://github.com/macchina-io/macchina.io) - An open-source toolkit for building embedded IoT applications that connect sensors, devices and cloud services.
 
 ##Platform
 
