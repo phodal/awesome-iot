@@ -120,6 +120,12 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
  - [Eclipse SmartHome](http://eclipse.org/smarthome/) - Smart Home adoption will only gain momentum if the different devices can be connected into over-arching use cases, but currently the market for Smart Home systems and IoT gadgets is heavily fragmented. 
  - [PrivateEyePi](http://projects.privateeyepi.com/) - Home Automation and Monitoring Projects for Raspberry Pi 
  - [RaZberry](http://razberry.z-wave.me/) - RaZberry brings Z-Wave to the Raspberry PI platform. 
+ - [home.pi](https://github.com/denschu/home.pi) - Home Automation with AngularJS and MQTT on a Raspberry Pi
+ - [home-assistant](https://github.com/balloob/home-assistant) - Open-source home automation platform running on Python 3
+ - [openhab 2](https://github.com/openhab/openhab 2) - The open Home Automation Bus (openHAB) project aims at providing a universal integration platform for all things around home automation.
+ - [heimcontrol.js](https://github.com/ni-c/heimcontrol.js) -  Home-Automation with node.js and Raspberry PI
+ - [pimatic](https://github.com/pimatic/pimatic) - A home automation server and framework for the raspberry pi running on node.js
+
 
 ##Robotics
 
@@ -148,6 +154,12 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
  - [MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
  - [mosca](https://github.com/mcollina/mosca) - Mosca is a node.js mqtt broker
  - [emqttd](https://github.com/emqtt/emqttd) - Erlang MQTT Broker
+ - [surgemq](https://github.com/surgemq/surgemq) - High-Performance MQTT Server and Client Libraries.
+ - [emqttd](https://github.com/emqtt/emqttd) - Erlang MQTT Broker
+ - [vernemq](https://github.com/erlio/vernemq) - A distributed MQTT message broker
+ - [Java mqtt-client](https://github.com/fusesource/mqtt-client) - A Java MQTT Client
+ - [esp_mqtt](https://github.com/tuanpmt/esp_mqtt) - MQTT client library for ESP8266 Soc 
+ - [moquette](https://github.com/andsel/moquette) - Java MQTT lightweight broker
 
 
 ###CoAP
