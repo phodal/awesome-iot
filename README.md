@@ -193,10 +193,9 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
 
 ###WebSite
 
-- [Hackday](https://hackaday.io/projects)
-- [Instructables - tech](http://www.instructables.com/tag/type-id/category-technology/)
-- [Hackster](http://www.hackster.io/)
-- [Infoq IoT Weekly](http://www.infoq.com/cn/adf)
+- [Hackday](https://hackaday.io/projects) - Discover. Get inspired. Repeat. Hack things for the better. 
+- [Instructables - tech](http://www.instructables.com/tag/type-id/category-technology/) - Explore the Biggest How To and DIY community where people make and share inspiring, entertaining, and useful projects, recipes, and hacks.
+- [Infoq IoT Weekly](http://www.infoq.com/cn/adf) - Weekly IoT News, Open Source Project, Hardware
 
 ###Free Book
 
