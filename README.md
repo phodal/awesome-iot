@@ -143,6 +143,7 @@ layered architecture of JTAG interface and TAP support
  - [ELIoT](https://github.com/c -/eliot) - Extensible Language for the Internet of Things.
  - [JerryScript](http://samsung.github.io/jerryscript/) - A JavaScript engine for Internet of Things.
  - [V7](https://github.com/cesanta/v7) - V7 is a JavaScript engine written in C. It makes it possible to program Internet of Things (IoT) devices in JavaScript.
+ - [luvit](https://github.com/luvit/luvit) - Node.JS for the Lua Inventor.
 
 ###Others
 
