@@ -180,6 +180,11 @@ layered architecture of JTAG interface and TAP support
  - [Copper](https://github.com/mkovatsc/Copper) - A Firefox add-on to browse the Internet of Things
  - [h5.coap](https://github.com/morkai/h5.coap) - Implementation of the Constrained Application Protocol (CoAP) client for node.js.
 
+###Spark
+
+ - [spark-protocol](https://github.com/spark/spark-protocol) - Node.JS module for hosting direct encrypted CoAP socket connections.
+ - [spark-server](https://github.com/spark/spark-server) - An API compatible open source server for interacting with devices speaking the spark-protocol
+
 ###Messaging
 
  - [meshblu](https://github.com/octoblu/meshblu) - Machine-to-machine instant messaging platform for the internet of things.
