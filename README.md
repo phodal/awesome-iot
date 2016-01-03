@@ -178,6 +178,7 @@ layered architecture of JTAG interface and TAP support
  - [microcoap](https://github.com/ - -/microcoap) - A small CoAP implementation for microcontrollers
  - [Californium](https://github.com/eclipse/californium) - Californium is a Java implementation of CoAP for the IoT backend and less constrained IoT devices. 
  - [Copper](https://github.com/mkovatsc/Copper) - A Firefox add-on to browse the Internet of Things
+ - [h5.coap](https://github.com/morkai/h5.coap) - Implementation of the Constrained Application Protocol (CoAP) client for node.js.
 
 ###Messaging
 
