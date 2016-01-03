@@ -71,6 +71,7 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
  - [NodeOS](https://github.com/nodeos/nodeos) - Lightweight operating system using Node.js as userspace.
  - [JanOS](https://github.com/jan-os/janos) - JanOS is an operating system designed to run on the chipset of mobile phones. 
  - [macchina.io](https://github.com/macchina-io/macchina.io) - An open-source toolkit for building embedded IoT applications that connect sensors, devices and cloud services.
+ - [[Linino](https://github.com/arduino/linino) - Linino is a GNU/Linux distribution based on OpenWRT and mantained by DogHunter.
 
 ##Platform
 
@@ -92,6 +93,8 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
 ##Toolkits inlucde Non-OS
  - [KinomaJS](https://github.com/Kinoma/kinomajs) - A JavaScript runtime optimized for the applications that power IoT devices.
  - [IoT Toolkit](https://github.com/connectIOT/iottoolkit) - Reference implementation of the smart object API
+ - [[OpenOCD](https://github.com/arduino/OpenOCD) - OpenOCD provides on-chip programming and debugging support with a
+layered architecture of JTAG interface and TAP support 
 
 
 ##Data visualization
