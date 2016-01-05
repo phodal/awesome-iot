@@ -81,6 +81,7 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
  - [Pico Labs](https://github.com/Picolab/) - Kynetx open source assigned to Pico Labs/
  - [Clavin](https://github.com/EricssonResearch/calvin-base) - Calvin is an application environment that lets things talk to things. It comprises of both a development framework for application developers, and a runtime environment that handles the running application. 
  - [IoT.js](https://github.com/Samsung/iotjs) - Platform for Internet of Things with JavaScript.
+ - [Jasper](http://jasperproject.github.io/) - Jasper is an open source platform for developing always-on, voice-controlled applications.
 
 ##APIs
 
