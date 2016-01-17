@@ -28,7 +28,7 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
     *   [Resources-websites-projects](#resources-websites-projects)
 *   [Others](#others-2)
     
-##Framework
+##Frameworki
 
  - [Cylon](https://github.com/hybridgroup/cylon) - JavaScript framework for robotics, physical computing, and the Internet of Things.
  - [johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup, Firmata Protocol.
@@ -145,6 +145,8 @@ layered architecture of JTAG interface and TAP support
  - [JerryScript](http://samsung.github.io/jerryscript/) - A JavaScript engine for Internet of Things.
  - [V7](https://github.com/cesanta/v7) - V7 is a JavaScript engine written in C. It makes it possible to program Internet of Things (IoT) devices in JavaScript.
  - [luvit](https://github.com/luvit/luvit) - Node.JS for the Lua Inventor.
+ - [MicroPython](http://micropython.org/) - MicroPython is a lean and fast implementation of the Python 3 programming language that is optimised to run on a microcontroller. 
+ - [eLua](http://www.eluaproject.net/) - Quickly prototype and develop embedded software applications with the power of Lua and run them on a wide range of microcontroller architectures
 
 ###Others
 
