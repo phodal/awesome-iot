@@ -61,6 +61,7 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
 
 ##OS
 
+ - [Zephyr](https://www.zephyrproject.org/) -  is a small, scalable real-time operating system for use on resource-constrained systems supporting multiple architectures.
  - [ARM mbed](http://mbed.org/) - The ARM® mbed™ IoT Device Platform provides the operating system, cloud services, tools and developer ecosystem to make the creation and deployment of commercial, standards-based IoT solutions possible at scale.
  - [Snappy Ubuntu Core](http://developer.ubuntu.com/en/snappy/) - Canonical, A new, transactionally updated Ubuntu for clouds and devices.
  - [Contiki](http://www.contiki-os.org/) - The Open Source OS for the Internet of Things
@@ -73,6 +74,9 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
  - [JanOS](https://github.com/jan-os/janos) - JanOS is an operating system designed to run on the chipset of mobile phones. 
  - [macchina.io](https://github.com/macchina-io/macchina.io) - An open-source toolkit for building embedded IoT applications that connect sensors, devices and cloud services.
  - [Linino](https://github.com/arduino/linino) - Linino is a GNU/Linux distribution based on OpenWRT and mantained by DogHunter.
+ - [seL4 Microkernel](http://sel4.systems/) - The world's first operating-system kernel with an end-to-end proof of implementation correctness and security enforcement is available as open source.
+ - [f9-kernel](https://github.com/f9micro/f9-kernel) - An efficient and secure microkernel built for ARM Cortex-M cores, inspired by L4
+
 
 ##Platform
 
