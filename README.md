@@ -34,7 +34,7 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
  - [johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup, Firmata Protocol.
  - [GoBot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, physical computing, and the Internet of Things.
  - [heimcontrol.js](https://github.com/ni-c/heimcontrol.js) - Home-Automation with node.js and Raspberry PI.
-
+ - [Serverless](https://github.com/serverless/serverless) - Serverless is the application framework for building web, mobile and IoT applications exclusively on Amazon Web Services' Lambda and API Gateway.
 
 ##Library
 
