@@ -175,7 +175,8 @@ layered architecture of JTAG interface and TAP support
  - [Java mqtt-client](https://github.com/fusesource/mqtt-client) - A Java MQTT Client
  - [esp_mqtt](https://github.com/tuanpmt/esp_mqtt) - MQTT client library for ESP8266 Soc 
  - [moquette](https://github.com/andsel/moquette) - Java MQTT lightweight broker
-
+ - [SurgeMQ](https://github.com/surgemq/surgemq) -  is a high performance MQTT broker and client library that aims to be fully compliant with MQTT 3.1 and 3.1.1 specs. 
+ - [VerneMQ](https://github.com/erlio/vernemq) - A distributed MQTT message broker
 
 ###CoAP
 
