@@ -140,6 +140,7 @@ layered architecture of JTAG interface and TAP support
 ##Robotics
 
  - [artoo](https://github.com/hybridgroup/artoo) - Ruby framework for robotics and the Internet of Things
+ - [hubot](https://github.com/github/hubot) A customizable life embetterment robot. 
  
 ##Others
 
