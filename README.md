@@ -231,3 +231,17 @@ layered architecture of JTAG interface and TAP support
  - [Freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
  - [connectthedots](https://github.com/Azure/connectthedots) - Connect tiny devices to Microsoft Azure services to build IoT solutions
  - [souliss](https://github.com/souliss/souliss) - Arduino based Distributed Networking Framework for Smart Homes and IoT
+
+## Contributing
+
+1. Fork it!
+2. Create your branch: `git checkout -b my-new-branch`
+3. Commit your changes: `git commit -am 'fix stuff'`
+4. Push to the branch: `git push origin my-new-branch`
+5. Submit a pull request
+
+## License
+
+The MIT License (MIT)
+
+Copyright (c) 2016 [Phodal Huang](https://www.phodal.com/)
