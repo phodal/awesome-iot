@@ -1,6 +1,6 @@
-#Awesome Internet Of Things
+#Awesome IoT
 
-More about how iot work, see in [IoT Document](https://github.com/phodal/iot-document)
+More about how IoT work, see in [IoT Document](https://github.com/phodal/iot-document)
 
 *   [Framework](#framework)
 *   [Library](#library)
@@ -28,7 +28,7 @@ More about how iot work, see in [IoT Document](https://github.com/phodal/iot-doc
     *   [Resources-websites-projects](#resources-websites-projects)
 *   [Others](#others-2)
     
-##Frameworki
+##Framework
 
  - [Cylon](https://github.com/hybridgroup/cylon) - JavaScript framework for robotics, physical computing, and the Internet of Things.
  - [johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup, Firmata Protocol.
