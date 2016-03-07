@@ -1,6 +1,10 @@
 #Awesome IoT
 
-More about how IoT work, see in [IoT Document](https://github.com/phodal/iot-document)
+A curated list of IoT. Everyone can contribute here!
+
+
+Categories
+---
 
 *   [Framework](#framework)
 *   [Library](#library)
