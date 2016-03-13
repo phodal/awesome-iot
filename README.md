@@ -60,6 +60,7 @@ Categories
 - [btstack](https://github.com/bluekitchen/btstack) - Dual-mode Bluetooth stack, with small memory footprint.
 - [krypton](https://github.com/cesanta/krypton) - Embedded TLS/DTLS library, source and binary compatible OpenSSL subset
 - [simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
+- [libtuv](https://github.com/Samsung/libtuv)  - Asynchronous I/O for IoT.js and embedded system
 
 ##Android
 
