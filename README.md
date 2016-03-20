@@ -87,6 +87,7 @@ Categories
  - [Linino](https://github.com/arduino/linino) - Linino is a GNU/Linux distribution based on OpenWRT and mantained by DogHunter.
  - [seL4 Microkernel](http://sel4.systems/) - The world's first operating-system kernel with an end-to-end proof of implementation correctness and security enforcement is available as open source.
  - [f9-kernel](https://github.com/f9micro/f9-kernel) - An efficient and secure microkernel built for ARM Cortex-M cores, inspired by L4
+ - [Hypriot](http://blog.hypriot.com/downloads/) - get you started with Docker on a Raspberry Pi in no time.
 
 
 ##Platform
