@@ -63,6 +63,7 @@ Categories
 - [simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
 - [libtuv](https://github.com/Samsung/libtuv)  - Asynchronous I/O for IoT.js and embedded system
 - [WifiDog](https://github.com/wifidog/wifidog-gateway) - a complete and embeddable captive portal solution for wireless community groups or individuals.
+- [SPIFFS](https://github.com/pellepl/spiffs) - Wear-leveled SPI flash file system for embedded devices.
 
 ##Android
 
