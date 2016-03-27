@@ -146,6 +146,7 @@ layered architecture of JTAG interface and TAP support
  - [openhab 2](https://github.com/openhab/openhab 2) - The open Home Automation Bus (openHAB) project aims at providing a universal integration platform for all things around home automation.
  - [heimcontrol.js](https://github.com/ni-c/heimcontrol.js) -  Home-Automation with node.js and Raspberry PI
  - [pimatic](https://github.com/pimatic/pimatic) - A home automation server and framework for the raspberry pi running on node.js
+ - [Smart Mirror](https://github.com/evancohen/smart-mirror) - The fairest of them all. A DIY voice controlled smart mirror with IoT integration.
 
 
 ##Robotics
