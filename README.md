@@ -113,7 +113,7 @@ Categories
  - [IoT Toolkit](https://github.com/connectIOT/iottoolkit) - Reference implementation of the smart object API
  - [OpenOCD](https://github.com/arduino/OpenOCD) - OpenOCD provides on-chip programming and debugging support with a
 layered architecture of JTAG interface and TAP support 
-
+ - [macchina.io](https://github.com/macchina-io/macchina.io) - An open-source toolkit for building embedded IoT applications that connect sensors, devices and cloud services.
 
 ##Data visualization
  - [Dashing](http://dashing.io/) - Dashing is a Sinatra based framework that lets you build beautiful dashboards.
