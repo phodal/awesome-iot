@@ -138,6 +138,8 @@ layered architecture of JTAG interface and TAP support
  - [SquareWear](http://rayshobby.net/sqrwear/) - An Open-Source Arduino-based Wearable Microcontroller
  - [Arduino ZERO](https://www.arduino.cc/en/Main/ArduinoBoardZero) - This board aims to provide a platform for innovative projects in smart IoT devices, wearable technology, high-tech automation, crazy robotics, and much more.
  - [Cheapduino](http://www.dfrobot.com/wiki/index.php/CheapDuino_(SKU:DFR0236)) - CheapDuino is the most cheapest Arduino compatible processor in the world. 
+ - [ESP8266 Smartwatch](https://github.com/Jeija/esp8266-smartwatch) - ESP8266 DIY WiFi Smartwatch with MPU-9250, RTC, OLED, FT232, ...
+
 
 ##Home automation
  - [Ninja Blocks](https://developers.ninja/) - Smart home controller. A computer for the coffee table.
