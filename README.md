@@ -64,6 +64,7 @@ Categories
 - [libtuv](https://github.com/Samsung/libtuv)  - Asynchronous I/O for IoT.js and embedded system
 - [WifiDog](https://github.com/wifidog/wifidog-gateway) - a complete and embeddable captive portal solution for wireless community groups or individuals.
 - [SPIFFS](https://github.com/pellepl/spiffs) - Wear-leveled SPI flash file system for embedded devices.
+- [XiPKI](https://github.com/xipki/xipki) - eXtensible sImple Public Key Infrastructure consists of CA and OCSP responder.
 
 ##Android
 
