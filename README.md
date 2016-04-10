@@ -139,7 +139,8 @@ layered architecture of JTAG interface and TAP support
  - [Arduino ZERO](https://www.arduino.cc/en/Main/ArduinoBoardZero) - This board aims to provide a platform for innovative projects in smart IoT devices, wearable technology, high-tech automation, crazy robotics, and much more.
  - [Cheapduino](http://www.dfrobot.com/wiki/index.php/CheapDuino_(SKU:DFR0236)) - CheapDuino is the most cheapest Arduino compatible processor in the world. 
  - [ESP8266 Smartwatch](https://github.com/Jeija/esp8266-smartwatch) - ESP8266 DIY WiFi Smartwatch with MPU-9250, RTC, OLED, FT232, ...
-
+ - [PULPino](https://github.com/pulp-platform/pulpino) - PULPino is an open-source microcontroller system, based on a small 32-bit RISC-V core developed at ETH Zurich. 
+ 
 
 ##Home automation
  - [Ninja Blocks](https://developers.ninja/) - Smart home controller. A computer for the coffee table.
@@ -154,9 +155,11 @@ layered architecture of JTAG interface and TAP support
  - [pimatic](https://github.com/pimatic/pimatic) - A home automation server and framework for the raspberry pi running on node.js
  - [Smart Mirror](https://github.com/evancohen/smart-mirror) - The fairest of them all. A DIY voice controlled smart mirror with IoT integration.
 
-##Hardware
+##IDE
 
- - [PULPino](https://github.com/pulp-platform/pulpino) - PULPino is an open-source microcontroller system, based on a small 32-bit RISC-V core developed at ETH Zurich. 
+ - [WyliodrinSTUDIO](https://github.com/Wyliodrin/WyliodrinSTUDIO) - Wyliodrin STUDIO is a Chrome based IDE for software and hardware development for IoT and Embedded Linux systems.
+
+
 
 ##Robotics
 
