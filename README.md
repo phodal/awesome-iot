@@ -159,8 +159,6 @@ layered architecture of JTAG interface and TAP support
 
  - [WyliodrinSTUDIO](https://github.com/Wyliodrin/WyliodrinSTUDIO) - Wyliodrin STUDIO is a Chrome based IDE for software and hardware development for IoT and Embedded Linux systems.
 
-
-
 ##Robotics
 
  - [artoo](https://github.com/hybridgroup/artoo) - Ruby framework for robotics and the Internet of Things
@@ -202,6 +200,7 @@ layered architecture of JTAG interface and TAP support
  - [moquette](https://github.com/andsel/moquette) - Java MQTT lightweight broker
  - [SurgeMQ](https://github.com/surgemq/surgemq) -  is a high performance MQTT broker and client library that aims to be fully compliant with MQTT 3.1 and 3.1.1 specs. 
  - [VerneMQ](https://github.com/erlio/vernemq) - A distributed MQTT message broker
+ - [Homie for ESP8266](https://github.com/marvinroger/homie-esp8266) - An Arduino for ESP8266 implementation of Homie, an MQTT convention for the IoT.
 
 ###CoAP
 
