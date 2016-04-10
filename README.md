@@ -154,6 +154,9 @@ layered architecture of JTAG interface and TAP support
  - [pimatic](https://github.com/pimatic/pimatic) - A home automation server and framework for the raspberry pi running on node.js
  - [Smart Mirror](https://github.com/evancohen/smart-mirror) - The fairest of them all. A DIY voice controlled smart mirror with IoT integration.
 
+##Hardware
+
+ - [PULPino](https://github.com/pulp-platform/pulpino) - PULPino is an open-source microcontroller system, based on a small 32-bit RISC-V core developed at ETH Zurich. 
 
 ##Robotics
 
