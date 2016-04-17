@@ -68,6 +68,7 @@ Categories
 - [WifiDog](https://github.com/wifidog/wifidog-gateway) - a complete and embeddable captive portal solution for wireless community groups or individuals.
 - [SPIFFS](https://github.com/pellepl/spiffs) - Wear-leveled SPI flash file system for embedded devices.
 - [XiPKI](https://github.com/xipki/xipki) - eXtensible sImple Public Key Infrastructure consists of CA and OCSP responder.
+- [node-iotdb](https://github.com/dpjanes/node-iotdb) - Easily control the Internet of Things using Semantics.
 
 ##Android
 
