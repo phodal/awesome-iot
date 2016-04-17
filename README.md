@@ -186,6 +186,7 @@ layered architecture of JTAG interface and TAP support
  - [mbed TLS](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library
  - [Mongoose](https://github.com/cesanta/mongoose) - Mongoose is ideal for embedded environments, it has been designed as an open source platform for connecting devices and bringing them online. 
  - [LittleD](https://github.com/graemedouglas/LittleD) - A relational database for embedded devices and sensors nodes.
+ - [node-iotdb](https://github.com/dpjanes/node-iotdb) - Easily control the Internet of Things using Semantics.
 
 ##Protocol Library
 
