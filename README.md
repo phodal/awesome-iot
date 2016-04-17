@@ -70,6 +70,7 @@ Categories
 - [SPIFFS](https://github.com/pellepl/spiffs) - Wear-leveled SPI flash file system for embedded devices.
 - [XiPKI](https://github.com/xipki/xipki) - eXtensible sImple Public Key Infrastructure consists of CA and OCSP responder.
 - [node-iotdb](https://github.com/dpjanes/node-iotdb) - Easily control the Internet of Things using Semantics.
+- [CocoaMQTT](https://github.com/emqtt/CocoaMQTT) - MQTT for iOS and OS X written with Swift.
 
 ##Android
 
@@ -177,7 +178,8 @@ layered architecture of JTAG interface and TAP support
  - [V7](https://github.com/cesanta/v7) - V7 is a JavaScript engine written in C. It makes it possible to program Internet of Things (IoT) devices in JavaScript.
  - [luvit](https://github.com/luvit/luvit) - Node.JS for the Lua Inventor.
  - [MicroPython](http://micropython.org/) - MicroPython is a lean and fast implementation of the Python 3 programming language that is optimised to run on a microcontroller. 
- - [eLua](http://www.eluaproject.net/) - Quickly prototype and develop embedded software applications with the power of Lua and run them on a wide range of microcontroller architectures
+ - [eLua](http://www.eluaproject.net/) - Quickly prototype and develop embedded software applications with the power of Lua and run them on a wide range of microcontroller architectures.
+ - [IoTDL](https://github.com/dpjanes/iotdb-iotql) - an SQL-like language for the IoT.
 
 ###Others
 
