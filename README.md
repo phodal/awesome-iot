@@ -40,6 +40,7 @@ Categories
  - [heimcontrol.js](https://github.com/ni-c/heimcontrol.js) - Home-Automation with node.js and Raspberry PI.
  - [Serverless](https://github.com/serverless/serverless) - Serverless is the application framework for building web, mobile and IoT applications exclusively on Amazon Web Services' Lambda and API Gateway.
  - [Kura](https://eclipse.org/kura/) - an open-source framework for development of IoT applications
+ - [rpi-gpio.js](https://github.com/JamesBarwell/rpi-gpio.js) - Control Raspberry Pi GPIO pins with node.js.
 
 ##Library
 
