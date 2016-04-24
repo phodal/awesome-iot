@@ -251,6 +251,17 @@ layered architecture of JTAG interface and TAP support
 - [Hackday](https://hackaday.io/projects) - Discover. Get inspired. Repeat. Hack things for the better. 
 - [Instructables - tech](http://www.instructables.com/tag/type-id/category-technology/) - Explore the Biggest How To and DIY community where people make and share inspiring, entertaining, and useful projects, recipes, and hacks.
 - [Infoq IoT Weekly](http://www.infoq.com/cn/adf) - Weekly IoT News, Open Source Project, Hardware
+- [IBM IoT](http://www.ibm.com/developerworks/cn/iot) - IBM DeveloperWorks for IoT
+
+###Blog
+
+- [http://edi.wang/](http://edi.wang/) - ``ASP.NET``, ``Windows 10 IoT``
+
+###GitHub Org.
+
+ - [The Hybrid Group](https://github.com/hybridgroup) - the create of cylon.js
+ - [Intel iot-devkit libraries](https://github.com/intel-iot-devkit) - Official github repo for Intel IoT developer kit libraries & samples
+ - [Microsoft IoT](https://github.com/ms-iot/) - Microsoft IoT Team
 
 ###Free Book
 
