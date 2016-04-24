@@ -106,6 +106,9 @@ Categories
  - [Clavin](https://github.com/EricssonResearch/calvin-base) - Calvin is an application environment that lets things talk to things. It comprises of both a development framework for application developers, and a runtime environment that handles the running application. 
  - [IoT.js](https://github.com/Samsung/iotjs) - Platform for Internet of Things with JavaScript.
  - [Jasper](http://jasperproject.github.io/) - Jasper is an open source platform for developing always-on, voice-controlled applications.
+ - [Mongoose IoT](https://github.com/cesanta/iot) -  is a full-stack IoT platform including firmware and cloud components available for ESP8266.
+ - [Pagenodes](https://github.com/monteslu/pagenodes) - Completely Browser Based IOT Platform
+ - 
 
 ##APIs
 
