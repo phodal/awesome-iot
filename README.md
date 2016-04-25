@@ -63,16 +63,16 @@ Categories
 
 ### low level
 
-- [uIP](https://github.com/adamdunkels/uip) - uIP is a very small implementation of the TCP/IP stack.
-- [btstack](https://github.com/bluekitchen/btstack) - Dual-mode Bluetooth stack, with small memory footprint.
-- [krypton](https://github.com/cesanta/krypton) - Embedded TLS/DTLS library, source and binary compatible OpenSSL subset
-- [simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
-- [libtuv](https://github.com/Samsung/libtuv)  - Asynchronous I/O for IoT.js and embedded system
-- [WifiDog](https://github.com/wifidog/wifidog-gateway) - a complete and embeddable captive portal solution for wireless community groups or individuals.
-- [SPIFFS](https://github.com/pellepl/spiffs) - Wear-leveled SPI flash file system for embedded devices.
-- [XiPKI](https://github.com/xipki/xipki) - eXtensible sImple Public Key Infrastructure consists of CA and OCSP responder.
-- [node-iotdb](https://github.com/dpjanes/node-iotdb) - Easily control the Internet of Things using Semantics.
-- [CocoaMQTT](https://github.com/emqtt/CocoaMQTT) - MQTT for iOS and OS X written with Swift.
+* [uIP](https://github.com/adamdunkels/uip) - uIP is a very small implementation of the TCP/IP stack.
+* [btstack](https://github.com/bluekitchen/btstack) - Dual-mode Bluetooth stack, with small memory footprint.
+* [krypton](https://github.com/cesanta/krypton) - Embedded TLS/DTLS library, source and binary compatible OpenSSL subset
+* [simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
+* [libtuv](https://github.com/Samsung/libtuv)  - Asynchronous I/O for IoT.js and embedded system
+* [WifiDog](https://github.com/wifidog/wifidog-gateway) - a complete and embeddable captive portal solution for wireless community groups or individuals.
+* [SPIFFS](https://github.com/pellepl/spiffs) - Wear-leveled SPI flash file system for embedded devices.
+* [XiPKI](https://github.com/xipki/xipki) - eXtensible sImple Public Key Infrastructure consists of CA and OCSP responder.
+* [node-iotdb](https://github.com/dpjanes/node-iotdb) - Easily control the Internet of Things using Semantics.
+* [CocoaMQTT](https://github.com/emqtt/CocoaMQTT) - MQTT for iOS and OS X written with Swift.
 
 ## Android
 
@@ -251,14 +251,14 @@ layered architecture of JTAG interface and TAP support
 
 ### WebSite
 
-- [Hackday](https://hackaday.io/projects) - Discover. Get inspired. Repeat. Hack things for the better. 
-- [Instructables - tech](http://www.instructables.com/tag/type-id/category-technology/) - Explore the Biggest How To and DIY community where people make and share inspiring, entertaining, and useful projects, recipes, and hacks.
-- [Infoq IoT Weekly](http://www.infoq.com/cn/adf) - Weekly IoT News, Open Source Project, Hardware
-- [IBM IoT](http://www.ibm.com/developerworks/cn/iot) - IBM DeveloperWorks for IoT
+* [Hackday](https://hackaday.io/projects) - Discover. Get inspired. Repeat. Hack things for the better. 
+* [Instructables - tech](http://www.instructables.com/tag/type-id/category-technology/) - Explore the Biggest How To and DIY community where people make and share inspiring, entertaining, and useful projects, recipes, and hacks.
+* [Infoq IoT Weekly](http://www.infoq.com/cn/adf) - Weekly IoT News, Open Source Project, Hardware
+* [IBM IoT](http://www.ibm.com/developerworks/cn/iot) - IBM DeveloperWorks for IoT
 
 ### Blog
 
-- [http://edi.wang/](http://edi.wang/) - ``ASP.NET``, ``Windows 10 IoT``
+* [http://edi.wang/](http://edi.wang/) - ``ASP.NET``, ``Windows 10 IoT``
 
 ### GitHub Org.
 
