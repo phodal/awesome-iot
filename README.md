@@ -185,7 +185,7 @@ layered architecture of JTAG interface and TAP support
 
 ## Language
 
-* [ELIoT](https://github.com/c -/eliot) - Extensible Language for the Internet of Things.
+* [ELIoT](https://github.com/c3d/elfe) - Extensible Language for Everyday (and the Internet of Things)
 * [eLua](http://www.eluaproject.net/) - Quickly prototype and develop embedded software applications with the power of Lua and run them on a wide range of microcontroller architectures.
 * [IoTDL ★ 9 ⧗ 8](https://github.com/dpjanes/iotdb-iotql) - an SQL-like language for the IoT.
 * [JerryScript](http://samsung.github.io/jerryscript/) - A JavaScript engine for Internet of Things.
