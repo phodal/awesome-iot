@@ -42,7 +42,7 @@ A curated list of IoT. Everyone can contribute here!
 * **[GoBot ★ 2062 ⧗ 1](https://github.com/hybridgroup/gobot)** - Golang framework for robotics, physical computing, and the Internet of Things.
 * **[heimcontrol.js ★ 1306 ⧗ 4](https://github.com/ni-c/heimcontrol.js)** - Home-Automation with node.js and Raspberry PI.
 * **[johnny-five ★ 6024 ⧗ 0](https://github.com/rwaldron/johnny-five)** - JavaScript Robotics and IoT programming framework, developed at Bocoup, Firmata Protocol.
-* [Kura](https://github.com/eclipse/kura) - an open-source framework for development of IoT applications
+* [Kura ★ 85 ⧗ 1](https://github.com/eclipse/kura) - an open-source framework for development of IoT applications
 * [rpi-gpio.js ★ 221 ⧗ 5](https://github.com/JamesBarwell/rpi-gpio.js) - Control Raspberry Pi GPIO pins with node.js.
 * **[Serverless ★ 7951 ⧗ 0](https://github.com/serverless/serverless)** - Serverless is the application framework for building web, mobile and IoT applications exclusively on Amazon Web Services' Lambda and API Gateway.
 
@@ -84,11 +84,11 @@ A curated list of IoT. Everyone can contribute here!
 
 ## OS
 
-* [ARM mbed](https://github.com/mbedmicro/mbed) - The ARM® mbed™ IoT Device Platform provides the operating system, cloud services, tools and developer ecosystem to make the creation and deployment of commercial, standards-based IoT solutions possible at scale.
+* **[ARM mbed ★ 629 ⧗ 0](https://github.com/mbedmicro/mbed)** - The ARM® mbed™ IoT Device Platform provides the operating system, cloud services, tools and developer ecosystem to make the creation and deployment of commercial, standards-based IoT solutions possible at scale.
 * [Brillo](https://developers.google.com/brillo/) - Brillo extends the Android platform to all your connected devices.
-* [Contiki](https://github.com/contiki-os/contiki) - The Open Source OS for the Internet of Things
+* **[Contiki ★ 1813 ⧗ 0](https://github.com/contiki-os/contiki)** - The Open Source OS for the Internet of Things
 * [f9-kernel ★ 316 ⧗ 4](https://github.com/f9micro/f9-kernel) - An efficient and secure microkernel built for ARM Cortex-M cores, inspired by L4
-* [Hypriot](https://github.com/hypriot/rpi-kernel) - get you started with Docker on a Raspberry Pi in no time.
+* [Hypriot ★ 54 ⧗ 13](https://github.com/hypriot/rpi-kernel) - get you started with Docker on a Raspberry Pi in no time.
 * [JanOS ★ 138 ⧗ 0](https://github.com/jan-os/janos) - JanOS is an operating system designed to run on the chipset of mobile phones. 
 * [Linino ★ 83 ⧗ 13](https://github.com/arduino/linino) - Linino is a GNU/Linux distribution based on OpenWRT and mantained by DogHunter.
 * [macchina.io ★ 144 ⧗ 0](https://github.com/macchina-io/macchina.io) - An open-source toolkit for building embedded IoT applications that connect sensors, devices and cloud services.
@@ -99,7 +99,7 @@ A curated list of IoT. Everyone can contribute here!
 * [seL4 Microkernel](http://sel4.systems/) - The world's first operating-system kernel with an end-to-end proof of implementation correctness and security enforcement is available as open source.
 * [Snappy Ubuntu Core](http://developer.ubuntu.com/en/snappy/) - Canonical, A new, transactionally updated Ubuntu for clouds and devices.
 * **[TinyOS ★ 543 ⧗ 0](https://github.com/tinyos/tinyos-main)** - designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters.
-* [Zephyr](https://github.com/cfriedt/zephyr) -  is a small, scalable real-time operating system for use on resource-constrained systems supporting multiple architectures.
+* [Zephyr ★ 12 ⧗ 5](https://github.com/cfriedt/zephyr) -  is a small, scalable real-time operating system for use on resource-constrained systems supporting multiple architectures.
 
 ## Platform
 
@@ -118,8 +118,8 @@ A curated list of IoT. Everyone can contribute here!
 
 ## Middleware
 
-* [OpenIoT](https://github.com/OpenIotOrg/openiot) - The OpenIoT middleware infrastructure will support flexible configuration and deployment of algorithms for collection
 * [Kaa ★ 234 ⧗ 0](https://github.com/kaaproject/kaa) - Kaa open-source middleware platform for building, managing, and integrating connected products with the Internet of Everything.
+* [OpenIoT ★ 205 ⧗ 0](https://github.com/OpenIotOrg/openiot) - The OpenIoT middleware infrastructure will support flexible configuration and deployment of algorithms for collection
 
 ## Toolkits inlucde Non-OS
 
@@ -133,8 +133,8 @@ layered architecture of JTAG interface and TAP support
 ## Data visualization
 
 * **[D3.JS ★ 49188 ⧗ 0](https://github.com/mbostock/d3)** - A JavaScript visualization library for HTML and SVG
-* [Dashing](https://github.com/Shopify/dashing) - Dashing is a Sinatra based framework that lets you build beautiful dashboards.
-* [ECharts](https://github.com/ecomfe/echarts) - Echarts is a commercial charting solution originally intended to address the report need of the Company's various business systems.
+* **[Dashing ★ 10067 ⧗ 0](https://github.com/Shopify/dashing)** - Dashing is a Sinatra based framework that lets you build beautiful dashboards.
+* **[ECharts ★ 11457 ⧗ 0](https://github.com/ecomfe/echarts)** - Echarts is a commercial charting solution originally intended to address the report need of the Company's various business systems.
 * **[Freeboard ★ 3034 ⧗ 0](https://github.com/Freeboard/freeboard)** - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
 * **[HighCharts ★ 4949 ⧗ 0](https://github.com/highslide-software/highcharts.com)** - Highcharts JS, the JavaScript charting framework
 
@@ -182,12 +182,12 @@ layered architecture of JTAG interface and TAP support
 
 ## Language
 
-* [ELIoT](https://github.com/c3d/elfe) - Extensible Language for Everyday (and the Internet of Things)
-* [eLua](https://github.com/elua/elua) - Quickly prototype and develop embedded software applications with the power of Lua and run them on a wide range of microcontroller architectures.
+* [ELIoT ★ 76 ⧗ 48](https://github.com/c3d/elfe) - Extensible Language for Everyday (and the Internet of Things)
+* [eLua ★ 393 ⧗ 1](https://github.com/elua/elua) - Quickly prototype and develop embedded software applications with the power of Lua and run them on a wide range of microcontroller architectures.
 * [IoTDL ★ 9 ⧗ 8](https://github.com/dpjanes/iotdb-iotql) - an SQL-like language for the IoT.
-* [JerryScript](https://github.com/Samsung/jerryscript) - A JavaScript engine for Internet of Things.
+* **[JerryScript ★ 1244 ⧗ 0](https://github.com/Samsung/jerryscript)** - A JavaScript engine for Internet of Things.
 * **[luvit ★ 2237 ⧗ 0](https://github.com/luvit/luvit)** - Node.JS for the Lua Inventor.
-* [MicroPython](https://github.com/micropython/micropython) - MicroPython is a lean and fast implementation of the Python 3 programming language that is optimised to run on a microcontroller. 
+* **[MicroPython ★ 3070 ⧗ 0](https://github.com/micropython/micropython)** - MicroPython is a lean and fast implementation of the Python 3 programming language that is optimised to run on a microcontroller. 
 * **[V7 ★ 576 ⧗ 0](https://github.com/cesanta/v7)** - V7 is a JavaScript engine written in C. It makes it possible to program Internet of Things (IoT) devices in JavaScript.
 
 ### Others
@@ -217,7 +217,7 @@ layered architecture of JTAG interface and TAP support
 * [microcoap](https://github.com/ - -/microcoap) - A small CoAP implementation for microcontrollers
 * [moquette ★ 309 ⧗ 2](https://github.com/andsel/moquette) - Java MQTT lightweight broker
 * **[mosca ★ 1097 ⧗ 0](https://github.com/mcollina/mosca)** - Mosca is a node.js mqtt broker
-* [Mosquitto](https://github.com/eclipse/mosquitto) - An Open Source MQTT v3.1/v3.1.1 Broker
+* [Mosquitto ★ 158 ⧗ 0](https://github.com/eclipse/mosquitto) - An Open Source MQTT v3.1/v3.1.1 Broker
 * **[MQTT.js ★ 1359 ⧗ 0](https://github.com/mqttjs/MQTT.js)** - The MQTT client for Node.js and the browser
 * [Node CoAP ★ 176 ⧗ 11](https://github.com/mcollina/node-coap) - node-coap is a client and server library for CoAP modelled after the http module.
 * **[PubSub Client ★ 684 ⧗ 0](https://github.com/knolleary/pubsubclient)** - A client library for the Arduino Ethernet Shield that provides support for MQTT.
@@ -237,7 +237,7 @@ layered architecture of JTAG interface and TAP support
 
 * [IBM messaging](https://github.com/ibm-messaging) - Community around IBM Messaging products.
 * **[meshblu ★ 738 ⧗ 0](https://github.com/octoblu/meshblu)** - Machine-to-machine instant messaging platform for the internet of things.
-* [WAMP Protocol](https://github.com/wamp-proto/wamp-proto) - The Web Application Messaging Protocol The Web Application Messaging Protocol.
+* [WAMP Protocol ★ 228 ⧗ 1](https://github.com/wamp-proto/wamp-proto) - The Web Application Messaging Protocol The Web Application Messaging Protocol.
 
 ## Software
 
