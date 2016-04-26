@@ -110,7 +110,6 @@ Categories
 * [Jasper](http://jasperproject.github.io/) - Jasper is an open source platform for developing always-on, voice-controlled applications.
 * [Mongoose IoT](https://github.com/cesanta/iot) -  is a full-stack IoT platform including firmware and cloud components available for ESP8266.
 * [Pagenodes](https://github.com/monteslu/pagenodes) - Completely Browser Based IOT Platform
-* 
 
 ## APIs
 
