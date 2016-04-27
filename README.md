@@ -94,9 +94,9 @@ A curated list of IoT. Everyone can contribute here!
 * [macchina.io ★ 144 ⧗ 0](https://github.com/macchina-io/macchina.io) - An open-source toolkit for building embedded IoT applications that connect sensors, devices and cloud services.
 * **[NodeOS ★ 3605 ⧗ 0](https://github.com/nodeos/nodeos)** - Lightweight operating system using Node.js as userspace.
 * [Raspbian](http://raspbian.org/) - Raspbian is a free operating system based on Debian optimized for the Raspberry Pi hardware.
-* [RIOT](https://github.com/RIOT-OS/RIOT) - The friendly Operating System for the Internet of Things
+* **[RIOT ★ 748 ⧗ 1](https://github.com/RIOT-OS/RIOT)** - The friendly Operating System for the Internet of Things
 * [RT-Thread ★ 493 ⧗ 0](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source real-time operating system for embedded devices from China.
-* [seL4 Microkernel](https://github.com/seL4/seL4) - The world's first operating-system kernel with an end-to-end proof of implementation correctness and security enforcement is available as open source.
+* **[seL4 Microkernel ★ 1344 ⧗ 1](https://github.com/seL4/seL4)** - The world's first operating-system kernel with an end-to-end proof of implementation correctness and security enforcement is available as open source.
 * [Snappy Ubuntu Core](http://developer.ubuntu.com/en/snappy/) - Canonical, A new, transactionally updated Ubuntu for clouds and devices.
 * **[TinyOS ★ 543 ⧗ 0](https://github.com/tinyos/tinyos-main)** - designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters.
 * [Zephyr ★ 12 ⧗ 5](https://github.com/cfriedt/zephyr) -  is a small, scalable real-time operating system for use on resource-constrained systems supporting multiple architectures.
@@ -160,7 +160,7 @@ layered architecture of JTAG interface and TAP support
 * **[home-assistant ★ 3237 ⧗ 0](https://github.com/balloob/home-assistant)** - Open-source home automation platform running on Python 3
 * [home.pi ★ 145 ⧗ 1](https://github.com/denschu/home.pi) - Home Automation with AngularJS and MQTT on a Raspberry Pi
 * [Ninja Blocks](https://developers.ninja/) - Smart home controller. A computer for the coffee table.
-* [openHAB](https://github.com/openhab/openhab) - a vendor and technology agnostic open source automation software for your home.
+* **[openHAB ★ 2536 ⧗ 0](https://github.com/openhab/openhab)** - a vendor and technology agnostic open source automation software for your home.
 * [openhab 2](https://github.com/openhab/openhab 2) - The open Home Automation Bus (openHAB) project aims at providing a universal integration platform for all things around home automation.
 * [pimatic ★ 313 ⧗ 0](https://github.com/pimatic/pimatic) - A home automation server and framework for the raspberry pi running on node.js
 * [PrivateEyePi](http://projects.privateeyepi.com/) - Home Automation and Monitoring Projects for Raspberry Pi 
