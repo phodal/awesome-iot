@@ -160,7 +160,7 @@ layered architecture of JTAG interface and TAP support
 * **[home-assistant ★ 3237 ⧗ 0](https://github.com/balloob/home-assistant)** - Open-source home automation platform running on Python 3
 * [home.pi ★ 145 ⧗ 1](https://github.com/denschu/home.pi) - Home Automation with AngularJS and MQTT on a Raspberry Pi
 * [Ninja Blocks](https://developers.ninja/) - Smart home controller. A computer for the coffee table.
-* [openHAB](http://www.openhab.org/) - a vendor and technology agnostic open source automation software for your home.
+* [openHAB](https://github.com/openhab/openhab) - a vendor and technology agnostic open source automation software for your home.
 * [openhab 2](https://github.com/openhab/openhab 2) - The open Home Automation Bus (openHAB) project aims at providing a universal integration platform for all things around home automation.
 * [pimatic ★ 313 ⧗ 0](https://github.com/pimatic/pimatic) - A home automation server and framework for the raspberry pi running on node.js
 * [PrivateEyePi](http://projects.privateeyepi.com/) - Home Automation and Monitoring Projects for Raspberry Pi 
