@@ -94,9 +94,9 @@ A curated list of IoT. Everyone can contribute here!
 * [macchina.io ★ 144 ⧗ 0](https://github.com/macchina-io/macchina.io) - An open-source toolkit for building embedded IoT applications that connect sensors, devices and cloud services.
 * **[NodeOS ★ 3605 ⧗ 0](https://github.com/nodeos/nodeos)** - Lightweight operating system using Node.js as userspace.
 * [Raspbian](http://raspbian.org/) - Raspbian is a free operating system based on Debian optimized for the Raspberry Pi hardware.
-* [RIOT](http://www.riot-os.org/) - The friendly Operating System for the Internet of Things
+* [RIOT](https://github.com/RIOT-OS/RIOT) - The friendly Operating System for the Internet of Things
 * [RT-Thread ★ 493 ⧗ 0](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source real-time operating system for embedded devices from China.
-* [seL4 Microkernel](http://sel4.systems/) - The world's first operating-system kernel with an end-to-end proof of implementation correctness and security enforcement is available as open source.
+* [seL4 Microkernel](https://github.com/seL4/seL4) - The world's first operating-system kernel with an end-to-end proof of implementation correctness and security enforcement is available as open source.
 * [Snappy Ubuntu Core](http://developer.ubuntu.com/en/snappy/) - Canonical, A new, transactionally updated Ubuntu for clouds and devices.
 * **[TinyOS ★ 543 ⧗ 0](https://github.com/tinyos/tinyos-main)** - designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters.
 * [Zephyr ★ 12 ⧗ 5](https://github.com/cfriedt/zephyr) -  is a small, scalable real-time operating system for use on resource-constrained systems supporting multiple architectures.
