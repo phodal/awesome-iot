@@ -45,6 +45,7 @@ A curated list of IoT. Everyone can contribute here!
 * [Kura ★ 85 ⧗ 1](https://github.com/eclipse/kura) - an open-source framework for development of IoT applications
 * [rpi-gpio.js ★ 221 ⧗ 5](https://github.com/JamesBarwell/rpi-gpio.js) - Control Raspberry Pi GPIO pins with node.js.
 * **[Serverless ★ 7951 ⧗ 0](https://github.com/serverless/serverless)** - Serverless is the application framework for building web, mobile and IoT applications exclusively on Amazon Web Services' Lambda and API Gateway.
+* [IoT SOL](https://github.com/01org/Intel-iot-services-orchestration-layer) - https://github.com/01org/Intel-iot-services-orchestration-layer.
 
 ## Library
 
@@ -170,6 +171,8 @@ layered architecture of JTAG interface and TAP support
 ## IDE
 
 * [WyliodrinSTUDIO ★ 25 ⧗ 2](https://github.com/Wyliodrin/WyliodrinSTUDIO) - Wyliodrin STUDIO is a Chrome based IDE for software and hardware development for IoT and Embedded Linux systems.
+* [DevIoT](https://github.com/gepd/Deviot) - Sublime Text plugin for IoT development.
+* [Angular 2 IoT](https://github.com/urish/angular2-iot) - is an experimental technology that allows you to program physical hardware (buttons, LEDs, etc.) using Angular 2.
 
 ## Robotics
 
