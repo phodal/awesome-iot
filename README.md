@@ -179,6 +179,8 @@ layered architecture of JTAG interface and TAP support
 ## Others
 
 * **[Node-RED ★ 2513 ⧗ 0](https://github.com/node-red/node-red)** - A visual tool for wiring the Internet of Things.
+* [Kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT.
+* [fluent-bit](https://github.com/fluent/fluent-bit) - is a data collector for Linux, Embedded Linux, OSX and BSD family operating systems.
 
 ## Language
 
