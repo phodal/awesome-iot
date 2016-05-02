@@ -41,11 +41,11 @@ A curated list of IoT. Everyone can contribute here!
 * **[Cylon ★ 2339 ⧗ 0](https://github.com/hybridgroup/cylon)** - JavaScript framework for robotics, physical computing, and the Internet of Things.
 * **[GoBot ★ 2062 ⧗ 1](https://github.com/hybridgroup/gobot)** - Golang framework for robotics, physical computing, and the Internet of Things.
 * **[heimcontrol.js ★ 1306 ⧗ 4](https://github.com/ni-c/heimcontrol.js)** - Home-Automation with node.js and Raspberry PI.
+* [IoT SOL ★ 38 ⧗ 0](https://github.com/01org/Intel-iot-services-orchestration-layer) - https://github.com/01org/Intel-iot-services-orchestration-layer.
 * **[johnny-five ★ 6024 ⧗ 0](https://github.com/rwaldron/johnny-five)** - JavaScript Robotics and IoT programming framework, developed at Bocoup, Firmata Protocol.
 * [Kura ★ 85 ⧗ 1](https://github.com/eclipse/kura) - an open-source framework for development of IoT applications
 * [rpi-gpio.js ★ 221 ⧗ 5](https://github.com/JamesBarwell/rpi-gpio.js) - Control Raspberry Pi GPIO pins with node.js.
 * **[Serverless ★ 7951 ⧗ 0](https://github.com/serverless/serverless)** - Serverless is the application framework for building web, mobile and IoT applications exclusively on Amazon Web Services' Lambda and API Gateway.
-* [IoT SOL](https://github.com/01org/Intel-iot-services-orchestration-layer) - https://github.com/01org/Intel-iot-services-orchestration-layer.
 
 ## Library
 
@@ -170,9 +170,9 @@ layered architecture of JTAG interface and TAP support
 
 ## IDE
 
+* [Angular 2 IoT ★ 10 ⧗ 4](https://github.com/urish/angular2-iot) - is an experimental technology that allows you to program physical hardware (buttons, LEDs, etc.) using Angular 2.
+* [DevIoT ★ 70 ⧗ 1](https://github.com/gepd/Deviot) - Sublime Text plugin for IoT development.
 * [WyliodrinSTUDIO ★ 25 ⧗ 2](https://github.com/Wyliodrin/WyliodrinSTUDIO) - Wyliodrin STUDIO is a Chrome based IDE for software and hardware development for IoT and Embedded Linux systems.
-* [DevIoT](https://github.com/gepd/Deviot) - Sublime Text plugin for IoT development.
-* [Angular 2 IoT](https://github.com/urish/angular2-iot) - is an experimental technology that allows you to program physical hardware (buttons, LEDs, etc.) using Angular 2.
 
 ## Robotics
 
@@ -181,9 +181,9 @@ layered architecture of JTAG interface and TAP support
 
 ## Others
 
+* [fluent-bit ★ 90 ⧗ 4](https://github.com/fluent/fluent-bit) - is a data collector for Linux, Embedded Linux, OSX and BSD family operating systems.
+* [Kuzzle ★ 267 ⧗ 0](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT.
 * **[Node-RED ★ 2513 ⧗ 0](https://github.com/node-red/node-red)** - A visual tool for wiring the Internet of Things.
-* [Kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT.
-* [fluent-bit](https://github.com/fluent/fluent-bit) - is a data collector for Linux, Embedded Linux, OSX and BSD family operating systems.
 
 ## Language
 
