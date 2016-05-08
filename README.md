@@ -78,10 +78,11 @@ A curated list of IoT. Everyone can contribute here!
 * [WifiDog ★ 291 ⧗ 1](https://github.com/wifidog/wifidog-gateway) - a complete and embeddable captive portal solution for wireless community groups or individuals.
 * [XiPKI ★ 34 ⧗ 10](https://github.com/xipki/xipki) - eXtensible sImple Public Key Infrastructure consists of CA and OCSP responder.
 
-## Android
+## App
 
 * [Cordova BLE ★ 149 ⧗ 3](https://github.com/evothings/cordova-ble) - Bluetooth Low Energy plugin for Cordova
 * [PhoneGap NFC ★ 312 ⧗ 2](https://github.com/chariotsolutions/phonegap-nfc) - PhoneGap NFC Plugin
+* [Cordova MQTT Plugin](https://github.com/arcoirislabs/cordova-plugin-mqtt) - MQTT Cordova Plugin for Apache Cordova
 
 ## OS
 
