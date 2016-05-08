@@ -77,6 +77,7 @@ A curated list of IoT. Everyone can contribute here!
 * [uIP ★ 246 ⧗ 3](https://github.com/adamdunkels/uip) - uIP is a very small implementation of the TCP/IP stack.
 * [WifiDog ★ 291 ⧗ 1](https://github.com/wifidog/wifidog-gateway) - a complete and embeddable captive portal solution for wireless community groups or individuals.
 * [XiPKI ★ 34 ⧗ 10](https://github.com/xipki/xipki) - eXtensible sImple Public Key Infrastructure consists of CA and OCSP responder.
+* [Soletta](https://github.com/solettaproject/soletta) - Soletta Project is a framework for making IoT devices. With Soletta Project's libraries developers can easily write software for devices that control actuators/sensors and communicate using standard technologies. 
 
 ## App
 
