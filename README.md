@@ -219,6 +219,8 @@ layered architecture of JTAG interface and TAP support
 
 ### MQTT
 
+* **[emqttd ★ 921 ⧗ 0](https://github.com/emqtt/emqttd)** - Erlang MQTT Broker
+* [ESP8266 MQTT ★ 440 ⧗ 0](https://github.com/tuanpmt/esp_mqtt) - MQTT client library for ESP8266 Soc 
 * [Homie for ESP8266 ★ 115 ⧗ 1](https://github.com/marvinroger/homie-esp8266) - An Arduino for ESP8266 implementation of Homie, an MQTT convention for the IoT.
 * [Java mqtt-client ★ 405 ⧗ 2](https://github.com/fusesource/mqtt-client) - A Java MQTT Client.
 * [moquette ★ 309 ⧗ 2](https://github.com/andsel/moquette) - Java MQTT lightweight broker.
@@ -227,23 +229,21 @@ layered architecture of JTAG interface and TAP support
 * **[MQTT.js ★ 1359 ⧗ 0](https://github.com/mqttjs/MQTT.js)** - The MQTT client for Node.js and the browser.
 * **[SurgeMQ ★ 776 ⧗ 1](https://github.com/surgemq/surgemq)** -  is a high performance MQTT broker and client library that aims to be fully compliant with MQTT 3.1 and 3.1.1 specs. 
 * **[VerneMQ ★ 561 ⧗ 1](https://github.com/erlio/vernemq)** - A distributed MQTT message broker
-* **[emqttd ★ 921 ⧗ 0](https://github.com/emqtt/emqttd)** - Erlang MQTT Broker
-* [ESP8266 MQTT ★ 440 ⧗ 0](https://github.com/tuanpmt/esp_mqtt) - MQTT client library for ESP8266 Soc 
 
-###CoAP
+### CoAP
 
 * [Californium ★ 36 ⧗ 0](https://github.com/eclipse/californium) - Californium is a Java implementation of CoAP for the IoT backend and less constrained IoT devices. 
-* [CoAP.NET ★ 47 ⧗ 4](https://github.com/smeshlink/CoAP.NET) - A C# implementation of the CoAP protocol
-* [Copper ★ 46 ⧗ 14](https://github.com/mkovatsc/Copper) - A Firefox add-on to browse the Internet of Things
+* [CoAP.NET ★ 47 ⧗ 4](https://github.com/smeshlink/CoAP.NET) - A C# implementation of the CoAP protocol.
+* [Copper ★ 46 ⧗ 14](https://github.com/mkovatsc/Copper) - A Firefox add-on to browse the Internet of Things.
 * [Go CoAP ★ 110 ⧗ 8](https://github.com/dustin/go-coap) - Implementation of CoAP in go.
 * [h5.coap ★ 36 ⧗ 26](https://github.com/morkai/h5.coap) - Implementation of the Constrained Application Protocol (CoAP) client for node.js.
-* [microcoap](https://github.com/ - -/microcoap) - A small CoAP implementation for microcontrollers
+* [iCoAP ★ 28 ⧗ 21](https://github.com/stuffrabbit/iCoAP) - Objective-C Client Implementation of CoAP.
+* [microcoap](https://github.com/ - -/microcoap) - A small CoAP implementation for microcontrollers.
 * [Node CoAP ★ 176 ⧗ 11](https://github.com/mcollina/node-coap) - node-coap is a client and server library for CoAP modelled after the http module.
 * **[PubSub Client ★ 684 ⧗ 0](https://github.com/knolleary/pubsubclient)** - A client library for the Arduino Ethernet Shield that provides support for MQTT.
-* [Python CoAP ★ 36 ⧗ 5](https://github.com/openwsn-berkeley/coap) - A CoAP Python library
-* [txThings ★ 48 ⧗ 3](https://github.com/siskin/txThings) - CoAP library for Twisted framework
-* [SwiftCoAP](https://github.com/stuffrabbit/SwiftCoAP) - Swift Server/Client Implementation of CoAP.
-* [iCoAP](https://github.com/stuffrabbit/iCoAP) - Objective-C Client Implementation of CoAP.
+* [Python CoAP ★ 36 ⧗ 5](https://github.com/openwsn-berkeley/coap) - A CoAP Python library.
+* [SwiftCoAP ★ 22 ⧗ 12](https://github.com/stuffrabbit/SwiftCoAP) - Swift Server/Client Implementation of CoAP.
+* [txThings ★ 48 ⧗ 3](https://github.com/siskin/txThings) - CoAP library for Twisted framework.
 
 ### Spark
 
