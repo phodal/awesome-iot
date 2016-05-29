@@ -40,6 +40,7 @@ A curated list of IoT. Everyone can contribute here!
 
 * **[Cylon ★ 2339 ⧗ 0](https://github.com/hybridgroup/cylon)** - JavaScript framework for robotics, physical computing, and the Internet of Things.
 * **[GoBot ★ 2062 ⧗ 1](https://github.com/hybridgroup/gobot)** - Golang framework for robotics, physical computing, and the Internet of Things.
+* [Grow IoT ★ 7 ⧗ 7](https://github.com/CommonGarden/Grow-IoT) - is a full javascript based IoT stack with a simple API and basic user interface.
 * **[heimcontrol.js ★ 1306 ⧗ 4](https://github.com/ni-c/heimcontrol.js)** - Home-Automation with node.js and Raspberry PI.
 * [IoT SOL ★ 38 ⧗ 0](https://github.com/01org/Intel-iot-services-orchestration-layer) - https://github.com/01org/Intel-iot-services-orchestration-layer.
 * **[johnny-five ★ 6024 ⧗ 0](https://github.com/rwaldron/johnny-five)** - JavaScript Robotics and IoT programming framework, developed at Bocoup, Firmata Protocol.
@@ -48,7 +49,6 @@ A curated list of IoT. Everyone can contribute here!
 * [rpi-gpio.js ★ 221 ⧗ 5](https://github.com/JamesBarwell/rpi-gpio.js) - Control Raspberry Pi GPIO pins with node.js.
 * [SensorBee ★ 54 ⧗ 33](https://github.com/sensorbee/sensorbee) - Lightweight stream processing engine for IoT
 * **[Serverless ★ 7951 ⧗ 0](https://github.com/serverless/serverless)** - Serverless is the application framework for building web, mobile and IoT applications exclusively on Amazon Web Services' Lambda and API Gateway.
-* [Grow IoT](https://github.com/CommonGarden/Grow-IoT) - is a full javascript based IoT stack with a simple API and basic user interface.
 
 ## Library
 
@@ -56,19 +56,19 @@ A curated list of IoT. Everyone can contribute here!
 ### SDK
 
 * [AWS IoT Arduino Yún SDK ★ 63 ⧗ 4](https://github.com/aws/aws-iot-device-sdk-arduino-yun) - SDK for connecting to AWS IoT from an Arduino Yún.
+* [Azure IoT Gateway SDK ★ 26 ⧗ 2](https://github.com/Azure/azure-iot-gateway-sdk) - contains the infrastructure and modules to create IoT gateway solutions.
 * [Cylon.js For Intel IoT ★ 29 ⧗ 40](https://github.com/hybridgroup/cylon-intel-iot) - is a JavaScript framework for robotics, physical computing, and the Internet of Things (IoT).
 * [Electron ★ 41 ⧗ 16](https://github.com/spark/electron) - The Electron is a tiny cellular development kit based around U-Blox's SARA U-series (3G) or G-series (2G) cellular modem module and a STM32F205 ARM Cortex M3 microcontroller.
 * **[ESP8266 Arduino core ★ 2588 ⧗ 0](https://github.com/esp8266/Arduino)** - Arduino core for ESP8266 WiFi chip.
 * [Microsoft Azure IoT SDK ★ 203 ⧗ 1](https://github.com/Azure/azure-iot-sdks) - SDKs for a variety of languages and platforms that help connect devices to Microsoft Azure IoT services.
-* [Azure IoT Gateway SDK](https://github.com/Azure/azure-iot-gateway-sdk) - contains the infrastructure and modules to create IoT gateway solutions.
 
 ### Arduino
 
 * **[ArduinoJson ★ 873 ⧗ 0](https://github.com/bblanchon/ArduinoJson)** - An elegant and efficient JSON library for embedded systems.
 * **[Ino ★ 874 ⧗ 1](https://github.com/amperka/ino)** - Ino is a command line toolkit for working with Arduino hardware.
+* [PJON ★ 427 ⧗ 4](https://github.com/gioblu/PJON) - Digital communication framework for Arduino and IOT.
 * [Windows Remote Arduino ★ 98 ⧗ 13](https://github.com/ms-iot/remote-wiring) - Remote "Arduino Wiring" interface for Windows 8.1, Windows Phone 8.1 and Windows 10. Used to control an Arduino from a Universal Windows Platform application.
 * [WiringPi ★ 455 ⧗ 11](https://github.com/WiringPi/WiringPi) - Gordon's Arduino wiring-like WiringPi Library for the Raspberry Pi.
-* [PJON](https://github.com/gioblu/PJON) - Digital communication framework for Arduino and IOT.
 
 ### low level
 
@@ -77,6 +77,7 @@ A curated list of IoT. Everyone can contribute here!
 * [krypton ★ 7 ⧗ 35](https://github.com/cesanta/krypton) - Embedded TLS/DTLS library, source and binary compatible OpenSSL subset
 * [libtuv ★ 19 ⧗ 17](https://github.com/Samsung/libtuv) - Asynchronous I/O for IoT.js and embedded system.
 * [node-iotdb ★ 19 ⧗ 60](https://github.com/dpjanes/node-iotdb) - Easily control the Internet of Things using Semantics.
+* [Secure Device Grid ★ 4 ⧗ 20](https://github.com/trifork/secure-device-grid) - Secure device-to-device communication solution for IOT.
 * **[simbody ★ 540 ⧗ 0](https://github.com/simbody/simbody)** - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
 * [Soletta ★ 96 ⧗ 2](https://github.com/solettaproject/soletta) - Soletta Project is a framework for making IoT devices. With Soletta Project's libraries developers can easily write software for devices that control actuators/sensors and communicate using standard technologies. 
 * [SPIFFS ★ 174 ⧗ 0](https://github.com/pellepl/spiffs) - Wear-leveled SPI flash file system for embedded devices.
@@ -84,7 +85,6 @@ A curated list of IoT. Everyone can contribute here!
 * [WifiDog ★ 291 ⧗ 1](https://github.com/wifidog/wifidog-gateway) - a complete and embeddable captive portal solution for wireless community groups or individuals.
 * [Windows 10 IoT Core IoT Helpers ★ 25 ⧗ 0](https://github.com/Dot-and-Net/IoTHelpers) - his library allows to easily interact with GPIO, I2C and SPI devices in Windows 10 IoT Core.
 * [XiPKI ★ 34 ⧗ 10](https://github.com/xipki/xipki) - eXtensible sImple Public Key Infrastructure consists of CA and OCSP responder.
-* [Secure Device Grid](https://github.com/trifork/secure-device-grid) - Secure device-to-device communication solution for IOT.
 
 ## App
 
@@ -171,6 +171,7 @@ layered architecture of JTAG interface and TAP support
 * **[heimcontrol.js ★ 1306 ⧗ 4](https://github.com/ni-c/heimcontrol.js)** -  Home-Automation with node.js and Raspberry PI
 * **[home-assistant ★ 3237 ⧗ 0](https://github.com/balloob/home-assistant)** - Open-source home automation platform running on Python 3
 * [home.pi ★ 145 ⧗ 1](https://github.com/denschu/home.pi) - Home Automation with AngularJS and MQTT on a Raspberry Pi
+* [Mozilla Smart Home ★ 4 ⧗ 8](https://github.com/mozilla/smarthome.iot) - offers a middle ground between "in a box" solutions like Apple Homekit and DIY solutions like Raspberry Pi
 * [Ninja Blocks](https://developers.ninja/) - Smart home controller. A computer for the coffee table.
 * **[openHAB ★ 2536 ⧗ 0](https://github.com/openhab/openhab)** - a vendor and technology agnostic open source automation software for your home.
 * [openhab 2](https://github.com/openhab/openhab 2) - The open Home Automation Bus (openHAB) project aims at providing a universal integration platform for all things around home automation.
@@ -178,7 +179,6 @@ layered architecture of JTAG interface and TAP support
 * [PrivateEyePi](http://projects.privateeyepi.com/) - Home Automation and Monitoring Projects for Raspberry Pi 
 * [RaZberry](http://razberry.z-wave.me/) - RaZberry brings Z-Wave to the Raspberry PI platform. 
 * **[Smart Mirror ★ 1181 ⧗ 0](https://github.com/evancohen/smart-mirror)** - The fairest of them all. A DIY voice controlled smart mirror with IoT integration.
-* [Mozilla Smart Home](https://github.com/mozilla/smarthome.iot) - offers a middle ground between "in a box" solutions like Apple Homekit and DIY solutions like Raspberry Pi
 
 ## IDE
 
