@@ -59,6 +59,7 @@ A curated list of IoT. Everyone can contribute here!
 * [Electron ★ 41 ⧗ 16](https://github.com/spark/electron) - The Electron is a tiny cellular development kit based around U-Blox's SARA U-series (3G) or G-series (2G) cellular modem module and a STM32F205 ARM Cortex M3 microcontroller.
 * **[ESP8266 Arduino core ★ 2588 ⧗ 0](https://github.com/esp8266/Arduino)** - Arduino core for ESP8266 WiFi chip.
 * [Microsoft Azure IoT SDK ★ 203 ⧗ 1](https://github.com/Azure/azure-iot-sdks) - SDKs for a variety of languages and platforms that help connect devices to Microsoft Azure IoT services.
+* [Azure IoT Gateway SDK](https://github.com/Azure/azure-iot-gateway-sdk) - contains the infrastructure and modules to create IoT gateway solutions.
 
 ### Arduino
 
@@ -66,6 +67,7 @@ A curated list of IoT. Everyone can contribute here!
 * **[Ino ★ 874 ⧗ 1](https://github.com/amperka/ino)** - Ino is a command line toolkit for working with Arduino hardware.
 * [Windows Remote Arduino ★ 98 ⧗ 13](https://github.com/ms-iot/remote-wiring) - Remote "Arduino Wiring" interface for Windows 8.1, Windows Phone 8.1 and Windows 10. Used to control an Arduino from a Universal Windows Platform application.
 * [WiringPi ★ 455 ⧗ 11](https://github.com/WiringPi/WiringPi) - Gordon's Arduino wiring-like WiringPi Library for the Raspberry Pi.
+* [PJON](https://github.com/gioblu/PJON) - Digital communication framework for Arduino and IOT.
 
 ### low level
 
@@ -81,6 +83,7 @@ A curated list of IoT. Everyone can contribute here!
 * [WifiDog ★ 291 ⧗ 1](https://github.com/wifidog/wifidog-gateway) - a complete and embeddable captive portal solution for wireless community groups or individuals.
 * [Windows 10 IoT Core IoT Helpers ★ 25 ⧗ 0](https://github.com/Dot-and-Net/IoTHelpers) - his library allows to easily interact with GPIO, I2C and SPI devices in Windows 10 IoT Core.
 * [XiPKI ★ 34 ⧗ 10](https://github.com/xipki/xipki) - eXtensible sImple Public Key Infrastructure consists of CA and OCSP responder.
+* [Secure Device Grid](https://github.com/trifork/secure-device-grid) - Secure device-to-device communication solution for IOT.
 
 ## App
 
