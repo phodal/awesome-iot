@@ -252,7 +252,20 @@ layered architecture of JTAG interface and TAP support
 * [spark-protocol ★ 81 ⧗ 14](https://github.com/spark/spark-protocol) - Node.JS module for hosting direct encrypted CoAP socket connections.
 * [spark-server ★ 371 ⧗ 13](https://github.com/spark/spark-server) - An API compatible open source server for interacting with devices speaking the spark-protocol
 
-### Messaging
+## Hardware Com
+
+### NFC
+
+* [RFIDIOt](https://github.com/AdamLaurie/RFIDIOt) - python RFID / NFC library & tools.
+* [NFC Tools for Java](https://github.com/grundid/nfctools) - NFCTools is a collection of libraries and tools for NFC in Java. 
+* [libnfc](https://github.com/nfc-tools/libnfc) - Platform independent Near Field Communication library.
+* [Adafruit_NFCShield_I2C](https://github.com/adafruit/Adafruit_NFCShield_I2C) - I2C Driver for Adafruit's PN532-based NFC Shield
+.
+* [Chrome App NFC Library](https://github.com/GoogleChrome/chrome-nfc) - With this simple library, you can build a Chrome App that communicates over USB with NFC Readers.
+* [LibLogicalAccess](https://github.com/islog/liblogicalaccess) - C++ RFID Library for Windows/Linux/Mac. For PC/SC, NFC, ISO compliant and proprietary hardware.
+* [Node NFC](https://github.com/camme/node-nfc) - A first try at binding libnfc to node.
+
+### Others
 
 * [IBM messaging](https://github.com/ibm-messaging) - Community around IBM Messaging products.
 * **[meshblu ★ 738 ⧗ 0](https://github.com/octoblu/meshblu)** - Machine-to-machine instant messaging platform for the internet of things.
