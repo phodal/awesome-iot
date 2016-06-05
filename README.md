@@ -232,7 +232,8 @@ layered architecture of JTAG interface and TAP support
 * [Mosquitto ★ 158 ⧗ 0](https://github.com/eclipse/mosquitto) - An Open Source MQTT v3.1/v3.1.1 Broker.
 * **[MQTT.js ★ 1359 ⧗ 0](https://github.com/mqttjs/MQTT.js)** - The MQTT client for Node.js and the browser.
 * **[SurgeMQ ★ 776 ⧗ 1](https://github.com/surgemq/surgemq)** -  is a high performance MQTT broker and client library that aims to be fully compliant with MQTT 3.1 and 3.1.1 specs. 
-* **[VerneMQ ★ 561 ⧗ 1](https://github.com/erlio/vernemq)** - A distributed MQTT message broker
+* **[VerneMQ ★ 561 ⧗ 1](https://github.com/erlio/vernemq)** - A distributed MQTT message broker.
+* [MQTT Kafka Bridge](https://github.com/jacklund/mqttKafkaBridge) - Bridge which consumes MQTT messages and republishes them on Kafka on the same topic.
 
 ### CoAP
 
