@@ -167,6 +167,9 @@ layered architecture of JTAG interface and TAP support
 
 ## Home automation
 
+* [⚡Magic Mirror⚡](https://github.com/MicrosoftEdge/magic-mirror-demo) - A ⚡Magic Mirror⚡ powered by a UWP Hosted Web App.
+
+* [CK.HomeAutomation ★ 15 ⧗ 9](https://github.com/chkr1011/CK.HomeAutomation) - The first open source Home Automation SDK for Windows 10 IoT Core.
 * [Eclipse SmartHome](http://eclipse.org/smarthome/) - Smart Home adoption will only gain momentum if the different devices can be connected into over-arching use cases, but currently the market for Smart Home systems and IoT gadgets is heavily fragmented. 
 * **[heimcontrol.js ★ 1306 ⧗ 4](https://github.com/ni-c/heimcontrol.js)** -  Home-Automation with node.js and Raspberry PI
 * **[home-assistant ★ 3237 ⧗ 0](https://github.com/balloob/home-assistant)** - Open-source home automation platform running on Python 3
@@ -179,8 +182,6 @@ layered architecture of JTAG interface and TAP support
 * [PrivateEyePi](http://projects.privateeyepi.com/) - Home Automation and Monitoring Projects for Raspberry Pi 
 * [RaZberry](http://razberry.z-wave.me/) - RaZberry brings Z-Wave to the Raspberry PI platform. 
 * **[Smart Mirror ★ 1181 ⧗ 0](https://github.com/evancohen/smart-mirror)** - The fairest of them all. A DIY voice controlled smart mirror with IoT integration.
-* [⚡Magic Mirror⚡](https://github.com/MicrosoftEdge/magic-mirror-demo) - A ⚡Magic Mirror⚡ powered by a UWP Hosted Web App.
-* [CK.HomeAutomation](https://github.com/chkr1011/CK.HomeAutomation) - The first open source Home Automation SDK for Windows 10 IoT Core.
 
 ## IDE
 
@@ -254,29 +255,32 @@ layered architecture of JTAG interface and TAP support
 
 ## Hardware Com
 
+
 ### NFC
 
-* [RFIDIOt](https://github.com/AdamLaurie/RFIDIOt) - python RFID / NFC library & tools.
-* [NFC Tools for Java](https://github.com/grundid/nfctools) - NFCTools is a collection of libraries and tools for NFC in Java. 
-* [libnfc](https://github.com/nfc-tools/libnfc) - Platform independent Near Field Communication library.
-* [Adafruit_NFCShield_I2C](https://github.com/adafruit/Adafruit_NFCShield_I2C) - I2C Driver for Adafruit's PN532-based NFC Shield
 .
-* [Chrome App NFC Library](https://github.com/GoogleChrome/chrome-nfc) - With this simple library, you can build a Chrome App that communicates over USB with NFC Readers.
-* [LibLogicalAccess](https://github.com/islog/liblogicalaccess) - C++ RFID Library for Windows/Linux/Mac. For PC/SC, NFC, ISO compliant and proprietary hardware.
-* [Node NFC](https://github.com/camme/node-nfc) - A first try at binding libnfc to node.
+
+* [Adafruit_NFCShield_I2C ★ 110 ⧗ 13](https://github.com/adafruit/Adafruit_NFCShield_I2C) - I2C Driver for Adafruit's PN532-based NFC Shield
+* [Chrome App NFC Library ★ 117 ⧗ 4](https://github.com/GoogleChrome/chrome-nfc) - With this simple library, you can build a Chrome App that communicates over USB with NFC Readers.
+* [LibLogicalAccess ★ 53 ⧗ 17](https://github.com/islog/liblogicalaccess) - C++ RFID Library for Windows/Linux/Mac. For PC/SC, NFC, ISO compliant and proprietary hardware.
+* [libnfc ★ 119 ⧗ 4](https://github.com/nfc-tools/libnfc) - Platform independent Near Field Communication library.
+* [NFC Tools for Java ★ 183 ⧗ 26](https://github.com/grundid/nfctools) - NFCTools is a collection of libraries and tools for NFC in Java. 
+* [Node NFC ★ 41 ⧗ 38](https://github.com/camme/node-nfc) - A first try at binding libnfc to node.
+* [RFIDIOt ★ 314 ⧗ 6](https://github.com/AdamLaurie/RFIDIOt) - python RFID / NFC library & tools.
 
 ### Serial
 
-* [rxtx](https://github.com/rxtx/rxtx) - a Java cross platform wrapper library for the serial port
 .
+
+* [rxtx ★ 67 ⧗ 4](https://github.com/rxtx/rxtx) - a Java cross platform wrapper library for the serial port
 
 ### Others
 
 * [IBM messaging](https://github.com/ibm-messaging) - Community around IBM Messaging products.
 * **[meshblu ★ 738 ⧗ 0](https://github.com/octoblu/meshblu)** - Machine-to-machine instant messaging platform for the internet of things.
+* [Python Enocean ★ 13 ⧗ 45](https://github.com/kipe/enocean) - A Python library for reading and controlling EnOcean devices.
+* [The Things Network ★ 67 ⧗ 4](https://github.com/TheThingsNetwork/ttn) - The Things Network is a global open crowdsourced Internet of Things data network.
 * [WAMP Protocol ★ 228 ⧗ 1](https://github.com/wamp-proto/wamp-proto) - The Web Application Messaging Protocol The Web Application Messaging Protocol.
-* [Python Enocean](https://github.com/kipe/enocean) - A Python library for reading and controlling EnOcean devices.
-* [The Things Network](https://github.com/TheThingsNetwork/ttn) - The Things Network is a global open crowdsourced Internet of Things data network.
 
 ## Software
 
