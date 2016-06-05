@@ -265,6 +265,11 @@ layered architecture of JTAG interface and TAP support
 * [LibLogicalAccess](https://github.com/islog/liblogicalaccess) - C++ RFID Library for Windows/Linux/Mac. For PC/SC, NFC, ISO compliant and proprietary hardware.
 * [Node NFC](https://github.com/camme/node-nfc) - A first try at binding libnfc to node.
 
+### Serial
+
+* [rxtx](https://github.com/rxtx/rxtx) - a Java cross platform wrapper library for the serial port
+.
+
 ### Others
 
 * [IBM messaging](https://github.com/ibm-messaging) - Community around IBM Messaging products.
