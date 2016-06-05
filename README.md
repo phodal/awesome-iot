@@ -46,10 +46,10 @@ A curated list of IoT. Everyone can contribute here!
 * **[johnny-five ★ 6024 ⧗ 0](https://github.com/rwaldron/johnny-five)** - JavaScript Robotics and IoT programming framework, developed at Bocoup, Firmata Protocol.
 * [Kura ★ 85 ⧗ 1](https://github.com/eclipse/kura) - an open-source framework for development of IoT applications
 * **[Lelylan ★ 647 ⧗ 1](https://github.com/lelylan/lelylan#development)** - OpenSSL Source Lightweight Microservices Architecture for the Internet of Things. For developers.
+* [OpenDevice ★ 23 ⧗ 8](https://github.com/OpenDevice/OpenDevice) - Open IoT (Internet Of Things) Platform and Framework.
 * [rpi-gpio.js ★ 221 ⧗ 5](https://github.com/JamesBarwell/rpi-gpio.js) - Control Raspberry Pi GPIO pins with node.js.
 * [SensorBee ★ 54 ⧗ 33](https://github.com/sensorbee/sensorbee) - Lightweight stream processing engine for IoT
 * **[Serverless ★ 7951 ⧗ 0](https://github.com/serverless/serverless)** - Serverless is the application framework for building web, mobile and IoT applications exclusively on Amazon Web Services' Lambda and API Gateway.
-* [OpenDevice](https://github.com/OpenDevice/OpenDevice) - Open IoT (Internet Of Things) Platform and Framework.
 
 ## Library
 
@@ -156,6 +156,7 @@ layered architecture of JTAG interface and TAP support
 * [Arduino](http://www.arduino.cc/) - open-source electronics platform based on easy-to-use hardware and software.
 * [Arduino ZERO](https://www.arduino.cc/en/Main/ArduinoBoardZero) - This board aims to provide a platform for innovative projects in smart IoT devices, wearable technology, high-tech automation, crazy robotics, and much more.
 * [BeagleBone](http://beagleboard.org/getting-started/) -  BeagleBone Black is a low-cost, community-supported development platform for developers and hobbyists
+* [Carloop ★ 6 ⧗ 0](https://github.com/carloop/carloop-library) - Make apps for your car using signals from OBD-II, CAN and GPS. Publish data online using the Particle platform.
 * [Cheapduino](http://www.dfrobot.com/wiki/index.php/CheapDuino_(SKU:DFR0236)) - CheapDuino is the most cheapest Arduino compatible processor in the world. 
 * [ESP8266 Smartwatch ★ 39 ⧗ 0](https://github.com/Jeija/esp8266-smartwatch) - ESP8266 DIY WiFi Smartwatch with MPU-9250, RTC, OLED, FT232, ...
 * [Intel Galileo](http://www.arduino.cc/en/ArduinoCertified/IntelGalileo) - Galileo is a microcontroller board based on the Intel® Quark SoC X1000 Application Processor, a 32-bit Intel Pentium-class system on a chip
@@ -165,7 +166,6 @@ layered architecture of JTAG interface and TAP support
 * [Raspberry Pi](https://www.raspberrypi.org/) - a tiny and affordable computer that you can use to learn programming through fun, practical projects
 * [SquareWear](http://rayshobby.net/sqrwear/) - An Open-Source Arduino-based Wearable Microcontroller
 * [Tessel](https://tessel.io/) - Tessel is a completely open source and community-driven IoT and robotics development. platform.
-* [Carloop](https://github.com/carloop/carloop-library) - Make apps for your car using signals from OBD-II, CAN and GPS. Publish data online using the Particle platform.
 
 ## Home automation
 
@@ -231,10 +231,10 @@ layered architecture of JTAG interface and TAP support
 * [moquette ★ 309 ⧗ 2](https://github.com/andsel/moquette) - Java MQTT lightweight broker.
 * **[mosca ★ 1097 ⧗ 0](https://github.com/mcollina/mosca)** - Mosca is a node.js mqtt broker.
 * [Mosquitto ★ 158 ⧗ 0](https://github.com/eclipse/mosquitto) - An Open Source MQTT v3.1/v3.1.1 Broker.
+* [MQTT Kafka Bridge ★ 28 ⧗ 35](https://github.com/jacklund/mqttKafkaBridge) - Bridge which consumes MQTT messages and republishes them on Kafka on the same topic.
 * **[MQTT.js ★ 1359 ⧗ 0](https://github.com/mqttjs/MQTT.js)** - The MQTT client for Node.js and the browser.
 * **[SurgeMQ ★ 776 ⧗ 1](https://github.com/surgemq/surgemq)** -  is a high performance MQTT broker and client library that aims to be fully compliant with MQTT 3.1 and 3.1.1 specs. 
 * **[VerneMQ ★ 561 ⧗ 1](https://github.com/erlio/vernemq)** - A distributed MQTT message broker.
-* [MQTT Kafka Bridge](https://github.com/jacklund/mqttKafkaBridge) - Bridge which consumes MQTT messages and republishes them on Kafka on the same topic.
 
 ### CoAP
 
