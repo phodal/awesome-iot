@@ -45,10 +45,11 @@ A curated list of IoT. Everyone can contribute here!
 * [IoT SOL ★ 38 ⧗ 0](https://github.com/01org/Intel-iot-services-orchestration-layer) - https://github.com/01org/Intel-iot-services-orchestration-layer.
 * **[johnny-five ★ 6024 ⧗ 0](https://github.com/rwaldron/johnny-five)** - JavaScript Robotics and IoT programming framework, developed at Bocoup, Firmata Protocol.
 * [Kura ★ 85 ⧗ 1](https://github.com/eclipse/kura) - an open-source framework for development of IoT applications
-* **[Lelylan ★ 647 ⧗ 1](https://github.com/lelylan/lelylan#development)** - Open Source Lightweight Microservices Architecture for the Internet of Things. For developers.
+* **[Lelylan ★ 647 ⧗ 1](https://github.com/lelylan/lelylan#development)** - OpenSSL Source Lightweight Microservices Architecture for the Internet of Things. For developers.
 * [rpi-gpio.js ★ 221 ⧗ 5](https://github.com/JamesBarwell/rpi-gpio.js) - Control Raspberry Pi GPIO pins with node.js.
 * [SensorBee ★ 54 ⧗ 33](https://github.com/sensorbee/sensorbee) - Lightweight stream processing engine for IoT
 * **[Serverless ★ 7951 ⧗ 0](https://github.com/serverless/serverless)** - Serverless is the application framework for building web, mobile and IoT applications exclusively on Amazon Web Services' Lambda and API Gateway.
+* [OpenDevice](https://github.com/OpenDevice/OpenDevice) - Open IoT (Internet Of Things) Platform and Framework.
 
 ## Library
 
