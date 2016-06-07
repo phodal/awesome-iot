@@ -42,7 +42,7 @@ A curated list of IoT. Everyone can contribute here!
 * **[GoBot ★ 2062 ⧗ 1](https://github.com/hybridgroup/gobot)** - Golang framework for robotics, physical computing, and the Internet of Things.
 * [Grow IoT ★ 7 ⧗ 7](https://github.com/CommonGarden/Grow-IoT) - is a full javascript based IoT stack with a simple API and basic user interface.
 * **[heimcontrol.js ★ 1306 ⧗ 4](https://github.com/ni-c/heimcontrol.js)** - Home-Automation with node.js and Raspberry PI.
-* [IoT SOL ★ 38 ⧗ 0](https://github.com/01org/Intel-iot-services-orchestration-layer) - https://github.com/01org/Intel-iot-services-orchestration-layer.
+* [IoT SOL ★ 38 ⧗ 0](https://github.com/01org/Intel-iot-services-orchestration-layer) - The total solution that provides visual graphical programming for developing IoT applications.
 * **[johnny-five ★ 6024 ⧗ 0](https://github.com/rwaldron/johnny-five)** - JavaScript Robotics and IoT programming framework, developed at Bocoup, Firmata Protocol.
 * [Kura ★ 85 ⧗ 1](https://github.com/eclipse/kura) - an open-source framework for development of IoT applications
 * **[Lelylan ★ 647 ⧗ 1](https://github.com/lelylan/lelylan#development)** - OpenSSL Source Lightweight Microservices Architecture for the Internet of Things. For developers.
