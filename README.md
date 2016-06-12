@@ -255,6 +255,7 @@ layered architecture of JTAG interface and TAP support
 * [Python CoAP ★ 36 ⧗ 5](https://github.com/openwsn-berkeley/coap) - A CoAP Python library.
 * [SwiftCoAP ★ 22 ⧗ 12](https://github.com/stuffrabbit/SwiftCoAP) - Swift Server/Client Implementation of CoAP.
 * [txThings ★ 48 ⧗ 3](https://github.com/siskin/txThings) - CoAP library for Twisted framework.
+* [MQTT Client Framework](https://github.com/ckrey/MQTT-Client-Framework) - iOS, OSX, tvOS native ObjectiveC MQTT Client Framework.
 
 ### Spark
 
