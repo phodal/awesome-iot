@@ -155,6 +155,7 @@ layered architecture of JTAG interface and TAP support
 * **[ECharts ★ 11457 ⧗ 0](https://github.com/ecomfe/echarts)** - Echarts is a commercial charting solution originally intended to address the report need of the Company's various business systems.
 * **[Freeboard ★ 3034 ⧗ 0](https://github.com/Freeboard/freeboard)** - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
 * **[HighCharts ★ 4949 ⧗ 0](https://github.com/highslide-software/highcharts.com)** - Highcharts JS, the JavaScript charting framework
+* [Arbela](https://github.com/walkingtree/arbela) - Rich, Extensible, Customizable, and Configurable Dashboard.
 
 ## Hardware
 
