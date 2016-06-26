@@ -42,20 +42,21 @@ A curated list of IoT. Everyone can contribute here!
 * **[GoBot ★ 2062 ⧗ 1](https://github.com/hybridgroup/gobot)** - Golang framework for robotics, physical computing, and the Internet of Things.
 * [Grow IoT ★ 7 ⧗ 7](https://github.com/CommonGarden/Grow-IoT) - is a full javascript based IoT stack with a simple API and basic user interface.
 * **[heimcontrol.js ★ 1306 ⧗ 4](https://github.com/ni-c/heimcontrol.js)** - Home-Automation with node.js and Raspberry PI.
+* [IoT 433 MHz ★ 121 ⧗ 11](https://github.com/roccomuso/iot-433mhz) - IoT System to control 433 MHz RC power sockets, PIR, Door Sensors and much more.
 * [IoT SOL ★ 38 ⧗ 0](https://github.com/01org/Intel-iot-services-orchestration-layer) - The total solution that provides visual graphical programming for developing IoT applications.
+* [IoTCloud 2 ★ 14 ⧗ 50](https://github.com/iotcloud/iotcloud2) - An open source framework for IoT and Sensor Centric Applications.
 * **[johnny-five ★ 6024 ⧗ 0](https://github.com/rwaldron/johnny-five)** - JavaScript Robotics and IoT programming framework, developed at Bocoup, Firmata Protocol.
 * [Kura ★ 85 ⧗ 1](https://github.com/eclipse/kura) - an open-source framework for development of IoT applications
 * **[Lelylan ★ 647 ⧗ 1](https://github.com/lelylan/lelylan#development)** - OpenSSL Source Lightweight Microservices Architecture for the Internet of Things. For developers.
+* [Liota ★ 162 ⧗ 2](https://github.com/vmware/liota) - is an open source offering for IoT solution developers and resides primarily on IoT gateways.
 * [OpenDevice ★ 23 ⧗ 8](https://github.com/OpenDevice/OpenDevice) - Open IoT (Internet Of Things) Platform and Framework.
+* [Pando Cloud ★ 75 ⧗ 2](https://github.com/PandoCloud/pando-cloud) - is the cloud part of Pando IoT solution. It's made of a bunch of tools, protocols and frameworks below: Pando Cloud, Pando Embeded Framework, Pando Protocol as so on.
 * [rpi-gpio.js ★ 221 ⧗ 5](https://github.com/JamesBarwell/rpi-gpio.js) - Control Raspberry Pi GPIO pins with node.js.
 * [SensorBee ★ 54 ⧗ 33](https://github.com/sensorbee/sensorbee) - Lightweight stream processing engine for IoT
 * **[Serverless ★ 7951 ⧗ 0](https://github.com/serverless/serverless)** - Serverless is the application framework for building web, mobile and IoT applications exclusively on Amazon Web Services' Lambda and API Gateway.
-* [Pando Cloud](https://github.com/PandoCloud/pando-cloud) - is the cloud part of Pando IoT solution. It's made of a bunch of tools, protocols and frameworks below: Pando Cloud, Pando Embeded Framework, Pando Protocol as so on.
-* [Liota](https://github.com/vmware/liota) - is an open source offering for IoT solution developers and resides primarily on IoT gateways.
-* [IoTCloud 2](https://github.com/iotcloud/iotcloud2) - An open source framework for IoT and Sensor Centric Applications.
-* [IoT 433 MHz](https://github.com/roccomuso/iot-433mhz) - IoT System to control 433 MHz RC power sockets, PIR, Door Sensors and much more.
 
 ## Library
+
 
 ### SDK
 
@@ -78,7 +79,7 @@ A curated list of IoT. Everyone can contribute here!
 
 * [btstack ★ 151 ⧗ 1](https://github.com/bluekitchen/btstack) - Dual-mode Bluetooth stack, with small memory footprint.
 * [CocoaMQTT ★ 210 ⧗ 0](https://github.com/emqtt/CocoaMQTT) - MQTT for iOS and OS X written with Swift.
-* [Devices](https://github.com/goiot/devices) - Suite of libraries for IoT devices (written in Go).
+* [Devices ★ 134 ⧗ 0](https://github.com/goiot/devices) - Suite of libraries for IoT devices (written in Go).
 * [krypton ★ 7 ⧗ 35](https://github.com/cesanta/krypton) - Embedded TLS/DTLS library, source and binary compatible OpenSSL subset
 * [libtuv ★ 19 ⧗ 17](https://github.com/Samsung/libtuv) - Asynchronous I/O for IoT.js and embedded system.
 * [node-iotdb ★ 19 ⧗ 60](https://github.com/dpjanes/node-iotdb) - Easily control the Internet of Things using Semantics.
@@ -86,18 +87,18 @@ A curated list of IoT. Everyone can contribute here!
 * **[simbody ★ 540 ⧗ 0](https://github.com/simbody/simbody)** - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
 * [Soletta ★ 96 ⧗ 2](https://github.com/solettaproject/soletta) - Soletta Project is a framework for making IoT devices. With Soletta Project's libraries developers can easily write software for devices that control actuators/sensors and communicate using standard technologies. 
 * [SPIFFS ★ 174 ⧗ 0](https://github.com/pellepl/spiffs) - Wear-leveled SPI flash file system for embedded devices.
+* [SUSI ★ 13 ⧗ 150](https://github.com/webvariants/susi) - is an application framework to build interfaces for arbitrary systems.
 * [uIP ★ 246 ⧗ 3](https://github.com/adamdunkels/uip) - uIP is a very small implementation of the TCP/IP stack.
 * [WifiDog ★ 291 ⧗ 1](https://github.com/wifidog/wifidog-gateway) - a complete and embeddable captive portal solution for wireless community groups or individuals.
 * [Windows 10 IoT Core IoT Helpers ★ 25 ⧗ 0](https://github.com/Dot-and-Net/IoTHelpers) - his library allows to easily interact with GPIO, I2C and SPI devices in Windows 10 IoT Core.
 * [XiPKI ★ 34 ⧗ 10](https://github.com/xipki/xipki) - eXtensible sImple Public Key Infrastructure consists of CA and OCSP responder.
-* [SUSI](https://github.com/webvariants/susi) - is an application framework to build interfaces for arbitrary systems.
 
 ## App
 
 * [Cordova BLE ★ 149 ⧗ 3](https://github.com/evothings/cordova-ble) - Bluetooth Low Energy plugin for Cordova
 * [Cordova MQTT Plugin ★ 24 ⧗ 11](https://github.com/arcoirislabs/cordova-plugin-mqtt) - MQTT Cordova Plugin for Apache Cordova
+* [IOT Espressif Android ★ 46 ⧗ 1](https://github.com/EspressifApp/IOT-Espressif-Android) - is used to control ESP8266 device by Android pad or phone.
 * [PhoneGap NFC ★ 312 ⧗ 2](https://github.com/chariotsolutions/phonegap-nfc) - PhoneGap NFC Plugin
-* [IOT Espressif Android](https://github.com/EspressifApp/IOT-Espressif-Android) - is used to control ESP8266 device by Android pad or phone.
 
 ## OS
 
@@ -114,11 +115,11 @@ A curated list of IoT. Everyone can contribute here!
 * **[RIOT ★ 748 ⧗ 1](https://github.com/RIOT-OS/RIOT)** - The friendly Operating System for the Internet of Things
 * [RT-Thread ★ 493 ⧗ 0](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source real-time operating system for embedded devices from China.
 * **[seL4 Microkernel ★ 1344 ⧗ 1](https://github.com/seL4/seL4)** - The world's first operating-system kernel with an end-to-end proof of implementation correctness and security enforcement is available as open source.
+* [Silk ★ 74 ⧗ 2](https://github.com/silklabs/silk) - is a free (as in free beer) firmware for a number of smartphones based on the open-source Android operating system with a nodejs layer on top of it that makes it possible to write programs and get access to hardware aspects using only simple JavaScript. 
 * [Snappy Ubuntu Core](http://developer.ubuntu.com/en/snappy/) - Canonical, A new, transactionally updated Ubuntu for clouds and devices.
+* [TachyOS ★ 7 ⧗ 82](https://github.com/fritzprix/TachyOS) - is the RTOS based on microkernel architecture which includes only minimal components like thread / synchronization, memory management, inter-thread communication while supporting execution context / address space isolation(protection) and extensible modular interface.
 * **[TinyOS ★ 543 ⧗ 0](https://github.com/tinyos/tinyos-main)** - designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters.
 * [Zephyr ★ 12 ⧗ 5](https://github.com/cfriedt/zephyr) -  is a small, scalable real-time operating system for use on resource-constrained systems supporting multiple architectures.
-* [TachyOS](https://github.com/fritzprix/TachyOS) - is the RTOS based on microkernel architecture which includes only minimal components like thread / synchronization, memory management, inter-thread communication while supporting execution context / address space isolation(protection) and extensible modular interface.
-* [Silk](https://github.com/silklabs/silk) - is a free (as in free beer) firmware for a number of smartphones based on the open-source Android operating system with a nodejs layer on top of it that makes it possible to write programs and get access to hardware aspects using only simple JavaScript. 
 
 ## Platform
 
@@ -130,8 +131,8 @@ A curated list of IoT. Everyone can contribute here!
 * [Pagenodes ★ 99 ⧗ 0](https://github.com/monteslu/pagenodes) - Completely Browser Based IOT Platform
 * [Particle(Spark)](http://spark.github.io/) - Particle (formally Spark) is a complete, open source, full-stack solution for cloud-connected devices.
 * **[PlatformIO ★ 980 ⧗ 0](https://github.com/platformio/platformio)** - PlatformIO is a cross-platform code builder and the missing library manager.
+* [ThingEngine ★ 3 ⧗ 0](https://github.com/Stanford-Mobisocial-IoT-Lab/thingengine-core) - An open source platform for IoT rules that you can execute anywhere you want.
 * [Undercontrol ★ 22 ⧗ 0](https://github.com/daraosn/undercontrol) - Simple realtime IoT Platform with MQTT and Web-sockets support
-* [ThingEngine](https://github.com/Stanford-Mobisocial-IoT-Lab/thingengine-core) - An open source platform for IoT rules that you can execute anywhere you want.
 
 ## APIs
 
@@ -154,12 +155,12 @@ layered architecture of JTAG interface and TAP support
 
 ## Data visualization
 
+* [Arbela ★ 12 ⧗ 2](https://github.com/walkingtree/arbela) - Rich, Extensible, Customizable, and Configurable Dashboard.
 * **[D3.JS ★ 49188 ⧗ 0](https://github.com/mbostock/d3)** - A JavaScript visualization library for HTML and SVG
 * **[Dashing ★ 10067 ⧗ 0](https://github.com/Shopify/dashing)** - Dashing is a Sinatra based framework that lets you build beautiful dashboards.
 * **[ECharts ★ 11457 ⧗ 0](https://github.com/ecomfe/echarts)** - Echarts is a commercial charting solution originally intended to address the report need of the Company's various business systems.
 * **[Freeboard ★ 3034 ⧗ 0](https://github.com/Freeboard/freeboard)** - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
 * **[HighCharts ★ 4949 ⧗ 0](https://github.com/highslide-software/highcharts.com)** - Highcharts JS, the JavaScript charting framework
-* [Arbela](https://github.com/walkingtree/arbela) - Rich, Extensible, Customizable, and Configurable Dashboard.
 
 ## Hardware
 
@@ -238,7 +239,7 @@ layered architecture of JTAG interface and TAP support
 * [ESP8266 MQTT ★ 440 ⧗ 0](https://github.com/tuanpmt/esp_mqtt) - MQTT client library for ESP8266 Soc 
 * [Homie for ESP8266 ★ 115 ⧗ 1](https://github.com/marvinroger/homie-esp8266) - An Arduino for ESP8266 implementation of Homie, an MQTT convention for the IoT.
 * [Java mqtt-client ★ 405 ⧗ 2](https://github.com/fusesource/mqtt-client) - A Java MQTT Client.
-* [m2mqtt](https://github.com/ppatierno/m2mqtt) - MQTT Client Library for .Net and WinRT.
+* [m2mqtt ★ 69 ⧗ 11](https://github.com/ppatierno/m2mqtt) - MQTT Client Library for .Net and WinRT.
 * [moquette ★ 309 ⧗ 2](https://github.com/andsel/moquette) - Java MQTT lightweight broker.
 * **[mosca ★ 1097 ⧗ 0](https://github.com/mcollina/mosca)** - Mosca is a node.js mqtt broker.
 * [Mosquitto ★ 158 ⧗ 0](https://github.com/eclipse/mosquitto) - An Open Source MQTT v3.1/v3.1.1 Broker.
@@ -256,12 +257,12 @@ layered architecture of JTAG interface and TAP support
 * [h5.coap ★ 36 ⧗ 26](https://github.com/morkai/h5.coap) - Implementation of the Constrained Application Protocol (CoAP) client for node.js.
 * [iCoAP ★ 28 ⧗ 21](https://github.com/stuffrabbit/iCoAP) - Objective-C Client Implementation of CoAP.
 * [microcoap](https://github.com/ - -/microcoap) - A small CoAP implementation for microcontrollers.
+* [MQTT Client Framework ★ 312 ⧗ 1](https://github.com/ckrey/MQTT-Client-Framework) - iOS, OSX, tvOS native ObjectiveC MQTT Client Framework.
 * [Node CoAP ★ 176 ⧗ 11](https://github.com/mcollina/node-coap) - node-coap is a client and server library for CoAP modelled after the http module.
 * **[PubSub Client ★ 684 ⧗ 0](https://github.com/knolleary/pubsubclient)** - A client library for the Arduino Ethernet Shield that provides support for MQTT.
 * [Python CoAP ★ 36 ⧗ 5](https://github.com/openwsn-berkeley/coap) - A CoAP Python library.
 * [SwiftCoAP ★ 22 ⧗ 12](https://github.com/stuffrabbit/SwiftCoAP) - Swift Server/Client Implementation of CoAP.
 * [txThings ★ 48 ⧗ 3](https://github.com/siskin/txThings) - CoAP library for Twisted framework.
-* [MQTT Client Framework](https://github.com/ckrey/MQTT-Client-Framework) - iOS, OSX, tvOS native ObjectiveC MQTT Client Framework.
 
 ### Spark
 
@@ -290,11 +291,11 @@ layered architecture of JTAG interface and TAP support
 ### Others
 
 * [IBM messaging](https://github.com/ibm-messaging) - Community around IBM Messaging products.
+* [IotWeb ★ 4 ⧗ 9](https://github.com/sensaura-public/iotweb) - A Embedded HTTP and WebSocket Server for UWP/.NET 4.5.
 * **[meshblu ★ 738 ⧗ 0](https://github.com/octoblu/meshblu)** - Machine-to-machine instant messaging platform for the internet of things.
 * [Python Enocean ★ 13 ⧗ 45](https://github.com/kipe/enocean) - A Python library for reading and controlling EnOcean devices.
 * [The Things Network ★ 67 ⧗ 4](https://github.com/TheThingsNetwork/ttn) - The Things Network is a global open crowdsourced Internet of Things data network.
 * [WAMP Protocol ★ 228 ⧗ 1](https://github.com/wamp-proto/wamp-proto) - The Web Application Messaging Protocol The Web Application Messaging Protocol.
-* [IotWeb](https://github.com/sensaura-public/iotweb) - A Embedded HTTP and WebSocket Server for UWP/.NET 4.5.
 
 ## Software
 
