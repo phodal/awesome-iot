@@ -268,6 +268,10 @@ layered architecture of JTAG interface and TAP support
 * [spark-protocol ★ 81 ⧗ 14](https://github.com/spark/spark-protocol) - Node.JS module for hosting direct encrypted CoAP socket connections.
 * [spark-server ★ 371 ⧗ 13](https://github.com/spark/spark-server) - An API compatible open source server for interacting with devices speaking the spark-protocol
 
+### WeMo
+
+* [ouimeaux](https://github.com/iancmcc/ouimeaux) - Open source control for Belkin WeMo devices.
+
 ## Hardware Com
 
 ### NFC
