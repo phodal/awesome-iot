@@ -180,12 +180,12 @@ layered architecture of JTAG interface and TAP support
 
 ## Home automation
 
-* [⚡Magic Mirror⚡](https://github.com/MicrosoftEdge/magic-mirror-demo) - A ⚡Magic Mirror⚡ powered by a UWP Hosted Web App.
 * [CK.HomeAutomation ★ 15 ⧗ 9](https://github.com/chkr1011/CK.HomeAutomation) - The first open source Home Automation SDK for Windows 10 IoT Core.
 * [Eclipse SmartHome](http://eclipse.org/smarthome/) - Smart Home adoption will only gain momentum if the different devices can be connected into over-arching use cases, but currently the market for Smart Home systems and IoT gadgets is heavily fragmented. 
 * **[heimcontrol.js ★ 1306 ⧗ 4](https://github.com/ni-c/heimcontrol.js)** -  Home-Automation with node.js and Raspberry PI
 * **[home-assistant ★ 3237 ⧗ 0](https://github.com/balloob/home-assistant)** - Open-source home automation platform running on Python 3
 * [home.pi ★ 145 ⧗ 1](https://github.com/denschu/home.pi) - Home Automation with AngularJS and MQTT on a Raspberry Pi
+* **[Magic Mirror ★ 503 ⧗ 0](https://github.com/MicrosoftEdge/magic-mirror-demo)** - A ⚡Magic Mirror⚡ powered by a UWP Hosted Web App.
 * [Mozilla Smart Home ★ 4 ⧗ 8](https://github.com/mozilla/smarthome.iot) - offers a middle ground between "in a box" solutions like Apple Homekit and DIY solutions like Raspberry Pi
 * [Ninja Blocks](https://developers.ninja/) - Smart home controller. A computer for the coffee table.
 * **[openHAB ★ 2536 ⧗ 0](https://github.com/openhab/openhab)** - a vendor and technology agnostic open source automation software for your home.
@@ -270,9 +270,10 @@ layered architecture of JTAG interface and TAP support
 
 ### WeMo
 
-* [ouimeaux](https://github.com/iancmcc/ouimeaux) - Open source control for Belkin WeMo devices.
+* [ouimeaux ★ 319 ⧗ 0](https://github.com/iancmcc/ouimeaux) - Open source control for Belkin WeMo devices.
 
 ## Hardware Com
+
 
 ### NFC
 
