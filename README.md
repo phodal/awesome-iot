@@ -230,6 +230,8 @@ layered architecture of JTAG interface and TAP support
 * [node-iotdb ★ 19 ⧗ 61](https://github.com/dpjanes/node-iotdb) - Easily control the Internet of Things using Semantics.
 * [Mongoose Flashing Tool](https://github.com/cesanta/mongoose-flashing-tool) - Mongoose Flashing Tool (also called MFT) is the Mongoose IoT Platform flashing tool.
 * [ESP8266-Wifi-Relay](https://github.com/JanGoe/esp8266-wifi-relay) - ESP8266-ESP12e Wifi Doppel Relay IOT Unterputz Montage möglich / Schaltaktor.
+* [K3PO](https://github.com/k3po/k3po) - is a network driver and language agnostic testing tool.
+* [UniK](https://github.com/emc-advanced-dev/unik) -  is a tool for compiling application sources into unikernels (lightweight bootable disk images) rather than binaries.
 
 ## Protocol Library
 
@@ -342,7 +344,7 @@ layered architecture of JTAG interface and TAP support
 
 * [connectthedots ★ 307 ⧗ 0](https://github.com/Azure/connectthedots) - Connect tiny devices to Microsoft Azure services to build IoT solutions
 * **[Freeboard ★ 3034 ⧗ 0](https://github.com/Freeboard/freeboard)** - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
-* [souliss ★ 137 ⧗ 8](https://github.com/souliss/souliss) - Arduino based Distributed Networking Framework for Smart Homes and IoT
+* [souliss ★ 137 ⧗ 8](https://github.com/souliss/souliss) - Arduino based Distributed Networking Framework for Smart Homes and IoT.
 
 # Contributing
 
