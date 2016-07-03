@@ -224,14 +224,14 @@ layered architecture of JTAG interface and TAP support
 
 ### Others
 
+* [ESP8266-Wifi-Relay ★ 31 ⧗ 19](https://github.com/JanGoe/esp8266-wifi-relay) - ESP8266-ESP12e Wifi Doppel Relay IOT Unterputz Montage möglich / Schaltaktor.
+* [K3PO ★ 22 ⧗ 9](https://github.com/k3po/k3po) - is a network driver and language agnostic testing tool.
 * **[LittleD ★ 545 ⧗ 3](https://github.com/graemedouglas/LittleD)** - A relational database for embedded devices and sensors nodes.
 * **[mbed TLS ★ 601 ⧗ 0](https://github.com/ARMmbed/mbedtls)** - An open source, portable, easy to use, readable and flexible SSL library
 * **[Mongoose ★ 2625 ⧗ 0](https://github.com/cesanta/mongoose)** - Mongoose is ideal for embedded environments, it has been designed as an open source platform for connecting devices and bringing them online. 
+* [Mongoose Flashing Tool ★ 36 ⧗ 7](https://github.com/cesanta/mongoose-flashing-tool) - Mongoose Flashing Tool (also called MFT) is the Mongoose IoT Platform flashing tool.
 * [node-iotdb ★ 19 ⧗ 61](https://github.com/dpjanes/node-iotdb) - Easily control the Internet of Things using Semantics.
-* [Mongoose Flashing Tool](https://github.com/cesanta/mongoose-flashing-tool) - Mongoose Flashing Tool (also called MFT) is the Mongoose IoT Platform flashing tool.
-* [ESP8266-Wifi-Relay](https://github.com/JanGoe/esp8266-wifi-relay) - ESP8266-ESP12e Wifi Doppel Relay IOT Unterputz Montage möglich / Schaltaktor.
-* [K3PO](https://github.com/k3po/k3po) - is a network driver and language agnostic testing tool.
-* [UniK](https://github.com/emc-advanced-dev/unik) -  is a tool for compiling application sources into unikernels (lightweight bootable disk images) rather than binaries.
+* **[UniK ★ 593 ⧗ 0](https://github.com/emc-advanced-dev/unik)** -  is a tool for compiling application sources into unikernels (lightweight bootable disk images) rather than binaries.
 
 ## Protocol Library
 
