@@ -228,6 +228,8 @@ layered architecture of JTAG interface and TAP support
 * **[mbed TLS ★ 601 ⧗ 0](https://github.com/ARMmbed/mbedtls)** - An open source, portable, easy to use, readable and flexible SSL library
 * **[Mongoose ★ 2625 ⧗ 0](https://github.com/cesanta/mongoose)** - Mongoose is ideal for embedded environments, it has been designed as an open source platform for connecting devices and bringing them online. 
 * [node-iotdb ★ 19 ⧗ 61](https://github.com/dpjanes/node-iotdb) - Easily control the Internet of Things using Semantics.
+* [Mongoose Flashing Tool](https://github.com/cesanta/mongoose-flashing-tool) - Mongoose Flashing Tool (also called MFT) is the Mongoose IoT Platform flashing tool.
+* [ESP8266-Wifi-Relay](https://github.com/JanGoe/esp8266-wifi-relay) - ESP8266-ESP12e Wifi Doppel Relay IOT Unterputz Montage möglich / Schaltaktor.
 
 ## Protocol Library
 
