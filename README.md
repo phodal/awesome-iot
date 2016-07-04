@@ -7,7 +7,7 @@ A curated list of IoT. Everyone can contribute here!
 - [Library](#library)
     - [SDK](#sdk)
     - [Arduino](#arduino)
-    - [low level](#low-level)
+    - [Low Level](#low-level)
 - [Android](#android)
 - [OS](#os)
 - [Platform](#platform)
@@ -75,7 +75,7 @@ A curated list of IoT. Everyone can contribute here!
 * [Windows Remote Arduino ★ 98 ⧗ 13](https://github.com/ms-iot/remote-wiring) - Remote "Arduino Wiring" interface for Windows 8.1, Windows Phone 8.1 and Windows 10. Used to control an Arduino from a Universal Windows Platform application.
 * [WiringPi ★ 455 ⧗ 11](https://github.com/WiringPi/WiringPi) - Gordon's Arduino wiring-like WiringPi Library for the Raspberry Pi.
 
-### low level
+### Low Level
 
 * [btstack ★ 151 ⧗ 1](https://github.com/bluekitchen/btstack) - Dual-mode Bluetooth stack, with small memory footprint.
 * [CocoaMQTT ★ 210 ⧗ 0](https://github.com/emqtt/CocoaMQTT) - MQTT for iOS and OS X written with Swift.
@@ -108,6 +108,7 @@ A curated list of IoT. Everyone can contribute here!
 * [f9-kernel ★ 316 ⧗ 4](https://github.com/f9micro/f9-kernel) - An efficient and secure microkernel built for ARM Cortex-M cores, inspired by L4
 * [Hypriot ★ 54 ⧗ 13](https://github.com/hypriot/rpi-kernel) - get you started with Docker on a Raspberry Pi in no time.
 * [JanOS ★ 138 ⧗ 0](https://github.com/jan-os/janos) - JanOS is an operating system designed to run on the chipset of mobile phones. 
+* [OpenWrt ★ 230 ⧗ 173](https://github.com/openwrt/openwrt) - OpenWrt is described as a Linux distribution for embedded devices.
 * [Linino ★ 83 ⧗ 13](https://github.com/arduino/linino) - Linino is a GNU/Linux distribution based on OpenWRT and mantained by DogHunter.
 * [macchina.io ★ 144 ⧗ 0](https://github.com/macchina-io/macchina.io) - An open-source toolkit for building embedded IoT applications that connect sensors, devices and cloud services.
 * **[NodeOS ★ 3605 ⧗ 0](https://github.com/nodeos/nodeos)** - Lightweight operating system using Node.js as userspace.
@@ -177,6 +178,7 @@ layered architecture of JTAG interface and TAP support
 * [Raspberry Pi](https://www.raspberrypi.org/) - a tiny and affordable computer that you can use to learn programming through fun, practical projects
 * [SquareWear](http://rayshobby.net/sqrwear/) - An Open-Source Arduino-based Wearable Microcontroller
 * [Tessel](https://tessel.io/) - Tessel is a completely open source and community-driven IoT and robotics development. platform.
+* [Widora ★ 15 ⧗ 21](https://github.com/widora/openwrt_widora) - Widora is open source WiFi development hardware prototype with sound card based on MT7688A running [OpenWrt](https://github.com/openwrt/openwrt).
 
 ## Home automation
 
