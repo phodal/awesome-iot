@@ -178,6 +178,7 @@ layered architecture of JTAG interface and TAP support
 * [Raspberry Pi](https://www.raspberrypi.org/) - a tiny and affordable computer that you can use to learn programming through fun, practical projects
 * [SquareWear](http://rayshobby.net/sqrwear/) - An Open-Source Arduino-based Wearable Microcontroller
 * [Tessel](https://tessel.io/) - Tessel is a completely open source and community-driven IoT and robotics development. platform.
+* [Widora ★ 15 ⧗ 21](https://github.com/widora/openwrt_widora) - Widora is open source WiFi development hardware prototype with sound card based on MT7688A running [OpenWrt](https://github.com/openwrt/openwrt).
 
 ## Home automation
 
