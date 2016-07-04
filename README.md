@@ -13,10 +13,10 @@ A curated list of IoT. Everyone can contribute here!
 - [Platform](#platform)
 - [APIs](#apis)
 - [Middleware](#middleware)
-- [Toolkits inlucde Non-OS](#toolkits-inlucde-non-os)
-- [Data visualization](#data-visualization)
+- [Toolkits Inlucde Non-OS](#toolkits-inlucde-non-os)
+- [Data Visualization](#data-visualization)
 - [Hardware](#hardware)
-- [Home automation](#home-automation)
+- [Home Automation](#home-automation)
 - [IDE](#ide)
 - [Robotics](#robotics)
 - [Others](#others)
@@ -28,7 +28,7 @@ A curated list of IoT. Everyone can contribute here!
     - [Messaging](#messaging)
 - [Software](#software)
 - [Tools](#tools)
-- [Resources-websites-projects](#resources-websites-projects)
+- [Resources-Websites-Projects](#resources-websites-projects)
     - [WebSite](#website)
     - [Blog](#blog)
     - [GitHub Org.](#github-org)
@@ -64,7 +64,7 @@ A curated list of IoT. Everyone can contribute here!
 * [Azure IoT Gateway SDK ★ 26 ⧗ 2](https://github.com/Azure/azure-iot-gateway-sdk) - contains the infrastructure and modules to create IoT gateway solutions.
 * [Cylon.js For Intel IoT ★ 29 ⧗ 40](https://github.com/hybridgroup/cylon-intel-iot) - is a JavaScript framework for robotics, physical computing, and the Internet of Things (IoT).
 * [Electron ★ 41 ⧗ 16](https://github.com/spark/electron) - The Electron is a tiny cellular development kit based around U-Blox's SARA U-series (3G) or G-series (2G) cellular modem module and a STM32F205 ARM Cortex M3 microcontroller.
-* **[ESP8266 Arduino core ★ 2588 ⧗ 0](https://github.com/esp8266/Arduino)** - Arduino core for ESP8266 WiFi chip.
+* **[ESP8266 Arduino Core ★ 2588 ⧗ 0](https://github.com/esp8266/Arduino)** - Arduino core for ESP8266 WiFi chip.
 * [Microsoft Azure IoT SDK ★ 203 ⧗ 1](https://github.com/Azure/azure-iot-sdks) - SDKs for a variety of languages and platforms that help connect devices to Microsoft Azure IoT services.
 
 ### Arduino
@@ -145,16 +145,16 @@ A curated list of IoT. Everyone can contribute here!
 * [OpenIoT ★ 205 ⧗ 0](https://github.com/OpenIotOrg/openiot) - The OpenIoT middleware infrastructure will support flexible configuration and deployment of algorithms for collection
 * [SiteWhere ★ 61 ⧗ 0](https://github.com/sitewhere/sitewhere) - SiteWhere open-source IoT platform for device connectivity & management, data persistence, processing, integration, and analytics -- both in cloud and on-premise.
 
-## Toolkits include Non-OS
+## Toolkits Include Non-OS
 
-layered architecture of JTAG interface and TAP support 
+Layered architecture of JTAG interface and TAP support 
 
 * [IoT Toolkit ★ 39 ⧗ 41](https://github.com/connectIOT/iottoolkit) - Reference implementation of the smart object API
 * [KinomaJS ★ 293 ⧗ 0](https://github.com/Kinoma/kinomajs) - A JavaScript runtime optimized for the applications that power IoT devices.
 * [macchina.io ★ 144 ⧗ 0](https://github.com/macchina-io/macchina.io) - An open-source toolkit for building embedded IoT applications that connect sensors, devices and cloud services.
 * [OpenOCD ★ 10 ⧗ 34](https://github.com/arduino/OpenOCD) - OpenOCD provides on-chip programming and debugging support with a
 
-## Data visualization
+## Data Visualization
 
 * [Arbela ★ 12 ⧗ 2](https://github.com/walkingtree/arbela) - Rich, Extensible, Customizable, and Configurable Dashboard.
 * **[D3.JS ★ 49188 ⧗ 0](https://github.com/mbostock/d3)** - A JavaScript visualization library for HTML and SVG
@@ -180,7 +180,7 @@ layered architecture of JTAG interface and TAP support
 * [Tessel](https://tessel.io/) - Tessel is a completely open source and community-driven IoT and robotics development. platform.
 * [Widora ★ 15 ⧗ 21](https://github.com/widora/openwrt_widora) - Widora is open source WiFi development hardware prototype with sound card based on MT7688A running [OpenWrt](https://github.com/openwrt/openwrt).
 
-## Home automation
+## Home Automation
 
 * [CK.HomeAutomation ★ 15 ⧗ 9](https://github.com/chkr1011/CK.HomeAutomation) - The first open source Home Automation SDK for Windows 10 IoT Core.
 * [Eclipse SmartHome](http://eclipse.org/smarthome/) - Smart Home adoption will only gain momentum if the different devices can be connected into over-arching use cases, but currently the market for Smart Home systems and IoT gadgets is heavily fragmented. 
@@ -314,7 +314,7 @@ layered architecture of JTAG interface and TAP support
 * [Paho](http://www.eclipse.org/paho) - The Paho project provides open-source client implementations of MQTT and MQTT-SN messaging protocols aimed at new, existing, and emerging applications for Machine‑to‑Machine (M-2-M) and Internet of Things (IoT).
 * [Smart.js ★ 487 ⧗ 0](https://github.com/cesanta/smart.js) - Embedded Javascript engine for C/C++ with networking, file, database and device interfaces
 
-## Resources-websites-projects
+## Resources-Websites-Projects
 
 
 ### WebSite
