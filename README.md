@@ -7,7 +7,7 @@ A curated list of IoT. Everyone can contribute here!
 - [Library](#library)
     - [SDK](#sdk)
     - [Arduino](#arduino)
-    - [low level](#low-level)
+    - [Low Level](#low-level)
 - [Android](#android)
 - [OS](#os)
 - [Platform](#platform)
@@ -75,7 +75,7 @@ A curated list of IoT. Everyone can contribute here!
 * [Windows Remote Arduino ★ 98 ⧗ 13](https://github.com/ms-iot/remote-wiring) - Remote "Arduino Wiring" interface for Windows 8.1, Windows Phone 8.1 and Windows 10. Used to control an Arduino from a Universal Windows Platform application.
 * [WiringPi ★ 455 ⧗ 11](https://github.com/WiringPi/WiringPi) - Gordon's Arduino wiring-like WiringPi Library for the Raspberry Pi.
 
-### low level
+### Low Level
 
 * [btstack ★ 151 ⧗ 1](https://github.com/bluekitchen/btstack) - Dual-mode Bluetooth stack, with small memory footprint.
 * [CocoaMQTT ★ 210 ⧗ 0](https://github.com/emqtt/CocoaMQTT) - MQTT for iOS and OS X written with Swift.
