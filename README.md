@@ -213,6 +213,7 @@ Layered architecture of JTAG interface and TAP support
 * [fluent-bit ★ 90 ⧗ 4](https://github.com/fluent/fluent-bit) - is a data collector for Linux, Embedded Linux, OSX and BSD family operating systems.
 * [Kuzzle ★ 267 ⧗ 0](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT.
 * **[Node-RED ★ 2513 ⧗ 0](https://github.com/node-red/node-red)** - A visual tool for wiring the Internet of Things.
+* [Corto](https://github.com/cortoproject/corto) - Corto is a tested, proven architecture for normalizing data from different technologies into one view regardless of location, format or datamodel. 
 
 ## Language
 
