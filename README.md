@@ -180,6 +180,7 @@ Layered architecture of JTAG interface and TAP support
 * [Tessel](https://tessel.io/) - Tessel is a completely open source and community-driven IoT and robotics development. platform.
 * [Widora ★ 15 ⧗ 21](https://github.com/widora/openwrt_widora) - Widora is open source WiFi development hardware prototype with sound card based on MT7688A running [OpenWrt](https://github.com/openwrt/openwrt).
 * [APixel](https://github.com/AprilBrother/APixel) - APixel is a combination of a ESP8266 dev board with a WS2812B (Addressable RGB) LED all in one.
+* [Wemos](http://www.wemos.cc) - Very-cheap firmware based on ESP8266 wifi-soc.
 
 ## Home Automation
 
