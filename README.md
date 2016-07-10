@@ -179,6 +179,7 @@ Layered architecture of JTAG interface and TAP support
 * [SquareWear](http://rayshobby.net/sqrwear/) - An Open-Source Arduino-based Wearable Microcontroller
 * [Tessel](https://tessel.io/) - Tessel is a completely open source and community-driven IoT and robotics development. platform.
 * [Widora ★ 15 ⧗ 21](https://github.com/widora/openwrt_widora) - Widora is open source WiFi development hardware prototype with sound card based on MT7688A running [OpenWrt](https://github.com/openwrt/openwrt).
+* [APixel](https://github.com/AprilBrother/APixel) - APixel is a combination of a ESP8266 dev board with a WS2812B (Addressable RGB) LED all in one.
 
 ## Home Automation
 
@@ -253,6 +254,7 @@ Layered architecture of JTAG interface and TAP support
 * **[MQTT.js ★ 1359 ⧗ 0](https://github.com/mqttjs/MQTT.js)** - The MQTT client for Node.js and the browser.
 * **[SurgeMQ ★ 776 ⧗ 1](https://github.com/surgemq/surgemq)** -  is a high performance MQTT broker and client library that aims to be fully compliant with MQTT 3.1 and 3.1.1 specs. 
 * **[VerneMQ ★ 561 ⧗ 1](https://github.com/erlio/vernemq)** - A distributed MQTT message broker.
+* [neurite](https://github.com/linkgo/neurite) - A serial to MQTT bridge, an easier way to build IoT product with esp8266 Arduino.
 
 ### CoAP
 
@@ -348,6 +350,10 @@ Layered architecture of JTAG interface and TAP support
 * [connectthedots ★ 307 ⧗ 0](https://github.com/Azure/connectthedots) - Connect tiny devices to Microsoft Azure services to build IoT solutions
 * **[Freeboard ★ 3034 ⧗ 0](https://github.com/Freeboard/freeboard)** - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
 * [souliss ★ 137 ⧗ 8](https://github.com/souliss/souliss) - Arduino based Distributed Networking Framework for Smart Homes and IoT.
+
+## Tutorial
+
+ - [micro-services-tutorial-iot](https://github.com/nearform/micro-services-tutorial-iot) - An instructor led microservices workshop.
 
 # Contributing
 
