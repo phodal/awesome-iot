@@ -106,6 +106,7 @@ A curated list of IoT. Everyone can contribute here!
 * [Brillo](https://developers.google.com/brillo/) - Brillo extends the Android platform to all your connected devices.
 * **[Contiki ★ 1813 ⧗ 0](https://github.com/contiki-os/contiki)** - The Open Source OS for the Internet of Things
 * [f9-kernel ★ 316 ⧗ 4](https://github.com/f9micro/f9-kernel) - An efficient and secure microkernel built for ARM Cortex-M cores, inspired by L4
+* [FlingOS](https://github.com/FlingOS/FlingOS) - An educational operating system written in C#. A great stepping stone from high to low level development.
 * [Hypriot ★ 54 ⧗ 13](https://github.com/hypriot/rpi-kernel) - get you started with Docker on a Raspberry Pi in no time.
 * [JanOS ★ 138 ⧗ 0](https://github.com/jan-os/janos) - JanOS is an operating system designed to run on the chipset of mobile phones. 
 * [Linino ★ 83 ⧗ 13](https://github.com/arduino/linino) - Linino is a GNU/Linux distribution based on OpenWRT and mantained by DogHunter.
