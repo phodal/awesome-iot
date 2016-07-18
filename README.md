@@ -106,7 +106,7 @@ A curated list of IoT. Everyone can contribute here!
 * [Brillo](https://developers.google.com/brillo/) - Brillo extends the Android platform to all your connected devices.
 * **[Contiki ★ 1813 ⧗ 0](https://github.com/contiki-os/contiki)** - The Open Source OS for the Internet of Things
 * [f9-kernel ★ 316 ⧗ 4](https://github.com/f9micro/f9-kernel) - An efficient and secure microkernel built for ARM Cortex-M cores, inspired by L4
-* [FlingOS](https://github.com/FlingOS/FlingOS) - An educational operating system written in C#. A great stepping stone from high to low level development.
+* [FlingOS ★ 176 ⧗ 0](https://github.com/FlingOS/FlingOS) - An educational operating system written in C#. A great stepping stone from high to low level development.
 * [Hypriot ★ 54 ⧗ 13](https://github.com/hypriot/rpi-kernel) - get you started with Docker on a Raspberry Pi in no time.
 * [JanOS ★ 138 ⧗ 0](https://github.com/jan-os/janos) - JanOS is an operating system designed to run on the chipset of mobile phones. 
 * [Linino ★ 83 ⧗ 13](https://github.com/arduino/linino) - Linino is a GNU/Linux distribution based on OpenWRT and mantained by DogHunter.
@@ -227,7 +227,7 @@ Layered architecture of JTAG interface and TAP support
 * **[JerryScript ★ 1244 ⧗ 0](https://github.com/Samsung/jerryscript)** - A JavaScript engine for Internet of Things.
 * **[luvit ★ 2237 ⧗ 0](https://github.com/luvit/luvit)** - Node.JS for the Lua Inventor.
 * **[MicroPython ★ 3070 ⧗ 0](https://github.com/micropython/micropython)** - MicroPython is a lean and fast implementation of the Python 3 programming language that is optimised to run on a microcontroller. 
-* [Terra](https://github.com/zdevito/terra) - is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language.
+* **[Terra ★ 1248 ⧗ 0](https://github.com/zdevito/terra)** - is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language.
 * **[V7 ★ 576 ⧗ 0](https://github.com/cesanta/v7)** - V7 is a JavaScript engine written in C. It makes it possible to program Internet of Things (IoT) devices in JavaScript.
 
 ### Others
