@@ -126,6 +126,7 @@ A curated list of IoT. Everyone can contribute here!
 ## Platform
 
 * [Clavin ★ 212 ⧗ 2](https://github.com/EricssonResearch/calvin-base) - Calvin is an application environment that lets things talk to things. It comprises of both a development framework for application developers, and a runtime environment that handles the running application. 
+* [DeviceHive] (https://github.com/devicehive) - IoT Data Platform. Wide range of connectivity options, device management, security and data processing.
 * **[IoT.js ★ 921 ⧗ 0](https://github.com/Samsung/iotjs)** - Platform for Internet of Things with JavaScript.
 * [Jasper](http://jasperproject.github.io/) - Jasper is an open source platform for developing always-on, voice-controlled applications.
 * [Lan ★ 105 ⧗ 0](https://github.com/phodal/lan) - Internet of Things Server Layer with CoAP, WebSocket, MQTT, HTTP Protocol
@@ -192,7 +193,7 @@ Layered architecture of JTAG interface and TAP support
 * [home.pi ★ 145 ⧗ 1](https://github.com/denschu/home.pi) - Home Automation with AngularJS and MQTT on a Raspberry Pi
 * **[Magic Mirror ★ 503 ⧗ 0](https://github.com/MicrosoftEdge/magic-mirror-demo)** - A ⚡Magic Mirror⚡ powered by a UWP Hosted Web App.
 * [Mozilla Smart Home ★ 4 ⧗ 8](https://github.com/mozilla/smarthome.iot) - offers a middle ground between "in a box" solutions like Apple Homekit and DIY solutions like Raspberry Pi
-* [Ninja Blocks](https://developers.ninja/) - Smart home controller. A computer for the coffee table.
+* [Ninja Blocks](https://ninjablocks.com/) - Smart home controller. A computer for the coffee table.
 * **[openHAB ★ 2536 ⧗ 0](https://github.com/openhab/openhab)** - a vendor and technology agnostic open source automation software for your home.
 * [openhab 2](https://github.com/openhab/openhab 2) - The open Home Automation Bus (openHAB) project aims at providing a universal integration platform for all things around home automation.
 * [pimatic ★ 313 ⧗ 0](https://github.com/pimatic/pimatic) - A home automation server and framework for the raspberry pi running on node.js
