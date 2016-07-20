@@ -183,6 +183,7 @@ Layered architecture of JTAG interface and TAP support
 * [Tessel](https://tessel.io/) - Tessel is a completely open source and community-driven IoT and robotics development. platform.
 * [Wemos](http://www.wemos.cc) - Very-cheap firmware based on ESP8266 wifi-soc.
 * [Widora ★ 15 ⧗ 21](https://github.com/widora/openwrt_widora) - Widora is open source WiFi development hardware prototype with sound card based on MT7688A running [OpenWrt](https://github.com/openwrt/openwrt).
+* [XDK](http://xdk.bosch-connectivity.com/hardware) - The Cross Domain Development Kit is a wireless sensor device that enables rapid prototyping of sensor based products and applications; also includes an SDK.
 
 ## Home Automation
 
