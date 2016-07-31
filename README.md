@@ -341,6 +341,7 @@ Layered architecture of JTAG interface and TAP support
 * [IBM IoT Blog](https://www.ibm.com/blogs/internet-of-things/) 
 * [IBM DeveloperWorks IoT](http://www.ibm.com/developerworks/cn/iot/)
 * [Intel IoT Blog](https://software.intel.com/zh-cn/iot/home)
+* [Microsoft IoT Blog](https://blogs.microsoft.com/iot/)
 
 ### GitHub Org.
 
