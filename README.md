@@ -248,7 +248,6 @@ Layered architecture of JTAG interface and TAP support
 
 ## Protocol Library
 
-
 ### MQTT
 
 * **[emqttd ★ 921 ⧗ 0](https://github.com/emqtt/emqttd)** - Erlang MQTT Broker
@@ -326,8 +325,11 @@ Layered architecture of JTAG interface and TAP support
 * [Paho](http://www.eclipse.org/paho) - The Paho project provides open-source client implementations of MQTT and MQTT-SN messaging protocols aimed at new, existing, and emerging applications for Machine‑to‑Machine (M-2-M) and Internet of Things (IoT).
 * [Smart.js ★ 487 ⧗ 0](https://github.com/cesanta/smart.js) - Embedded Javascript engine for C/C++ with networking, file, database and device interfaces
 
-## Resources-Websites-Projects
+## Voice
 
+* [chelexa](https://github.com/chelexa/chelexa) - Natural voice recognition IoT cloud chess solution via the Amazon Echo platform.
+
+## Resources-Websites-Projects
 
 ### WebSite
 
@@ -355,6 +357,7 @@ Layered architecture of JTAG interface and TAP support
 ### Free Book
 
 * **[Design IoT ★ 594 ⧗ 0](https://github.com/phodal/designiot)** - A Ebook to tech your create IoT System step by step.
+* [IoT-Firstep](https://github.com/nladuo/IoT-Firstep) - A Ebook to tech your create IoT System.
 
 ## Analytics
 
