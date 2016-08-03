@@ -39,6 +39,7 @@ A curated list of IoT. Everyone can contribute here!
 ## Framework
 
 * **[Cylon ★ 2339 ⧗ 0](https://github.com/hybridgroup/cylon)** - JavaScript framework for robotics, physical computing, and the Internet of Things.
+* [devify-server ★ 53 ⧗ 1](https://github.com/DevifyPlatform/devify-server) - s extremely light weight, and is very easy to use. It aims to help developers to create IoT application servers, faster.
 * **[GoBot ★ 2062 ⧗ 1](https://github.com/hybridgroup/gobot)** - Golang framework for robotics, physical computing, and the Internet of Things.
 * [Grow IoT ★ 7 ⧗ 7](https://github.com/CommonGarden/Grow-IoT) - is a full javascript based IoT stack with a simple API and basic user interface.
 * **[heimcontrol.js ★ 1306 ⧗ 4](https://github.com/ni-c/heimcontrol.js)** - Home-Automation with node.js and Raspberry PI.
@@ -54,7 +55,6 @@ A curated list of IoT. Everyone can contribute here!
 * [rpi-gpio.js ★ 221 ⧗ 5](https://github.com/JamesBarwell/rpi-gpio.js) - Control Raspberry Pi GPIO pins with node.js.
 * [SensorBee ★ 54 ⧗ 33](https://github.com/sensorbee/sensorbee) - Lightweight stream processing engine for IoT
 * **[Serverless ★ 7951 ⧗ 0](https://github.com/serverless/serverless)** - Serverless is the application framework for building web, mobile and IoT applications exclusively on Amazon Web Services' Lambda and API Gateway.
-* [devify-server](https://github.com/DevifyPlatform/devify-server) - s extremely light weight, and is very easy to use. It aims to help developers to create IoT application servers, faster.
 
 ## Library
 
@@ -126,8 +126,10 @@ A curated list of IoT. Everyone can contribute here!
 
 ## Platform
 
-* [Clavin ★ 212 ⧗ 2](https://github.com/EricssonResearch/calvin-base) - Calvin is an application environment that lets things talk to things. It comprises of both a development framework for application developers, and a runtime environment that handles the running application. 
 * [DeviceHive] (https://github.com/devicehive) - IoT Data Platform. Wide range of connectivity options, device management, security and data processing.
+
+* [[thing-it-node] ★ 20 ⧗ 3](https://github.com/marcgille/thing-it-node/) - A device-independent IoT platform including support of complex event processing, storyboards, and a mobile app.
+* [Clavin ★ 212 ⧗ 2](https://github.com/EricssonResearch/calvin-base) - Calvin is an application environment that lets things talk to things. It comprises of both a development framework for application developers, and a runtime environment that handles the running application. 
 * **[IoT.js ★ 921 ⧗ 0](https://github.com/Samsung/iotjs)** - Platform for Internet of Things with JavaScript.
 * [Jasper](http://jasperproject.github.io/) - Jasper is an open source platform for developing always-on, voice-controlled applications.
 * [Lan ★ 105 ⧗ 0](https://github.com/phodal/lan) - Internet of Things Server Layer with CoAP, WebSocket, MQTT, HTTP Protocol
@@ -135,7 +137,6 @@ A curated list of IoT. Everyone can contribute here!
 * [Pagenodes ★ 99 ⧗ 0](https://github.com/monteslu/pagenodes) - Completely Browser Based IOT Platform
 * [Particle(Spark)](http://spark.github.io/) - Particle (formally Spark) is a complete, open source, full-stack solution for cloud-connected devices.
 * **[PlatformIO ★ 980 ⧗ 0](https://github.com/platformio/platformio)** - PlatformIO is a cross-platform code builder and the missing library manager.
-* [[thing-it-node]](https://github.com/marcgille/thing-it-node/) - A device-independent IoT platform including support of complex event processing, storyboards, and a mobile app.
 * [ThingEngine ★ 3 ⧗ 0](https://github.com/Stanford-Mobisocial-IoT-Lab/thingengine-core) - An open source platform for IoT rules that you can execute anywhere you want.
 * [Undercontrol ★ 22 ⧗ 0](https://github.com/daraosn/undercontrol) - Simple realtime IoT Platform with MQTT and Web-sockets support
 
@@ -157,7 +158,7 @@ Layered architecture of JTAG interface and TAP support
 * [KinomaJS ★ 293 ⧗ 0](https://github.com/Kinoma/kinomajs) - A JavaScript runtime optimized for the applications that power IoT devices.
 * [macchina.io ★ 144 ⧗ 0](https://github.com/macchina-io/macchina.io) - An open-source toolkit for building embedded IoT applications that connect sensors, devices and cloud services.
 * [OpenOCD ★ 10 ⧗ 34](https://github.com/arduino/OpenOCD) - OpenOCD provides on-chip programming and debugging support with a
-* [pyOCD](https://github.com/mbedmicro/pyOCD) - Open source python library for programming and debugging ARM Cortex-M microcontrollers using CMSIS-DAP.
+* [pyOCD ★ 112 ⧗ 0](https://github.com/mbedmicro/pyOCD) - Open source python library for programming and debugging ARM Cortex-M microcontrollers using CMSIS-DAP.
 
 ## Data Visualization
 
@@ -337,12 +338,13 @@ Layered architecture of JTAG interface and TAP support
 
 ### Blog
 
-* [http://edi.wang/](http://edi.wang/) - ``ASP.NET``, ``Windows 10 IoT``
 * [IBM IoT Blog](https://www.ibm.com/blogs/internet-of-things/) 
-* [IBM DeveloperWorks IoT](http://www.ibm.com/developerworks/cn/iot/)
-* [Intel IoT Blog](https://software.intel.com/zh-cn/iot/home)
-* [Microsoft IoT Blog](https://blogs.microsoft.com/iot/)
-* [Arduino Create](https://create.arduino.cc)
+
+* [Arduino Create](https://create.arduino.cc) - None
+* [http://edi.wang/](http://edi.wang/) - ``ASP.NET``, ``Windows 10 IoT``
+* [IBM DeveloperWorks IoT](http://www.ibm.com/developerworks/cn/iot/) - None
+* [Intel IoT Blog](https://software.intel.com/zh-cn/iot/home) - None
+* [Microsoft IoT Blog](https://blogs.microsoft.com/iot/) - None
 
 ### GitHub Org.
 
@@ -361,9 +363,9 @@ Layered architecture of JTAG interface and TAP support
 ## Others
 
 * [connectthedots ★ 307 ⧗ 0](https://github.com/Azure/connectthedots) - Connect tiny devices to Microsoft Azure services to build IoT solutions
+* [django-th ★ 275 ⧗ 0](https://github.com/foxmask/django-th) - take the control of your data with this opensource clone of IFTTT, a bridge between your internet services.
 * **[Freeboard ★ 3034 ⧗ 0](https://github.com/Freeboard/freeboard)** - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
 * [souliss ★ 137 ⧗ 8](https://github.com/souliss/souliss) - Arduino based Distributed Networking Framework for Smart Homes and IoT.
-* [django-th](https://github.com/foxmask/django-th) - take the control of your data with this opensource clone of IFTTT, a bridge between your internet services.
 
 ## Tutorial
 
