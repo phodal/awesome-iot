@@ -163,12 +163,12 @@ Layered architecture of JTAG interface and TAP support
 ## Data Visualization
 
 * [Arbela ★ 12 ⧗ 2](https://github.com/walkingtree/arbela) - Rich, Extensible, Customizable, and Configurable Dashboard.
+* [Crouton ★ 75 ⧗ 0](https://github.com/edfungus/Crouton) - is a dashboard that lets you visualize and control your IOT devices with minimal setup. 
 * **[D3.JS ★ 49188 ⧗ 0](https://github.com/mbostock/d3)** - A JavaScript visualization library for HTML and SVG
 * **[Dashing ★ 10067 ⧗ 0](https://github.com/Shopify/dashing)** - Dashing is a Sinatra based framework that lets you build beautiful dashboards.
 * **[ECharts ★ 11457 ⧗ 0](https://github.com/ecomfe/echarts)** - Echarts is a commercial charting solution originally intended to address the report need of the Company's various business systems.
 * **[Freeboard ★ 3034 ⧗ 0](https://github.com/Freeboard/freeboard)** - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
 * **[HighCharts ★ 4949 ⧗ 0](https://github.com/highslide-software/highcharts.com)** - Highcharts JS, the JavaScript charting framework
-* [Crouton](https://github.com/edfungus/Crouton) - is a dashboard that lets you visualize and control your IOT devices with minimal setup. 
 
 ## Hardware
 
@@ -182,9 +182,9 @@ Layered architecture of JTAG interface and TAP support
 * [Intel Galileo](http://www.arduino.cc/en/ArduinoCertified/IntelGalileo) - Galileo is a microcontroller board based on the Intel® Quark SoC X1000 Application Processor, a 32-bit Intel Pentium-class system on a chip
 * [Microduino](https://www.microduino.cc/) - Microduino is about the size of a quarter and less than half the size of the original Arduino board.
 * [NodeMCU](http://www.nodemcu.com/) -  a firmware based on ESP8266 wifi-soc.
+* [Powerduino ★ 53 ⧗ 102](https://github.com/dekuNukem/Powerduino) - A fully programmable power strip with energy monitoring and wireless connectivity.
 * [PULPino ★ 201 ⧗ 0](https://github.com/pulp-platform/pulpino) - PULPino is an open-source microcontroller system, based on a small 32-bit RISC-V core developed at ETH Zurich. 
 * [Raspberry Pi](https://www.raspberrypi.org/) - a tiny and affordable computer that you can use to learn programming through fun, practical projects
-* [Powerduino](https://github.com/dekuNukem/Powerduino) - A fully programmable power strip with energy monitoring and wireless connectivity.
 * [SquareWear](http://rayshobby.net/sqrwear/) - An Open-Source Arduino-based Wearable Microcontroller
 * [Tessel](https://tessel.io/) - Tessel is a completely open source and community-driven IoT and robotics development. platform.
 * [Wemos](http://www.wemos.cc) - Very-cheap firmware based on ESP8266 wifi-soc.
@@ -249,6 +249,7 @@ Layered architecture of JTAG interface and TAP support
 * **[UniK ★ 593 ⧗ 0](https://github.com/emc-advanced-dev/unik)** -  is a tool for compiling application sources into unikernels (lightweight bootable disk images) rather than binaries.
 
 ## Protocol Library
+
 
 ### MQTT
 
@@ -329,9 +330,10 @@ Layered architecture of JTAG interface and TAP support
 
 ## Voice
 
-* [chelexa](https://github.com/chelexa/chelexa) - Natural voice recognition IoT cloud chess solution via the Amazon Echo platform.
+* [chelexa ★ 2 ⧗ 25](https://github.com/chelexa/chelexa) - Natural voice recognition IoT cloud chess solution via the Amazon Echo platform.
 
 ## Resources-Websites-Projects
+
 
 ### WebSite
 
@@ -344,6 +346,7 @@ Layered architecture of JTAG interface and TAP support
 ### Blog
 
 * [IBM IoT Blog](https://www.ibm.com/blogs/internet-of-things/) 
+
 * [Arduino Create](https://create.arduino.cc) - None
 * [http://edi.wang/](http://edi.wang/) - ``ASP.NET``, ``Windows 10 IoT``
 * [IBM DeveloperWorks IoT](http://www.ibm.com/developerworks/cn/iot/) - None
@@ -359,7 +362,7 @@ Layered architecture of JTAG interface and TAP support
 ### Free Book
 
 * **[Design IoT ★ 594 ⧗ 0](https://github.com/phodal/designiot)** - A Ebook to tech your create IoT System step by step.
-* [IoT-Firstep](https://github.com/nladuo/IoT-Firstep) - A Ebook to tech your create IoT System.
+* [IoT-Firstep ★ 24 ⧗ 9](https://github.com/nladuo/IoT-Firstep) - A Ebook to tech your create IoT System.
 
 ## Analytics
 
