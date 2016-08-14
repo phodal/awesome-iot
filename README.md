@@ -348,7 +348,6 @@ Layered architecture of JTAG interface and TAP support
 ### Blog
 
 * [IBM IoT Blog](https://www.ibm.com/blogs/internet-of-things/) 
-
 * [Arduino Create](https://create.arduino.cc) - None
 * [http://edi.wang/](http://edi.wang/) - ``ASP.NET``, ``Windows 10 IoT``
 * [IBM DeveloperWorks IoT](http://www.ibm.com/developerworks/cn/iot/) - None
@@ -379,8 +378,7 @@ Layered architecture of JTAG interface and TAP support
 
 ## Tutorial
 
- - [micro-services-tutorial-iot](https://github.com/nearform/micro-services-tutorial-iot) - An instructor led microservices workshop.
-
+* [micro-services-tutorial-iot](https://github.com/nearform/micro-services-tutorial-iot) - An instructor led microservices workshop.
 
 # Contributing
 
