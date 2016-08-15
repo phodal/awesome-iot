@@ -130,7 +130,6 @@ A curated list of IoT. Everyone can contribute here!
 ## Platform
 
 * [DeviceHive] (https://github.com/devicehive) - IoT Data Platform. Wide range of connectivity options, device management, security and data processing.
-
 * [[thing-it-node] ★ 20 ⧗ 3](https://github.com/marcgille/thing-it-node/) - A device-independent IoT platform including support of complex event processing, storyboards, and a mobile app.
 * [Clavin ★ 212 ⧗ 2](https://github.com/EricssonResearch/calvin-base) - Calvin is an application environment that lets things talk to things. It comprises of both a development framework for application developers, and a runtime environment that handles the running application. 
 * **[IoT.js ★ 921 ⧗ 0](https://github.com/Samsung/iotjs)** - Platform for Internet of Things with JavaScript.
