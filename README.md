@@ -136,7 +136,7 @@ A curated list of IoT. Everyone can contribute here!
 * [Jasper](http://jasperproject.github.io/) - Jasper is an open source platform for developing always-on, voice-controlled applications.
 * [Lan ★ 105 ⧗ 0](https://github.com/phodal/lan) - Internet of Things Server Layer with CoAP, WebSocket, MQTT, HTTP Protocol
 * [Mongoose IoT ★ 487 ⧗ 0](https://github.com/cesanta/iot) -  is a full-stack IoT platform including firmware and cloud components available for ESP8266.
-* [Pagenodes ★ 99 ⧗ 0](https://github.com/monteslu/pagenodes) - Completely Browser Based IOT Platform
+* [Pagenodes ★ 99 ⧗ 0](https://github.com/monteslu/pagenodes) - Completely Browser Based IOT Platform, A Chrome Progressive Web App.
 * [Particle(Spark)](http://spark.github.io/) - Particle (formally Spark) is a complete, open source, full-stack solution for cloud-connected devices.
 * **[PlatformIO ★ 980 ⧗ 0](https://github.com/platformio/platformio)** - PlatformIO is a cross-platform code builder and the missing library manager.
 * [ThingEngine ★ 3 ⧗ 0](https://github.com/Stanford-Mobisocial-IoT-Lab/thingengine-core) - An open source platform for IoT rules that you can execute anywhere you want.
