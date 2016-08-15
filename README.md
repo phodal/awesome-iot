@@ -102,6 +102,7 @@ A curated list of IoT. Everyone can contribute here!
 * [Cordova MQTT Plugin ★ 24 ⧗ 11](https://github.com/arcoirislabs/cordova-plugin-mqtt) - MQTT Cordova Plugin for Apache Cordova
 * [IOT Espressif Android ★ 46 ⧗ 1](https://github.com/EspressifApp/IOT-Espressif-Android) - is used to control ESP8266 device by Android pad or phone.
 * [PhoneGap NFC ★ 312 ⧗ 2](https://github.com/chariotsolutions/phonegap-nfc) - PhoneGap NFC Plugin
+* [PWAify](https://github.com/vladikoff/PWAify) - Experimental project to convert your PWA (Progressive Web App) into a cross-platform Electron app. Brings PWAs to your desktop.
 
 ## OS
 
