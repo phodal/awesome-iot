@@ -58,7 +58,6 @@ A curated list of IoT. Everyone can contribute here!
 
 ## Library
 
-
 ### SDK
 
 * [AWS IoT Arduino Yún SDK ★ 63 ⧗ 4](https://github.com/aws/aws-iot-device-sdk-arduino-yun) - SDK for connecting to AWS IoT from an Arduino Yún.
@@ -151,6 +150,7 @@ A curated list of IoT. Everyone can contribute here!
 * [Kaa ★ 234 ⧗ 0](https://github.com/kaaproject/kaa) - Kaa open-source middleware platform for building, managing, and integrating connected products with the Internet of Everything.
 * [OpenIoT ★ 205 ⧗ 0](https://github.com/OpenIotOrg/openiot) - The OpenIoT middleware infrastructure will support flexible configuration and deployment of algorithms for collection
 * [SiteWhere ★ 61 ⧗ 0](https://github.com/sitewhere/sitewhere) - SiteWhere open-source IoT platform for device connectivity & management, data persistence, processing, integration, and analytics -- both in cloud and on-premise.
+* [Meact](https://github.com/bkupidura/meact) -  task is to get metric from external stuff, write it to DB and perform various action.
 
 ## Toolkits Include Non-OS
 
@@ -319,6 +319,8 @@ Layered architecture of JTAG interface and TAP support
 * [Python Enocean ★ 13 ⧗ 45](https://github.com/kipe/enocean) - A Python library for reading and controlling EnOcean devices.
 * [The Things Network ★ 67 ⧗ 4](https://github.com/TheThingsNetwork/ttn) - The Things Network is a global open crowdsourced Internet of Things data network.
 * [WAMP Protocol ★ 228 ⧗ 1](https://github.com/wamp-proto/wamp-proto) - The Web Application Messaging Protocol The Web Application Messaging Protocol.
+* [Drake](https://github.com/RobotLocomotion/drake) -  is a toolbox maintained by the Robot Locomotion Group at the MIT Computer Science and Artificial Intelligence Lab (CSAIL). 
+* [Servo](https://github.com/servo/servo) -  is a prototype web browser engine written in the Rust language. 
 
 ## Software
 
