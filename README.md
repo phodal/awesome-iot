@@ -140,6 +140,7 @@ A curated list of IoT. Everyone can contribute here!
 * **[PlatformIO ★ 980 ⧗ 0](https://github.com/platformio/platformio)** - PlatformIO is a cross-platform code builder and the missing library manager.
 * [ThingEngine ★ 3 ⧗ 0](https://github.com/Stanford-Mobisocial-IoT-Lab/thingengine-core) - An open source platform for IoT rules that you can execute anywhere you want.
 * [Undercontrol ★ 22 ⧗ 0](https://github.com/daraosn/undercontrol) - Simple realtime IoT Platform with MQTT and Web-sockets support
+* [Mainflux](https://github.com/Mainflux/mainflux) - Mainflux is an open source and patent-free IoT cloud platform based on microservices.
 
 ## APIs
 
