@@ -145,7 +145,9 @@ A curated list of IoT. Everyone can contribute here!
 
 ## IIoT Clouds
 
+* [Predix](https://www.predix.com/) - Industrial IoT cloud (by General Eletrics).
 * [Space-Time Insight IIoT](http://www.spacetimeinsight.com/solutions/internet-of-things/) - Industrial IoT cloud (formerly go-factory.com).
+* [Thingworx](https://www.thingworx.com/platforms/industrial-connectivity/) - Industrial IoT cloud.
 
 ## APIs
 
