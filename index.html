@@ -1,33 +1,43 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
-    <meta charset='utf-8'>
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
-
     <title>Awesome-iot by phodal</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-dark.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="stylesheets/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
   </head>
-
   <body>
+      <div id="header">
+        <nav>
+          <li class="fork"><a href="https://github.com/phodal/awesome-iot">View On GitHub</a></li>
+          <li class="downloads"><a href="https://github.com/phodal/awesome-iot/zipball/master">ZIP</a></li>
+          <li class="downloads"><a href="https://github.com/phodal/awesome-iot/tarball/master">TAR</a></li>
+          <li class="title">DOWNLOADS</li>
+        </nav>
+      </div><!-- end header -->
 
-    <header>
-      <div class="container">
-        <h1>Awesome-iot</h1>
-        <h2>Awesome IoT. A collaborative list of great resources about IoTI Framework, Library,  OS, Platform</h2>
+    <div class="wrapper">
 
-        <section id="downloads">
-          <a href="https://github.com/phodal/awesome-iot/zipball/master" class="btn">Download as .zip</a>
-          <a href="https://github.com/phodal/awesome-iot/tarball/master" class="btn">Download as .tar.gz</a>
-          <a href="https://github.com/phodal/awesome-iot" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
-      </div>
-    </header>
+      <section>
+        <div id="title">
+          <h1>Awesome-iot</h1>
+          <p>Awesome IoT. A collaborative list of great resources about IoTI Framework, Library,  OS, Platform</p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="https://github.com/phodal">phodal</a></span>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
+        </div>
 
-    <div class="container">
-      <section id="main_content">
         <h1>
 <a id="awesome-iot-" class="anchor" href="#awesome-iot-" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Awesome IoT <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
 </h1>
@@ -48,6 +58,8 @@
 <li><a href="#android">Android</a></li>
 <li><a href="#os">OS</a></li>
 <li><a href="#platform">Platform</a></li>
+<li><a href="#iot-clouds">IoT Clouds</a></li>
+<li><a href="#iiot-clouds">IIoT Clouds</a></li>
 <li><a href="#apis">APIs</a></li>
 <li><a href="#middleware">Middleware</a></li>
 <li><a href="#toolkits-inlucde-non-os">Toolkits Inlucde Non-OS</a></li>
@@ -181,6 +193,10 @@
 <li>
 <a href="https://github.com/Samsung/libtuv">libtuv ★ 19 ⧗ 17</a> - Asynchronous I/O for IoT.js and embedded system.</li>
 <li>
+<a href="https://github.com/littlekernel/lk">LK ★ 312 ⧗ 0</a> - The LK embedded kernel. An SMP-aware kernel designed for small systems.</li>
+<li>
+<a href="https://github.com/fuchsia-mirror/magenta">Magenta ★ 286 ⧗ 0</a> - Magenta is a new kernel that powers the Fuchsia OS.</li>
+<li>
 <a href="https://github.com/dpjanes/node-iotdb">node-iotdb ★ 19 ⧗ 60</a> - Easily control the Internet of Things using Semantics.</li>
 <li>
 <a href="https://github.com/trifork/secure-device-grid">Secure Device Grid ★ 4 ⧗ 20</a> - Secure device-to-device communication solution for IOT.</li>
@@ -214,6 +230,8 @@
 <a href="https://github.com/EspressifApp/IOT-Espressif-Android">IOT Espressif Android ★ 46 ⧗ 1</a> - is used to control ESP8266 device by Android pad or phone.</li>
 <li>
 <a href="https://github.com/chariotsolutions/phonegap-nfc">PhoneGap NFC ★ 312 ⧗ 2</a> - PhoneGap NFC Plugin</li>
+<li>
+<a href="https://github.com/vladikoff/PWAify">PWAify ★ 269 ⧗ 8</a> - Experimental project to convert your PWA (Progressive Web App) into a cross-platform Electron app. Brings PWAs to your desktop.</li>
 </ul>
 
 <h2>
@@ -277,9 +295,11 @@
 <li>
 <a href="https://github.com/phodal/lan">Lan ★ 105 ⧗ 0</a> - Internet of Things Server Layer with CoAP, WebSocket, MQTT, HTTP Protocol</li>
 <li>
+<a href="https://github.com/Mainflux/mainflux">Mainflux ★ 33 ⧗ 3</a> - Mainflux is an open source and patent-free IoT cloud platform based on microservices.</li>
+<li>
 <a href="https://github.com/cesanta/iot">Mongoose IoT ★ 487 ⧗ 0</a> -  is a full-stack IoT platform including firmware and cloud components available for ESP8266.</li>
 <li>
-<a href="https://github.com/monteslu/pagenodes">Pagenodes ★ 99 ⧗ 0</a> - Completely Browser Based IOT Platform</li>
+<a href="https://github.com/monteslu/pagenodes">Pagenodes ★ 99 ⧗ 0</a> - Completely Browser Based IOT Platform, A Chrome Progressive Web App.</li>
 <li>
 <a href="http://spark.github.io/">Particle(Spark)</a> - Particle (formally Spark) is a complete, open source, full-stack solution for cloud-connected devices.</li>
 <li>
@@ -288,6 +308,60 @@
 <a href="https://github.com/Stanford-Mobisocial-IoT-Lab/thingengine-core">ThingEngine ★ 3 ⧗ 0</a> - An open source platform for IoT rules that you can execute anywhere you want.</li>
 <li>
 <a href="https://github.com/daraosn/undercontrol">Undercontrol ★ 22 ⧗ 0</a> - Simple realtime IoT Platform with MQTT and Web-sockets support</li>
+</ul>
+
+<h2>
+<a id="iot-clouds" class="anchor" href="#iot-clouds" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>IoT Clouds</h2>
+
+<ul>
+<li>
+<a href="https://www.aylanetworks.com/products/iot-platform">Agile IoT Platform</a> - Ayla Networks IoT Platform (with cloud services).</li>
+<li>
+<a href="https://intl.aliyun.com/solutions/IoT">AlibabaCloud</a> - "A cloud computing solution"</li>
+<li>
+<a href="https://artik.cloud/">Artik Cloud</a> - Samsung cloud for the IoT.</li>
+<li>
+<a href="https://aws.amazon.com/iot/">AWS IoT</a> - Amazon cloud for the IoT.</li>
+<li>
+<a href="https://azure.microsoft.com/de-de/services/iot-hub/">Azure IoT Hub</a> - Microsoft cloud for the IoT.</li>
+<li>
+<a href="https://www.bosch-si.com/products/bosch-iot-suite/iot-cloud/bosch-iot-cloud-2.html">Bosch IoT Cloud</a> - Highly scalable cloud infrastructure based on Cloud Foundry.</li>
+<li>
+<a href="https://cloudplugs.com/">CloudPlugs IoT</a> - "An end-to-end Fog Computing Platform for IoT."</li>
+<li>
+<a href="https://exosite.com/platform/">Exosite murano</a> - IoT platform by Exosite.</li>
+<li>
+<a href="https://cloud.google.com/solutions/iot/">Google Cloud IoT</a> - Google Cloud Platform IoT solutions.</li>
+<li>
+<a href="http://www.ibm.com/watson/">IBM Watson</a> - IBM cloud for the IoT.</li>
+<li>
+<a href="https://cloud.oracle.com/iot">Oracle IoT Cloud</a> - ORACLE Cloud for the Internet of Things.</li>
+<li>
+<a href="http://www.salesforce.com/iot-cloud/">Salesforce IoT Cloud</a> - Salesforce cloud for the Internet of Things.</li>
+<li>
+<a href="http://go.sap.com/product/technology-platform/iot-platform-cloud.html">SAP HANA</a> - SAP cloud for the Internet of Things.</li>
+<li>
+<a href="https://www.xively.com/">Xively IoT Cloud</a> - IoT platform.</li>
+<li>
+<a href="http://www.zatar.com/">Zatar</a> - "Zatar is the first ARMmbed standards-based IoT cloud service".</li>
+</ul>
+
+<h2>
+<a id="iiot-clouds" class="anchor" href="#iiot-clouds" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>IIoT Clouds</h2>
+
+<ul>
+<li>
+<a href="http://autodeskfusionconnect.com/">Autodesk Fusion Connect</a> - No-coding industrial IoT platform.</li>
+<li>
+<a href="https://www.scytec.com/">DataXChange</a> - Cloud manufacturing.</li>
+<li>
+<a href="http://www.telit.com/solutions/industries/smart-manufacturing/">deviceWISE for Factory</a> - Telit IIoT cloud.</li>
+<li>
+<a href="https://www.predix.com/">Predix</a> - Industrial IoT cloud (by General Eletrics).</li>
+<li>
+<a href="http://www.spacetimeinsight.com/solutions/internet-of-things/">Space-Time Insight IIoT</a> - Industrial IoT cloud (formerly go-factory.com).</li>
+<li>
+<a href="https://www.thingworx.com/platforms/industrial-connectivity/">Thingworx</a> - Industrial IoT cloud.</li>
 </ul>
 
 <h2>
@@ -304,6 +378,8 @@
 <ul>
 <li>
 <a href="https://github.com/kaaproject/kaa">Kaa ★ 234 ⧗ 0</a> - Kaa open-source middleware platform for building, managing, and integrating connected products with the Internet of Everything.</li>
+<li>
+<a href="https://github.com/bkupidura/meact">Meact ★ 6 ⧗ 43</a> -  task is to get metric from external stuff, write it to DB and perform various action.</li>
 <li>
 <a href="https://github.com/OpenIotOrg/openiot">OpenIoT ★ 205 ⧗ 0</a> - The OpenIoT middleware infrastructure will support flexible configuration and deployment of algorithms for collection</li>
 <li>
@@ -625,6 +701,8 @@
 
 <ul>
 <li>
+<strong><a href="https://github.com/RobotLocomotion/drake">Drake ★ 500 ⧗ 0</a></strong> -  is a toolbox maintained by the Robot Locomotion Group at the MIT Computer Science and Artificial Intelligence Lab (CSAIL). </li>
+<li>
 <a href="https://github.com/ibm-messaging">IBM messaging</a> - Community around IBM Messaging products.</li>
 <li>
 <a href="https://github.com/sensaura-public/iotweb">IotWeb ★ 4 ⧗ 9</a> - A Embedded HTTP and WebSocket Server for UWP/.NET 4.5.</li>
@@ -632,6 +710,8 @@
 <strong><a href="https://github.com/octoblu/meshblu">meshblu ★ 738 ⧗ 0</a></strong> - Machine-to-machine instant messaging platform for the internet of things.</li>
 <li>
 <a href="https://github.com/kipe/enocean">Python Enocean ★ 13 ⧗ 45</a> - A Python library for reading and controlling EnOcean devices.</li>
+<li>
+<strong><a href="https://github.com/servo/servo">Servo ★ 7821 ⧗ 0</a></strong> -  is a prototype web browser engine written in the Rust language. </li>
 <li>
 <a href="https://github.com/TheThingsNetwork/ttn">The Things Network ★ 67 ⧗ 4</a> - The Things Network is a global open crowdsourced Internet of Things data network.</li>
 <li>
@@ -751,7 +831,7 @@
 
 <ul>
 <li>
-<a href="https://github.com/nearform/micro-services-tutorial-iot">micro-services-tutorial-iot</a> - An instructor led microservices workshop.</li>
+<a href="https://github.com/nearform/micro-services-tutorial-iot">micro-services-tutorial-iot ★ 20 ⧗ 13</a> - An instructor led microservices workshop.</li>
 </ul>
 
 <h1>
@@ -759,8 +839,9 @@
 
 <p>Your contributions are always welcome! Please submit a pull request or create an issue to add a new framework, library or software to the list. Do not submit a project that hasn’t been updated in the past 6 months or is not awesome.</p>
       </section>
-    </div>
 
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
     
   </body>
 </html>
