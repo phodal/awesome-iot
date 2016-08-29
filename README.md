@@ -151,6 +151,7 @@ A curated list of IoT. Everyone can contribute here!
 * [Bosch IoT Cloud](https://www.bosch-si.com/products/bosch-iot-suite/iot-cloud/bosch-iot-cloud-2.html) - Highly scalable cloud infrastructure based on Cloud Foundry.
 * [CloudPlugs IoT](https://cloudplugs.com/) - "An end-to-end Fog Computing Platform for IoT."
 * [Exosite murano](https://exosite.com/platform/) - IoT platform by Exosite.
+* [IBM Watson](http://www.ibm.com/watson/) - IBM cloud for the IoT.
 * [Oracle IoT Cloud](https://cloud.oracle.com/iot) - ORACLE Cloud for the Internet of Things.
 * [Salesforce IoT Cloud](http://www.salesforce.com/iot-cloud/) - Salesforce cloud for the Internet of Things.
 
