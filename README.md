@@ -159,6 +159,7 @@ A curated list of IoT. Everyone can contribute here!
 * [Artik Cloud](https://artik.cloud/) - Samsung cloud for the IoT.
 * [SAP HANA](http://go.sap.com/product/technology-platform/iot-platform-cloud.html) - SAP cloud for the Internet of Things.
 * [Xively IoT Cloud](https://www.xively.com/) - IoT platform.
+* [Zatar](http://www.zatar.com/) - "Zatar is the first ARMmbed standards-based IoT cloud service".
 
 ## APIs
 
