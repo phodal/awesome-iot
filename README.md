@@ -12,6 +12,7 @@ A curated list of IoT. Everyone can contribute here!
 - [OS](#os)
 - [Platform](#platform)
 - [IoT Clouds](#iot-clouds)
+- [IIoT Clouds](#iiot-clouds)
 - [APIs](#apis)
 - [Middleware](#middleware)
 - [Toolkits Inlucde Non-OS](#toolkits-inlucde-non-os)
@@ -160,6 +161,15 @@ A curated list of IoT. Everyone can contribute here!
 * [SAP HANA](http://go.sap.com/product/technology-platform/iot-platform-cloud.html) - SAP cloud for the Internet of Things.
 * [Xively IoT Cloud](https://www.xively.com/) - IoT platform.
 * [Zatar](http://www.zatar.com/) - "Zatar is the first ARMmbed standards-based IoT cloud service".
+
+## IIoT Clouds
+
+* [Autodesk Fusion Connect](http://autodeskfusionconnect.com/) - No-coding industrial IoT platform.
+* [Predix](https://www.predix.com/) - Industrial IoT cloud (by General Eletrics).
+* [Space-Time Insight IIoT](http://www.spacetimeinsight.com/solutions/internet-of-things/) - Industrial IoT cloud (formerly go-factory.com).
+* [deviceWISE for Factory](http://www.telit.com/solutions/industries/smart-manufacturing/) - Telit IIoT cloud.
+* [DataXChange](https://www.scytec.com/) - Cloud manufacturing.
+* [Thingworx](https://www.thingworx.com/platforms/industrial-connectivity/) - Industrial IoT cloud.
 
 ## APIs
 
