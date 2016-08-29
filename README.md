@@ -157,6 +157,7 @@ A curated list of IoT. Everyone can contribute here!
 * [Oracle IoT Cloud](https://cloud.oracle.com/iot) - ORACLE Cloud for the Internet of Things.
 * [Salesforce IoT Cloud](http://www.salesforce.com/iot-cloud/) - Salesforce cloud for the Internet of Things.
 * [SAP HANA](http://go.sap.com/product/technology-platform/iot-platform-cloud.html) - SAP cloud for the Internet of Things.
+* [Xively IoT Cloud](https://www.xively.com/) - IoT platform.
 
 ## APIs
 
