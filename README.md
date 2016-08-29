@@ -145,8 +145,10 @@ A curated list of IoT. Everyone can contribute here!
 
 ## IIoT Clouds
 
+* [Autodesk Fusion Connect](http://autodeskfusionconnect.com/) - No-coding industrial IoT platform.
 * [Predix](https://www.predix.com/) - Industrial IoT cloud (by General Eletrics).
 * [Space-Time Insight IIoT](http://www.spacetimeinsight.com/solutions/internet-of-things/) - Industrial IoT cloud (formerly go-factory.com).
+* [Telit IIoT cloud](http://www.telit.com/solutions/industries/smart-manufacturing/) -
 * [Thingworx](https://www.thingworx.com/platforms/industrial-connectivity/) - Industrial IoT cloud.
 
 ## APIs
