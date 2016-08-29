@@ -60,6 +60,7 @@ A curated list of IoT. Everyone can contribute here!
 
 ## Library
 
+
 ### SDK
 
 * [AWS IoT Arduino Yún SDK ★ 63 ⧗ 4](https://github.com/aws/aws-iot-device-sdk-arduino-yun) - SDK for connecting to AWS IoT from an Arduino Yún.
@@ -103,7 +104,7 @@ A curated list of IoT. Everyone can contribute here!
 * [Cordova MQTT Plugin ★ 24 ⧗ 11](https://github.com/arcoirislabs/cordova-plugin-mqtt) - MQTT Cordova Plugin for Apache Cordova
 * [IOT Espressif Android ★ 46 ⧗ 1](https://github.com/EspressifApp/IOT-Espressif-Android) - is used to control ESP8266 device by Android pad or phone.
 * [PhoneGap NFC ★ 312 ⧗ 2](https://github.com/chariotsolutions/phonegap-nfc) - PhoneGap NFC Plugin
-* [PWAify](https://github.com/vladikoff/PWAify) - Experimental project to convert your PWA (Progressive Web App) into a cross-platform Electron app. Brings PWAs to your desktop.
+* [PWAify ★ 269 ⧗ 8](https://github.com/vladikoff/PWAify) - Experimental project to convert your PWA (Progressive Web App) into a cross-platform Electron app. Brings PWAs to your desktop.
 
 ## OS
 
@@ -131,24 +132,26 @@ A curated list of IoT. Everyone can contribute here!
 ## Platform
 
 * [DeviceHive] (https://github.com/devicehive) - IoT Data Platform. Wide range of connectivity options, device management, security and data processing.
+
 * [[thing-it-node] ★ 20 ⧗ 3](https://github.com/marcgille/thing-it-node/) - A device-independent IoT platform including support of complex event processing, storyboards, and a mobile app.
 * [Clavin ★ 212 ⧗ 2](https://github.com/EricssonResearch/calvin-base) - Calvin is an application environment that lets things talk to things. It comprises of both a development framework for application developers, and a runtime environment that handles the running application. 
 * **[IoT.js ★ 921 ⧗ 0](https://github.com/Samsung/iotjs)** - Platform for Internet of Things with JavaScript.
 * [Jasper](http://jasperproject.github.io/) - Jasper is an open source platform for developing always-on, voice-controlled applications.
 * [Lan ★ 105 ⧗ 0](https://github.com/phodal/lan) - Internet of Things Server Layer with CoAP, WebSocket, MQTT, HTTP Protocol
+* [Mainflux ★ 33 ⧗ 3](https://github.com/Mainflux/mainflux) - Mainflux is an open source and patent-free IoT cloud platform based on microservices.
 * [Mongoose IoT ★ 487 ⧗ 0](https://github.com/cesanta/iot) -  is a full-stack IoT platform including firmware and cloud components available for ESP8266.
 * [Pagenodes ★ 99 ⧗ 0](https://github.com/monteslu/pagenodes) - Completely Browser Based IOT Platform, A Chrome Progressive Web App.
 * [Particle(Spark)](http://spark.github.io/) - Particle (formally Spark) is a complete, open source, full-stack solution for cloud-connected devices.
 * **[PlatformIO ★ 980 ⧗ 0](https://github.com/platformio/platformio)** - PlatformIO is a cross-platform code builder and the missing library manager.
 * [ThingEngine ★ 3 ⧗ 0](https://github.com/Stanford-Mobisocial-IoT-Lab/thingengine-core) - An open source platform for IoT rules that you can execute anywhere you want.
 * [Undercontrol ★ 22 ⧗ 0](https://github.com/daraosn/undercontrol) - Simple realtime IoT Platform with MQTT and Web-sockets support
-* [Mainflux](https://github.com/Mainflux/mainflux) - Mainflux is an open source and patent-free IoT cloud platform based on microservices.
 
 ## IoT Clouds
 
-* [AlibabaCloud](https://intl.aliyun.com/solutions/IoT) - "A cloud computing solution"
-* [AWS IoT](https://aws.amazon.com/iot/) - Amazon cloud for the IoT.
 * [Agile IoT Platform](https://www.aylanetworks.com/products/iot-platform) - Ayla Networks IoT Platform (with cloud services).
+* [AlibabaCloud](https://intl.aliyun.com/solutions/IoT) - "A cloud computing solution"
+* [Artik Cloud](https://artik.cloud/) - Samsung cloud for the IoT.
+* [AWS IoT](https://aws.amazon.com/iot/) - Amazon cloud for the IoT.
 * [Azure IoT Hub](https://azure.microsoft.com/de-de/services/iot-hub/) - Microsoft cloud for the IoT.
 * [Bosch IoT Cloud](https://www.bosch-si.com/products/bosch-iot-suite/iot-cloud/bosch-iot-cloud-2.html) - Highly scalable cloud infrastructure based on Cloud Foundry.
 * [CloudPlugs IoT](https://cloudplugs.com/) - "An end-to-end Fog Computing Platform for IoT."
@@ -157,7 +160,6 @@ A curated list of IoT. Everyone can contribute here!
 * [IBM Watson](http://www.ibm.com/watson/) - IBM cloud for the IoT.
 * [Oracle IoT Cloud](https://cloud.oracle.com/iot) - ORACLE Cloud for the Internet of Things.
 * [Salesforce IoT Cloud](http://www.salesforce.com/iot-cloud/) - Salesforce cloud for the Internet of Things.
-* [Artik Cloud](https://artik.cloud/) - Samsung cloud for the IoT.
 * [SAP HANA](http://go.sap.com/product/technology-platform/iot-platform-cloud.html) - SAP cloud for the Internet of Things.
 * [Xively IoT Cloud](https://www.xively.com/) - IoT platform.
 * [Zatar](http://www.zatar.com/) - "Zatar is the first ARMmbed standards-based IoT cloud service".
@@ -165,10 +167,10 @@ A curated list of IoT. Everyone can contribute here!
 ## IIoT Clouds
 
 * [Autodesk Fusion Connect](http://autodeskfusionconnect.com/) - No-coding industrial IoT platform.
+* [DataXChange](https://www.scytec.com/) - Cloud manufacturing.
+* [deviceWISE for Factory](http://www.telit.com/solutions/industries/smart-manufacturing/) - Telit IIoT cloud.
 * [Predix](https://www.predix.com/) - Industrial IoT cloud (by General Eletrics).
 * [Space-Time Insight IIoT](http://www.spacetimeinsight.com/solutions/internet-of-things/) - Industrial IoT cloud (formerly go-factory.com).
-* [deviceWISE for Factory](http://www.telit.com/solutions/industries/smart-manufacturing/) - Telit IIoT cloud.
-* [DataXChange](https://www.scytec.com/) - Cloud manufacturing.
 * [Thingworx](https://www.thingworx.com/platforms/industrial-connectivity/) - Industrial IoT cloud.
 
 ## APIs
@@ -178,9 +180,9 @@ A curated list of IoT. Everyone can contribute here!
 ## Middleware
 
 * [Kaa ★ 234 ⧗ 0](https://github.com/kaaproject/kaa) - Kaa open-source middleware platform for building, managing, and integrating connected products with the Internet of Everything.
+* [Meact ★ 6 ⧗ 43](https://github.com/bkupidura/meact) -  task is to get metric from external stuff, write it to DB and perform various action.
 * [OpenIoT ★ 205 ⧗ 0](https://github.com/OpenIotOrg/openiot) - The OpenIoT middleware infrastructure will support flexible configuration and deployment of algorithms for collection
 * [SiteWhere ★ 61 ⧗ 0](https://github.com/sitewhere/sitewhere) - SiteWhere open-source IoT platform for device connectivity & management, data persistence, processing, integration, and analytics -- both in cloud and on-premise.
-* [Meact](https://github.com/bkupidura/meact) -  task is to get metric from external stuff, write it to DB and perform various action.
 
 ## Toolkits Include Non-OS
 
@@ -343,14 +345,14 @@ Layered architecture of JTAG interface and TAP support
 
 ### Others
 
+* **[Drake ★ 500 ⧗ 0](https://github.com/RobotLocomotion/drake)** -  is a toolbox maintained by the Robot Locomotion Group at the MIT Computer Science and Artificial Intelligence Lab (CSAIL). 
 * [IBM messaging](https://github.com/ibm-messaging) - Community around IBM Messaging products.
 * [IotWeb ★ 4 ⧗ 9](https://github.com/sensaura-public/iotweb) - A Embedded HTTP and WebSocket Server for UWP/.NET 4.5.
 * **[meshblu ★ 738 ⧗ 0](https://github.com/octoblu/meshblu)** - Machine-to-machine instant messaging platform for the internet of things.
 * [Python Enocean ★ 13 ⧗ 45](https://github.com/kipe/enocean) - A Python library for reading and controlling EnOcean devices.
+* **[Servo ★ 7821 ⧗ 0](https://github.com/servo/servo)** -  is a prototype web browser engine written in the Rust language. 
 * [The Things Network ★ 67 ⧗ 4](https://github.com/TheThingsNetwork/ttn) - The Things Network is a global open crowdsourced Internet of Things data network.
 * [WAMP Protocol ★ 228 ⧗ 1](https://github.com/wamp-proto/wamp-proto) - The Web Application Messaging Protocol The Web Application Messaging Protocol.
-* [Drake](https://github.com/RobotLocomotion/drake) -  is a toolbox maintained by the Robot Locomotion Group at the MIT Computer Science and Artificial Intelligence Lab (CSAIL). 
-* [Servo](https://github.com/servo/servo) -  is a prototype web browser engine written in the Rust language. 
 
 ## Software
 
@@ -380,6 +382,7 @@ Layered architecture of JTAG interface and TAP support
 ### Blog
 
 * [IBM IoT Blog](https://www.ibm.com/blogs/internet-of-things/) 
+
 * [Arduino Create](https://create.arduino.cc) - None
 * [http://edi.wang/](http://edi.wang/) - ``ASP.NET``, ``Windows 10 IoT``
 * [IBM DeveloperWorks IoT](http://www.ibm.com/developerworks/cn/iot/) - None
@@ -410,7 +413,7 @@ Layered architecture of JTAG interface and TAP support
 
 ## Tutorial
 
-* [micro-services-tutorial-iot](https://github.com/nearform/micro-services-tutorial-iot) - An instructor led microservices workshop.
+* [micro-services-tutorial-iot ★ 20 ⧗ 13](https://github.com/nearform/micro-services-tutorial-iot) - An instructor led microservices workshop.
 
 # Contributing
 
