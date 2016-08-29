@@ -145,6 +145,8 @@ A curated list of IoT. Everyone can contribute here!
 
 ## IoT Clouds
 
+* [AlibabaCloud](https://intl.aliyun.com/solutions/IoT) - "A cloud computing solution"
+* [AWS IoT](https://aws.amazon.com/iot/) - Amazon cloud for the IoT.
 * [Bosch IoT Cloud](https://www.bosch-si.com/products/bosch-iot-suite/iot-cloud/bosch-iot-cloud-2.html) - Highly scalable cloud infrastructure based on Cloud Foundry.
 * [Oracle IoT Cloud](https://cloud.oracle.com/iot) - ORACLE Cloud for the Internet of Things.
 
