@@ -11,6 +11,7 @@ A curated list of IoT. Everyone can contribute here!
 - [Android](#android)
 - [OS](#os)
 - [Platform](#platform)
+- [IoT Clouds](#iot-clouds)
 - [APIs](#apis)
 - [Middleware](#middleware)
 - [Toolkits Inlucde Non-OS](#toolkits-inlucde-non-os)
@@ -141,6 +142,24 @@ A curated list of IoT. Everyone can contribute here!
 * [ThingEngine ★ 3 ⧗ 0](https://github.com/Stanford-Mobisocial-IoT-Lab/thingengine-core) - An open source platform for IoT rules that you can execute anywhere you want.
 * [Undercontrol ★ 22 ⧗ 0](https://github.com/daraosn/undercontrol) - Simple realtime IoT Platform with MQTT and Web-sockets support
 * [Mainflux](https://github.com/Mainflux/mainflux) - Mainflux is an open source and patent-free IoT cloud platform based on microservices.
+
+## IoT Clouds
+
+* [AlibabaCloud](https://intl.aliyun.com/solutions/IoT) - "A cloud computing solution"
+* [AWS IoT](https://aws.amazon.com/iot/) - Amazon cloud for the IoT.
+* [Agile IoT Platform](https://www.aylanetworks.com/products/iot-platform) - Ayla Networks IoT Platform (with cloud services).
+* [Azure IoT Hub](https://azure.microsoft.com/de-de/services/iot-hub/) - Microsoft cloud for the IoT.
+* [Bosch IoT Cloud](https://www.bosch-si.com/products/bosch-iot-suite/iot-cloud/bosch-iot-cloud-2.html) - Highly scalable cloud infrastructure based on Cloud Foundry.
+* [CloudPlugs IoT](https://cloudplugs.com/) - "An end-to-end Fog Computing Platform for IoT."
+* [Exosite murano](https://exosite.com/platform/) - IoT platform by Exosite.
+* [Google Cloud IoT](https://cloud.google.com/solutions/iot/) - Google Cloud Platform IoT solutions.
+* [IBM Watson](http://www.ibm.com/watson/) - IBM cloud for the IoT.
+* [Oracle IoT Cloud](https://cloud.oracle.com/iot) - ORACLE Cloud for the Internet of Things.
+* [Salesforce IoT Cloud](http://www.salesforce.com/iot-cloud/) - Salesforce cloud for the Internet of Things.
+* [Artik Cloud](https://artik.cloud/) - Samsung cloud for the IoT.
+* [SAP HANA](http://go.sap.com/product/technology-platform/iot-platform-cloud.html) - SAP cloud for the Internet of Things.
+* [Xively IoT Cloud](https://www.xively.com/) - IoT platform.
+* [Zatar](http://www.zatar.com/) - "Zatar is the first ARMmbed standards-based IoT cloud service".
 
 ## APIs
 
