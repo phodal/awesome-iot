@@ -11,6 +11,7 @@ A curated list of IoT. Everyone can contribute here!
 - [Android](#android)
 - [OS](#os)
 - [Platform](#platform)
+- [IIoT Clouds](#iiot-clouds)
 - [APIs](#apis)
 - [Middleware](#middleware)
 - [Toolkits Inlucde Non-OS](#toolkits-inlucde-non-os)
@@ -141,6 +142,10 @@ A curated list of IoT. Everyone can contribute here!
 * [ThingEngine ★ 3 ⧗ 0](https://github.com/Stanford-Mobisocial-IoT-Lab/thingengine-core) - An open source platform for IoT rules that you can execute anywhere you want.
 * [Undercontrol ★ 22 ⧗ 0](https://github.com/daraosn/undercontrol) - Simple realtime IoT Platform with MQTT and Web-sockets support
 * [Mainflux](https://github.com/Mainflux/mainflux) - Mainflux is an open source and patent-free IoT cloud platform based on microservices.
+
+## IIoT Clouds
+
+* [Space-Time Insight IIoT](http://www.spacetimeinsight.com/solutions/internet-of-things/) - Industrial IoT cloud (formerly go-factory.com).
 
 ## APIs
 
