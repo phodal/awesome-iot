@@ -147,6 +147,7 @@ A curated list of IoT. Everyone can contribute here!
 
 * [AlibabaCloud](https://intl.aliyun.com/solutions/IoT) - "A cloud computing solution"
 * [AWS IoT](https://aws.amazon.com/iot/) - Amazon cloud for the IoT.
+* [Agile IoT Platform](https://www.aylanetworks.com/products/iot-platform) - Ayla Networks IoT Platform (with cloud services).
 * [Azure IoT Hub](https://azure.microsoft.com/de-de/services/iot-hub/) - Microsoft cloud for the IoT.
 * [Bosch IoT Cloud](https://www.bosch-si.com/products/bosch-iot-suite/iot-cloud/bosch-iot-cloud-2.html) - Highly scalable cloud infrastructure based on Cloud Foundry.
 * [CloudPlugs IoT](https://cloudplugs.com/) - "An end-to-end Fog Computing Platform for IoT."
