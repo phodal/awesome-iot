@@ -11,6 +11,7 @@ A curated list of IoT. Everyone can contribute here!
 - [Android](#android)
 - [OS](#os)
 - [Platform](#platform)
+- [IoT Clouds](#iot-clouds)
 - [APIs](#apis)
 - [Middleware](#middleware)
 - [Toolkits Inlucde Non-OS](#toolkits-inlucde-non-os)
@@ -141,6 +142,11 @@ A curated list of IoT. Everyone can contribute here!
 * [ThingEngine ★ 3 ⧗ 0](https://github.com/Stanford-Mobisocial-IoT-Lab/thingengine-core) - An open source platform for IoT rules that you can execute anywhere you want.
 * [Undercontrol ★ 22 ⧗ 0](https://github.com/daraosn/undercontrol) - Simple realtime IoT Platform with MQTT and Web-sockets support
 * [Mainflux](https://github.com/Mainflux/mainflux) - Mainflux is an open source and patent-free IoT cloud platform based on microservices.
+
+## IoT Clouds
+
+* [Bosch IoT Cloud](https://www.bosch-si.com/products/bosch-iot-suite/iot-cloud/bosch-iot-cloud-2.html) - Highly scalable cloud infrastructure based on Cloud Foundry.
+* [Oracle IoT Cloud](https://cloud.oracle.com/iot) - ORACLE Cloud for the Internet of Things.
 
 ## APIs
 
@@ -347,7 +353,6 @@ Layered architecture of JTAG interface and TAP support
 * [Infoq IoT Weekly](http://www.infoq.com/cn/adf) - Weekly IoT News, Open Source Project, Hardware
 * [Instructables - tech](http://www.instructables.com/tag/type-id/category-technology/) - Explore the Biggest How To and DIY community where people make and share inspiring, entertaining, and useful projects, recipes, and hacks.
 * [Makezie](https://makezine.com/) - DIY Projects and Ideas for Makers.
-* [Bosch IoT Cloud](https://www.bosch-si.com/products/bosch-iot-suite/iot-cloud/bosch-iot-cloud-2.html) - Highly scalable cloud infrastructure based on Cloud Foundry.
 
 ### Blog
 
