@@ -154,6 +154,7 @@ A curated list of IoT. Everyone can contribute here!
 * [IBM Watson](http://www.ibm.com/watson/) - IBM cloud for the IoT.
 * [Oracle IoT Cloud](https://cloud.oracle.com/iot) - ORACLE Cloud for the Internet of Things.
 * [Salesforce IoT Cloud](http://www.salesforce.com/iot-cloud/) - Salesforce cloud for the Internet of Things.
+* [SAP HANA](http://go.sap.com/product/technology-platform/iot-platform-cloud.html) - SAP cloud for the Internet of Things.
 
 ## APIs
 
