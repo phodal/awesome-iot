@@ -415,6 +415,7 @@ Layered architecture of JTAG interface and TAP support
 ## Tutorial
 
 * [micro-services-tutorial-iot ★ 20 ⧗ 13](https://github.com/nearform/micro-services-tutorial-iot) - An instructor led microservices workshop.
+* [Unpacking the Internat of Things](https://www.udemy.com/unpacking-the-internet-of-things/learn/v4/overview) - Shows use cases to help to identify possible potential for enterprise specific products.
 
 # Contributing
 
