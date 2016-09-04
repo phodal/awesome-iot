@@ -246,6 +246,7 @@ Layered architecture of JTAG interface and TAP support
 
 * [Angular 2 IoT ★ 10 ⧗ 4](https://github.com/urish/angular2-iot) - is an experimental technology that allows you to program physical hardware (buttons, LEDs, etc.) using Angular 2.
 * [DevIoT ★ 70 ⧗ 1](https://github.com/gepd/Deviot) - Sublime Text plugin for IoT development.
+* [Platformio Atom IDE](https://github.com/platformio/platformio-atom-ide) - The next generation integrated development environment for IoT.
 * [WyliodrinSTUDIO ★ 25 ⧗ 2](https://github.com/Wyliodrin/WyliodrinSTUDIO) - Wyliodrin STUDIO is a Chrome based IDE for software and hardware development for IoT and Embedded Linux systems.
 
 ## Robotics
