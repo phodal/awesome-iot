@@ -193,6 +193,7 @@ Layered architecture of JTAG interface and TAP support
 * [macchina.io ★ 144 ⧗ 0](https://github.com/macchina-io/macchina.io) - An open-source toolkit for building embedded IoT applications that connect sensors, devices and cloud services.
 * [OpenOCD ★ 10 ⧗ 34](https://github.com/arduino/OpenOCD) - OpenOCD provides on-chip programming and debugging support with a
 * [pyOCD ★ 112 ⧗ 0](https://github.com/mbedmicro/pyOCD) - Open source python library for programming and debugging ARM Cortex-M microcontrollers using CMSIS-DAP.
+* [iot-adk-addonkit](https://github.com/ms-iot/iot-adk-addonkit) - Contains command line scripts for package creation and image creation process and samples for iot products based on RPi2/MBM.
 
 ## Data Visualization
 
