@@ -328,8 +328,11 @@ Layered architecture of JTAG interface and TAP support
 
 * [ouimeaux ★ 319 ⧗ 0](https://github.com/iancmcc/ouimeaux) - Open source control for Belkin WeMo devices.
 
-## Hardware Com
+## Fork
 
+* [AWS IoT Button](https://github.com/ianmas-aws/iot-button-emulator) - Emulate the AWS IoT Button on a Raspberry Pi with a simple push button using this C++ sample.
+
+## Hardware Com
 
 ### NFC
 
