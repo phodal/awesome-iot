@@ -248,6 +248,7 @@ Layered architecture of JTAG interface and TAP support
 * [DevIoT ★ 70 ⧗ 1](https://github.com/gepd/Deviot) - Sublime Text plugin for IoT development.
 * [Platformio Atom IDE](https://github.com/platformio/platformio-atom-ide) - The next generation integrated development environment for IoT.
 * [WyliodrinSTUDIO ★ 25 ⧗ 2](https://github.com/Wyliodrin/WyliodrinSTUDIO) - Wyliodrin STUDIO is a Chrome based IDE for software and hardware development for IoT and Embedded Linux systems.
+* [Stino](https://github.com/Robot-Will/Stino) -  is a Sublime Text plugin that provides an Arduino-like environement for editing, compiling and uploading sketches.
 
 ## Robotics
 
@@ -261,6 +262,7 @@ Layered architecture of JTAG interface and TAP support
 * [Kamanja ★ 21 ⧗ 1](https://github.com/LigaData/Kamanja) -  is an open-source continuous decisioning engine that is hardened for enterprise reliability requirements, scalable to IoT level data volumes, and enables low latency use cases.
 * [Kuzzle ★ 267 ⧗ 0](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT.
 * **[Node-RED ★ 2513 ⧗ 0](https://github.com/node-red/node-red)** - A visual tool for wiring the Internet of Things.
+* [RemoteDebug](https://github.com/JoaoLopesF/RemoteDebug) - A library to remote debug over telnet connection!
 
 ## Language
 
