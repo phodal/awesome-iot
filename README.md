@@ -216,7 +216,8 @@ Layered architecture of JTAG interface and TAP support
 * [APixel ★ 8 ⧗ 31](https://github.com/AprilBrother/APixel) - APixel is a combination of a ESP8266 dev board with a WS2812B (Addressable RGB) LED all in one.
 * [Arduino](http://www.arduino.cc/) - open-source electronics platform based on easy-to-use hardware and software.
 * [Arduino ZERO](https://www.arduino.cc/en/Main/ArduinoBoardZero) - This board aims to provide a platform for innovative projects in smart IoT devices, wearable technology, high-tech automation, crazy robotics, and much more.
-* [BeagleBone](http://beagleboard.org/getting-started/) -  BeagleBone Black is a low-cost, community-supported development platform for developers and hobbyists
+* [BeagleBone](http://beagleboard.org/getting-started/) -  BeagleBone Black is a low-cost, community-supported development platform for developers and hobbyists.
+* [Bitsy Bits](https://github.com/bitsybits/bitsybits-core) - is an IoT composite project. This means it has all parts to implement the full user experience. 
 * [Carloop ★ 6 ⧗ 0](https://github.com/carloop/carloop-library) - Make apps for your car using signals from OBD-II, CAN and GPS. Publish data online using the Particle platform.
 * [Cheapduino](http://www.dfrobot.com/wiki/index.php/CheapDuino_(SKU:DFR0236)) - CheapDuino is the most cheapest Arduino compatible processor in the world. 
 * [ESP8266 Smartwatch ★ 39 ⧗ 0](https://github.com/Jeija/esp8266-smartwatch) - ESP8266 DIY WiFi Smartwatch with MPU-9250, RTC, OLED, FT232, ...
