@@ -269,6 +269,7 @@ Layered architecture of JTAG interface and TAP support
 * [Kuzzle ★ 267 ⧗ 0](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT.
 * **[Node-RED ★ 2513 ⧗ 0](https://github.com/node-red/node-red)** - A visual tool for wiring the Internet of Things.
 * [RemoteDebug](https://github.com/JoaoLopesF/RemoteDebug) - A library to remote debug over telnet connection!
+* [Emul8](https://github.com/emul8/emul8) - is an emulator of various embedded systems. With Emul8 you can develop embedded software entirely in a virtual environment that runs within your PC.
 
 ## Language
 
