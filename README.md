@@ -247,6 +247,7 @@ Layered architecture of JTAG interface and TAP support
 * [PrivateEyePi](http://projects.privateeyepi.com/) - Home Automation and Monitoring Projects for Raspberry Pi 
 * [RaZberry](http://razberry.z-wave.me/) - RaZberry brings Z-Wave to the Raspberry PI platform. 
 * **[Smart Mirror ★ 1181 ⧗ 0](https://github.com/evancohen/smart-mirror)** - The fairest of them all. A DIY voice controlled smart mirror with IoT integration.
+* [Pimatic](https://github.com/pimatic/pimatic) - A home automation server and framework for the raspberry pi running on node.js.
 
 ## IDE
 
