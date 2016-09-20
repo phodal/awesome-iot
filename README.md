@@ -31,6 +31,7 @@ A curated list of IoT. Everyone can contribute here!
 - [Software](#software)
 - [Tools](#tools)
 - [Resources-Websites-Projects](#resources-websites-projects)
+    - [Course](#course)
     - [WebSite](#website)
     - [Blog](#blog)
     - [GitHub Org.](#github-org)
@@ -386,6 +387,9 @@ Layered architecture of JTAG interface and TAP support
 
 ## Resources-Websites-Projects
 
+### Course
+
+* [A developer's guide to the Internet of Things (by IBM)](https://www.coursera.org/learn/developer-iot/home/welcome)
 
 ### WebSite
 
