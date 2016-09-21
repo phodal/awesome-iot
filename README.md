@@ -426,6 +426,11 @@ Layered architecture of JTAG interface and TAP support
 * **[Design IoT ★ 594 ⧗ 0](https://github.com/phodal/designiot)** - A Ebook to tech your create IoT System step by step.
 * [IoT-Firstep ★ 24 ⧗ 9](https://github.com/nladuo/IoT-Firstep) - A Ebook to tech your create IoT System.
 
+### Tutorial
+
+* [micro-services-tutorial-iot ★ 20 ⧗ 13](https://github.com/nearform/micro-services-tutorial-iot) - An instructor led microservices workshop.
+* [Unpacking the Internat of Things](https://www.udemy.com/unpacking-the-internet-of-things/learn/v4/overview) - Shows use cases to help to identify possible potential for enterprise specific products.
+
 ## Analytics
 
 * **[Piwik ★ 5374 ⧗ 0](https://github.com/piwik/piwik)** - Piwik is the leading Free/Libre open analytics platform.
@@ -436,11 +441,6 @@ Layered architecture of JTAG interface and TAP support
 * [django-th ★ 275 ⧗ 0](https://github.com/foxmask/django-th) - take the control of your data with this opensource clone of IFTTT, a bridge between your internet services.
 * **[Freeboard ★ 3034 ⧗ 0](https://github.com/Freeboard/freeboard)** - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
 * [souliss ★ 137 ⧗ 8](https://github.com/souliss/souliss) - Arduino based Distributed Networking Framework for Smart Homes and IoT.
-
-## Tutorial
-
-* [micro-services-tutorial-iot ★ 20 ⧗ 13](https://github.com/nearform/micro-services-tutorial-iot) - An instructor led microservices workshop.
-* [Unpacking the Internat of Things](https://www.udemy.com/unpacking-the-internet-of-things/learn/v4/overview) - Shows use cases to help to identify possible potential for enterprise specific products.
 
 # Contributing
 
