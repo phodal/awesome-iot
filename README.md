@@ -394,6 +394,7 @@ Layered architecture of JTAG interface and TAP support
 * [A developer's guide to the Internet of Things (by IBM)](https://www.coursera.org/learn/developer-iot/home/welcome) - None
 * [Build an Intelligent System: From Embedded to Cloud (NOT FREE)](https://www.pluralsight.com/courses/building-intelligent-system-embedded-to-cloud) - None
 * [Low-Level Software Security: Attacks and Countermeassures](https://www.youtube.com/watch?v=ZLZkf8FVcsU) - None
+* [IoT Software Architecture](https://www.coursera.org/learn/iot-software-architecture) - None
 
 ### WebSite
 
