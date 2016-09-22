@@ -109,7 +109,7 @@ A curated list of IoT. Everyone can contribute here!
 
 ## Secutiry
 
-* [trezor-crypto](https://github.com/trezor/trezor-crypto) - 📙 Heavily optimized cryptography algorithms for embedded devices.
+* [trezor-crypto ★ 94 ⧗ 1](https://github.com/trezor/trezor-crypto) - 📙 Heavily optimized cryptography algorithms for embedded devices.
 
 ## OS
 
@@ -132,8 +132,8 @@ A curated list of IoT. Everyone can contribute here!
 * [Snappy Ubuntu Core](http://developer.ubuntu.com/en/snappy/) - Canonical, A new, transactionally updated Ubuntu for clouds and devices.
 * [TachyOS ★ 7 ⧗ 82](https://github.com/fritzprix/TachyOS) - is the RTOS based on microkernel architecture which includes only minimal components like thread / synchronization, memory management, inter-thread communication while supporting execution context / address space isolation(protection) and extensible modular interface.
 * **[TinyOS ★ 543 ⧗ 0](https://github.com/tinyos/tinyos-main)** - designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters.
+* [Tock OS ★ 243 ⧗ 1](https://github.com/helena-project/tock) -  is an operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M based embedded platforms.
 * [Zephyr ★ 12 ⧗ 5](https://github.com/cfriedt/zephyr) -  is a small, scalable real-time operating system for use on resource-constrained systems supporting multiple architectures.
-* [Tock OS](https://github.com/helena-project/tock) -  is an operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M based embedded platforms.
 
 ## Platform
 
@@ -195,14 +195,15 @@ A curated list of IoT. Everyone can contribute here!
 Layered architecture of JTAG interface and TAP support 
 
 * [IoT Toolkit ★ 39 ⧗ 41](https://github.com/connectIOT/iottoolkit) - Reference implementation of the smart object API
+* [iot-adk-addonkit ★ 8 ⧗ 1](https://github.com/ms-iot/iot-adk-addonkit) - Contains command line scripts for package creation and image creation process and samples for iot products based on RPi2/MBM.
 * [KinomaJS ★ 293 ⧗ 0](https://github.com/Kinoma/kinomajs) - A JavaScript runtime optimized for the applications that power IoT devices.
 * [macchina.io ★ 144 ⧗ 0](https://github.com/macchina-io/macchina.io) - An open-source toolkit for building embedded IoT applications that connect sensors, devices and cloud services.
 * [OpenOCD ★ 10 ⧗ 34](https://github.com/arduino/OpenOCD) - OpenOCD provides on-chip programming and debugging support with a
 * [pyOCD ★ 112 ⧗ 0](https://github.com/mbedmicro/pyOCD) - Open source python library for programming and debugging ARM Cortex-M microcontrollers using CMSIS-DAP.
-* [iot-adk-addonkit](https://github.com/ms-iot/iot-adk-addonkit) - Contains command line scripts for package creation and image creation process and samples for iot products based on RPi2/MBM.
 
 ## Data Visualization
 
+* [[iotdashboard ★ 7 ⧗ 14](https://github.com/electrocoder/iotdashboard) - Fast Django server for IOT Devices.
 * [Arbela ★ 12 ⧗ 2](https://github.com/walkingtree/arbela) - Rich, Extensible, Customizable, and Configurable Dashboard.
 * [Crouton ★ 75 ⧗ 0](https://github.com/edfungus/Crouton) - is a dashboard that lets you visualize and control your IOT devices with minimal setup. 
 * **[D3.JS ★ 49188 ⧗ 0](https://github.com/mbostock/d3)** - A JavaScript visualization library for HTML and SVG
@@ -210,7 +211,6 @@ Layered architecture of JTAG interface and TAP support
 * **[ECharts ★ 11457 ⧗ 0](https://github.com/ecomfe/echarts)** - Echarts is a commercial charting solution originally intended to address the report need of the Company's various business systems.
 * **[Freeboard ★ 3034 ⧗ 0](https://github.com/Freeboard/freeboard)** - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
 * **[HighCharts ★ 4949 ⧗ 0](https://github.com/highslide-software/highcharts.com)** - Highcharts JS, the JavaScript charting framework
-* [[iotdashboard](https://github.com/electrocoder/iotdashboard) - Fast Django server for IOT Devices.
 
 ## Hardware
 
@@ -218,7 +218,7 @@ Layered architecture of JTAG interface and TAP support
 * [Arduino](http://www.arduino.cc/) - open-source electronics platform based on easy-to-use hardware and software.
 * [Arduino ZERO](https://www.arduino.cc/en/Main/ArduinoBoardZero) - This board aims to provide a platform for innovative projects in smart IoT devices, wearable technology, high-tech automation, crazy robotics, and much more.
 * [BeagleBone](http://beagleboard.org/getting-started/) -  BeagleBone Black is a low-cost, community-supported development platform for developers and hobbyists.
-* [Bitsy Bits](https://github.com/bitsybits/bitsybits-core) - is an IoT composite project. This means it has all parts to implement the full user experience. 
+* [Bitsy Bits ★ 3 ⧗ 36](https://github.com/bitsybits/bitsybits-core) - is an IoT composite project. This means it has all parts to implement the full user experience. 
 * [Carloop ★ 6 ⧗ 0](https://github.com/carloop/carloop-library) - Make apps for your car using signals from OBD-II, CAN and GPS. Publish data online using the Particle platform.
 * [Cheapduino](http://www.dfrobot.com/wiki/index.php/CheapDuino_(SKU:DFR0236)) - CheapDuino is the most cheapest Arduino compatible processor in the world. 
 * [ESP8266 Smartwatch ★ 39 ⧗ 0](https://github.com/Jeija/esp8266-smartwatch) - ESP8266 DIY WiFi Smartwatch with MPU-9250, RTC, OLED, FT232, ...
@@ -246,18 +246,18 @@ Layered architecture of JTAG interface and TAP support
 * **[openHAB ★ 2536 ⧗ 0](https://github.com/openhab/openhab)** - a vendor and technology agnostic open source automation software for your home.
 * [openhab 2](https://github.com/openhab/openhab 2) - The open Home Automation Bus (openHAB) project aims at providing a universal integration platform for all things around home automation.
 * [pimatic ★ 313 ⧗ 0](https://github.com/pimatic/pimatic) - A home automation server and framework for the raspberry pi running on node.js
+* [Pimatic ★ 362 ⧗ 0](https://github.com/pimatic/pimatic) - A home automation server and framework for the raspberry pi running on node.js.
 * [PrivateEyePi](http://projects.privateeyepi.com/) - Home Automation and Monitoring Projects for Raspberry Pi 
 * [RaZberry](http://razberry.z-wave.me/) - RaZberry brings Z-Wave to the Raspberry PI platform. 
 * **[Smart Mirror ★ 1181 ⧗ 0](https://github.com/evancohen/smart-mirror)** - The fairest of them all. A DIY voice controlled smart mirror with IoT integration.
-* [Pimatic](https://github.com/pimatic/pimatic) - A home automation server and framework for the raspberry pi running on node.js.
 
 ## IDE
 
 * [Angular 2 IoT ★ 10 ⧗ 4](https://github.com/urish/angular2-iot) - is an experimental technology that allows you to program physical hardware (buttons, LEDs, etc.) using Angular 2.
 * [DevIoT ★ 70 ⧗ 1](https://github.com/gepd/Deviot) - Sublime Text plugin for IoT development.
-* [Platformio Atom IDE](https://github.com/platformio/platformio-atom-ide) - The next generation integrated development environment for IoT.
+* [Platformio Atom IDE ★ 108 ⧗ 2](https://github.com/platformio/platformio-atom-ide) - The next generation integrated development environment for IoT.
+* **[Stino ★ 1280 ⧗ 1](https://github.com/Robot-Will/Stino)** -  is a Sublime Text plugin that provides an Arduino-like environement for editing, compiling and uploading sketches.
 * [WyliodrinSTUDIO ★ 25 ⧗ 2](https://github.com/Wyliodrin/WyliodrinSTUDIO) - Wyliodrin STUDIO is a Chrome based IDE for software and hardware development for IoT and Embedded Linux systems.
-* [Stino](https://github.com/Robot-Will/Stino) -  is a Sublime Text plugin that provides an Arduino-like environement for editing, compiling and uploading sketches.
 
 ## Robotics
 
@@ -267,12 +267,12 @@ Layered architecture of JTAG interface and TAP support
 ## Others
 
 * [Corto ★ 15 ⧗ 4](https://github.com/cortoproject/corto) - Corto is a tested, proven architecture for normalizing data from different technologies into one view regardless of location, format or datamodel. 
+* [Emul8 ★ 50 ⧗ 71](https://github.com/emul8/emul8) - is an emulator of various embedded systems. With Emul8 you can develop embedded software entirely in a virtual environment that runs within your PC.
 * [fluent-bit ★ 90 ⧗ 4](https://github.com/fluent/fluent-bit) - is a data collector for Linux, Embedded Linux, OSX and BSD family operating systems.
 * [Kamanja ★ 21 ⧗ 1](https://github.com/LigaData/Kamanja) -  is an open-source continuous decisioning engine that is hardened for enterprise reliability requirements, scalable to IoT level data volumes, and enables low latency use cases.
 * [Kuzzle ★ 267 ⧗ 0](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT.
 * **[Node-RED ★ 2513 ⧗ 0](https://github.com/node-red/node-red)** - A visual tool for wiring the Internet of Things.
-* [RemoteDebug](https://github.com/JoaoLopesF/RemoteDebug) - A library to remote debug over telnet connection!
-* [Emul8](https://github.com/emul8/emul8) - is an emulator of various embedded systems. With Emul8 you can develop embedded software entirely in a virtual environment that runs within your PC.
+* [RemoteDebug ★ 17 ⧗ 11](https://github.com/JoaoLopesF/RemoteDebug) - A library to remote debug over telnet connection!
 
 ## Language
 
@@ -342,9 +342,10 @@ Layered architecture of JTAG interface and TAP support
 
 ## Fork
 
-* [AWS IoT Button](https://github.com/ianmas-aws/iot-button-emulator) - Emulate the AWS IoT Button on a Raspberry Pi with a simple push button using this C++ sample.
+* [AWS IoT Button ★ 5 ⧗ 4](https://github.com/ianmas-aws/iot-button-emulator) - Emulate the AWS IoT Button on a Raspberry Pi with a simple push button using this C++ sample.
 
 ## Hardware Com
+
 
 ### NFC
 
@@ -387,11 +388,12 @@ Layered architecture of JTAG interface and TAP support
 
 ## Resources-Websites-Projects
 
+
 ### Course
 
-* [A developer's guide to the Internet of Things (by IBM)](https://www.coursera.org/learn/developer-iot/home/welcome)
-* [Build an Intelligent System: From Embedded to Cloud (NOT FREE)](https://www.pluralsight.com/courses/building-intelligent-system-embedded-to-cloud)
-* [Low-Level Software Security: Attacks and Countermeassures](https://www.youtube.com/watch?v=ZLZkf8FVcsU)
+* [A developer's guide to the Internet of Things (by IBM)](https://www.coursera.org/learn/developer-iot/home/welcome) - None
+* [Build an Intelligent System: From Embedded to Cloud (NOT FREE)](https://www.pluralsight.com/courses/building-intelligent-system-embedded-to-cloud) - None
+* [Low-Level Software Security: Attacks and Countermeassures](https://www.youtube.com/watch?v=ZLZkf8FVcsU) - None
 
 ### WebSite
 
@@ -404,12 +406,13 @@ Layered architecture of JTAG interface and TAP support
 ### Blog
 
 * [IBM IoT Blog](https://www.ibm.com/blogs/internet-of-things/) 
+
 * [Arduino Create](https://create.arduino.cc) - None
 * [http://edi.wang/](http://edi.wang/) - ``ASP.NET``, ``Windows 10 IoT``
 * [IBM DeveloperWorks IoT](http://www.ibm.com/developerworks/cn/iot/) - None
+* [Industrial IoT blog](https://industrial-iot.com/) - "Industrial IoT/Industrie 4.0 Viewpoints".
 * [Intel IoT Blog](https://software.intel.com/zh-cn/iot/home) - None
 * [Microsoft IoT Blog](https://blogs.microsoft.com/iot/) - None
-* [Industrial IoT blog](https://industrial-iot.com/) - "Industrial IoT/Industrie 4.0 Viewpoints".
 
 ### Group
 
