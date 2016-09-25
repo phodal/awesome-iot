@@ -238,6 +238,7 @@ Layered architecture of JTAG interface and TAP support
 * [CK.HomeAutomation ★ 15 ⧗ 9](https://github.com/chkr1011/CK.HomeAutomation) - The first open source Home Automation SDK for Windows 10 IoT Core.
 * [Eclipse SmartHome](http://eclipse.org/smarthome/) - Smart Home adoption will only gain momentum if the different devices can be connected into over-arching use cases, but currently the market for Smart Home systems and IoT gadgets is heavily fragmented. 
 * **[heimcontrol.js ★ 1306 ⧗ 4](https://github.com/ni-c/heimcontrol.js)** -  Home-Automation with node.js and Raspberry PI
+* [Homebridge](https://github.com/nfarina/homebridge) - Homebridge is a lightweight NodeJS server you can run on your home network that emulates the iOS HomeKit API. 
 * **[home-assistant ★ 3237 ⧗ 0](https://github.com/balloob/home-assistant)** - Open-source home automation platform running on Python 3
 * [home.pi ★ 145 ⧗ 1](https://github.com/denschu/home.pi) - Home Automation with AngularJS and MQTT on a Raspberry Pi
 * **[Magic Mirror ★ 503 ⧗ 0](https://github.com/MicrosoftEdge/magic-mirror-demo)** - A ⚡Magic Mirror⚡ powered by a UWP Hosted Web App.
