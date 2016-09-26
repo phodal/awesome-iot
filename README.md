@@ -36,6 +36,7 @@ A curated list of IoT. Everyone can contribute here!
     - [Blog](#blog)
     - [GitHub Org.](#github-org)
     - [Free Book](#free-book)
+    - [Related Reources Projects](#related-resources-projects)
 - [Analytics](#analytics)
 - [Others](#others)
     
@@ -429,6 +430,12 @@ Layered architecture of JTAG interface and TAP support
 
 * **[Design IoT ★ 594 ⧗ 0](https://github.com/phodal/designiot)** - A Ebook to tech your create IoT System step by step.
 * [IoT-Firstep ★ 24 ⧗ 9](https://github.com/nladuo/IoT-Firstep) - A Ebook to tech your create IoT System.
+
+### Related Resources Projects
+
+* [awesome-embedded-systems](https://github.com/fkromer/awesome-embedded-systems) - Lists resources about embedded system development.
+* [awesome-embedded-software](https://github.com/fkromer/awesome-embedded-software) - Lists resources about embedded software development.
+* [awesome-embedded-hardware](https://github.com/fkromer/awesome-embedded-hardware) - Lists resources about embedded hardware development.
 
 ### Tutorial
 
