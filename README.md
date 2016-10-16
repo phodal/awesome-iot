@@ -91,6 +91,7 @@ A curated list of IoT. Everyone can contribute here!
 * [LK ★ 312 ⧗ 0](https://github.com/littlekernel/lk) - The LK embedded kernel. An SMP-aware kernel designed for small systems.
 * [Magenta ★ 286 ⧗ 0](https://github.com/fuchsia-mirror/magenta) - Magenta is a new kernel that powers the Fuchsia OS.
 * [node-iotdb ★ 19 ⧗ 60](https://github.com/dpjanes/node-iotdb) - Easily control the Internet of Things using Semantics.
+* [matrixssl](https://github.com/matrixssl/matrixssl) - is an embedded SSL and TLS implementation designed for small footprint IoT devices requiring low overhead per connection.
 * [Secure Device Grid ★ 4 ⧗ 20](https://github.com/trifork/secure-device-grid) - Secure device-to-device communication solution for IOT.
 * **[simbody ★ 540 ⧗ 0](https://github.com/simbody/simbody)** - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
 * [Soletta ★ 96 ⧗ 2](https://github.com/solettaproject/soletta) - Soletta Project is a framework for making IoT devices. With Soletta Project's libraries developers can easily write software for devices that control actuators/sensors and communicate using standard technologies. 
