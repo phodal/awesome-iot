@@ -139,6 +139,7 @@ A curated list of IoT. Everyone can contribute here!
 * [Tock OS ★ 243 ⧗ 1](https://github.com/helena-project/tock) -  is an operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M based embedded platforms.
 * [trochili ★ 75 ⧗ 6](https://github.com/liuxuming/trochili) - A small RTOS optimized for the embedded/iot devices. Support Cortex M3.
 * [Zephyr ★ 12 ⧗ 5](https://github.com/cfriedt/zephyr) -  is a small, scalable real-time operating system for use on resource-constrained systems supporting multiple architectures.
+* [NuttX](http://nuttx.org/) - is a real-time operating system (RTOS) with an emphasis on standards compliance and small footprint. Scalable from 8-bit to 32-bit microcontroller environments, the primary governing standards in NuttX are Posix and ANSI standards.
 
 ## Platform
 
