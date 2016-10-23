@@ -88,6 +88,7 @@ A curated list of IoT. Everyone can contribute here!
 * [inih](https://github.com/benhoyt/inih) - is a simple .INI file parser written in C.
 * [krypton ★ 7 ⧗ 35](https://github.com/cesanta/krypton) - Embedded TLS/DTLS library, source and binary compatible OpenSSL subset
 * [libtuv ★ 19 ⧗ 17](https://github.com/Samsung/libtuv) - Asynchronous I/O for IoT.js and embedded system.
+* [Ladon](https://github.com/ory-am/ladon) - is a library written in Go for access control policies, similar to Role Based Access Control or Access Control Lists.
 * [LK ★ 312 ⧗ 0](https://github.com/littlekernel/lk) - The LK embedded kernel. An SMP-aware kernel designed for small systems.
 * [Magenta ★ 286 ⧗ 0](https://github.com/fuchsia-mirror/magenta) - Magenta is a new kernel that powers the Fuchsia OS.
 * [node-iotdb ★ 19 ⧗ 60](https://github.com/dpjanes/node-iotdb) - Easily control the Internet of Things using Semantics.
