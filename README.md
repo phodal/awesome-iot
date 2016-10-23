@@ -85,14 +85,14 @@ A curated list of IoT. Everyone can contribute here!
 * [btstack ★ 151 ⧗ 1](https://github.com/bluekitchen/btstack) - Dual-mode Bluetooth stack, with small memory footprint.
 * [CocoaMQTT ★ 210 ⧗ 0](https://github.com/emqtt/CocoaMQTT) - MQTT for iOS and OS X written with Swift.
 * [Devices ★ 134 ⧗ 0](https://github.com/goiot/devices) - Suite of libraries for IoT devices (written in Go).
-* [inih](https://github.com/benhoyt/inih) - is a simple .INI file parser written in C.
+* [inih ★ 312 ⧗ 3](https://github.com/benhoyt/inih) - is a simple .INI file parser written in C.
 * [krypton ★ 7 ⧗ 35](https://github.com/cesanta/krypton) - Embedded TLS/DTLS library, source and binary compatible OpenSSL subset
+* [Ladon ★ 114 ⧗ 2](https://github.com/ory-am/ladon) - is a library written in Go for access control policies, similar to Role Based Access Control or Access Control Lists.
 * [libtuv ★ 19 ⧗ 17](https://github.com/Samsung/libtuv) - Asynchronous I/O for IoT.js and embedded system.
-* [Ladon](https://github.com/ory-am/ladon) - is a library written in Go for access control policies, similar to Role Based Access Control or Access Control Lists.
 * [LK ★ 312 ⧗ 0](https://github.com/littlekernel/lk) - The LK embedded kernel. An SMP-aware kernel designed for small systems.
 * [Magenta ★ 286 ⧗ 0](https://github.com/fuchsia-mirror/magenta) - Magenta is a new kernel that powers the Fuchsia OS.
+* [matrixssl ★ 36 ⧗ 0](https://github.com/matrixssl/matrixssl) - is an embedded SSL and TLS implementation designed for small footprint IoT devices requiring low overhead per connection.
 * [node-iotdb ★ 19 ⧗ 60](https://github.com/dpjanes/node-iotdb) - Easily control the Internet of Things using Semantics.
-* [matrixssl](https://github.com/matrixssl/matrixssl) - is an embedded SSL and TLS implementation designed for small footprint IoT devices requiring low overhead per connection.
 * [Secure Device Grid ★ 4 ⧗ 20](https://github.com/trifork/secure-device-grid) - Secure device-to-device communication solution for IOT.
 * **[simbody ★ 540 ⧗ 0](https://github.com/simbody/simbody)** - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
 * [Soletta ★ 96 ⧗ 2](https://github.com/solettaproject/soletta) - Soletta Project is a framework for making IoT devices. With Soletta Project's libraries developers can easily write software for devices that control actuators/sensors and communicate using standard technologies. 
@@ -124,7 +124,6 @@ A curated list of IoT. Everyone can contribute here!
 * [FlingOS ★ 176 ⧗ 0](https://github.com/FlingOS/FlingOS) - An educational operating system written in C#. A great stepping stone from high to low level development.
 * [Hypriot ★ 54 ⧗ 13](https://github.com/hypriot/rpi-kernel) - get you started with Docker on a Raspberry Pi in no time.
 * [JanOS ★ 138 ⧗ 0](https://github.com/jan-os/janos) - JanOS is an operating system designed to run on the chipset of mobile phones. 
-* [trochili](https://github.com/liuxuming/trochili) - A small RTOS optimized for the embedded/iot devices. Support Cortex M3.
 * [Linino ★ 83 ⧗ 13](https://github.com/arduino/linino) - Linino is a GNU/Linux distribution based on OpenWRT and mantained by DogHunter.
 * [macchina.io ★ 144 ⧗ 0](https://github.com/macchina-io/macchina.io) - An open-source toolkit for building embedded IoT applications that connect sensors, devices and cloud services.
 * **[NodeOS ★ 3605 ⧗ 0](https://github.com/nodeos/nodeos)** - Lightweight operating system using Node.js as userspace.
@@ -138,6 +137,7 @@ A curated list of IoT. Everyone can contribute here!
 * [TachyOS ★ 7 ⧗ 82](https://github.com/fritzprix/TachyOS) - is the RTOS based on microkernel architecture which includes only minimal components like thread / synchronization, memory management, inter-thread communication while supporting execution context / address space isolation(protection) and extensible modular interface.
 * **[TinyOS ★ 543 ⧗ 0](https://github.com/tinyos/tinyos-main)** - designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters.
 * [Tock OS ★ 243 ⧗ 1](https://github.com/helena-project/tock) -  is an operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M based embedded platforms.
+* [trochili ★ 75 ⧗ 6](https://github.com/liuxuming/trochili) - A small RTOS optimized for the embedded/iot devices. Support Cortex M3.
 * [Zephyr ★ 12 ⧗ 5](https://github.com/cfriedt/zephyr) -  is a small, scalable real-time operating system for use on resource-constrained systems supporting multiple architectures.
 
 ## Platform
@@ -194,7 +194,7 @@ A curated list of IoT. Everyone can contribute here!
 * [Meact ★ 6 ⧗ 43](https://github.com/bkupidura/meact) - task is to get metric from external stuff, write it to DB and perform various action.
 * [OpenIoT ★ 205 ⧗ 0](https://github.com/OpenIotOrg/openiot) - The OpenIoT middleware infrastructure will support flexible configuration and deployment of algorithms for collection
 * [SiteWhere ★ 61 ⧗ 0](https://github.com/sitewhere/sitewhere) - SiteWhere open-source IoT platform for device connectivity & management, data persistence, processing, integration, and analytics -- both in cloud and on-premise.
-* [ThingSpeak ★ 743 ⧗ 0](https://github.com/iobridge/ThingSpeak) - ThingSpeak is an open source "Internet of Things" application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network.
+* **[ThingSpeak ★ 743 ⧗ 0](https://github.com/iobridge/ThingSpeak)** - ThingSpeak is an open source "Internet of Things" application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network.
 
 ## Toolkits Include Non-OS
 
@@ -244,9 +244,9 @@ Layered architecture of JTAG interface and TAP support
 * [CK.HomeAutomation ★ 15 ⧗ 9](https://github.com/chkr1011/CK.HomeAutomation) - The first open source Home Automation SDK for Windows 10 IoT Core.
 * [Eclipse SmartHome](http://eclipse.org/smarthome/) - Smart Home adoption will only gain momentum if the different devices can be connected into over-arching use cases, but currently the market for Smart Home systems and IoT gadgets is heavily fragmented. 
 * **[heimcontrol.js ★ 1306 ⧗ 4](https://github.com/ni-c/heimcontrol.js)** -  Home-Automation with node.js and Raspberry PI
-* [Homebridge](https://github.com/nfarina/homebridge) - Homebridge is a lightweight NodeJS server you can run on your home network that emulates the iOS HomeKit API. 
 * **[home-assistant ★ 3237 ⧗ 0](https://github.com/balloob/home-assistant)** - Open-source home automation platform running on Python 3
 * [home.pi ★ 145 ⧗ 1](https://github.com/denschu/home.pi) - Home Automation with AngularJS and MQTT on a Raspberry Pi
+* **[Homebridge ★ 3030 ⧗ 0](https://github.com/nfarina/homebridge)** - Homebridge is a lightweight NodeJS server you can run on your home network that emulates the iOS HomeKit API. 
 * **[Magic Mirror ★ 503 ⧗ 0](https://github.com/MicrosoftEdge/magic-mirror-demo)** - A ⚡Magic Mirror⚡ powered by a UWP Hosted Web App.
 * [Mozilla Smart Home ★ 4 ⧗ 8](https://github.com/mozilla/smarthome.iot) - offers a middle ground between "in a box" solutions like Apple Homekit and DIY solutions like Raspberry Pi
 * [Ninja Blocks](https://ninjablocks.com/) - Smart home controller. A computer for the coffee table.
@@ -257,7 +257,7 @@ Layered architecture of JTAG interface and TAP support
 * [PrivateEyePi](http://projects.privateeyepi.com/) - Home Automation and Monitoring Projects for Raspberry Pi 
 * [RaZberry](http://razberry.z-wave.me/) - RaZberry brings Z-Wave to the Raspberry PI platform. 
 * **[Smart Mirror ★ 1181 ⧗ 0](https://github.com/evancohen/smart-mirror)** - The fairest of them all. A DIY voice controlled smart mirror with IoT integration.
-* [Vör](https://github.com/futurice/vor) - is open source software and hardware for turning your open office into an open, real-time map for finding people, open work places and current events.
+* [Vör ★ 31 ⧗ 2](https://github.com/futurice/vor) - is open source software and hardware for turning your open office into an open, real-time map for finding people, open work places and current events.
 
 ## IDE
 
@@ -281,7 +281,7 @@ Layered architecture of JTAG interface and TAP support
 * [Kuzzle ★ 267 ⧗ 0](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT.
 * **[Node-RED ★ 2513 ⧗ 0](https://github.com/node-red/node-red)** - A visual tool for wiring the Internet of Things.
 * [RemoteDebug ★ 17 ⧗ 11](https://github.com/JoaoLopesF/RemoteDebug) - A library to remote debug over telnet connection!
-* [vorto](https://github.com/eclipse/vorto) - is a toolset that lets you describe devices using a simple language and share these descriptions, so-called Information Models, in a centralized Vorto Repository.
+* [vorto ★ 32 ⧗ 3](https://github.com/eclipse/vorto) - is a toolset that lets you describe devices using a simple language and share these descriptions, so-called Information Models, in a centralized Vorto Repository.
 
 ## Language
 
@@ -440,9 +440,9 @@ Layered architecture of JTAG interface and TAP support
 
 ### Related Resources Projects
 
-* [awesome-embedded-systems](https://github.com/fkromer/awesome-embedded-systems) - Lists resources about embedded system development.
-* [awesome-embedded-software](https://github.com/fkromer/awesome-embedded-software) - Lists resources about embedded software development.
-* [awesome-embedded-hardware](https://github.com/fkromer/awesome-embedded-hardware) - Lists resources about embedded hardware development.
+* [awesome-embedded-hardware ★ 0 ⧗ 29](https://github.com/fkromer/awesome-embedded-hardware) - Lists resources about embedded hardware development.
+* [awesome-embedded-software ★ 0 ⧗ 63](https://github.com/fkromer/awesome-embedded-software) - Lists resources about embedded software development.
+* [awesome-embedded-systems ★ 0 ⧗ 29](https://github.com/fkromer/awesome-embedded-systems) - Lists resources about embedded system development.
 
 ### Tutorial
 
