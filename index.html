@@ -3,32 +3,32 @@
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
 
     <title>Awesome-iot by phodal</title>
   </head>
 
   <body>
-
     <header>
-      <div class="container">
+      <div class="inner">
         <h1>Awesome-iot</h1>
         <h2>Awesome IoT. A collaborative list of great resources about IoTI Framework, Library,  OS, Platform</h2>
-
-        <section id="downloads">
-          <a href="https://github.com/phodal/awesome-iot/zipball/master" class="btn">Download as .zip</a>
-          <a href="https://github.com/phodal/awesome-iot/tarball/master" class="btn">Download as .tar.gz</a>
-          <a href="https://github.com/phodal/awesome-iot" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
+        <a href="https://github.com/phodal/awesome-iot" class="button"><small>View project on</small> GitHub</a>
       </div>
     </header>
 
-    <div class="container">
-      <section id="main_content">
-        <h1>
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+          <h1>
 <a id="awesome-iot-" class="anchor" href="#awesome-iot-" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Awesome IoT <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
 </h1>
 
@@ -81,10 +81,12 @@
 <a href="#resources-websites-projects">Resources-Websites-Projects</a>
 
 <ul>
+<li><a href="#course">Course</a></li>
 <li><a href="#website">WebSite</a></li>
 <li><a href="#blog">Blog</a></li>
 <li><a href="#github-org">GitHub Org.</a></li>
 <li><a href="#free-book">Free Book</a></li>
+<li><a href="#related-resources-projects">Related Reources Projects</a></li>
 </ul>
 </li>
 <li><a href="#analytics">Analytics</a></li>
@@ -179,13 +181,19 @@
 <li>
 <a href="https://github.com/goiot/devices">Devices ★ 134 ⧗ 0</a> - Suite of libraries for IoT devices (written in Go).</li>
 <li>
+<a href="https://github.com/benhoyt/inih">inih ★ 312 ⧗ 3</a> - is a simple .INI file parser written in C.</li>
+<li>
 <a href="https://github.com/cesanta/krypton">krypton ★ 7 ⧗ 35</a> - Embedded TLS/DTLS library, source and binary compatible OpenSSL subset</li>
+<li>
+<a href="https://github.com/ory-am/ladon">Ladon ★ 114 ⧗ 2</a> - is a library written in Go for access control policies, similar to Role Based Access Control or Access Control Lists.</li>
 <li>
 <a href="https://github.com/Samsung/libtuv">libtuv ★ 19 ⧗ 17</a> - Asynchronous I/O for IoT.js and embedded system.</li>
 <li>
 <a href="https://github.com/littlekernel/lk">LK ★ 312 ⧗ 0</a> - The LK embedded kernel. An SMP-aware kernel designed for small systems.</li>
 <li>
 <a href="https://github.com/fuchsia-mirror/magenta">Magenta ★ 286 ⧗ 0</a> - Magenta is a new kernel that powers the Fuchsia OS.</li>
+<li>
+<a href="https://github.com/matrixssl/matrixssl">matrixssl ★ 36 ⧗ 0</a> - is an embedded SSL and TLS implementation designed for small footprint IoT devices requiring low overhead per connection.</li>
 <li>
 <a href="https://github.com/dpjanes/node-iotdb">node-iotdb ★ 19 ⧗ 60</a> - Easily control the Internet of Things using Semantics.</li>
 <li>
@@ -229,7 +237,7 @@
 
 <ul>
 <li>
-<a href="https://github.com/trezor/trezor-crypto">trezor-crypto</a> - <g-emoji alias="orange_book" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d9.png">📙</g-emoji> Heavily optimized cryptography algorithms for embedded devices.</li>
+<a href="https://github.com/trezor/trezor-crypto">trezor-crypto ★ 94 ⧗ 1</a> - <g-emoji alias="orange_book" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d9.png" ios-version="6.0">📙</g-emoji> Heavily optimized cryptography algorithms for embedded devices.</li>
 </ul>
 
 <h2>
@@ -275,9 +283,13 @@
 <li>
 <strong><a href="https://github.com/tinyos/tinyos-main">TinyOS ★ 543 ⧗ 0</a></strong> - designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters.</li>
 <li>
+<a href="https://github.com/helena-project/tock">Tock OS ★ 243 ⧗ 1</a> -  is an operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M based embedded platforms.</li>
+<li>
+<a href="https://github.com/liuxuming/trochili">trochili ★ 75 ⧗ 6</a> - A small RTOS optimized for the embedded/iot devices. Support Cortex M3.</li>
+<li>
 <a href="https://github.com/cfriedt/zephyr">Zephyr ★ 12 ⧗ 5</a> -  is a small, scalable real-time operating system for use on resource-constrained systems supporting multiple architectures.</li>
 <li>
-<a href="https://github.com/helena-project/tock">Tock OS</a> -  is an operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M based embedded platforms.</li>
+<a href="http://nuttx.org/">NuttX</a> - is a real-time operating system (RTOS) with an emphasis on standards compliance and small footprint. Scalable from 8-bit to 32-bit microcontroller environments, the primary governing standards in NuttX are Posix and ANSI standards.</li>
 </ul>
 
 <h2>
@@ -379,11 +391,13 @@
 <li>
 <a href="https://github.com/kaaproject/kaa">Kaa ★ 234 ⧗ 0</a> - Kaa open-source middleware platform for building, managing, and integrating connected products with the Internet of Everything.</li>
 <li>
-<a href="https://github.com/bkupidura/meact">Meact ★ 6 ⧗ 43</a> -  task is to get metric from external stuff, write it to DB and perform various action.</li>
+<a href="https://github.com/bkupidura/meact">Meact ★ 6 ⧗ 43</a> - task is to get metric from external stuff, write it to DB and perform various action.</li>
 <li>
 <a href="https://github.com/OpenIotOrg/openiot">OpenIoT ★ 205 ⧗ 0</a> - The OpenIoT middleware infrastructure will support flexible configuration and deployment of algorithms for collection</li>
 <li>
 <a href="https://github.com/sitewhere/sitewhere">SiteWhere ★ 61 ⧗ 0</a> - SiteWhere open-source IoT platform for device connectivity &amp; management, data persistence, processing, integration, and analytics -- both in cloud and on-premise.</li>
+<li>
+<strong><a href="https://github.com/iobridge/ThingSpeak">ThingSpeak ★ 743 ⧗ 0</a></strong> - ThingSpeak is an open source "Internet of Things" application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network.</li>
 </ul>
 
 <h2>
@@ -395,6 +409,8 @@
 <li>
 <a href="https://github.com/connectIOT/iottoolkit">IoT Toolkit ★ 39 ⧗ 41</a> - Reference implementation of the smart object API</li>
 <li>
+<a href="https://github.com/ms-iot/iot-adk-addonkit">iot-adk-addonkit ★ 8 ⧗ 1</a> - Contains command line scripts for package creation and image creation process and samples for iot products based on RPi2/MBM.</li>
+<li>
 <a href="https://github.com/Kinoma/kinomajs">KinomaJS ★ 293 ⧗ 0</a> - A JavaScript runtime optimized for the applications that power IoT devices.</li>
 <li>
 <a href="https://github.com/macchina-io/macchina.io">macchina.io ★ 144 ⧗ 0</a> - An open-source toolkit for building embedded IoT applications that connect sensors, devices and cloud services.</li>
@@ -402,14 +418,13 @@
 <a href="https://github.com/arduino/OpenOCD">OpenOCD ★ 10 ⧗ 34</a> - OpenOCD provides on-chip programming and debugging support with a</li>
 <li>
 <a href="https://github.com/mbedmicro/pyOCD">pyOCD ★ 112 ⧗ 0</a> - Open source python library for programming and debugging ARM Cortex-M microcontrollers using CMSIS-DAP.</li>
-<li>
-<a href="https://github.com/ms-iot/iot-adk-addonkit">iot-adk-addonkit</a> - Contains command line scripts for package creation and image creation process and samples for iot products based on RPi2/MBM.</li>
 </ul>
 
 <h2>
 <a id="data-visualization" class="anchor" href="#data-visualization" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Data Visualization</h2>
 
 <ul>
+<li>[<a href="https://github.com/electrocoder/iotdashboard">iotdashboard ★ 7 ⧗ 14</a> - Fast Django server for IOT Devices.</li>
 <li>
 <a href="https://github.com/walkingtree/arbela">Arbela ★ 12 ⧗ 2</a> - Rich, Extensible, Customizable, and Configurable Dashboard.</li>
 <li>
@@ -424,7 +439,6 @@
 <strong><a href="https://github.com/Freeboard/freeboard">Freeboard ★ 3034 ⧗ 0</a></strong> - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.</li>
 <li>
 <strong><a href="https://github.com/highslide-software/highcharts.com">HighCharts ★ 4949 ⧗ 0</a></strong> - Highcharts JS, the JavaScript charting framework</li>
-<li>[<a href="https://github.com/electrocoder/iotdashboard">iotdashboard</a> - Fast Django server for IOT Devices.</li>
 </ul>
 
 <h2>
@@ -438,7 +452,9 @@
 <li>
 <a href="https://www.arduino.cc/en/Main/ArduinoBoardZero">Arduino ZERO</a> - This board aims to provide a platform for innovative projects in smart IoT devices, wearable technology, high-tech automation, crazy robotics, and much more.</li>
 <li>
-<a href="http://beagleboard.org/getting-started/">BeagleBone</a> -  BeagleBone Black is a low-cost, community-supported development platform for developers and hobbyists</li>
+<a href="http://beagleboard.org/getting-started/">BeagleBone</a> -  BeagleBone Black is a low-cost, community-supported development platform for developers and hobbyists.</li>
+<li>
+<a href="https://github.com/bitsybits/bitsybits-core">Bitsy Bits ★ 3 ⧗ 36</a> - is an IoT composite project. This means it has all parts to implement the full user experience. </li>
 <li>
 <a href="https://github.com/carloop/carloop-library">Carloop ★ 6 ⧗ 0</a> - Make apps for your car using signals from OBD-II, CAN and GPS. Publish data online using the Particle platform.</li>
 <li>
@@ -482,7 +498,9 @@
 <li>
 <a href="https://github.com/denschu/home.pi">home.pi ★ 145 ⧗ 1</a> - Home Automation with AngularJS and MQTT on a Raspberry Pi</li>
 <li>
-<strong><a href="https://github.com/MicrosoftEdge/magic-mirror-demo">Magic Mirror ★ 503 ⧗ 0</a></strong> - A <g-emoji alias="zap" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>Magic Mirror<g-emoji alias="zap" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> powered by a UWP Hosted Web App.</li>
+<strong><a href="https://github.com/nfarina/homebridge">Homebridge ★ 3030 ⧗ 0</a></strong> - Homebridge is a lightweight NodeJS server you can run on your home network that emulates the iOS HomeKit API. </li>
+<li>
+<strong><a href="https://github.com/MicrosoftEdge/magic-mirror-demo">Magic Mirror ★ 503 ⧗ 0</a></strong> - A ⚡Magic Mirror⚡ powered by a UWP Hosted Web App.</li>
 <li>
 <a href="https://github.com/mozilla/smarthome.iot">Mozilla Smart Home ★ 4 ⧗ 8</a> - offers a middle ground between "in a box" solutions like Apple Homekit and DIY solutions like Raspberry Pi</li>
 <li>
@@ -494,11 +512,15 @@
 <li>
 <a href="https://github.com/pimatic/pimatic">pimatic ★ 313 ⧗ 0</a> - A home automation server and framework for the raspberry pi running on node.js</li>
 <li>
+<a href="https://github.com/pimatic/pimatic">Pimatic ★ 362 ⧗ 0</a> - A home automation server and framework for the raspberry pi running on node.js.</li>
+<li>
 <a href="http://projects.privateeyepi.com/">PrivateEyePi</a> - Home Automation and Monitoring Projects for Raspberry Pi </li>
 <li>
 <a href="http://razberry.z-wave.me/">RaZberry</a> - RaZberry brings Z-Wave to the Raspberry PI platform. </li>
 <li>
 <strong><a href="https://github.com/evancohen/smart-mirror">Smart Mirror ★ 1181 ⧗ 0</a></strong> - The fairest of them all. A DIY voice controlled smart mirror with IoT integration.</li>
+<li>
+<a href="https://github.com/futurice/vor">Vör ★ 31 ⧗ 2</a> - is open source software and hardware for turning your open office into an open, real-time map for finding people, open work places and current events.</li>
 </ul>
 
 <h2>
@@ -510,11 +532,11 @@
 <li>
 <a href="https://github.com/gepd/Deviot">DevIoT ★ 70 ⧗ 1</a> - Sublime Text plugin for IoT development.</li>
 <li>
-<a href="https://github.com/platformio/platformio-atom-ide">Platformio Atom IDE</a> - The next generation integrated development environment for IoT.</li>
+<a href="https://github.com/platformio/platformio-atom-ide">Platformio Atom IDE ★ 108 ⧗ 2</a> - The next generation integrated development environment for IoT.</li>
+<li>
+<strong><a href="https://github.com/Robot-Will/Stino">Stino ★ 1280 ⧗ 1</a></strong> -  is a Sublime Text plugin that provides an Arduino-like environement for editing, compiling and uploading sketches.</li>
 <li>
 <a href="https://github.com/Wyliodrin/WyliodrinSTUDIO">WyliodrinSTUDIO ★ 25 ⧗ 2</a> - Wyliodrin STUDIO is a Chrome based IDE for software and hardware development for IoT and Embedded Linux systems.</li>
-<li>
-<a href="https://github.com/Robot-Will/Stino">Stino</a> -  is a Sublime Text plugin that provides an Arduino-like environement for editing, compiling and uploading sketches.</li>
 </ul>
 
 <h2>
@@ -534,6 +556,8 @@
 <li>
 <a href="https://github.com/cortoproject/corto">Corto ★ 15 ⧗ 4</a> - Corto is a tested, proven architecture for normalizing data from different technologies into one view regardless of location, format or datamodel. </li>
 <li>
+<a href="https://github.com/emul8/emul8">Emul8 ★ 50 ⧗ 71</a> - is an emulator of various embedded systems. With Emul8 you can develop embedded software entirely in a virtual environment that runs within your PC.</li>
+<li>
 <a href="https://github.com/fluent/fluent-bit">fluent-bit ★ 90 ⧗ 4</a> - is a data collector for Linux, Embedded Linux, OSX and BSD family operating systems.</li>
 <li>
 <a href="https://github.com/LigaData/Kamanja">Kamanja ★ 21 ⧗ 1</a> -  is an open-source continuous decisioning engine that is hardened for enterprise reliability requirements, scalable to IoT level data volumes, and enables low latency use cases.</li>
@@ -542,7 +566,9 @@
 <li>
 <strong><a href="https://github.com/node-red/node-red">Node-RED ★ 2513 ⧗ 0</a></strong> - A visual tool for wiring the Internet of Things.</li>
 <li>
-<a href="https://github.com/JoaoLopesF/RemoteDebug">RemoteDebug</a> - A library to remote debug over telnet connection!</li>
+<a href="https://github.com/JoaoLopesF/RemoteDebug">RemoteDebug ★ 17 ⧗ 11</a> - A library to remote debug over telnet connection!</li>
+<li>
+<a href="https://github.com/eclipse/vorto">vorto ★ 32 ⧗ 3</a> - is a toolset that lets you describe devices using a simple language and share these descriptions, so-called Information Models, in a centralized Vorto Repository.</li>
 </ul>
 
 <h2>
@@ -679,7 +705,7 @@
 
 <ul>
 <li>
-<a href="https://github.com/ianmas-aws/iot-button-emulator">AWS IoT Button</a> - Emulate the AWS IoT Button on a Raspberry Pi with a simple push button using this C++ sample.</li>
+<a href="https://github.com/ianmas-aws/iot-button-emulator">AWS IoT Button ★ 5 ⧗ 4</a> - Emulate the AWS IoT Button on a Raspberry Pi with a simple push button using this C++ sample.</li>
 </ul>
 
 <h2>
@@ -767,6 +793,18 @@
 <a id="resources-websites-projects" class="anchor" href="#resources-websites-projects" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Resources-Websites-Projects</h2>
 
 <h3>
+<a id="course" class="anchor" href="#course" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Course</h3>
+
+<ul>
+<li>
+<a href="https://www.coursera.org/learn/developer-iot/home/welcome">A developer's guide to the Internet of Things (by IBM)</a> - None</li>
+<li>
+<a href="https://www.pluralsight.com/courses/building-intelligent-system-embedded-to-cloud">Build an Intelligent System: From Embedded to Cloud (NOT FREE)</a> - None</li>
+<li>
+<a href="https://www.youtube.com/watch?v=ZLZkf8FVcsU">Low-Level Software Security: Attacks and Countermeassures</a> - None</li>
+</ul>
+
+<h3>
 <a id="website" class="anchor" href="#website" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>WebSite</h3>
 
 <ul>
@@ -786,21 +824,19 @@
 <a id="blog" class="anchor" href="#blog" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Blog</h3>
 
 <ul>
-<li>
-<a href="https://www.ibm.com/blogs/internet-of-things/">IBM IoT Blog</a> </li>
-<li>
-<a href="https://create.arduino.cc">Arduino Create</a> - None</li>
+<li><p><a href="https://www.ibm.com/blogs/internet-of-things/">IBM IoT Blog</a> </p></li>
+<li><p><a href="https://create.arduino.cc">Arduino Create</a> - None</p></li>
 <li>
 <a href="http://edi.wang/">http://edi.wang/</a> - <code>ASP.NET</code>, <code>Windows 10 IoT</code>
 </li>
 <li>
 <a href="http://www.ibm.com/developerworks/cn/iot/">IBM DeveloperWorks IoT</a> - None</li>
 <li>
+<a href="https://industrial-iot.com/">Industrial IoT blog</a> - "Industrial IoT/Industrie 4.0 Viewpoints".</li>
+<li>
 <a href="https://software.intel.com/zh-cn/iot/home">Intel IoT Blog</a> - None</li>
 <li>
 <a href="https://blogs.microsoft.com/iot/">Microsoft IoT Blog</a> - None</li>
-<li>
-<a href="https://industrial-iot.com/">Industrial IoT blog</a> - "Industrial IoT/Industrie 4.0 Viewpoints".</li>
 </ul>
 
 <h3>
@@ -833,6 +869,28 @@
 <a href="https://github.com/nladuo/IoT-Firstep">IoT-Firstep ★ 24 ⧗ 9</a> - A Ebook to tech your create IoT System.</li>
 </ul>
 
+<h3>
+<a id="related-resources-projects" class="anchor" href="#related-resources-projects" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Related Resources Projects</h3>
+
+<ul>
+<li>
+<a href="https://github.com/fkromer/awesome-embedded-hardware">awesome-embedded-hardware ★ 0 ⧗ 29</a> - Lists resources about embedded hardware development.</li>
+<li>
+<a href="https://github.com/fkromer/awesome-embedded-software">awesome-embedded-software ★ 0 ⧗ 63</a> - Lists resources about embedded software development.</li>
+<li>
+<a href="https://github.com/fkromer/awesome-embedded-systems">awesome-embedded-systems ★ 0 ⧗ 29</a> - Lists resources about embedded system development.</li>
+</ul>
+
+<h3>
+<a id="tutorial" class="anchor" href="#tutorial" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Tutorial</h3>
+
+<ul>
+<li>
+<a href="https://github.com/nearform/micro-services-tutorial-iot">micro-services-tutorial-iot ★ 20 ⧗ 13</a> - An instructor led microservices workshop.</li>
+<li>
+<a href="https://www.udemy.com/unpacking-the-internet-of-things/learn/v4/overview">Unpacking the Internat of Things</a> - Shows use cases to help to identify possible potential for enterprise specific products.</li>
+</ul>
+
 <h2>
 <a id="analytics" class="anchor" href="#analytics" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Analytics</h2>
 
@@ -855,23 +913,29 @@
 <a href="https://github.com/souliss/souliss">souliss ★ 137 ⧗ 8</a> - Arduino based Distributed Networking Framework for Smart Homes and IoT.</li>
 </ul>
 
-<h2>
-<a id="tutorial" class="anchor" href="#tutorial" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Tutorial</h2>
-
-<ul>
-<li>
-<a href="https://github.com/nearform/micro-services-tutorial-iot">micro-services-tutorial-iot ★ 20 ⧗ 13</a> - An instructor led microservices workshop.</li>
-<li>
-<a href="https://www.udemy.com/unpacking-the-internet-of-things/learn/v4/overview">Unpacking the Internat of Things</a> - Shows use cases to help to identify possible potential for enterprise specific products.</li>
-</ul>
-
 <h1>
 <a id="contributing" class="anchor" href="#contributing" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contributing</h1>
 
 <p>Your contributions are always welcome! Please submit a pull request or create an issue to add a new framework, library or software to the list. Do not submit a project that hasn’t been updated in the past 6 months or is not awesome.</p>
-      </section>
+        </section>
+
+        <aside id="sidebar">
+          <a href="https://github.com/phodal/awesome-iot/zipball/master" class="button">
+            <small>Download</small>
+            .zip file
+          </a>
+          <a href="https://github.com/phodal/awesome-iot/tarball/master" class="button">
+            <small>Download</small>
+            .tar.gz file
+          </a>
+
+          <p class="repo-owner"><a href="https://github.com/phodal/awesome-iot"></a> is maintained by <a href="https://github.com/phodal">phodal</a>.</p>
+
+          <p>This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the Architect theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.</p>
+        </aside>
+      </div>
     </div>
 
-    
+  
   </body>
 </html>
