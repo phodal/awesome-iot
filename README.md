@@ -55,7 +55,7 @@ A curated list of IoT. Everyone can contribute here!
 * **[Lelylan ★ 647 ⧗ 1](https://github.com/lelylan/lelylan#development)** - OpenSSL Source Lightweight Microservices Architecture for the Internet of Things. For developers.
 * [Liota ★ 162 ⧗ 2](https://github.com/vmware/liota) - is an open source offering for IoT solution developers and resides primarily on IoT gateways.
 * [OpenDevice ★ 23 ⧗ 8](https://github.com/OpenDevice/OpenDevice) - Open IoT (Internet Of Things) Platform and Framework.
-* [Pando Cloud ★ 75 ⧗ 2](https://github.com/PandoCloud/pando-cloud) - is the cloud part of Pando IoT solution. It's made of a bunch of tools, protocols and frameworks below: Pando Cloud, Pando Embeded Framework, Pando Protocol as so on.
+* [Pando Cloud ★ 75 ⧗ 2](https://github.com/PandoCloud/pando-cloud) - is the cloud part of Pando IoT solution. It's made of a bunch of tools, protocols and frameworks below: Pando Cloud, Pando Embedded Framework, Pando Protocol as so on.
 * [rpi-gpio.js ★ 221 ⧗ 5](https://github.com/JamesBarwell/rpi-gpio.js) - Control Raspberry Pi GPIO pins with node.js.
 * [SensorBee ★ 54 ⧗ 33](https://github.com/sensorbee/sensorbee) - Lightweight stream processing engine for IoT
 * **[Serverless ★ 7951 ⧗ 0](https://github.com/serverless/serverless)** - Serverless is the application framework for building web, mobile and IoT applications exclusively on Amazon Web Services' Lambda and API Gateway.
@@ -111,7 +111,7 @@ A curated list of IoT. Everyone can contribute here!
 * [PhoneGap NFC ★ 312 ⧗ 2](https://github.com/chariotsolutions/phonegap-nfc) - PhoneGap NFC Plugin
 * [PWAify ★ 269 ⧗ 8](https://github.com/vladikoff/PWAify) - Experimental project to convert your PWA (Progressive Web App) into a cross-platform Electron app. Brings PWAs to your desktop.
 
-## Secutiry
+## Security
 
 * [trezor-crypto ★ 94 ⧗ 1](https://github.com/trezor/trezor-crypto) - 📙 Heavily optimized cryptography algorithms for embedded devices.
 
@@ -124,7 +124,7 @@ A curated list of IoT. Everyone can contribute here!
 * [FlingOS ★ 176 ⧗ 0](https://github.com/FlingOS/FlingOS) - An educational operating system written in C#. A great stepping stone from high to low level development.
 * [Hypriot ★ 54 ⧗ 13](https://github.com/hypriot/rpi-kernel) - get you started with Docker on a Raspberry Pi in no time.
 * [JanOS ★ 138 ⧗ 0](https://github.com/jan-os/janos) - JanOS is an operating system designed to run on the chipset of mobile phones. 
-* [Linino ★ 83 ⧗ 13](https://github.com/arduino/linino) - Linino is a GNU/Linux distribution based on OpenWRT and mantained by DogHunter.
+* [Linino ★ 83 ⧗ 13](https://github.com/arduino/linino) - Linino is a GNU/Linux distribution based on OpenWRT and maintained by DogHunter.
 * [macchina.io ★ 144 ⧗ 0](https://github.com/macchina-io/macchina.io) - An open-source toolkit for building embedded IoT applications that connect sensors, devices and cloud services.
 * **[NodeOS ★ 3605 ⧗ 0](https://github.com/nodeos/nodeos)** - Lightweight operating system using Node.js as userspace.
 * [OpenWrt ★ 230 ⧗ 173](https://github.com/openwrt/openwrt) - OpenWrt is described as a Linux distribution for embedded devices.
@@ -181,13 +181,13 @@ A curated list of IoT. Everyone can contribute here!
 * [Autodesk Fusion Connect](http://autodeskfusionconnect.com/) - No-coding industrial IoT platform.
 * [DataXChange](https://www.scytec.com/) - Cloud manufacturing.
 * [deviceWISE for Factory](http://www.telit.com/solutions/industries/smart-manufacturing/) - Telit IIoT cloud.
-* [Predix](https://www.predix.com/) - Industrial IoT cloud (by General Eletrics).
+* [Predix](https://www.predix.com/) - Industrial IoT cloud (by General Electric).
 * [Space-Time Insight IIoT](http://www.spacetimeinsight.com/solutions/internet-of-things/) - Industrial IoT cloud (formerly go-factory.com).
 * [Thingworx](https://www.thingworx.com/platforms/industrial-connectivity/) - Industrial IoT cloud.
 
 ## APIs
 
-* [Qeo Tinq ★ 6 ⧗ 392](https://github.com/brunodebus/tinq-core) - Tinq is completely based on the Qeo publish/subcribe framework produced by Technicolor as explained in the license section.
+* [Qeo Tinq ★ 6 ⧗ 392](https://github.com/brunodebus/tinq-core) - Tinq is completely based on the Qeo publish/subscribe framework produced by Technicolor as explained in the license section.
 
 ## Middleware
 
@@ -265,7 +265,7 @@ Layered architecture of JTAG interface and TAP support
 * [Angular 2 IoT ★ 10 ⧗ 4](https://github.com/urish/angular2-iot) - is an experimental technology that allows you to program physical hardware (buttons, LEDs, etc.) using Angular 2.
 * [DevIoT ★ 70 ⧗ 1](https://github.com/gepd/Deviot) - Sublime Text plugin for IoT development.
 * [Platformio Atom IDE ★ 108 ⧗ 2](https://github.com/platformio/platformio-atom-ide) - The next generation integrated development environment for IoT.
-* **[Stino ★ 1280 ⧗ 1](https://github.com/Robot-Will/Stino)** -  is a Sublime Text plugin that provides an Arduino-like environement for editing, compiling and uploading sketches.
+* **[Stino ★ 1280 ⧗ 1](https://github.com/Robot-Will/Stino)** -  is a Sublime Text plugin that provides an Arduino-like environment for editing, compiling and uploading sketches.
 * [WyliodrinSTUDIO ★ 25 ⧗ 2](https://github.com/Wyliodrin/WyliodrinSTUDIO) - Wyliodrin STUDIO is a Chrome based IDE for software and hardware development for IoT and Embedded Linux systems.
 
 ## Robotics
@@ -335,7 +335,7 @@ Layered architecture of JTAG interface and TAP support
 * [iCoAP ★ 28 ⧗ 21](https://github.com/stuffrabbit/iCoAP) - Objective-C Client Implementation of CoAP.
 * [microcoap](https://github.com/ - -/microcoap) - A small CoAP implementation for microcontrollers.
 * [MQTT Client Framework ★ 312 ⧗ 1](https://github.com/ckrey/MQTT-Client-Framework) - iOS, OSX, tvOS native ObjectiveC MQTT Client Framework.
-* [Node CoAP ★ 176 ⧗ 11](https://github.com/mcollina/node-coap) - node-coap is a client and server library for CoAP modelled after the http module.
+* [Node CoAP ★ 176 ⧗ 11](https://github.com/mcollina/node-coap) - node-coap is a client and server library for CoAP modeled after the http module.
 * **[PubSub Client ★ 684 ⧗ 0](https://github.com/knolleary/pubsubclient)** - A client library for the Arduino Ethernet Shield that provides support for MQTT.
 * [Python CoAP ★ 36 ⧗ 5](https://github.com/openwsn-berkeley/coap) - A CoAP Python library.
 * [SwiftCoAP ★ 22 ⧗ 12](https://github.com/stuffrabbit/SwiftCoAP) - Swift Server/Client Implementation of CoAP.
@@ -448,7 +448,7 @@ Layered architecture of JTAG interface and TAP support
 ### Tutorial
 
 * [micro-services-tutorial-iot ★ 20 ⧗ 13](https://github.com/nearform/micro-services-tutorial-iot) - An instructor led microservices workshop.
-* [Unpacking the Internat of Things](https://www.udemy.com/unpacking-the-internet-of-things/learn/v4/overview) - Shows use cases to help to identify possible potential for enterprise specific products.
+* [Unpacking the Internet of Things](https://www.udemy.com/unpacking-the-internet-of-things/learn/v4/overview) - Shows use cases to help to identify possible potential for enterprise specific products.
 
 ## Analytics
 
