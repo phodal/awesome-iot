@@ -149,6 +149,7 @@ A curated list of IoT. Everyone can contribute here!
 * [[thing-it-node] ★ 20 ⧗ 3](https://github.com/marcgille/thing-it-node/) - A device-independent IoT platform including support of complex event processing, storyboards, and a mobile app.
 * [Clavin ★ 212 ⧗ 2](https://github.com/EricssonResearch/calvin-base) - Calvin is an application environment that lets things talk to things. It comprises of both a development framework for application developers, and a runtime environment that handles the running application. 
 * **[IoT.js ★ 921 ⧗ 0](https://github.com/Samsung/iotjs)** - Platform for Internet of Things with JavaScript.
+* [IoTgo](https://github.com/itead/IoTgo) - is an open source IoT platform, like WordPress, ZenCart and all other open source software, you can deploy your own IoTgo cloud service.
 * [Jasper](http://jasperproject.github.io/) - Jasper is an open source platform for developing always-on, voice-controlled applications.
 * [Lan ★ 105 ⧗ 0](https://github.com/phodal/lan) - Internet of Things Server Layer with CoAP, WebSocket, MQTT, HTTP Protocol
 * [Mainflux ★ 33 ⧗ 3](https://github.com/Mainflux/mainflux) - Mainflux is an open source and patent-free IoT cloud platform based on microservices.
