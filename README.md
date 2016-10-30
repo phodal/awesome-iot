@@ -37,6 +37,7 @@ A curated list of IoT. Everyone can contribute here!
     - [GitHub Org.](#github-org)
     - [Free Book](#free-book)
     - [Related Reources Projects](#related-resources-projects)
+- [AI](#ai)
 - [Analytics](#analytics)
 - [Others](#others)
     
@@ -449,6 +450,10 @@ Layered architecture of JTAG interface and TAP support
 
 * [micro-services-tutorial-iot ★ 20 ⧗ 13](https://github.com/nearform/micro-services-tutorial-iot) - An instructor led microservices workshop.
 * [Unpacking the Internet of Things](https://www.udemy.com/unpacking-the-internet-of-things/learn/v4/overview) - Shows use cases to help to identify possible potential for enterprise specific products.
+
+## AI
+
+* [TensorFlow for Raspberry Pi](https://github.com/samjabrahams/tensorflow-on-raspberry-pi)
 
 ## Analytics
 
