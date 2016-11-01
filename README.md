@@ -410,6 +410,7 @@ Layered architecture of JTAG interface and TAP support
 * [Software Architecture for the Internet of Things](https://www.coursera.org/learn/iot-software-architecture) - Free
 * [Web Connectivity and Security in Embedded Systems](https://www.coursera.org/learn/iot-connectivity-security) - Free
 * [Introduction to Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-devices) - Free
+* [Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-architecture) - Free
 
 ### WebSite
 
