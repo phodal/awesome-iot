@@ -412,7 +412,12 @@ Layered architecture of JTAG interface and TAP support
 * [Introduction to Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-devices) - Free
 * [Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-architecture) - Free
 * [An Introduction to Programming the Internet of Things (IOT) Specialization](https://www.coursera.org/specializations/iot) - Landing page of 6 courses (Introduction to the Internet of Things and Embedded Systems / The Arduino Platform and C Programming / Interfacing with the Arduino / The Raspberry Pi Platform and Python Programming for the Raspberry Pi / Interfacing with the Raspberry Pi / Programming for the Internet of Things Capstone).
-
+* [Penetration Testing and Ethical Hacking](https://www.cybrary.it/course/ethical-hacking/) - Free
+* [Cryptography](https://www.cybrary.it/course/cryptography/) - Free
+* [Web Application Penetration Testing](https://www.cybrary.it/course/web-application-pen-testing/) - Free
+* [Secure Coding](https://www.cybrary.it/course/secure-coding/) - Free
+* [Advanced Penetration Testing](https://www.cybrary.it/course/advanced-penetration-testing/) - Free
+* [Social Engineering and Manipulation](https://www.cybrary.it/course/social-engineering/) - Free
 
 ### WebSite
 
