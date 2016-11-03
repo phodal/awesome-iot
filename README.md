@@ -418,6 +418,7 @@ Layered architecture of JTAG interface and TAP support
 * [Secure Coding](https://www.cybrary.it/course/secure-coding/) - Free
 * [Advanced Penetration Testing](https://www.cybrary.it/course/advanced-penetration-testing/) - Free
 * [Social Engineering and Manipulation](https://www.cybrary.it/course/social-engineering/) - Free
+* [Stanford Advanced Computer Security Certificate](http://computersecurity.stanford.edu/?q=certificate-overview) - Required courses: Using Cryptography Correctly, Writing Secure Code, Exploiting and Protecting Web Applications; Elective courses: Software Security Foundations, Mobile Security, Network Security, Emerging Threats & Defenses (Paid).
 
 ### WebSite
 
