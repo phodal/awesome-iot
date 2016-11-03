@@ -455,9 +455,7 @@ Layered architecture of JTAG interface and TAP support
 
 ### Related Resources Projects
 
-* [awesome-embedded-hardware ★ 0 ⧗ 29](https://github.com/fkromer/awesome-embedded-hardware) - Lists resources about embedded hardware development.
-* [awesome-embedded-software ★ 0 ⧗ 63](https://github.com/fkromer/awesome-embedded-software) - Lists resources about embedded software development.
-* [awesome-embedded-systems ★ 0 ⧗ 29](https://github.com/fkromer/awesome-embedded-systems) - Lists resources about embedded system development.
+* [awesome-embedded-systems ★ 0 ⧗ 29](https://github.com/fkromer/awesome-embedded-systems) - The website [awesome-embedded-systems.org](http://awesome-embedded-systems.org) lists resources about embedded system, software and hardwware development.
 
 ### Tutorial
 
