@@ -420,6 +420,7 @@ Layered architecture of JTAG interface and TAP support
 * [Social Engineering and Manipulation](https://www.cybrary.it/course/social-engineering/) - Free
 * [Stanford Advanced Computer Security Certificate](http://computersecurity.stanford.edu/?q=certificate-overview) - Required courses: Using Cryptography Correctly, Writing Secure Code, Exploiting and Protecting Web Applications; Elective courses: Software Security Foundations, Mobile Security, Network Security, Emerging Threats & Defenses (Paid).
 * [Cyber Security Graduate Certificate](http://online.stanford.edu/course/cyber-security-graduate-certificate) - Courses: Operating Systems and Systems Programming, Introduction to Computer Networking, Computer and Network Security, Bitcoin and Crypto Currencies, Introduction to Cryptography, Technology and National Security (Paid).
+* [IoT Software Architecture](https://www.coursera.org/learn/iot-software-architecture) - None
 
 ### WebSite
 
