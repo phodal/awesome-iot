@@ -128,6 +128,7 @@ A curated list of IoT. Everyone can contribute here!
 * [Linino ★ 83 ⧗ 13](https://github.com/arduino/linino) - Linino is a GNU/Linux distribution based on OpenWRT and maintained by DogHunter.
 * [macchina.io ★ 144 ⧗ 0](https://github.com/macchina-io/macchina.io) - An open-source toolkit for building embedded IoT applications that connect sensors, devices and cloud services.
 * **[NodeOS ★ 3605 ⧗ 0](https://github.com/nodeos/nodeos)** - Lightweight operating system using Node.js as userspace.
+* [NuttX](http://nuttx.org/) - is a real-time operating system (RTOS) with an emphasis on standards compliance and small footprint. Scalable from 8-bit to 32-bit microcontroller environments, the primary governing standards in NuttX are Posix and ANSI standards.
 * [OpenWrt ★ 230 ⧗ 173](https://github.com/openwrt/openwrt) - OpenWrt is described as a Linux distribution for embedded devices.
 * [Raspbian](http://raspbian.org/) - Raspbian is a free operating system based on Debian optimized for the Raspberry Pi hardware.
 * **[RIOT ★ 748 ⧗ 1](https://github.com/RIOT-OS/RIOT)** - The friendly Operating System for the Internet of Things
@@ -140,7 +141,6 @@ A curated list of IoT. Everyone can contribute here!
 * [Tock OS ★ 243 ⧗ 1](https://github.com/helena-project/tock) -  is an operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M based embedded platforms.
 * [trochili ★ 75 ⧗ 6](https://github.com/liuxuming/trochili) - A small RTOS optimized for the embedded/iot devices. Support Cortex M3.
 * [Zephyr ★ 12 ⧗ 5](https://github.com/cfriedt/zephyr) -  is a small, scalable real-time operating system for use on resource-constrained systems supporting multiple architectures.
-* [NuttX](http://nuttx.org/) - is a real-time operating system (RTOS) with an emphasis on standards compliance and small footprint. Scalable from 8-bit to 32-bit microcontroller environments, the primary governing standards in NuttX are Posix and ANSI standards.
 
 ## Platform
 
@@ -149,7 +149,7 @@ A curated list of IoT. Everyone can contribute here!
 * [[thing-it-node] ★ 20 ⧗ 3](https://github.com/marcgille/thing-it-node/) - A device-independent IoT platform including support of complex event processing, storyboards, and a mobile app.
 * [Clavin ★ 212 ⧗ 2](https://github.com/EricssonResearch/calvin-base) - Calvin is an application environment that lets things talk to things. It comprises of both a development framework for application developers, and a runtime environment that handles the running application. 
 * **[IoT.js ★ 921 ⧗ 0](https://github.com/Samsung/iotjs)** - Platform for Internet of Things with JavaScript.
-* [IoTgo](https://github.com/itead/IoTgo) - is an open source IoT platform, like WordPress, ZenCart and all other open source software, you can deploy your own IoTgo cloud service.
+* [IoTgo ★ 173 ⧗ 0](https://github.com/itead/IoTgo) - is an open source IoT platform, like WordPress, ZenCart and all other open source software, you can deploy your own IoTgo cloud service.
 * [Jasper](http://jasperproject.github.io/) - Jasper is an open source platform for developing always-on, voice-controlled applications.
 * [Lan ★ 105 ⧗ 0](https://github.com/phodal/lan) - Internet of Things Server Layer with CoAP, WebSocket, MQTT, HTTP Protocol
 * [Mainflux ★ 33 ⧗ 3](https://github.com/Mainflux/mainflux) - Mainflux is an open source and patent-free IoT cloud platform based on microservices.
@@ -316,7 +316,7 @@ Layered architecture of JTAG interface and TAP support
 * **[emqttd ★ 921 ⧗ 0](https://github.com/emqtt/emqttd)** - Erlang MQTT Broker
 * [ESP8266 MQTT ★ 440 ⧗ 0](https://github.com/tuanpmt/esp_mqtt) - MQTT client library for ESP8266 Soc 
 * [Homie for ESP8266 ★ 115 ⧗ 1](https://github.com/marvinroger/homie-esp8266) - An Arduino for ESP8266 implementation of Homie, an MQTT convention for the IoT.
-* [Homie Server](https://github.com/marvinroger/homie-server) - A Web server for Homie, an MQTT convention for the IoT. 
+* [Homie Server ★ 45 ⧗ 3](https://github.com/marvinroger/homie-server) - A Web server for Homie, an MQTT convention for the IoT. 
 * [Java mqtt-client ★ 405 ⧗ 2](https://github.com/fusesource/mqtt-client) - A Java MQTT Client.
 * [m2mqtt ★ 69 ⧗ 11](https://github.com/ppatierno/m2mqtt) - MQTT Client Library for .Net and WinRT.
 * [moquette ★ 309 ⧗ 2](https://github.com/andsel/moquette) - Java MQTT lightweight broker.
@@ -405,22 +405,22 @@ Layered architecture of JTAG interface and TAP support
 ### Course
 
 * [A developer's guide to the Internet of Things (by IBM)](https://www.coursera.org/learn/developer-iot/home/welcome) - None
-* [Build an Intelligent System: From Embedded to Cloud (NOT FREE)](https://www.pluralsight.com/courses/building-intelligent-system-embedded-to-cloud) - None
-* [Low-Level Software Security: Attacks and Countermeassures](https://www.youtube.com/watch?v=ZLZkf8FVcsU) - None
-* [Software Architecture for the Internet of Things](https://www.coursera.org/learn/iot-software-architecture) - Free
-* [Web Connectivity and Security in Embedded Systems](https://www.coursera.org/learn/iot-connectivity-security) - Free
-* [Introduction to Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-devices) - Free
-* [Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-architecture) - Free
-* [An Introduction to Programming the Internet of Things (IOT) Specialization](https://www.coursera.org/specializations/iot) - Landing page of 6 courses (Introduction to the Internet of Things and Embedded Systems / The Arduino Platform and C Programming / Interfacing with the Arduino / The Raspberry Pi Platform and Python Programming for the Raspberry Pi / Interfacing with the Raspberry Pi / Programming for the Internet of Things Capstone).
-* [Penetration Testing and Ethical Hacking](https://www.cybrary.it/course/ethical-hacking/) - Free
-* [Cryptography](https://www.cybrary.it/course/cryptography/) - Free
-* [Web Application Penetration Testing](https://www.cybrary.it/course/web-application-pen-testing/) - Free
-* [Secure Coding](https://www.cybrary.it/course/secure-coding/) - Free
 * [Advanced Penetration Testing](https://www.cybrary.it/course/advanced-penetration-testing/) - Free
-* [Social Engineering and Manipulation](https://www.cybrary.it/course/social-engineering/) - Free
-* [Stanford Advanced Computer Security Certificate](http://computersecurity.stanford.edu/?q=certificate-overview) - Required courses: Using Cryptography Correctly, Writing Secure Code, Exploiting and Protecting Web Applications; Elective courses: Software Security Foundations, Mobile Security, Network Security, Emerging Threats & Defenses (Paid).
+* [An Introduction to Programming the Internet of Things (IOT) Specialization](https://www.coursera.org/specializations/iot) - Landing page of 6 courses (Introduction to the Internet of Things and Embedded Systems / The Arduino Platform and C Programming / Interfacing with the Arduino / The Raspberry Pi Platform and Python Programming for the Raspberry Pi / Interfacing with the Raspberry Pi / Programming for the Internet of Things Capstone).
+* [Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-architecture) - Free
+* [Build an Intelligent System: From Embedded to Cloud (NOT FREE)](https://www.pluralsight.com/courses/building-intelligent-system-embedded-to-cloud) - None
+* [Cryptography](https://www.cybrary.it/course/cryptography/) - Free
 * [Cyber Security Graduate Certificate](http://online.stanford.edu/course/cyber-security-graduate-certificate) - Courses: Operating Systems and Systems Programming, Introduction to Computer Networking, Computer and Network Security, Bitcoin and Crypto Currencies, Introduction to Cryptography, Technology and National Security (Paid).
+* [Introduction to Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-devices) - Free
 * [IoT Software Architecture](https://www.coursera.org/learn/iot-software-architecture) - None
+* [Low-Level Software Security: Attacks and Countermeassures](https://www.youtube.com/watch?v=ZLZkf8FVcsU) - None
+* [Penetration Testing and Ethical Hacking](https://www.cybrary.it/course/ethical-hacking/) - Free
+* [Secure Coding](https://www.cybrary.it/course/secure-coding/) - Free
+* [Social Engineering and Manipulation](https://www.cybrary.it/course/social-engineering/) - Free
+* [Software Architecture for the Internet of Things](https://www.coursera.org/learn/iot-software-architecture) - Free
+* [Stanford Advanced Computer Security Certificate](http://computersecurity.stanford.edu/?q=certificate-overview) - Required courses: Using Cryptography Correctly, Writing Secure Code, Exploiting and Protecting Web Applications; Elective courses: Software Security Foundations, Mobile Security, Network Security, Emerging Threats & Defenses (Paid).
+* [Web Application Penetration Testing](https://www.cybrary.it/course/web-application-pen-testing/) - Free
+* [Web Connectivity and Security in Embedded Systems](https://www.coursera.org/learn/iot-connectivity-security) - Free
 
 ### WebSite
 
@@ -467,7 +467,7 @@ Layered architecture of JTAG interface and TAP support
 
 ## AI
 
-* [TensorFlow for Raspberry Pi](https://github.com/samjabrahams/tensorflow-on-raspberry-pi)
+* [TensorFlow for Raspberry Pi ★ 317 ⧗ 0](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) - None
 
 ## Analytics
 
