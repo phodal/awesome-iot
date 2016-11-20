@@ -115,6 +115,7 @@ A curated list of IoT. Everyone can contribute here!
 ## Security
 
 * [trezor-crypto ★ 94 ⧗ 1](https://github.com/trezor/trezor-crypto) - 📙 Heavily optimized cryptography algorithms for embedded devices.
+* [IoTSeeker](https://github.com/rapid7/IoTSeeker) This scanner will scan a network for specific types of IoT devices to detect if they are using the default, factory set credentials.
 
 ## OS
 
