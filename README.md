@@ -424,6 +424,7 @@ Layered architecture of JTAG interface and TAP support
 * [Stanford Advanced Computer Security Certificate](http://computersecurity.stanford.edu/?q=certificate-overview) - Required courses: Using Cryptography Correctly, Writing Secure Code, Exploiting and Protecting Web Applications; Elective courses: Software Security Foundations, Mobile Security, Network Security, Emerging Threats & Defenses (Paid).
 * [Web Application Penetration Testing](https://www.cybrary.it/course/web-application-pen-testing/) - Free
 * [Web Connectivity and Security in Embedded Systems](https://www.coursera.org/learn/iot-connectivity-security) - Free
+* [Software Architecture for the Internet of Things (Coursera)](https://www.coursera.org/learn/iot-software-architecture) - None
 
 ### WebSite
 
