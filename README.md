@@ -57,7 +57,7 @@ A curated list of IoT. Everyone can contribute here!
 * [Liota ★ 162 ⧗ 2](https://github.com/vmware/liota) - is an open source offering for IoT solution developers and resides primarily on IoT gateways.
 * [OpenDevice ★ 23 ⧗ 8](https://github.com/OpenDevice/OpenDevice) - Open IoT (Internet Of Things) Platform and Framework.
 * [Pando Cloud ★ 75 ⧗ 2](https://github.com/PandoCloud/pando-cloud) - is the cloud part of Pando IoT solution. It's made of a bunch of tools, protocols and frameworks below: Pando Cloud, Pando Embedded Framework, Pando Protocol as so on.
-* [Pingo](https://github.com/pingo-io/pingo-py) - Generic API for controlling boards with programmable IO pins.
+* [Pingo ★ 211 ⧗ 0](https://github.com/pingo-io/pingo-py) - Generic API for controlling boards with programmable IO pins.
 * [rpi-gpio.js ★ 221 ⧗ 5](https://github.com/JamesBarwell/rpi-gpio.js) - Control Raspberry Pi GPIO pins with node.js.
 * [SensorBee ★ 54 ⧗ 33](https://github.com/sensorbee/sensorbee) - Lightweight stream processing engine for IoT
 * **[Serverless ★ 7951 ⧗ 0](https://github.com/serverless/serverless)** - Serverless is the application framework for building web, mobile and IoT applications exclusively on Amazon Web Services' Lambda and API Gateway.
@@ -115,8 +115,9 @@ A curated list of IoT. Everyone can contribute here!
 
 ## Security
 
-* [trezor-crypto ★ 94 ⧗ 1](https://github.com/trezor/trezor-crypto) - 📙 Heavily optimized cryptography algorithms for embedded devices.
 * [IoTSeeker](https://github.com/rapid7/IoTSeeker) This scanner will scan a network for specific types of IoT devices to detect if they are using the default, factory set credentials.
+
+* [trezor-crypto ★ 94 ⧗ 1](https://github.com/trezor/trezor-crypto) - 📙 Heavily optimized cryptography algorithms for embedded devices.
 
 ## OS
 
@@ -176,8 +177,8 @@ A curated list of IoT. Everyone can contribute here!
 * [IBM Watson](http://www.ibm.com/watson/) - IBM cloud for the IoT.
 * [Oracle IoT Cloud](https://cloud.oracle.com/iot) - ORACLE Cloud for the Internet of Things.
 * [Salesforce IoT Cloud](http://www.salesforce.com/iot-cloud/) - Salesforce cloud for the Internet of Things.
-* [Siemens MindSphere](http://www.siemens.com/global/en/home/company/topic-areas/digitalization/mindsphere.html) - Open IoT ecosystem as PaaS.
 * [SAP HANA](http://go.sap.com/product/technology-platform/iot-platform-cloud.html) - SAP cloud for the Internet of Things.
+* [Siemens MindSphere](http://www.siemens.com/global/en/home/company/topic-areas/digitalization/mindsphere.html) - Open IoT ecosystem as PaaS.
 * [Xively IoT Cloud](https://www.xively.com/) - IoT platform.
 * [Zatar](http://www.zatar.com/) - "Zatar is the first ARMmbed standards-based IoT cloud service".
 
@@ -421,10 +422,10 @@ Layered architecture of JTAG interface and TAP support
 * [Secure Coding](https://www.cybrary.it/course/secure-coding/) - Free
 * [Social Engineering and Manipulation](https://www.cybrary.it/course/social-engineering/) - Free
 * [Software Architecture for the Internet of Things](https://www.coursera.org/learn/iot-software-architecture) - Free
+* [Software Architecture for the Internet of Things (Coursera)](https://www.coursera.org/learn/iot-software-architecture) - None
 * [Stanford Advanced Computer Security Certificate](http://computersecurity.stanford.edu/?q=certificate-overview) - Required courses: Using Cryptography Correctly, Writing Secure Code, Exploiting and Protecting Web Applications; Elective courses: Software Security Foundations, Mobile Security, Network Security, Emerging Threats & Defenses (Paid).
 * [Web Application Penetration Testing](https://www.cybrary.it/course/web-application-pen-testing/) - Free
 * [Web Connectivity and Security in Embedded Systems](https://www.coursera.org/learn/iot-connectivity-security) - Free
-* [Software Architecture for the Internet of Things (Coursera)](https://www.coursera.org/learn/iot-software-architecture) - None
 
 ### WebSite
 
