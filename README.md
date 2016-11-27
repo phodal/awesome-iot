@@ -438,8 +438,8 @@ Layered architecture of JTAG interface and TAP support
 
 ### Blog
 
-* [IBM IoT Blog](https://www.ibm.com/blogs/internet-of-things/) 
-
+* [IBM IoT Blog](https://www.ibm.com/blogs/internet-of-things/)
+* [唯笑志在-ServerSuperIO](http://www.cnblogs.com/lsjwq/)
 * [Arduino Create](https://create.arduino.cc) - None
 * [http://edi.wang/](http://edi.wang/) - ``ASP.NET``, ``Windows 10 IoT``
 * [IBM DeveloperWorks IoT](http://www.ibm.com/developerworks/cn/iot/) - None
