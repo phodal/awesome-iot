@@ -485,6 +485,7 @@ Layered architecture of JTAG interface and TAP support
 * [django-th ★ 275 ⧗ 0](https://github.com/foxmask/django-th) - take the control of your data with this opensource clone of IFTTT, a bridge between your internet services.
 * **[Freeboard ★ 3034 ⧗ 0](https://github.com/Freeboard/freeboard)** - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
 * [souliss ★ 137 ⧗ 8](https://github.com/souliss/souliss) - Arduino based Distributed Networking Framework for Smart Homes and IoT.
+* [Serverless Reference Architecture: IoT Backend](https://github.com/awslabs/lambda-refarch-iotbackend) - Serverless Reference Architecture for creating an IoT Backend.
 
 # Contributing
 
