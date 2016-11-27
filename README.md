@@ -94,6 +94,7 @@ A curated list of IoT. Everyone can contribute here!
 * [LK ★ 312 ⧗ 0](https://github.com/littlekernel/lk) - The LK embedded kernel. An SMP-aware kernel designed for small systems.
 * [Magenta ★ 286 ⧗ 0](https://github.com/fuchsia-mirror/magenta) - Magenta is a new kernel that powers the Fuchsia OS.
 * [matrixssl ★ 36 ⧗ 0](https://github.com/matrixssl/matrixssl) - is an embedded SSL and TLS implementation designed for small footprint IoT devices requiring low overhead per connection.
+* [pingo-py](https://github.com/pingo-io/pingo-py) - provides a uniform API to program devices like the Raspberry Pi, BeagleBone Black, pcDuino etc. just like the Python DBAPI provides an uniform API for database programming in Python.
 * [node-iotdb ★ 19 ⧗ 60](https://github.com/dpjanes/node-iotdb) - Easily control the Internet of Things using Semantics.
 * [Secure Device Grid ★ 4 ⧗ 20](https://github.com/trifork/secure-device-grid) - Secure device-to-device communication solution for IOT.
 * **[simbody ★ 540 ⧗ 0](https://github.com/simbody/simbody)** - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
