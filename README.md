@@ -54,6 +54,7 @@ A curated list of IoT. Everyone can contribute here!
 * **[johnny-five ★ 6024 ⧗ 0](https://github.com/rwaldron/johnny-five)** - JavaScript Robotics and IoT programming framework, developed at Bocoup, Firmata Protocol.
 * [Kura ★ 85 ⧗ 1](https://github.com/eclipse/kura) - an open-source framework for development of IoT applications
 * **[Lelylan ★ 647 ⧗ 1](https://github.com/lelylan/lelylan#development)** - OpenSSL Source Lightweight Microservices Architecture for the Internet of Things. For developers.
+* [Lightweight MQTT Machine Network ★ 21 ⧗ 1](http://lwmqn.github.io/) - LWMQN is a machine network framework with MQTT. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
 * [Liota ★ 162 ⧗ 2](https://github.com/vmware/liota) - is an open source offering for IoT solution developers and resides primarily on IoT gateways.
 * [OpenDevice ★ 23 ⧗ 8](https://github.com/OpenDevice/OpenDevice) - Open IoT (Internet Of Things) Platform and Framework.
 * [Pando Cloud ★ 75 ⧗ 2](https://github.com/PandoCloud/pando-cloud) - is the cloud part of Pando IoT solution. It's made of a bunch of tools, protocols and frameworks below: Pando Cloud, Pando Embedded Framework, Pando Protocol as so on.
@@ -61,7 +62,6 @@ A curated list of IoT. Everyone can contribute here!
 * [rpi-gpio.js ★ 221 ⧗ 5](https://github.com/JamesBarwell/rpi-gpio.js) - Control Raspberry Pi GPIO pins with node.js.
 * [SensorBee ★ 54 ⧗ 33](https://github.com/sensorbee/sensorbee) - Lightweight stream processing engine for IoT
 * **[Serverless ★ 7951 ⧗ 0](https://github.com/serverless/serverless)** - Serverless is the application framework for building web, mobile and IoT applications exclusively on Amazon Web Services' Lambda and API Gateway.
-* [Lightweight MQTT Machine Network ★ 21 ⧗ 1](http://lwmqn.github.io/) - LWMQN is a machine network framework with MQTT. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
 
 ## Library
 
@@ -72,8 +72,8 @@ A curated list of IoT. Everyone can contribute here!
 * [Azure IoT Gateway SDK ★ 26 ⧗ 2](https://github.com/Azure/azure-iot-gateway-sdk) - contains the infrastructure and modules to create IoT gateway solutions.
 * [Cylon.js For Intel IoT ★ 29 ⧗ 40](https://github.com/hybridgroup/cylon-intel-iot) - is a JavaScript framework for robotics, physical computing, and the Internet of Things (IoT).
 * [Electron ★ 41 ⧗ 16](https://github.com/spark/electron) - The Electron is a tiny cellular development kit based around U-Blox's SARA U-series (3G) or G-series (2G) cellular modem module and a STM32F205 ARM Cortex M3 microcontroller.
-* [EZ-Connect Lite SDK](https://github.com/marvell-iot/aws_starter_sdk) - Marvell's Starter SDK for AWS IoT Service.
 * **[ESP8266 Arduino Core ★ 2588 ⧗ 0](https://github.com/esp8266/Arduino)** - Arduino core for ESP8266 WiFi chip.
+* [EZ-Connect Lite SDK ★ 67 ⧗ 16](https://github.com/marvell-iot/aws_starter_sdk) - Marvell's Starter SDK for AWS IoT Service.
 * [Microsoft Azure IoT SDK ★ 203 ⧗ 1](https://github.com/Azure/azure-iot-sdks) - SDKs for a variety of languages and platforms that help connect devices to Microsoft Azure IoT services.
 
 ### Arduino
@@ -86,7 +86,7 @@ A curated list of IoT. Everyone can contribute here!
 
 ### Low Level
 
-* [Amazon Echo Bridge](https://github.com/armzilla/amazon-echo-ha-bridge) - Amazon Echo Bridge allows you to quickly emulate a Phillips Hue bridge, bringing the ability to seamlessly integrate an Amazon Echo into various home automation systems.
+* [Amazon Echo Bridge ★ 452 ⧗ 1](https://github.com/armzilla/amazon-echo-ha-bridge) - Amazon Echo Bridge allows you to quickly emulate a Phillips Hue bridge, bringing the ability to seamlessly integrate an Amazon Echo into various home automation systems.
 * [btstack ★ 151 ⧗ 1](https://github.com/bluekitchen/btstack) - Dual-mode Bluetooth stack, with small memory footprint.
 * [CocoaMQTT ★ 210 ⧗ 0](https://github.com/emqtt/CocoaMQTT) - MQTT for iOS and OS X written with Swift.
 * [Devices ★ 134 ⧗ 0](https://github.com/goiot/devices) - Suite of libraries for IoT devices (written in Go).
@@ -98,10 +98,11 @@ A curated list of IoT. Everyone can contribute here!
 * [LK ★ 312 ⧗ 0](https://github.com/littlekernel/lk) - The LK embedded kernel. An SMP-aware kernel designed for small systems.
 * [Magenta ★ 286 ⧗ 0](https://github.com/fuchsia-mirror/magenta) - Magenta is a new kernel that powers the Fuchsia OS.
 * [matrixssl ★ 36 ⧗ 0](https://github.com/matrixssl/matrixssl) - is an embedded SSL and TLS implementation designed for small footprint IoT devices requiring low overhead per connection.
-* [pingo-py](https://github.com/pingo-io/pingo-py) - provides a uniform API to program devices like the Raspberry Pi, BeagleBone Black, pcDuino etc. just like the Python DBAPI provides an uniform API for database programming in Python.
 * [node-iotdb ★ 19 ⧗ 60](https://github.com/dpjanes/node-iotdb) - Easily control the Internet of Things using Semantics.
+* [pingo-py ★ 223 ⧗ 15](https://github.com/pingo-io/pingo-py) - provides a uniform API to program devices like the Raspberry Pi, BeagleBone Black, pcDuino etc. just like the Python DBAPI provides an uniform API for database programming in Python.
 * [Secure Device Grid ★ 4 ⧗ 20](https://github.com/trifork/secure-device-grid) - Secure device-to-device communication solution for IOT.
 * **[simbody ★ 540 ⧗ 0](https://github.com/simbody/simbody)** - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
+* [SmartObject ★ 8 ⧗ 2](https://github.com/PeterEB/smartobject) - A Smart Object Class that helps you with creating IPSO Smart Objects in your JS apps. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
 * [Soletta ★ 96 ⧗ 2](https://github.com/solettaproject/soletta) - Soletta Project is a framework for making IoT devices. With Soletta Project's libraries developers can easily write software for devices that control actuators/sensors and communicate using standard technologies. 
 * [SPIFFS ★ 174 ⧗ 0](https://github.com/pellepl/spiffs) - Wear-leveled SPI flash file system for embedded devices.
 * [SUSI ★ 13 ⧗ 150](https://github.com/webvariants/susi) - is an application framework to build interfaces for arbitrary systems.
@@ -109,7 +110,6 @@ A curated list of IoT. Everyone can contribute here!
 * [WifiDog ★ 291 ⧗ 1](https://github.com/wifidog/wifidog-gateway) - a complete and embeddable captive portal solution for wireless community groups or individuals.
 * [Windows 10 IoT Core IoT Helpers ★ 25 ⧗ 0](https://github.com/Dot-and-Net/IoTHelpers) - his library allows to easily interact with GPIO, I2C and SPI devices in Windows 10 IoT Core.
 * [XiPKI ★ 34 ⧗ 10](https://github.com/xipki/xipki) - eXtensible sImple Public Key Infrastructure consists of CA and OCSP responder.
-* [SmartObject ★ 8 ⧗ 2](https://github.com/PeterEB/smartobject) - A Smart Object Class that helps you with creating IPSO Smart Objects in your JS apps. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
 
 ## App
 
@@ -335,7 +335,7 @@ Layered architecture of JTAG interface and TAP support
 * [MQTT Kafka Bridge ★ 28 ⧗ 35](https://github.com/jacklund/mqttKafkaBridge) - Bridge which consumes MQTT messages and republishes them on Kafka on the same topic.
 * **[MQTT.js ★ 1359 ⧗ 0](https://github.com/mqttjs/MQTT.js)** - The MQTT client for Node.js and the browser.
 * [neurite ★ 4 ⧗ 5](https://github.com/linkgo/neurite) - A serial to MQTT bridge, an easier way to build IoT product with esp8266 Arduino.
-* [strong-pubsub](https://github.com/strongloop/strong-pubsub) - PubSub for Node.js, Browser, Mobile and IoT
+* [strong-pubsub ★ 97 ⧗ 1](https://github.com/strongloop/strong-pubsub) - PubSub for Node.js, Browser, Mobile and IoT
 * **[SurgeMQ ★ 776 ⧗ 1](https://github.com/surgemq/surgemq)** -  is a high performance MQTT broker and client library that aims to be fully compliant with MQTT 3.1 and 3.1.1 specs. 
 * **[VerneMQ ★ 561 ⧗ 1](https://github.com/erlio/vernemq)** - A distributed MQTT message broker.
 
@@ -444,14 +444,14 @@ Layered architecture of JTAG interface and TAP support
 
 ### Blog
 
-* [IBM IoT Blog](https://www.ibm.com/blogs/internet-of-things/)
-* [唯笑志在-ServerSuperIO](http://www.cnblogs.com/lsjwq/)
 * [Arduino Create](https://create.arduino.cc) - None
 * [http://edi.wang/](http://edi.wang/) - ``ASP.NET``, ``Windows 10 IoT``
 * [IBM DeveloperWorks IoT](http://www.ibm.com/developerworks/cn/iot/) - None
+* [IBM IoT Blog](https://www.ibm.com/blogs/internet-of-things/) - None
 * [Industrial IoT blog](https://industrial-iot.com/) - "Industrial IoT/Industrie 4.0 Viewpoints".
 * [Intel IoT Blog](https://software.intel.com/zh-cn/iot/home) - None
 * [Microsoft IoT Blog](https://blogs.microsoft.com/iot/) - None
+* [唯笑志在-ServerSuperIO](http://www.cnblogs.com/lsjwq/) - None
 
 ### Group
 
@@ -490,8 +490,8 @@ Layered architecture of JTAG interface and TAP support
 * [connectthedots ★ 307 ⧗ 0](https://github.com/Azure/connectthedots) - Connect tiny devices to Microsoft Azure services to build IoT solutions
 * [django-th ★ 275 ⧗ 0](https://github.com/foxmask/django-th) - take the control of your data with this opensource clone of IFTTT, a bridge between your internet services.
 * **[Freeboard ★ 3034 ⧗ 0](https://github.com/Freeboard/freeboard)** - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
+* [Serverless Reference Architecture: IoT Backend ★ 114 ⧗ 4](https://github.com/awslabs/lambda-refarch-iotbackend) - Serverless Reference Architecture for creating an IoT Backend.
 * [souliss ★ 137 ⧗ 8](https://github.com/souliss/souliss) - Arduino based Distributed Networking Framework for Smart Homes and IoT.
-* [Serverless Reference Architecture: IoT Backend](https://github.com/awslabs/lambda-refarch-iotbackend) - Serverless Reference Architecture for creating an IoT Backend.
 
 # Contributing
 
