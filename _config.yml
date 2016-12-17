@@ -1,0 +1,8 @@
+title: Awesome-iot
+description: Awesome IoT. A collaborative list of great resources about IoTI Framework, Library,  OS, Platform
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
