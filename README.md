@@ -369,6 +369,7 @@ Layered architecture of JTAG interface and TAP support
 ### Lora
 
 * [LoRa Server](https://github.com/brocaar/loraserver) - LoRa Server is an open-source LoRaWAN network-server.
+* [LoRaPI](https://github.com/hallard/LoRasPI) - Raspberry PI Lora Gateway/Node for RFM92/95/96/98/69HCW Modules.
 
 ## Fork
 
