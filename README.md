@@ -99,7 +99,6 @@ A curated list of IoT. Everyone can contribute here!
 * [LK ★ 312 ⧗ 0](https://github.com/littlekernel/lk) - The LK embedded kernel. An SMP-aware kernel designed for small systems.
 * [Magenta ★ 286 ⧗ 0](https://github.com/fuchsia-mirror/magenta) - Magenta is a new kernel that powers the Fuchsia OS.
 * [matrixssl ★ 36 ⧗ 0](https://github.com/matrixssl/matrixssl) - is an embedded SSL and TLS implementation designed for small footprint IoT devices requiring low overhead per connection.
-* [node-iotdb ★ 19 ⧗ 60](https://github.com/dpjanes/node-iotdb) - Easily control the Internet of Things using Semantics.
 * [pingo-py ★ 223 ⧗ 15](https://github.com/pingo-io/pingo-py) - provides a uniform API to program devices like the Raspberry Pi, BeagleBone Black, pcDuino etc. just like the Python DBAPI provides an uniform API for database programming in Python.
 * [Secure Device Grid ★ 4 ⧗ 20](https://github.com/trifork/secure-device-grid) - Secure device-to-device communication solution for IOT.
 * **[simbody ★ 540 ⧗ 0](https://github.com/simbody/simbody)** - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
@@ -120,10 +119,15 @@ A curated list of IoT. Everyone can contribute here!
 * [PhoneGap NFC ★ 312 ⧗ 2](https://github.com/chariotsolutions/phonegap-nfc) - PhoneGap NFC Plugin
 * [PWAify ★ 269 ⧗ 8](https://github.com/vladikoff/PWAify) - Experimental project to convert your PWA (Progressive Web App) into a cross-platform Electron app. Brings PWAs to your desktop.
 
+## Stroage
+
+* [hypergolix](https://github.com/Muterra/py_hypergolix) - is programmable cloud sync -- like Dropbox, but you integrate it into your applications instead of using it from the filesystem.
+* [IoTDL ★ 9 ⧗ 8](https://github.com/dpjanes/iotdb-iotql) - an SQL-like language for the IoT.
+* [node-iotdb ★ 19 ⧗ 61](https://github.com/dpjanes/node-iotdb) - Easily control the Internet of Things using Semantics.
+
 ## Security
 
 * [IoTSeeker](https://github.com/rapid7/IoTSeeker) This scanner will scan a network for specific types of IoT devices to detect if they are using the default, factory set credentials.
-
 * [trezor-crypto ★ 94 ⧗ 1](https://github.com/trezor/trezor-crypto) - 📙 Heavily optimized cryptography algorithms for embedded devices.
 
 ## OS
@@ -205,7 +209,8 @@ A curated list of IoT. Everyone can contribute here!
 ## Middleware
 
 * [Kaa ★ 234 ⧗ 0](https://github.com/kaaproject/kaa) - Kaa open-source middleware platform for building, managing, and integrating connected products with the Internet of Everything.
-* [Meact ★ 6 ⧗ 43](https://github.com/bkupidura/meact) - task is to get metric from external stuff, write it to DB and perform various action.
+* [Meact ★ 6 ⧗ 43](https://github.com/bkupidura/meact) - task is to get metric from external stuff, write it to 
+and perform various action.
 * [OpenIoT ★ 205 ⧗ 0](https://github.com/OpenIotOrg/openiot) - The OpenIoT middleware infrastructure will support flexible configuration and deployment of algorithms for collection
 * [SiteWhere ★ 61 ⧗ 0](https://github.com/sitewhere/sitewhere) - SiteWhere open-source IoT platform for device connectivity & management, data persistence, processing, integration, and analytics -- both in cloud and on-premise.
 * **[ThingSpeak ★ 743 ⧗ 0](https://github.com/iobridge/ThingSpeak)** - ThingSpeak is an open source "Internet of Things" application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network.
@@ -302,7 +307,6 @@ Layered architecture of JTAG interface and TAP support
 
 * [ELIoT ★ 76 ⧗ 48](https://github.com/c3d/elfe) - Extensible Language for Everyday (and the Internet of Things)
 * [eLua ★ 393 ⧗ 1](https://github.com/elua/elua) - Quickly prototype and develop embedded software applications with the power of Lua and run them on a wide range of microcontroller architectures.
-* [IoTDL ★ 9 ⧗ 8](https://github.com/dpjanes/iotdb-iotql) - an SQL-like language for the IoT.
 * **[JerryScript ★ 1244 ⧗ 0](https://github.com/Samsung/jerryscript)** - A JavaScript engine for Internet of Things.
 * **[luvit ★ 2237 ⧗ 0](https://github.com/luvit/luvit)** - Node.JS for the Lua Inventor.
 * **[MicroPython ★ 3070 ⧗ 0](https://github.com/micropython/micropython)** - MicroPython is a lean and fast implementation of the Python 3 programming language that is optimised to run on a microcontroller. 
@@ -317,7 +321,6 @@ Layered architecture of JTAG interface and TAP support
 * **[mbed TLS ★ 601 ⧗ 0](https://github.com/ARMmbed/mbedtls)** - An open source, portable, easy to use, readable and flexible SSL library
 * **[Mongoose ★ 2625 ⧗ 0](https://github.com/cesanta/mongoose)** - Mongoose is ideal for embedded environments, it has been designed as an open source platform for connecting devices and bringing them online. 
 * [Mongoose Flashing Tool ★ 36 ⧗ 7](https://github.com/cesanta/mongoose-flashing-tool) - Mongoose Flashing Tool (also called MFT) is the Mongoose IoT Platform flashing tool.
-* [node-iotdb ★ 19 ⧗ 61](https://github.com/dpjanes/node-iotdb) - Easily control the Internet of Things using Semantics.
 * **[UniK ★ 593 ⧗ 0](https://github.com/emc-advanced-dev/unik)** -  is a tool for compiling application sources into unikernels (lightweight bootable disk images) rather than binaries.
 
 ## Protocol Library
