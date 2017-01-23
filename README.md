@@ -505,6 +505,10 @@ Layered architecture of JTAG interface and TAP support
 * [Serverless Reference Architecture: IoT Backend ★ 114 ⧗ 4](https://github.com/awslabs/lambda-refarch-iotbackend) - Serverless Reference Architecture for creating an IoT Backend.
 * [souliss ★ 137 ⧗ 8](https://github.com/souliss/souliss) - Arduino based Distributed Networking Framework for Smart Homes and IoT.
 
+## Awesome-Awesome
+
+* [Awesome Azure IoT](https://github.com/formulahendry/awesome-azure-iot) - A curated list of awesome Azure Internet of Things projects and resources.
+
 # Contributing
 
 Your contributions are always welcome! Please submit a pull request or create an issue to add a new framework, library or software to the list. Do not submit a project that hasn’t been updated in the past 6 months or is not awesome.
