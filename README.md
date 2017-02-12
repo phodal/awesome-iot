@@ -502,7 +502,9 @@ Layered architecture of JTAG interface and TAP support
 
 ## Analytics
 
+* [NetData](https://github.com/firehol/netdata) is a system for distributed real-time performance and health monitoring. 
 * **[Piwik ★ 5374 ⧗ 0](https://github.com/piwik/piwik)** - Piwik is the leading Free/Libre open analytics platform.
+* [Samsara](https://github.com/samsara/samsara) is a real-time analytics platform.
 
 ## Others
 
