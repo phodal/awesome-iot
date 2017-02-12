@@ -383,6 +383,10 @@ Layered architecture of JTAG interface and TAP support
 * [LoRa Gateway Bridge](https://github.com/brocaar/lora-gateway-bridge) - is a service which abstracts the packet_forwarder UDP protocol running on most LoRa gateways into JSON over MQTT.
 * [LoRaPI](https://github.com/hallard/LoRasPI) - Raspberry PI Lora Gateway/Node for RFM92/95/96/98/69HCW Modules.
 
+### OpenThread
+
+* [OpenThread](https://github.com/openthread/openthread) - OpenThread is an open-source implementation of the Thread networking protocol. 
+
 ## Fork
 
 * [AWS IoT Button ★ 5 ⧗ 4](https://github.com/ianmas-aws/iot-button-emulator) - Emulate the AWS IoT Button on a Raspberry Pi with a simple push button using this C++ sample.
