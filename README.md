@@ -4,6 +4,7 @@ Awesome IoT ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fe
 Simliar Projects
 
 * [Awesome Azure IoT](https://github.com/formulahendry/awesome-azure-iot) - A curated list of awesome Azure Internet of Things projects and resources.
+* [Awesome Android Things](https://github.com/amitshekhariitbhu/awesome-android-things) - A curated list of awesome Android Things tutorials, libraries and much more at one place
 * [Awesome OpenIoT](https://github.com/Agile-IoT/awesome-open-iot) - A curated list of awesome open source IoT frameworks, libraries and software.
 * [Awesome IoT](https://github.com/HQarroum/awesome-iot) - A curated list of awesome Internet of Things projects and resources. 
 
@@ -163,6 +164,10 @@ A curated list of IoT. Everyone can contribute here!
 * [Tock OS ★ 243 ⧗ 1](https://github.com/helena-project/tock) -  is an operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M based embedded platforms.
 * [trochili ★ 75 ⧗ 6](https://github.com/liuxuming/trochili) - A small RTOS optimized for the embedded/iot devices. Support Cortex M3.
 * [Zephyr ★ 12 ⧗ 5](https://github.com/cfriedt/zephyr) -  is a small, scalable real-time operating system for use on resource-constrained systems supporting multiple architectures.
+
+### Android Things
+
+* [Android Things user-space drivers](https://github.com/androidthings/contrib-drivers) - Sample peripheral drivers for Android Things.
 
 ## Platform
 
