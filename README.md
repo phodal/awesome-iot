@@ -175,6 +175,12 @@ A curated list of IoT. Everyone can contribute here!
 
 * [Android Things user-space drivers ★ 140 ⧗ 2](https://github.com/androidthings/contrib-drivers) - Sample peripheral drivers for Android Things.
 
+## Voice Controller
+
+* [alexa-rubykit](https://github.com/damianFC/alexa-rubykit) - implements a quick back-end service for deploying applications for Amazon's Echo (Alexa).
+* [AlexaPi](https://github.com/sammachin/AlexaPi) - Turn a Raspberry Pi into an Alexa Client.
+* [flask-ask](https://github.com/johnwheeler/flask-ask) - is a Flask extension that makes building Alexa skills for the Amazon Echo easier and much more fun.
+
 ## Platform
 
 * [DeviceHive] (https://github.com/devicehive) - IoT Data Platform. Wide range of connectivity options, device management, security and data processing.
