@@ -178,7 +178,6 @@ A curated list of IoT. Everyone can contribute here!
 ## Platform
 
 * [DeviceHive] (https://github.com/devicehive) - IoT Data Platform. Wide range of connectivity options, device management, security and data processing.
-
 * [[thing-it-node] ★ 20 ⧗ 3](https://github.com/marcgille/thing-it-node/) - A device-independent IoT platform including support of complex event processing, storyboards, and a mobile app.
 * [Clavin ★ 212 ⧗ 2](https://github.com/EricssonResearch/calvin-base) - Calvin is an application environment that lets things talk to things. It comprises of both a development framework for application developers, and a runtime environment that handles the running application. 
 * [I1820 ★ 11 ⧗ 1](https://github.com/AoLab/I1820) - I1820 is a free open source platform which provides discovery, data collection and configuration services based on MQTT. I1820 implements a REST API for controlling the things and it stores all collected data in a Time-Series database named InfluxDB.
@@ -309,6 +308,7 @@ Layered architecture of JTAG interface and TAP support
 
 ## Robotics
 
+* [AirSim](https://github.com/Microsoft/AirSim) -  is a simulator for drones (and soon other vehicles) built on Unreal Engine.
 * **[artoo ★ 1269 ⧗ 0](https://github.com/hybridgroup/artoo)** - Ruby framework for robotics and the Internet of Things.
 * **[hubot ★ 10481 ⧗ 0](https://github.com/github/hubot)** - A customizable life embetterment robot. 
 
