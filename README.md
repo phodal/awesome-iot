@@ -231,6 +231,7 @@ A curated list of IoT. Everyone can contribute here!
 ## APIs
 
 * [Qeo Tinq ★ 6 ⧗ 392](https://github.com/brunodebus/tinq-core) - Tinq is completely based on the Qeo publish/subscribe framework produced by Technicolor as explained in the license section.
+* [OGC SensorThings API](https://github.com/opengeospatial/sensorthings) - The OGC SensorThings API is an OGC standard specification for providing an open and unified way to interconnect IoT devices, data, and applications over the Web
 
 ## Middleware
 
