@@ -439,6 +439,7 @@ Layered architecture of JTAG interface and TAP support
 * **[Servo ★ 7821 ⧗ 0](https://github.com/servo/servo)** -  is a prototype web browser engine written in the Rust language. 
 * [The Things Network ★ 67 ⧗ 4](https://github.com/TheThingsNetwork/ttn) - The Things Network is a global open crowdsourced Internet of Things data network.
 * [WAMP Protocol ★ 228 ⧗ 1](https://github.com/wamp-proto/wamp-proto) - The Web Application Messaging Protocol The Web Application Messaging Protocol.
+* [Mender: Deployment Service](https://github.com/mendersoftware/deployments) - Microservice for managing software deployments for IIoT devices within Mender ecosystem.
 
 ## Software
 
