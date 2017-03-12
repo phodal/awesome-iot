@@ -166,6 +166,7 @@ A curated list of IoT. Everyone can contribute here!
 * [Silk ★ 74 ⧗ 2](https://github.com/silklabs/silk) - is a free (as in free beer) firmware for a number of smartphones based on the open-source Android operating system with a nodejs layer on top of it that makes it possible to write programs and get access to hardware aspects using only simple JavaScript. 
 * [Snappy Ubuntu Core](http://developer.ubuntu.com/en/snappy/) - Canonical, A new, transactionally updated Ubuntu for clouds and devices.
 * [TachyOS ★ 7 ⧗ 82](https://github.com/fritzprix/TachyOS) - is the RTOS based on microkernel architecture which includes only minimal components like thread / synchronization, memory management, inter-thread communication while supporting execution context / address space isolation(protection) and extensible modular interface.
+* [TinyAra](https://github.com/Samsung/TinyAra) - is a lightweight RTOS-based platform to support low-end IoT devices.
 * **[TinyOS ★ 543 ⧗ 0](https://github.com/tinyos/tinyos-main)** - designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters.
 * [Tock OS ★ 243 ⧗ 1](https://github.com/helena-project/tock) -  is an operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M based embedded platforms.
 * [trochili ★ 75 ⧗ 6](https://github.com/liuxuming/trochili) - A small RTOS optimized for the embedded/iot devices. Support Cortex M3.
