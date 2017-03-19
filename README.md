@@ -130,6 +130,7 @@ A curated list of IoT. Everyone can contribute here!
 * [IOT Espressif Android ★ 46 ⧗ 1](https://github.com/EspressifApp/IOT-Espressif-Android) - is used to control ESP8266 device by Android pad or phone.
 * [PhoneGap NFC ★ 312 ⧗ 2](https://github.com/chariotsolutions/phonegap-nfc) - PhoneGap NFC Plugin
 * [PWAify ★ 269 ⧗ 8](https://github.com/vladikoff/PWAify) - Experimental project to convert your PWA (Progressive Web App) into a cross-platform Electron app. Brings PWAs to your desktop.
+* [Summon](https://github.com/lab11/summon) - A platform for mobile devices that provides a convenient and scalable mechanism for IoT device interactivity, enabled by web-based interfaces and driven by the devices themselves.
 
 ## Storage
 
