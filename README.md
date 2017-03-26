@@ -194,7 +194,7 @@ A curated list of IoT. Everyone can contribute here!
 * **[IoT.js ★ 921 ⧗ 0](https://github.com/Samsung/iotjs)** - Platform for Internet of Things with JavaScript.
 * [IoTgo ★ 173 ⧗ 0](https://github.com/itead/IoTgo) - is an open source IoT platform, like WordPress, ZenCart and all other open source software, you can deploy your own IoTgo cloud service.
 * [Jasper](http://jasperproject.github.io/) - Jasper is an open source platform for developing always-on, voice-controlled applications.
-* [Lan ★ 105 ⧗ 0](https://github.com/phodal/lan) - Internet of Things Server Layer with CoAP, WebSocket, MQTT, HTTP Protocol
+* [Lan ★ 105 ⧗ 0](https://github.com/phodal/lan) - Internet of Things Server Layer with CoAP, WebSocket, MQTT, HTTP f
 * [Mainflux ★ 33 ⧗ 3](https://github.com/Mainflux/mainflux) - Mainflux is an open source and patent-free IoT cloud platform based on microservices.
 * [Mongoose IoT ★ 487 ⧗ 0](https://github.com/cesanta/iot) -  is a full-stack IoT platform including firmware and cloud components available for ESP8266.
 * [Pagenodes ★ 99 ⧗ 0](https://github.com/monteslu/pagenodes) - Completely Browser Based IOT Platform, A Chrome Progressive Web App.
@@ -410,6 +410,10 @@ Layered architecture of JTAG interface and TAP support
 ### OpenThread
 
 * **[OpenThread ★ 1139 ⧗ 2](https://github.com/openthread/openthread)** - OpenThread is an open-source implementation of the Thread networking protocol. 
+
+### Others
+
+ - [OSS-7](https://github.com/MOSAIC-LoPoW/dash7-ap-open-source-stack) - is an open source implementation of the DASH7 Alliance protocol for ultra low power wireless sensor communication. 
 
 ## Fork
 
