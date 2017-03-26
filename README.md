@@ -109,6 +109,7 @@ A curated list of IoT. Everyone can contribute here!
 * [LK ★ 312 ⧗ 0](https://github.com/littlekernel/lk) - The LK embedded kernel. An SMP-aware kernel designed for small systems.
 * [Magenta ★ 286 ⧗ 0](https://github.com/fuchsia-mirror/magenta) - Magenta is a new kernel that powers the Fuchsia OS.
 * [matrixssl ★ 36 ⧗ 0](https://github.com/matrixssl/matrixssl) - is an embedded SSL and TLS implementation designed for small footprint IoT devices requiring low overhead per connection.
+* [MATRIX OS](https://github.com/matrix-io/matrix-os) -  is a platform for running applications on the MATRIX Creator.
 * [pingo-py ★ 223 ⧗ 15](https://github.com/pingo-io/pingo-py) - provides a uniform API to program devices like the Raspberry Pi, BeagleBone Black, pcDuino etc. just like the Python DBAPI provides an uniform API for database programming in Python.
 * [polymcu ★ 57 ⧗ 3](https://github.com/labapart/polymcu) - an open framework for micro-controller software.
 * [Secure Device Grid ★ 4 ⧗ 20](https://github.com/trifork/secure-device-grid) - Secure device-to-device communication solution for IOT.
