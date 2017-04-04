@@ -413,7 +413,8 @@ Layered architecture of JTAG interface and TAP support
 
 ### Others
 
- - [OSS-7](https://github.com/MOSAIC-LoPoW/dash7-ap-open-source-stack) - is an open source implementation of the DASH7 Alliance protocol for ultra low power wireless sensor communication. 
+* [Anjay](https://github.com/AVSystem/Anjay) - is a C library that aims to be the reference implementation of the OMA Lightweight Machine-to-Machine (LwM2M) device management protocol. 
+* [OSS-7](https://github.com/MOSAIC-LoPoW/dash7-ap-open-source-stack) - is an open source implementation of the DASH7 Alliance protocol for ultra low power wireless sensor communication. 
 
 ## Fork
 
