@@ -406,6 +406,10 @@ Layered architecture of JTAG interface and TAP support
 
 * [ouimeaux ★ 319 ⧗ 0](https://github.com/iancmcc/ouimeaux) - Open source control for Belkin WeMo devices.
 
+### SMCP
+
+* [SMCP](https://github.com/darconeous/smcp) - is an experimental CoAP-based machine-to-machine (M2M) protocol that is in the early stages of development.
+
 ### Lora
 
 * [LoRa Gateway Bridge ★ 78 ⧗ 0](https://github.com/brocaar/lora-gateway-bridge) - is a service which abstracts the packet_forwarder UDP protocol running on most LoRa gateways into JSON over MQTT.
