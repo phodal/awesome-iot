@@ -331,6 +331,8 @@ Layered architecture of JTAG interface and TAP support
 * [Kamanja ★ 21 ⧗ 1](https://github.com/LigaData/Kamanja) -  is an open-source continuous decisioning engine that is hardened for enterprise reliability requirements, scalable to IoT level data volumes, and enables low latency use cases.
 * [Kuzzle ★ 267 ⧗ 0](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT.
 * **[Node-RED ★ 2513 ⧗ 0](https://github.com/node-red/node-red)** - A visual tool for wiring the Internet of Things.
+* [Parlay](https://github.com/PromenadeSoftware/Parlay) -  is software that brings visibility and accessibility to embedded devices.
+* [redzilla](https://github.com/muka/redzilla) -  is a service which allow to create easily instances of node-red.
 * [RemoteDebug ★ 17 ⧗ 11](https://github.com/JoaoLopesF/RemoteDebug) - A library to remote debug over telnet connection!
 * [vorto ★ 32 ⧗ 3](https://github.com/eclipse/vorto) - is a toolset that lets you describe devices using a simple language and share these descriptions, so-called Information Models, in a centralized Vorto Repository.
 
