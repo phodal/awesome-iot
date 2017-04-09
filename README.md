@@ -1,6 +1,8 @@
 Awesome IoT ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ===
 
+A curated list of IoT. Everyone can contribute here!
+
 Simliar Projects
 
 * [Awesome Azure IoT](https://github.com/formulahendry/awesome-azure-iot) - A curated list of awesome Azure Internet of Things projects and resources.
@@ -8,21 +10,23 @@ Simliar Projects
 * [Awesome OpenIoT](https://github.com/Agile-IoT/awesome-open-iot) - A curated list of awesome open source IoT frameworks, libraries and software.
 * [Awesome IoT](https://github.com/HQarroum/awesome-iot) - A curated list of awesome Internet of Things projects and resources. 
 
-A curated list of IoT. Everyone can contribute here!
-
 - [Framework](#framework)
 - [Library](#library)
     - [SDK](#sdk)
     - [Arduino](#arduino)
     - [Low Level](#low-level)
-- [Android](#android)
+- [App](#app)
+- [Storage](#storage)
+- [Security](#security)
 - [OS](#os)
+    - [Android Things](#android-things)
+- [Voice Controller](#voice-controller)
 - [Platform](#platform)
 - [IoT Clouds](#iot-clouds)
 - [IIoT Clouds](#iiot-clouds)
 - [APIs](#apis)
 - [Middleware](#middleware)
-- [Toolkits Inlucde Non-OS](#toolkits-inlucde-non-os)
+- [Toolkits Include Non-OS](#toolkits-include-non-os)
 - [Data Visualization](#data-visualization)
 - [Hardware](#hardware)
 - [Home Automation](#home-automation)
@@ -33,17 +37,30 @@ A curated list of IoT. Everyone can contribute here!
     - [Others](#others)
 - [Protocol Library](#protocol-library)
     - [MQTT](#mqtt)
+    - [CoAP](#coap)
     - [Spark](#spark)
-    - [Messaging](#messaging)
+    - [WeMo](#wemo)
+    - [SMCP](#smcp)
+    - [Lora](#lora)
+    - [OpenThread](#openthread)
+    - [Others](#others)
+- [Fork](#fork)
+- [Hardware Com](#hardware-com)
+    - [NFC](#nfc)
+    - [Serial](#serial)
+    - [Others](#others)
 - [Software](#software)
 - [Tools](#tools)
+- [Voice](#voice)
 - [Resources-Websites-Projects](#resources-websites-projects)
     - [Course](#course)
     - [WebSite](#website)
     - [Blog](#blog)
+    - [Group](#group)
     - [GitHub Org.](#github-org)
     - [Free Book](#free-book)
-    - [Related Reources Projects](#related-resources-projects)
+    - [Related Resources Projects](#related-resources-projects)
+    - [Tutorial](#tutorial)
 - [AI](#ai)
 - [Analytics](#analytics)
 - [Others](#others)
