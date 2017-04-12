@@ -397,6 +397,7 @@ Layered architecture of JTAG interface and TAP support
 * [strong-pubsub ★ 97 ⧗ 1](https://github.com/strongloop/strong-pubsub) - PubSub for Node.js, Browser, Mobile and IoT
 * **[SurgeMQ ★ 776 ⧗ 1](https://github.com/surgemq/surgemq)** -  is a high performance MQTT broker and client library that aims to be fully compliant with MQTT 3.1 and 3.1.1 specs. 
 * **[VerneMQ ★ 561 ⧗ 1](https://github.com/erlio/vernemq)** - A distributed MQTT message broker.
+* [Espruna](https://bitbucket.org/xoseperez/espurna) - Firmware for ESP8266 based smart switches. Includes Web GUI, MQTT and AOT software updates.
 
 ### CoAP
 
