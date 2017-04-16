@@ -507,6 +507,7 @@ Layered architecture of JTAG interface and TAP support
 * [Low-Level Software Security: Attacks and Countermeassures](https://www.youtube.com/watch?v=ZLZkf8FVcsU) - None
 * [Penetration Testing and Ethical Hacking](https://www.cybrary.it/course/ethical-hacking/) - Free
 * [Secure Coding](https://www.cybrary.it/course/secure-coding/) - Free
+* [Serverless Reference Architecture: IoT Backend](https://github.com/awslabs/lambda-refarch-iotbackend) - demonstrates how to use AWS Lambda in conjunction with Amazon Kinesis, Amazon DynamoDB, Amazon Simple Storage Service (Amazon S3), and Amazon CloudWatch to build a serverless system for ingesting and processing sensor data.
 * [Social Engineering and Manipulation](https://www.cybrary.it/course/social-engineering/) - Free
 * [Software Architecture for the Internet of Things](https://www.coursera.org/learn/iot-software-architecture) - Free
 * [Software Architecture for the Internet of Things (Coursera)](https://www.coursera.org/learn/iot-software-architecture) - None
