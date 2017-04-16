@@ -490,6 +490,8 @@ Layered architecture of JTAG interface and TAP support
 
 * [chelexa ★ 2 ⧗ 25](https://github.com/chelexa/chelexa) - Natural voice recognition IoT cloud chess solution via the Amazon Echo platform.
 
+## AI
+
 ## Resources-Websites-Projects
 
 
@@ -560,6 +562,7 @@ Layered architecture of JTAG interface and TAP support
 
 ## AI
 
+* [Machinery](https://github.com/kerberos-io/machinery) - is a low-budget video surveillance solution, that uses computer vision algorithms to detect changes, and that can trigger other devices.
 * [TensorFlow for Raspberry Pi ★ 317 ⧗ 0](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) - None
 
 ## Analytics
