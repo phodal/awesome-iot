@@ -170,7 +170,7 @@ Simliar Projects
 * **[Contiki ★ 1813 ⧗ 0](https://github.com/contiki-os/contiki)** - The Open Source OS for the Internet of Things
 * [f9-kernel ★ 316 ⧗ 4](https://github.com/f9micro/f9-kernel) - An efficient and secure microkernel built for ARM Cortex-M cores, inspired by L4
 * [FlingOS ★ 176 ⧗ 0](https://github.com/FlingOS/FlingOS) - An educational operating system written in C#. A great stepping stone from high to low level development.
-* [Huawei LiteOS ★ 341 ⧗ 3](https://github.com/Huawei/Huawei_LiteOS_Kernel) - Huawei LiteOS Kernel.
+* [Huawei LiteOS ★ 341 ⧗ 3](https://github.com/LITEOS/LiteOS_Kernel) - Huawei LiteOS Kernel.
 * [Hypriot ★ 54 ⧗ 13](https://github.com/hypriot/rpi-kernel) - get you started with Docker on a Raspberry Pi in no time.
 * [JanOS ★ 138 ⧗ 0](https://github.com/jan-os/janos) - JanOS is an operating system designed to run on the chipset of mobile phones. 
 * [Linino ★ 83 ⧗ 13](https://github.com/arduino/linino) - Linino is a GNU/Linux distribution based on OpenWRT and maintained by DogHunter.
