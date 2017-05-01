@@ -382,6 +382,7 @@ Layered architecture of JTAG interface and TAP support
 
 ### MQTT
 
+* [arduino-mqtt](https://github.com/256dpi/arduino-mqtt) - MQTT library for Arduino based on the Eclipse Paho projects.
 * **[emqttd ★ 921 ⧗ 0](https://github.com/emqtt/emqttd)** - Erlang MQTT Broker
 * [ESP8266 MQTT ★ 440 ⧗ 0](https://github.com/tuanpmt/esp_mqtt) - MQTT client library for ESP8266 Soc 
 * [Homie for ESP8266 ★ 115 ⧗ 1](https://github.com/marvinroger/homie-esp8266) - An Arduino for ESP8266 implementation of Homie, an MQTT convention for the IoT.
