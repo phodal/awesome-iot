@@ -564,6 +564,10 @@ Layered architecture of JTAG interface and TAP support
 * [micro-services-tutorial-iot ★ 20 ⧗ 13](https://github.com/nearform/micro-services-tutorial-iot) - An instructor led microservices workshop.
 * [Unpacking the Internet of Things](https://www.udemy.com/unpacking-the-internet-of-things/learn/v4/overview) - Shows use cases to help to identify possible potential for enterprise specific products.
 
+## Edge
+
+* [Project Flogo](https://github.com/TIBCOSoftware/flogo) - is an Open Source Framework for IoT Edge Apps & Integration.
+
 ## AI
 
 * [Machinery](https://github.com/kerberos-io/machinery) - is a low-budget video surveillance solution, that uses computer vision algorithms to detect changes, and that can trigger other devices.
