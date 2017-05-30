@@ -349,8 +349,6 @@ Layered architecture of JTAG interface and TAP support
 
 ## Others
 
-.
-
 * [Corto ★ 15 ⧗ 4](https://github.com/cortoproject/corto) - Corto is a tested, proven architecture for normalizing data from different technologies into one view regardless of location, format or datamodel. 
 * [Emul8 ★ 50 ⧗ 71](https://github.com/emul8/emul8) - is an emulator of various embedded systems. With Emul8 you can develop embedded software entirely in a virtual environment that runs within your PC.
 * [fluent-bit ★ 90 ⧗ 4](https://github.com/fluent/fluent-bit) - is a data collector for Linux, Embedded Linux, OSX and BSD family operating systems.
@@ -444,6 +442,10 @@ Layered architecture of JTAG interface and TAP support
 * [LoRa Server ★ 237 ⧗ 0](https://github.com/brocaar/loraserver) - LoRa Server is an open-source LoRaWAN network-server.
 * [LoRaPI ★ 28 ⧗ 31](https://github.com/hallard/LoRasPI) - Raspberry PI Lora Gateway/Node for RFM92/95/96/98/69HCW Modules.
 * [LowCostLoRaGw ★ 161 ⧗ 4](https://github.com/CongducPham/LowCostLoRaGw) - Low-cost LoRa IoT & gateway with SX1272/76, Raspberry and Arduino.
+
+### OSGP
+
+* [OSGP Platform](https://github.com/OSGP/Platform) - is an open, generic, scalable and independent 'Internet of Things' platform, which enables various connected smart objects in the public space to be easily controlled and monitored. 
 
 ### OpenThread
 
