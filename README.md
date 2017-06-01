@@ -143,6 +143,8 @@ Simliar Projects
 * [WifiDog ★ 291 ⧗ 1](https://github.com/wifidog/wifidog-gateway) - a complete and embeddable captive portal solution for wireless community groups or individuals.
 * [Windows 10 IoT Core IoT Helpers ★ 25 ⧗ 0](https://github.com/Dot-and-Net/IoTHelpers) - his library allows to easily interact with GPIO, I2C and SPI devices in Windows 10 IoT Core.
 * [XiPKI ★ 34 ⧗ 10](https://github.com/xipki/xipki) - eXtensible sImple Public Key Infrastructure consists of CA and OCSP responder.
+* [xkcptun ★ 104 ⧗ 25](https://github.com/liudf0716/xkcptun) - xkcptun is kcp tunnel for OpenWRT&LEDE, implemented in c language
+* [xfrp ★ 14 ⧗ 2](https://github.com/KunTengRom/xfrp) - frp client for openwrt&LEDE, frp is a fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
 ## App
 
