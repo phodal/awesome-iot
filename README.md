@@ -226,6 +226,7 @@ Simliar Projects
 * [ThingEngine ★ 3 ⧗ 0](https://github.com/Stanford-Mobisocial-IoT-Lab/thingengine-core) - An open source platform for IoT rules that you can execute anywhere you want.
 * [Thingsboard ★ 259 ⧗ 0](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 * [Undercontrol ★ 22 ⧗ 0](https://github.com/daraosn/undercontrol) - Simple realtime IoT Platform with MQTT and Web-sockets support
+* [Node-Red ★ 4345 ⧗ 1039](https://github.com/node-red/node-red) - Node-RED provides a browser-based flow editor that makes it easy to wire together flows using the wide range of nodes in the palette.
 
 ## IoT Clouds
 
