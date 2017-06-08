@@ -434,6 +434,12 @@ Layered architecture of JTAG interface and TAP support
 
 ### WeMo
 
+* [arduino-esp8266-alexa-wemo-switch](https://github.com/kakopappa/arduino-esp8266-alexa-wemo-switch) - Amazon Alexa + WeMos switch made with Arduino D1 Mini.
+* [arduino-esp8266-alexa-multiple-wemo-switch](https://github.com/kakopappa/arduino-esp8266-alexa-multiple-wemo-switch) - #Arduino Esp8266 Alexa Multiple Belkin wemo switch emulator.
+* [homebridge-platform-wemo](https://github.com/rudders/homebridge-platform-wemo) - Belkin WeMo Platform plugin for the awesome Homebridge project.
+* [wemore](https://github.com/dhleong/wemore) - A more awesome library for Belkin WeMo interactions.
+* [wemo.js](https://github.com/thatguydan/wemo.js) - This library aims to provide a simple interface to a Belkin WeMo Power Sockets.
+* [fauxmo](https://github.com/makermusings/fauxmo) - Emulated Belkin WeMo devices that work with the Amazon Echo.
 * [ouimeaux ★ 319 ⧗ 0](https://github.com/iancmcc/ouimeaux) - Open source control for Belkin WeMo devices.
 
 ### SMCP
