@@ -462,6 +462,7 @@ Layered architecture of JTAG interface and TAP support
 ### OpenThread
 
 * **[OpenThread ★ 1139 ⧗ 2](https://github.com/openthread/openthread)** - OpenThread is an open-source implementation of the Thread networking protocol. 
+* [OpenThread Border Router](https://github.com/openthread/borderrouter) - An open source border router, built to work with OpenThread.
 
 ### Others
 
