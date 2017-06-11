@@ -116,6 +116,7 @@ Simliar Projects
 ### Low Level
 
 * [Amazon Echo Bridge ★ 452 ⧗ 1](https://github.com/armzilla/amazon-echo-ha-bridge) - Amazon Echo Bridge allows you to quickly emulate a Phillips Hue bridge, bringing the ability to seamlessly integrate an Amazon Echo into various home automation systems.
+* [aWOT](https://github.com/lasselukkari/aWOT) - Web server library for Arduino, Teensy, ESP8266 and ESP32
 * [btstack ★ 151 ⧗ 1](https://github.com/bluekitchen/btstack) - Dual-mode Bluetooth stack, with small memory footprint.
 * [CocoaMQTT ★ 210 ⧗ 0](https://github.com/emqtt/CocoaMQTT) - MQTT for iOS and OS X written with Swift.
 * [Devices ★ 134 ⧗ 0](https://github.com/goiot/devices) - Suite of libraries for IoT devices (written in Go).
