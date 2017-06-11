@@ -373,6 +373,7 @@ Layered architecture of JTAG interface and TAP support
 
 * [ELIoT ★ 76 ⧗ 48](https://github.com/c3d/elfe) - Extensible Language for Everyday (and the Internet of Things)
 * [eLua ★ 393 ⧗ 1](https://github.com/elua/elua) - Quickly prototype and develop embedded software applications with the power of Lua and run them on a wide range of microcontroller architectures.
+* [ESP Basic](https://github.com/esp8266/Basic) - Basic Interpreter for the ESP8266
 * **[JerryScript ★ 1244 ⧗ 0](https://github.com/Samsung/jerryscript)** - A JavaScript engine for Internet of Things.
 * **[luvit ★ 2237 ⧗ 0](https://github.com/luvit/luvit)** - Node.JS for the Lua Inventor.
 * **[MicroPython ★ 3070 ⧗ 0](https://github.com/micropython/micropython)** - MicroPython is a lean and fast implementation of the Python 3 programming language that is optimised to run on a microcontroller. 
