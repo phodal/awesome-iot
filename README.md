@@ -398,6 +398,7 @@ Layered architecture of JTAG interface and TAP support
 
 ### MQTT
 
+* [Aphid](https://github.com/IBM-Swift/Aphid) - A lightweight MQTT 3.1.1 client written in pure Swift 3.
 * [arduino-mqtt ★ 95 ⧗ 6](https://github.com/256dpi/arduino-mqtt) - MQTT library for Arduino based on the Eclipse Paho projects.
 * [Eclipse Paho MQTT C client ★ 142 ⧗ 3](https://github.com/eclipse/paho.mqtt.c) - This code builds libraries which enable applications to connect to an MQTT broker to publish messages, and to subscribe to topics and receive published messages.
 * **[emqttd ★ 921 ⧗ 0](https://github.com/emqtt/emqttd)** - Erlang MQTT Broker
