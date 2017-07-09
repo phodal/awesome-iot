@@ -600,7 +600,8 @@ Layered architecture of JTAG interface and TAP support
 ## AI
 
 * [Machinery ★ 174 ⧗ 0](https://github.com/kerberos-io/machinery) - is a low-budget video surveillance solution, that uses computer vision algorithms to detect changes, and that can trigger other devices.
-* [TensorFlow for Raspberry Pi ★ 317 ⧗ 0](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) - None
+* [TensorFlow for Raspberry Pi ★ 317 ⧗ 0](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) - tep-by-step instructions for installing TensorFlow from source using Bazel (which is also compiled from-scratch), as well as pre-built TensorFlow binaries.
+* [ELL](https://github.com/Microsoft/ELL) - allows you to build and deploy machine-learned pipelines onto embedded platforms, like Raspberry Pis, Arduinos, micro:bits, and other microcontrollers.
 
 ## Analytics
 
