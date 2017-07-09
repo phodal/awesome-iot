@@ -10,6 +10,9 @@ Simliar Projects
 * [Awesome OpenIoT](https://github.com/Agile-IoT/awesome-open-iot) - A curated list of awesome open source IoT frameworks, libraries and software.
 * [Awesome IoT](https://github.com/HQarroum/awesome-iot) - A curated list of awesome Internet of Things projects and resources. 
 
+ToC
+---
+
 - [Framework](#framework)
 - [Library](#library)
     - [SDK](#sdk)
@@ -88,6 +91,7 @@ Simliar Projects
 * [OpenDevice ★ 23 ⧗ 8](https://github.com/OpenDevice/OpenDevice) - Open IoT (Internet Of Things) Platform and Framework.
 * [Pando Cloud ★ 75 ⧗ 2](https://github.com/PandoCloud/pando-cloud) - is the cloud part of Pando IoT solution. It's made of a bunch of tools, protocols and frameworks below: Pando Cloud, Pando Embedded Framework, Pando Protocol as so on.
 * [Pingo ★ 211 ⧗ 0](https://github.com/pingo-io/pingo-py) - Generic API for controlling boards with programmable IO pins.
+* [PolyMCU](https://github.com/labapart/polymcu) - has been designed from the beginning to be as flexible as possible: host OS independent, support any toolchain, any RTOS, any micro-controller vendor SDK.
 * [rpi-gpio.js ★ 221 ⧗ 5](https://github.com/JamesBarwell/rpi-gpio.js) - Control Raspberry Pi GPIO pins with node.js.
 * [SensorBee ★ 54 ⧗ 33](https://github.com/sensorbee/sensorbee) - Lightweight stream processing engine for IoT
 * **[Serverless ★ 7951 ⧗ 0](https://github.com/serverless/serverless)** - Serverless is the application framework for building web, mobile and IoT applications exclusively on Amazon Web Services' Lambda and API Gateway.
