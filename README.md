@@ -376,6 +376,8 @@ Layered architecture of JTAG interface and TAP support
 * [RemoteDebug ★ 17 ⧗ 11](https://github.com/JoaoLopesF/RemoteDebug) - A library to remote debug over telnet connection!
 * [rio ★ 68 ⧗ 0](https://github.com/SolidStateGroup/rio) - An open source library allowing you to create an internet connected LED wall
 * [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota) - Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE.
+* [tinyVP](https://github.com/lyegoshin/tinyVP) - is a very small and lean hypervisor using MIPS R5 hardware VZ option
+for embedded systems (IoT in mind).
 * [vorto ★ 32 ⧗ 3](https://github.com/eclipse/vorto) - is a toolset that lets you describe devices using a simple language and share these descriptions, so-called Information Models, in a centralized Vorto Repository.
 
 ## Language
