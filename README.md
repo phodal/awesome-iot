@@ -429,6 +429,7 @@ for embedded systems (IoT in mind).
 * [strong-pubsub ★ 97 ⧗ 1](https://github.com/strongloop/strong-pubsub) - PubSub for Node.js, Browser, Mobile and IoT
 * **[SurgeMQ ★ 776 ⧗ 1](https://github.com/surgemq/surgemq)** -  is a high performance MQTT broker and client library that aims to be fully compliant with MQTT 3.1 and 3.1.1 specs. 
 * **[VerneMQ ★ 561 ⧗ 1](https://github.com/erlio/vernemq)** - A distributed MQTT message broker.
+* **[WolfSSL MQTT](https://github.com/wolfSSL/wolfMQTT)** - A C MQTT library that works with WolfSSL.
 
 ### CoAP
 
