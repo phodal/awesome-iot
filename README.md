@@ -537,6 +537,7 @@ for embedded systems (IoT in mind).
 
 ## AI
 
+* [libdeep](https://github.com/bashrc/libdeep) - A deep learning library for C/C++.
 
 ## Resources-Websites-Projects
 
