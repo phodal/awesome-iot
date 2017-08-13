@@ -82,6 +82,7 @@ ToC
 * [guh ★ 50 ⧗ 29](https://github.com/guh/guh) -  is an open source IoT (Internet of Things) server, which allows to control a lot of different devices from many different manufacturers.
 * **[heimcontrol.js ★ 1306 ⧗ 4](https://github.com/ni-c/heimcontrol.js)** - Home-Automation with node.js and Raspberry PI.
 * [IoT 433 MHz ★ 121 ⧗ 11](https://github.com/roccomuso/iot-433mhz) - IoT System to control 433 MHz RC power sockets, PIR, Door Sensors and much more.
+* [IoT Edge](https://github.com/Azure/iot-edge) - The Azure IoT Gateway SDK was our first step to enabling edge analytics in IoT solutions.
 * [IoT SOL ★ 38 ⧗ 0](https://github.com/01org/Intel-iot-services-orchestration-layer) - The total solution that provides visual graphical programming for developing IoT applications.
 * [IoTCloud 2 ★ 14 ⧗ 50](https://github.com/iotcloud/iotcloud2) - An open source framework for IoT and Sensor Centric Applications.
 * **[johnny-five ★ 6024 ⧗ 0](https://github.com/rwaldron/johnny-five)** - JavaScript Robotics and IoT programming framework, developed at Bocoup, Firmata Protocol.
