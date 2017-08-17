@@ -498,6 +498,10 @@ for embedded systems (IoT in mind).
 
 ## Hardware Com
 
+### Bluetooth
+
+* [React Native Bluetooth Serial](https://github.com/rusel1989/react-native-bluetooth-serial) - React Native version of BluetoothSerial plugin. For both android and ios
+* [BluetoothSerial](https://github.com/don/BluetoothSerial) - Cordova (PhoneGap) Plugin for Serial Communication over Bluetooth
 
 ### NFC
 
