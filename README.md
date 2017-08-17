@@ -525,6 +525,7 @@ for embedded systems (IoT in mind).
 * [Mender: Deployment Service ★ 8 ⧗ 14](https://github.com/mendersoftware/deployments) - Microservice for managing software deployments for IIoT devices within Mender ecosystem.
 * **[meshblu ★ 738 ⧗ 0](https://github.com/octoblu/meshblu)** - Machine-to-machine instant messaging platform for the internet of things.
 * [Python Enocean ★ 13 ⧗ 45](https://github.com/kipe/enocean) - A Python library for reading and controlling EnOcean devices.
+* [React Native ESP8266 Smartconfig](https://github.com/tuanpmt/react-native-smartconfig) - a react-native module for ESP8266 ESPTOUCH Smart config.
 * **[Servo ★ 7821 ⧗ 0](https://github.com/servo/servo)** -  is a prototype web browser engine written in the Rust language. 
 * [The Things Network ★ 67 ⧗ 4](https://github.com/TheThingsNetwork/ttn) - The Things Network is a global open crowdsourced Internet of Things data network.
 * [WAMP Protocol ★ 228 ⧗ 1](https://github.com/wamp-proto/wamp-proto) - The Web Application Messaging Protocol The Web Application Messaging Protocol.
