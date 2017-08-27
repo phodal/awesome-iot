@@ -491,6 +491,7 @@ for embedded systems (IoT in mind).
 
 * [Anjay ★ 16 ⧗ 23](https://github.com/AVSystem/Anjay) - is a C library that aims to be the reference implementation of the OMA Lightweight Machine-to-Machine (LwM2M) device management protocol. 
 * [OSS-7 ★ 44 ⧗ 37](https://github.com/MOSAIC-LoPoW/dash7-ap-open-source-stack) - is an open source implementation of the DASH7 Alliance protocol for ultra low power wireless sensor communication. 
+* [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A library to communicate with services of Apple iOS devices using native protocols.
 
 ## Fork
 
