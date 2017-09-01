@@ -581,6 +581,7 @@ for embedded systems (IoT in mind).
 * [Infoq IoT Weekly](http://www.infoq.com/cn/adf) - Weekly IoT News, Open Source Project, Hardware
 * [Instructables - tech](http://www.instructables.com/tag/type-id/category-technology/) - Explore the Biggest How To and DIY community where people make and share inspiring, entertaining, and useful projects, recipes, and hacks.
 * [Makezie](https://makezine.com/) - DIY Projects and Ideas for Makers.
+* [Eclipse IoT](https://iot.eclipse.org) - Eclipse Foundation IoT top level project and working group.
 
 ### Blog
 
