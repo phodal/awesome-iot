@@ -233,6 +233,7 @@ ToC
 * [Jasper](http://jasperproject.github.io/) - Jasper is an open source platform for developing always-on, voice-controlled applications.
 * [Lan ★ 105 ⧗ 0](https://github.com/phodal/lan) - Internet of Things Server Layer with CoAP, WebSocket, MQTT, HTTP f
 * [Mainflux ★ 33 ⧗ 3](https://github.com/Mainflux/mainflux) - Mainflux is an open source and patent-free IoT cloud platform based on microservices.
+* [Mobius](https://github.com/IoTKETI/Mobius) -  is the open source IoT server platform based on the oneM2M standard.
 * [Siemens MindSphere](https://www.siemens.com/global/en/home/products/software/mindsphere.html) - Open, cloud-based IoT operating system (uses OPC UA as communication standard) from Siemens which is extensible with services.
 * [Mongoose IoT ★ 487 ⧗ 0](https://github.com/cesanta/iot) -  is a full-stack IoT platform including firmware and cloud components available for ESP8266.
 * [Pagenodes ★ 99 ⧗ 0](https://github.com/monteslu/pagenodes) - Completely Browser Based IOT Platform, A Chrome Progressive Web App.
