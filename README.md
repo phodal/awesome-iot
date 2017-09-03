@@ -221,6 +221,7 @@ ToC
 
 * [Blynk](https://github.com/blynkkk/blynk-server) - is a platform with iOS and Android apps to control Arduino, ESP8266, Raspberry Pi and the likes over the Internet.
 * [DeviceHive] (https://github.com/devicehive) - IoT Data Platform. Wide range of connectivity options, device management, security and data processing.
+* [embARC Open Software Platform (OSP)](https://github.com/foss-for-synopsys-dwc-arc-processors/embarc_osp) - is a software distribution aimed at facilitating the development of embedded systems based on ARCv2 Processors.
 * [[thing-it-node] ★ 20 ⧗ 3](https://github.com/marcgille/thing-it-node/) - A device-independent IoT platform including support of complex event processing, storyboards, and a mobile app.
 * [Clavin ★ 212 ⧗ 2](https://github.com/EricssonResearch/calvin-base) - Calvin is an application environment that lets things talk to things. It comprises of both a development framework for application developers, and a runtime environment that handles the running application. 
 * [flowchain-app ★ 22 ⧗ 50](https://github.com/flowchain/flowchain-app) - A Flowchain plugin that provides the flow-based programming (FBP) engine. 
