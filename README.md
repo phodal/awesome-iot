@@ -131,6 +131,7 @@ ToC
 * [fauxmoESP](https://bitbucket.org/xoseperez/fauxmoesp) - Belkin WeMo emulator library for ESP8266.
 * [inih ★ 312 ⧗ 3](https://github.com/benhoyt/inih) - is a simple .INI file parser written in C.
 * [IoT Helpers ★ 37 ⧗ 8](https://github.com/DotNetToscana/IoTHelpers) - A library that allows to easily interact with Windows 10 IoT Core features like GPIO, I2C and SPI devices.
+* [IoTit Flashing tool](https://github.com/xshellinc/iotit) - is an open source command-line utility for flashing (initializing) IoT devices.
 * [krypton ★ 7 ⧗ 35](https://github.com/cesanta/krypton) - Embedded TLS/DTLS library, source and binary compatible OpenSSL subset
 * [Ladon ★ 114 ⧗ 2](https://github.com/ory-am/ladon) - is a library written in Go for access control policies, similar to Role Based Access Control or Access Control Lists.
 * [libtuv ★ 19 ⧗ 17](https://github.com/Samsung/libtuv) - Asynchronous I/O for IoT.js and embedded system.
