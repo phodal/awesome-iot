@@ -76,6 +76,7 @@ ToC
 * [devify-server ★ 53 ⧗ 1](https://github.com/DevifyPlatform/devify-server) - s extremely light weight, and is very easy to use. It aims to help developers to create IoT application servers, faster.
 * [Epoc.js](https://github.com/charliegerard/Epoc.js) - This framework provides an interface to access data from the Emotiv EPOC brain sensor using Node.js.
 * [FogLight](https://github.com/oci-pronghorn/FogLight) - is a lightweight runtime that enables makers of all ages and skill levels to create highly performant apps for embedded devices like Raspberry Pis.
+* [framboos](https://github.com/jkransen/framboos) - is a small Java wrapper around the default GPIO driver on Linux boards like Raspberry Pi and BeagleBoard. 
 * [Freedomotic ★ 208 ⧗ 4](https://github.com/freedomotic/freedomotic) - is an open source, flexible, secure Internet of Things (IoT) application framework, useful to build and manage modern smart spaces.
 * **[GoBot ★ 2062 ⧗ 1](https://github.com/hybridgroup/gobot)** - Golang framework for robotics, physical computing, and the Internet of Things.
 * [Grow IoT ★ 7 ⧗ 7](https://github.com/CommonGarden/Grow-IoT) - is a full javascript based IoT stack with a simple API and basic user interface.
