@@ -621,6 +621,7 @@ for embedded systems (IoT in mind).
 * **[Design IoT ★ 594 ⧗ 0](https://github.com/phodal/designiot)** - A Ebook to tech your create IoT System step by step.
 * [IoT-Firstep ★ 24 ⧗ 9](https://github.com/nladuo/IoT-Firstep) - A Ebook to tech your create IoT System.
 * [IPv6-WSN-Book](http://github.com/marcozennaro/IPv6-WSN-book) - an easy guide to Wireless Sensor Networks (WSN), IPv6 and the Internet of Things (IoT).
+* [Using the Web to Build the IoT](https://www.manning.com/books/using-the-web-to-build-the-iot) - A collection of six hand-picked chapters that introduce the key technologies and concepts for building the application layer of the IoT.
 
 ### Related Resources Projects
 
