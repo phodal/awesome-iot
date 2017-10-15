@@ -531,6 +531,7 @@ for embedded systems (IoT in mind).
 
 ### Others
 
+* [Balena](https://github.com/resin-os/balena) -  is a new container engine purpose-built for embedded and IoT use cases and compatible with Docker containers. 
 * **[Drake ★ 500 ⧗ 0](https://github.com/RobotLocomotion/drake)** -  is a toolbox maintained by the Robot Locomotion Group at the MIT Computer Science and Artificial Intelligence Lab (CSAIL).
 * [IBM messaging](https://github.com/ibm-messaging) - Community around IBM Messaging products.
 * [IotWeb ★ 4 ⧗ 9](https://github.com/sensaura-public/iotweb) - A Embedded HTTP and WebSocket Server for UWP/.NET 4.5.
