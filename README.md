@@ -634,6 +634,7 @@ for embedded systems (IoT in mind).
 ### Related Resources Projects
 
 * [awesome-embedded-systems ★ 0 ⧗ 29](https://github.com/fkromer/awesome-embedded-systems) - The website [awesome-embedded-systems.org](http://awesome-embedded-systems.org) lists resources about embedded system, software and hardwware development.
+* [awesome-mqtt](https://github.com/hobbyquaker/awesome-mqtt) - Curated list of MQTT related stuff.
 
 ### Tutorial
 
