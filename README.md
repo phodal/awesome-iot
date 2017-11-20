@@ -460,6 +460,7 @@ for embedded systems (IoT in mind).
 * [h5.coap ★ 36 ⧗ 26](https://github.com/morkai/h5.coap) - Implementation of the Constrained Application Protocol (CoAP) client for node.js.
 * [iCoAP ★ 28 ⧗ 21](https://github.com/stuffrabbit/iCoAP) - Objective-C Client Implementation of CoAP.
 * [lobaro-coap](https://github.com/Lobaro/lobaro-coap) - Complete CoAP Implementation in C.
+* [mbed CoAP](https://github.com/ARMmbed/java-coap) - makes it easy to integrate a Java SE enabled device with coap based services like mbed Cloud.
 * [microcoap](https://github.com/ - -/microcoap) - A small CoAP implementation for microcontrollers.
 * [MQTT Client Framework ★ 312 ⧗ 1](https://github.com/ckrey/MQTT-Client-Framework) - iOS, OSX, tvOS native ObjectiveC MQTT Client Framework.
 * [Node CoAP ★ 176 ⧗ 11](https://github.com/mcollina/node-coap) - node-coap is a client and server library for CoAP modeled after the http module.
