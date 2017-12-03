@@ -183,6 +183,7 @@ ToC
 
 ## OS
 
+* [Amazon FreeRTOS](https://github.com/aws/amazon-freertos) - is an operating system for microcontrollers that makes small, low-power edge devices easy to program, deploy, secure, connect, and manage. 
 * **[Armbian](https://www.armbian.com)** - Debian based Docker enabled lightweight Linux for popular development boards. Optimised for embedded usage.
 * **[ARM mbed ★ 629 ⧗ 0](https://github.com/mbedmicro/mbed)** - The ARM® mbed™ IoT Device Platform provides the operating system, cloud services, tools and developer ecosystem to make the creation and deployment of commercial, standards-based IoT solutions possible at scale.
 * [Brillo](https://developers.google.com/brillo/) - Brillo extends the Android platform to all your connected devices.
