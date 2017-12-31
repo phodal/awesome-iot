@@ -252,7 +252,7 @@ ToC
 * [ThingEngine ★ 3 ⧗ 0](https://github.com/Stanford-Mobisocial-IoT-Lab/thingengine-core) - An open source platform for IoT rules that you can execute anywhere you want.
 * [Thingsboard ★ 259 ⧗ 0](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 * [Undercontrol ★ 22 ⧗ 0](https://github.com/daraosn/undercontrol) - Simple realtime IoT Platform with MQTT and Web-sockets support
-
+* [Hologram](https://hologram.io/) - Open source, full stack platform with standalone devices and usb plug in. Offers a free developer tier.
 
 ## IoT Clouds
 
