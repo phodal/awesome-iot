@@ -659,6 +659,10 @@ for embedded systems (IoT in mind).
 * **[Piwik ★ 5374 ⧗ 0](https://github.com/piwik/piwik)** - Piwik is the leading Free/Libre open analytics platform.
 * [Samsara ★ 64 ⧗ 1](https://github.com/samsara/samsara) - is a real-time analytics platform.
 
+## Digital Twins
+
+* [Eclipse Ditto](https://github.com/eclipse/ditto) is the open-source project of Eclipse IoT that provides a ready-to-use functionality to manage the state of Digital Twins.
+
 ## Others
 
 * [connectthedots ★ 307 ⧗ 0](https://github.com/Azure/connectthedots) - Connect tiny devices to Microsoft Azure services to build IoT solutions
