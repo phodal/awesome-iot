@@ -523,6 +523,7 @@ for embedded systems (IoT in mind).
 ### Bluetooth
 
 * [BluetoothSerial](https://github.com/don/BluetoothSerial) - Cordova (PhoneGap) Plugin for Serial Communication over Bluetooth
+* [BluetoothLinux](https://github.com/PureSwift/BluetoothLinux)  is a Pure Swift Linux Bluetooth Stack.
 * [React Native Bluetooth Serial](https://github.com/rusel1989/react-native-bluetooth-serial) - React Native version of BluetoothSerial plugin. For both android and ios
 
 ### NFC
