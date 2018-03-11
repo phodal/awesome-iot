@@ -196,6 +196,7 @@ ToC
 * [Linino ★ 83 ⧗ 13](https://github.com/arduino/linino) - Linino is a GNU/Linux distribution based on OpenWRT and maintained by DogHunter.
 * [Lua-RTOS-ESP32 ★ 131 ⧗ 2](https://github.com/whitecatboard/Lua-RTOS-ESP32) - is a real-time operating system designed to run on embedded systems, with minimal requirements of FLASH and RAM memory.
 * [macchina.io ★ 144 ⧗ 0](https://github.com/macchina-io/macchina.io) - An open-source toolkit for building embedded IoT applications that connect sensors, devices and cloud services.
+* [Mynewt](https://github.com/apache/mynewt-core) is an open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
 * **[NodeOS ★ 3605 ⧗ 0](https://github.com/nodeos/nodeos)** - Lightweight operating system using Node.js as userspace.
 * [NuttX](http://nuttx.org/) - is a real-time operating system (RTOS) with an emphasis on standards compliance and small footprint. Scalable from 8-bit to 32-bit microcontroller environments, the primary governing standards in NuttX are Posix and ANSI standards.
 * [OpenWrt ★ 230 ⧗ 173](https://github.com/openwrt/openwrt) - OpenWrt is described as a Linux distribution for embedded devices.
