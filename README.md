@@ -203,7 +203,7 @@ ToC
 * [pikoRT ★ 164 ⧗ 5](https://github.com/Piko-RT/pikoRT) - A tiny Linux-like real-time kernel optimized for ARM Cortex-M chips.
 * [Raspbian](http://raspbian.org/) - Raspbian is a free operating system based on Debian optimized for the Raspberry Pi hardware.
 * **[RIOT ★ 748 ⧗ 1](https://github.com/RIOT-OS/RIOT)** - The friendly Operating System for the Internet of Things
-* [RMP ★ 19 ⧗ 8](https://github.com/EDI-Systems/M5P1_MuProkaron) - A single-file quick development RTOS for IoT with integrated graphics.
+* [RMP ★ 19 ⧗ 8](https://github.com/EDI-Systems/M5P1_MuProkaron) - A single-file rapid development RTOS for IoT with integrated graphics.
 * [RT-Thread ★ 493 ⧗ 0](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source real-time operating system for embedded devices from China.
 * **[seL4 Microkernel ★ 1344 ⧗ 1](https://github.com/seL4/seL4)** - The world's first operating-system kernel with an end-to-end proof of implementation correctness and security enforcement is available as open source.
 * [Silk ★ 74 ⧗ 2](https://github.com/silklabs/silk) - is a free (as in free beer) firmware for a number of smartphones based on the open-source Android operating system with a nodejs layer on top of it that makes it possible to write programs and get access to hardware aspects using only simple JavaScript.
