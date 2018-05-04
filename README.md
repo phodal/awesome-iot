@@ -386,7 +386,6 @@ for embedded systems (IoT in mind).
 * [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther) -  allows you to perform a deauth attack with an ESP8266 against selected networks.
 * [fluent-bit ★ 90 ⧗ 4](https://github.com/fluent/fluent-bit) - is a data collector for Linux, Embedded Linux, OSX and BSD family operating systems.
 * [Kamanja ★ 21 ⧗ 1](https://github.com/LigaData/Kamanja) -  is an open-source continuous decisioning engine that is hardened for enterprise reliability requirements, scalable to IoT level data volumes, and enables low latency use cases.
-* [Kuzzle ★ 267 ⧗ 0](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT.
 * **[Node-RED ★ 2513 ⧗ 0](https://github.com/node-red/node-red)** - A visual tool for wiring the Internet of Things.
 * [Parlay ★ 8 ⧗ 160](https://github.com/PromenadeSoftware/Parlay) -  is software that brings visibility and accessibility to embedded devices.
 * [redzilla ★ 13 ⧗ 37](https://github.com/muka/redzilla) -  is a service which allow to create easily instances of node-red.
