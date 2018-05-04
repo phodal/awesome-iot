@@ -413,7 +413,6 @@ for embedded systems (IoT in mind).
 * [K3PO ★ 22 ⧗ 9](https://github.com/k3po/k3po) - is a network driver and language agnostic testing tool.
 * **[LittleD ★ 545 ⧗ 3](https://github.com/graemedouglas/LittleD)** - A relational database for embedded devices and sensors nodes.
 * **[mbed TLS ★ 601 ⧗ 0](https://github.com/ARMmbed/mbedtls)** - An open source, portable, easy to use, readable and flexible SSL library
-* **[Mongoose ★ 2625 ⧗ 0](https://github.com/cesanta/mongoose)** - Mongoose is ideal for embedded environments, it has been designed as an open source platform for connecting devices and bringing them online.
 * [Mongoose Flashing Tool ★ 36 ⧗ 7](https://github.com/cesanta/mongoose-flashing-tool) - Mongoose Flashing Tool (also called MFT) is the Mongoose IoT Platform flashing tool.
 * **[UniK ★ 593 ⧗ 0](https://github.com/emc-advanced-dev/unik)** -  is a tool for compiling application sources into unikernels (lightweight bootable disk images) rather than binaries.
 
