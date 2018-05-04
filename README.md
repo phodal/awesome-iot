@@ -234,7 +234,6 @@ ToC
 * [embARC Open Software Platform (OSP)](https://github.com/foss-for-synopsys-dwc-arc-processors/embarc_osp) - is a software distribution aimed at facilitating the development of embedded systems based on ARCv2 Processors.
 * [flowchain-app ★ 22 ⧗ 50](https://github.com/flowchain/flowchain-app) - A Flowchain plugin that provides the flow-based programming (FBP) engine.
 * [GrovePi](https://github.com/DexterInd/GrovePi) - is an open source platform for connecting Grove Sensors to the Raspberry Pi.
-* [I1820 ★ 11 ⧗ 1](https://github.com/AoLab/I1820) - I1820 is a free open source platform which provides discovery, data collection and configuration services based on MQTT. I1820 implements a REST API for controlling the things and it stores all collected data in a Time-Series database named InfluxDB.
 * **[IoT.js ★ 921 ⧗ 0](https://github.com/Samsung/iotjs)** - Platform for Internet of Things with JavaScript.
 * [IoTgo ★ 173 ⧗ 0](https://github.com/itead/IoTgo) - is an open source IoT platform, like WordPress, ZenCart and all other open source software, you can deploy your own IoTgo cloud service.
 * [Jasper](http://jasperproject.github.io/) - Jasper is an open source platform for developing always-on, voice-controlled applications.
