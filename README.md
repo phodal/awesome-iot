@@ -66,7 +66,6 @@ ToC
     - [Related Resources Projects](#related-resources-projects)
     - [Tutorial](#tutorial)
 - [Edge](#edge)
-- [AI](#ai)
 - [Analytics](#analytics)
 - [Others](#others)
 
@@ -563,10 +562,6 @@ for embedded systems (IoT in mind).
 
 * [chelexa ★ 2 ⧗ 25](https://github.com/chelexa/chelexa) - Natural voice recognition IoT cloud chess solution via the Amazon Echo platform.
 
-## AI
-
-* [libdeep](https://github.com/bashrc/libdeep) - A deep learning library for C/C++.
-
 ## Resources-Websites-Projects
 
 
@@ -595,11 +590,11 @@ for embedded systems (IoT in mind).
 ### WebSite
 
 * [Eclipse IoT](https://iot.eclipse.org) - Eclipse Foundation IoT top level project and working group.
-* [Hackday](https://hackaday.io/projects) - Discover. Get inspired. Repeat. Hack things for the better.
+* [Hackaday](https://hackaday.io/projects) - Discover. Get inspired. Repeat. Hack things for the better.
 * [IBM IoT](http://www.ibm.com/developerworks/cn/iot) - IBM DeveloperWorks for IoT
 * [Infoq IoT Weekly](http://www.infoq.com/cn/adf) - Weekly IoT News, Open Source Project, Hardware
 * [Instructables - tech](http://www.instructables.com/tag/type-id/category-technology/) - Explore the Biggest How To and DIY community where people make and share inspiring, entertaining, and useful projects, recipes, and hacks.
-* [Makezie](https://makezine.com/) - DIY Projects and Ideas for Makers.
+* [Makezine](https://makezine.com/) - DIY Projects and Ideas for Makers.
 
 ### Blog
 
@@ -631,7 +626,7 @@ for embedded systems (IoT in mind).
 
 ### Related Resources Projects
 
-* [awesome-embedded-systems ★ 0 ⧗ 29](https://github.com/fkromer/awesome-embedded-systems) - The website [awesome-embedded-systems.org](http://awesome-embedded-systems.org) lists resources about embedded system, software and hardwware development.
+* [awesome-embedded-systems ★ 0 ⧗ 29](https://github.com/fkromer/awesome-embedded-systems) - The website [awesome-embedded-systems.org](http://awesome-embedded-systems.org) lists resources about embedded system, software and hardware development.
 * [awesome-mqtt](https://github.com/hobbyquaker/awesome-mqtt) - Curated list of MQTT related stuff.
 
 ### Tutorial
@@ -646,8 +641,9 @@ for embedded systems (IoT in mind).
 ## AI
 
 * [ELL](https://github.com/Microsoft/ELL) - allows you to build and deploy machine-learned pipelines onto embedded platforms, like Raspberry Pis, Arduinos, micro:bits, and other microcontrollers.
+* [libdeep](https://github.com/bashrc/libdeep) - A deep learning library for C/C++.
 * [Machinery ★ 174 ⧗ 0](https://github.com/kerberos-io/machinery) - is a low-budget video surveillance solution, that uses computer vision algorithms to detect changes, and that can trigger other devices.
-* [TensorFlow for Raspberry Pi ★ 317 ⧗ 0](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) - tep-by-step instructions for installing TensorFlow from source using Bazel (which is also compiled from-scratch), as well as pre-built TensorFlow binaries.
+* [TensorFlow for Raspberry Pi ★ 317 ⧗ 0](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) - step-by-step instructions for installing TensorFlow from source using Bazel (which is also compiled from-scratch), as well as pre-built TensorFlow binaries.
 
 ## Analytics
 
@@ -663,8 +659,6 @@ for embedded systems (IoT in mind).
 
 * [connectthedots ★ 307 ⧗ 0](https://github.com/Azure/connectthedots) - Connect tiny devices to Microsoft Azure services to build IoT solutions
 * [django-th ★ 275 ⧗ 0](https://github.com/foxmask/django-th) - take the control of your data with this opensource clone of IFTTT, a bridge between your internet services.
-* **[Freeboard ★ 3034 ⧗ 0](https://github.com/Freeboard/freeboard)** - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
-* [Serverless Reference Architecture: IoT Backend ★ 114 ⧗ 4](https://github.com/awslabs/lambda-refarch-iotbackend) - Serverless Reference Architecture for creating an IoT Backend.
 * [souliss ★ 137 ⧗ 8](https://github.com/souliss/souliss) - Arduino based Distributed Networking Framework for Smart Homes and IoT.
 
 # Contributing
