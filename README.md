@@ -345,7 +345,7 @@ Layered architecture of JTAG interface and TAP support
 
 * [CK.HomeAutomation ★ 15 ⧗ 9](https://github.com/chkr1011/CK.HomeAutomation) - The first open source Home Automation SDK for Windows 10 IoT Core.
 * [Eclipse SmartHome](http://eclipse.org/smarthome/) - Smart Home adoption will only gain momentum if the different devices can be connected into over-arching use cases, but currently the market for Smart Home systems and IoT gadgets is heavily fragmented.
-* [Floorplan for Home Assistant](https://github.com/pkozul/ha-floorplan) - he Home Assistant front end provides a great way of viewing and interacting with your entities.
+* [Floorplan for Home Assistant](https://github.com/pkozul/ha-floorplan) - the Home Assistant front end provides a great way of viewing and interacting with your entities.
 * **[heimcontrol.js ★ 1306 ⧗ 4](https://github.com/ni-c/heimcontrol.js)** -  Home-Automation with node.js and Raspberry PI
 * **[home-assistant ★ 3237 ⧗ 0](https://github.com/balloob/home-assistant)** - Open-source home automation platform running on Python 3
 * [home.pi ★ 145 ⧗ 1](https://github.com/denschu/home.pi) - Home Automation with AngularJS and MQTT on a Raspberry Pi
@@ -355,8 +355,7 @@ Layered architecture of JTAG interface and TAP support
 * [Mozilla Smart Home ★ 4 ⧗ 8](https://github.com/mozilla/smarthome.iot) - offers a middle ground between "in a box" solutions like Apple Homekit and DIY solutions like Raspberry Pi
 * [MyController](https://github.com/mycontroller-org/mycontroller) - is automation controller for home, office or any place.
 * [Ninja Blocks](https://ninjablocks.com/) - Smart home controller. A computer for the coffee table.
-* **[openHAB ★ 2536 ⧗ 0](https://github.com/openhab/openhab)** - a vendor and technology agnostic open source automation software for your home.
-* [openhab 2](https://github.com/openhab/openhab 2) - The open Home Automation Bus (openHAB) project aims at providing a universal integration platform for all things around home automation.
+* **[openHAB ★ 2536 ⧗ 0](https://github.com/openhab/openhab-distro)** - a vendor and technology agnostic open source automation software for your home.
 * [pimatic ★ 313 ⧗ 0](https://github.com/pimatic/pimatic) - A home automation server and framework for the raspberry pi running on node.js
 * [Pimatic ★ 362 ⧗ 0](https://github.com/pimatic/pimatic) - A home automation server and framework for the raspberry pi running on node.js.
 * [PrivateEyePi](http://projects.privateeyepi.com/) - Home Automation and Monitoring Projects for Raspberry Pi
