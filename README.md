@@ -238,7 +238,6 @@ ToC
 * **[IoT.js ★ 921 ⧗ 0](https://github.com/Samsung/iotjs)** - Platform for Internet of Things with JavaScript.
 * [IoTgo ★ 173 ⧗ 0](https://github.com/itead/IoTgo) - is an open source IoT platform, like WordPress, ZenCart and all other open source software, you can deploy your own IoTgo cloud service.
 * [Jasper](http://jasperproject.github.io/) - Jasper is an open source platform for developing always-on, voice-controlled applications.
-* [Jasper](http://jasperproject.github.io/) - Jasper is an open source platform for developing always-on, voice-controlled applications.
 * [KERBEROS.IO Web](https://github.com/kerberos-io/web) - a  GUI to configure the machinery and to view events that were detected by the machinery.
 * [Kitnic](https://github.com/monostable/kitnic) - A registry for ready to build open hardware electronics projects.
 * [Lan ★ 105 ⧗ 0](https://github.com/phodal/lan) - Internet of Things Server Layer with CoAP, WebSocket, MQTT, HTTP f
@@ -307,7 +306,7 @@ Layered architecture of JTAG interface and TAP support
 * [iot-adk-addonkit ★ 8 ⧗ 1](https://github.com/ms-iot/iot-adk-addonkit) - Contains command line scripts for package creation and image creation process and samples for iot products based on RPi2/MBM.
 * [KinomaJS ★ 293 ⧗ 0](https://github.com/Kinoma/kinomajs) - A JavaScript runtime optimized for the applications that power IoT devices.
 * [macchina.io ★ 144 ⧗ 0](https://github.com/macchina-io/macchina.io) - An open-source toolkit for building embedded IoT applications that connect sensors, devices and cloud services.
-* [OpenOCD ★ 10 ⧗ 34](https://github.com/arduino/OpenOCD) - OpenOCD provides on-chip programming and debugging support with a
+* [OpenOCD ★ 10 ⧗ 34](https://github.com/arduino/OpenOCD) - OpenOCD provides on-chip programming and debugging support with a layered architecture of JTAG interface and TAP support
 * [pyOCD ★ 112 ⧗ 0](https://github.com/mbedmicro/pyOCD) - Open source python library for programming and debugging ARM Cortex-M microcontrollers using CMSIS-DAP.
 * [Renode](https://github.com/renode/renode) - a virtual development tool for multinode embedded networks.
 
