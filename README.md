@@ -319,7 +319,6 @@ Layered architecture of JTAG interface and TAP support
 * **[HighCharts ★ 4949 ⧗ 0](https://github.com/highslide-software/highcharts.com)** - Highcharts JS, the JavaScript charting framework
 * [iotdashboard ★ 7 ⧗ 14](https://github.com/electrocoder/iotdashboard) - Fast Django server for IOT Devices.
 * [Shelloid ★ 20 ⧗ 1](https://github.com/shelloid/shelloid) - is an open source IoT-ready real-time big data web application platform built using Node.js and Clojure.
-* [Thingsboard ★ 327 ⧗ 0](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 
 ## Hardware
 
