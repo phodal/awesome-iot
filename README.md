@@ -356,7 +356,6 @@ Layered architecture of JTAG interface and TAP support
 * [MyController](https://github.com/mycontroller-org/mycontroller) - is automation controller for home, office or any place.
 * [Ninja Blocks](https://ninjablocks.com/) - Smart home controller. A computer for the coffee table.
 * **[openHAB ★ 2536 ⧗ 0](https://github.com/openhab/openhab-distro)** - a vendor and technology agnostic open source automation software for your home.
-* [pimatic ★ 313 ⧗ 0](https://github.com/pimatic/pimatic) - A home automation server and framework for the raspberry pi running on node.js
 * [Pimatic ★ 362 ⧗ 0](https://github.com/pimatic/pimatic) - A home automation server and framework for the raspberry pi running on node.js.
 * [PrivateEyePi](http://projects.privateeyepi.com/) - Home Automation and Monitoring Projects for Raspberry Pi
 * [RaZberry](http://razberry.z-wave.me/) - RaZberry brings Z-Wave to the Raspberry PI platform.
