@@ -652,6 +652,7 @@ for embedded systems (IoT in mind).
 * **[NetData ★ 18973 ⧗ 0](https://github.com/firehol/netdata)** - is a system for distributed real-time performance and health monitoring.
 * **[Piwik ★ 5374 ⧗ 0](https://github.com/piwik/piwik)** - Piwik is the leading Free/Libre open analytics platform.
 * [Samsara ★ 64 ⧗ 1](https://github.com/samsara/samsara) - is a real-time analytics platform.
+* [Bistro](https://github.com/asavinov/bistro) - light-weight batch and stream analytics engine which radically changes the way data is processed. Bistro relies on a novel column-oriented data model and is intended for IoT applications and data processing at the edge.
 
 ## Digital Twins
 
