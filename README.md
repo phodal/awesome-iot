@@ -271,6 +271,7 @@ ToC
 * [SAP HANA](http://go.sap.com/product/technology-platform/iot-platform-cloud.html) - SAP cloud for the Internet of Things.
 * [Siemens MindSphere](http://www.siemens.com/global/en/home/company/topic-areas/digitalization/mindsphere.html) - Open IoT ecosystem as PaaS.
 * [Xively IoT Cloud](https://www.xively.com/) - IoT platform.
+* [Yaler](https://yaler.net/) - "Relay infrastructure for secure access to embedded systems".
 * [Zatar](http://www.zatar.com/) - "Zatar is the first ARMmbed standards-based IoT cloud service".
 
 ## IIoT Clouds
