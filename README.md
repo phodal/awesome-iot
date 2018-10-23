@@ -229,6 +229,7 @@ ToC
 ## Platform
 
 * [[thing-it-node] ★ 20 ⧗ 3](https://github.com/marcgille/thing-it-node/) - A device-independent IoT platform including support of complex event processing, storyboards, and a mobile app.
+* [Astarte ★ 19 ⧗ 0](https://github.com/astarte-platform/astarte) - Astarte is an Open Source IoT platform written in Elixir. It is a turnkey solution which packs in everything you need for connecting a device fleet to a set of remote applications. It performs data modeling, automated data reduction, real-time events, and provides you with any feature you might expect in a modern IoT platform. Right now, Linux and ESP32 devices are supported out of the box using the provided SDKs.
 * **[Blynk ★ 716 ⧗ 0](https://github.com/blynkkk/blynk-server)** - is a platform with iOS and Android apps to control Arduino, ESP8266, Raspberry Pi and the likes over the Internet.
 * [Clavin ★ 212 ⧗ 2](https://github.com/EricssonResearch/calvin-base) - Calvin is an application environment that lets things talk to things. It comprises of both a development framework for application developers, and a runtime environment that handles the running application.
 * [DeviceHive](https://github.com/devicehive) - IoT Data Platform. Wide range of connectivity options, device management, security and data processing.
