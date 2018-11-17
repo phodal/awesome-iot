@@ -74,6 +74,7 @@ ToC
 * **[Cylon ★ 2339 ⧗ 0](https://github.com/hybridgroup/cylon)** - JavaScript framework for robotics, physical computing, and the Internet of Things.
 * [devify-server ★ 53 ⧗ 1](https://github.com/DevifyPlatform/devify-server) - s extremely light weight, and is very easy to use. It aims to help developers to create IoT application servers, faster.
 * [Epoc.js ★ 27 ⧗ 0](https://github.com/charliegerard/Epoc.js) - This framework provides an interface to access data from the Emotiv EPOC brain sensor using Node.js.
+* [ESP-IDF ★ 2542 ⧗ 0](https://github.com/espressif/esp-idf) - The official framework from Espressif to build Wi-Fi, BLE, and BT apps with ESP32.
 * [FogLight ★ 10 ⧗ 100](https://github.com/oci-pronghorn/FogLight) - is a lightweight runtime that enables makers of all ages and skill levels to create highly performant apps for embedded devices like Raspberry Pis.
 * [framboos ★ 75 ⧗ 3](https://github.com/jkransen/framboos) - is a small Java wrapper around the default GPIO driver on Linux boards like Raspberry Pi and BeagleBoard.
 * [Freedomotic ★ 208 ⧗ 4](https://github.com/freedomotic/freedomotic) - is an open source, flexible, secure Internet of Things (IoT) application framework, useful to build and manage modern smart spaces.
