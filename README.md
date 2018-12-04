@@ -581,14 +581,12 @@ for embedded systems (IoT in mind).
 * [Cryptography](https://www.cybrary.it/course/cryptography/) - Free
 * [Cyber Security Graduate Certificate](http://online.stanford.edu/course/cyber-security-graduate-certificate) - Courses: Operating Systems and Systems Programming, Introduction to Computer Networking, Computer and Network Security, Bitcoin and Crypto Currencies, Introduction to Cryptography, Technology and National Security (Paid).
 * [Introduction to Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-devices) - Free
-* [IoT Software Architecture](https://www.coursera.org/learn/iot-software-architecture) - None
 * [Low-Level Software Security: Attacks and Countermeassures](https://www.youtube.com/watch?v=ZLZkf8FVcsU) - None
 * [Penetration Testing and Ethical Hacking](https://www.cybrary.it/course/ethical-hacking/) - Free
 * [Secure Coding](https://www.cybrary.it/course/secure-coding/) - Free
 * [Serverless Reference Architecture: IoT Backend ★ 134 ⧗ 3](https://github.com/awslabs/lambda-refarch-iotbackend) - demonstrates how to use AWS Lambda in conjunction with Amazon Kinesis, Amazon DynamoDB, Amazon Simple Storage Service (Amazon S3), and Amazon CloudWatch to build a serverless system for ingesting and processing sensor data.
 * [Social Engineering and Manipulation](https://www.cybrary.it/course/social-engineering/) - Free
 * [Software Architecture for the Internet of Things](https://www.coursera.org/learn/iot-software-architecture) - Free
-* [Software Architecture for the Internet of Things (Coursera)](https://www.coursera.org/learn/iot-software-architecture) - None
 * [Stanford Advanced Computer Security Certificate](http://computersecurity.stanford.edu/?q=certificate-overview) - Required courses: Using Cryptography Correctly, Writing Secure Code, Exploiting and Protecting Web Applications; Elective courses: Software Security Foundations, Mobile Security, Network Security, Emerging Threats & Defenses (Paid).
 * [Web Application Penetration Testing](https://www.cybrary.it/course/web-application-pen-testing/) - Free
 * [Web Connectivity and Security in Embedded Systems](https://www.coursera.org/learn/iot-connectivity-security) - Free
