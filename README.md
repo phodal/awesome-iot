@@ -74,7 +74,7 @@ ToC
 * **[Cylon ★ 2339 ⧗ 0](https://github.com/hybridgroup/cylon)** - JavaScript framework for robotics, physical computing, and the Internet of Things.
 * [devify-server ★ 53 ⧗ 1](https://github.com/DevifyPlatform/devify-server) - s extremely light weight, and is very easy to use. It aims to help developers to create IoT application servers, faster.
 * [Epoc.js ★ 27 ⧗ 0](https://github.com/charliegerard/Epoc.js) - This framework provides an interface to access data from the Emotiv EPOC brain sensor using Node.js.
-* [ESP-IDF ★ 2542 ⧗ 0](https://github.com/espressif/esp-idf) - The official framework from Espressif to build Wi-Fi, BLE, and BT apps with ESP32.
+* **[ESP-IDF ★ 2542 ⧗ 0](https://github.com/espressif/esp-idf)** - The official framework from Espressif to build Wi-Fi, BLE, and BT apps with ESP32.
 * [FogLight ★ 10 ⧗ 100](https://github.com/oci-pronghorn/FogLight) - is a lightweight runtime that enables makers of all ages and skill levels to create highly performant apps for embedded devices like Raspberry Pis.
 * [framboos ★ 75 ⧗ 3](https://github.com/jkransen/framboos) - is a small Java wrapper around the default GPIO driver on Linux boards like Raspberry Pi and BeagleBoard.
 * [Freedomotic ★ 208 ⧗ 4](https://github.com/freedomotic/freedomotic) - is an open source, flexible, secure Internet of Things (IoT) application framework, useful to build and manage modern smart spaces.
@@ -107,6 +107,7 @@ ToC
 ### SDK
 
 * [Armbian build SDK ★ 630](https://github.com/armbian/build) - for creating customized kernel and Debian based userspace for popular development boards. 
+
 * [AWS IoT Arduino Yún SDK ★ 63 ⧗ 4](https://github.com/aws/aws-iot-device-sdk-arduino-yun) - SDK for connecting to AWS IoT from an Arduino Yún.
 * [Azure IoT Gateway SDK ★ 26 ⧗ 2](https://github.com/Azure/azure-iot-gateway-sdk) - contains the infrastructure and modules to create IoT gateway solutions.
 * [Cylon.js For Intel IoT ★ 29 ⧗ 40](https://github.com/hybridgroup/cylon-intel-iot) - is a JavaScript framework for robotics, physical computing, and the Internet of Things (IoT).
@@ -136,14 +137,14 @@ ToC
 * [IoTit Flashing tool ★ 18 ⧗ 2](https://github.com/xshellinc/iotit) - is an open source command-line utility for flashing (initializing) IoT devices.
 * [krypton ★ 7 ⧗ 35](https://github.com/cesanta/krypton) - Embedded TLS/DTLS library, source and binary compatible OpenSSL subset
 * [Ladon ★ 114 ⧗ 2](https://github.com/ory-am/ladon) - is a library written in Go for access control policies, similar to Role Based Access Control or Access Control Lists.
-* [libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
 * [libtuv ★ 19 ⧗ 17](https://github.com/Samsung/libtuv) - Asynchronous I/O for IoT.js and embedded system.
+* **[libui ★ 8021 ⧗ 1](https://github.com/andlabs/libui)** - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
 * [LK ★ 312 ⧗ 0](https://github.com/littlekernel/lk) - The LK embedded kernel. An SMP-aware kernel designed for small systems.
 * [Magenta ★ 286 ⧗ 0](https://github.com/fuchsia-mirror/magenta) - Magenta is a new kernel that powers the Fuchsia OS.
 * [MATRIX OS ★ 29 ⧗ 12](https://github.com/matrix-io/matrix-os) -  is a platform for running applications on the MATRIX Creator.
 * [matrixssl ★ 36 ⧗ 0](https://github.com/matrixssl/matrixssl) - is an embedded SSL and TLS implementation designed for small footprint IoT devices requiring low overhead per connection.
 * [MCUBoot ★ 43 ⧗ 3](https://github.com/runtimeco/mcuboot) - is a secure bootloader for 32-bit MCUs.
-* [nexmon](https://github.com/seemoo-lab/nexmon) -  is our C-based firmware patching framework for Broadcom/Cypress WiFi chips.
+* **[nexmon ★ 885 ⧗ 2](https://github.com/seemoo-lab/nexmon)** -  is our C-based firmware patching framework for Broadcom/Cypress WiFi chips.
 * [pingo-py ★ 223 ⧗ 15](https://github.com/pingo-io/pingo-py) - provides a uniform API to program devices like the Raspberry Pi, BeagleBone Black, pcDuino etc. just like the Python DBAPI provides an uniform API for database programming in Python.
 * [polymcu ★ 57 ⧗ 3](https://github.com/labapart/polymcu) - an open framework for micro-controller software.
 * [Secure Device Grid ★ 4 ⧗ 20](https://github.com/trifork/secure-device-grid) - Secure device-to-device communication solution for IOT.
@@ -185,9 +186,11 @@ ToC
 
 ## OS
 
-* [Amazon FreeRTOS](https://github.com/aws/amazon-freertos) - is an operating system for microcontrollers that makes small, low-power edge devices easy to program, deploy, secure, connect, and manage. 
-* **[Armbian](https://www.armbian.com)** - Debian based Docker enabled lightweight Linux for popular development boards. Optimised for embedded usage.
+* [Mynewt](https://github.com/apache/mynewt-core) is an open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
+
+* **[Amazon FreeRTOS ★ 842 ⧗ 0](https://github.com/aws/amazon-freertos)** - is an operating system for microcontrollers that makes small, low-power edge devices easy to program, deploy, secure, connect, and manage. 
 * **[ARM mbed ★ 629 ⧗ 0](https://github.com/mbedmicro/mbed)** - The ARM® mbed™ IoT Device Platform provides the operating system, cloud services, tools and developer ecosystem to make the creation and deployment of commercial, standards-based IoT solutions possible at scale.
+* [Armbian](https://www.armbian.com) - Debian based Docker enabled lightweight Linux for popular development boards. Optimised for embedded usage.
 * [Brillo](https://developers.google.com/brillo/) - Brillo extends the Android platform to all your connected devices.
 * **[Contiki ★ 1813 ⧗ 0](https://github.com/contiki-os/contiki)** - The Open Source OS for the Internet of Things
 * [f9-kernel ★ 316 ⧗ 4](https://github.com/f9micro/f9-kernel) - An efficient and secure microkernel built for ARM Cortex-M cores, inspired by L4
@@ -198,7 +201,6 @@ ToC
 * [Linino ★ 83 ⧗ 13](https://github.com/arduino/linino) - Linino is a GNU/Linux distribution based on OpenWRT and maintained by DogHunter.
 * [Lua-RTOS-ESP32 ★ 131 ⧗ 2](https://github.com/whitecatboard/Lua-RTOS-ESP32) - is a real-time operating system designed to run on embedded systems, with minimal requirements of FLASH and RAM memory.
 * [macchina.io ★ 144 ⧗ 0](https://github.com/macchina-io/macchina.io) - An open-source toolkit for building embedded IoT applications that connect sensors, devices and cloud services.
-* [Mynewt](https://github.com/apache/mynewt-core) is an open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
 * **[NodeOS ★ 3605 ⧗ 0](https://github.com/nodeos/nodeos)** - Lightweight operating system using Node.js as userspace.
 * [NuttX](http://nuttx.org/) - is a real-time operating system (RTOS) with an emphasis on standards compliance and small footprint. Scalable from 8-bit to 32-bit microcontroller environments, the primary governing standards in NuttX are Posix and ANSI standards.
 * [OpenWrt ★ 230 ⧗ 173](https://github.com/openwrt/openwrt) - OpenWrt is described as a Linux distribution for embedded devices.
@@ -215,7 +217,7 @@ ToC
 * **[TinyOS ★ 543 ⧗ 0](https://github.com/tinyos/tinyos-main)** - designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters.
 * [Tock OS ★ 243 ⧗ 1](https://github.com/helena-project/tock) -  is an operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M based embedded platforms.
 * [trochili ★ 75 ⧗ 6](https://github.com/liuxuming/trochili) - A small RTOS optimized for the embedded/iot devices. Support Cortex M3.
-* **[Zephyr ★ 352 ⧗ 5](https://github.com/zephyrproject-rtos/zephyr)** -  is a small, scalable real-time operating system for use on resource-constrained systems supporting multiple architectures.
+* [Zephyr ★ 352 ⧗ 5](https://github.com/zephyrproject-rtos/zephyr) -  is a small, scalable real-time operating system for use on resource-constrained systems supporting multiple architectures.
 
 ### Android Things
 
@@ -234,27 +236,27 @@ ToC
 * **[Blynk ★ 716 ⧗ 0](https://github.com/blynkkk/blynk-server)** - is a platform with iOS and Android apps to control Arduino, ESP8266, Raspberry Pi and the likes over the Internet.
 * [Clavin ★ 212 ⧗ 2](https://github.com/EricssonResearch/calvin-base) - Calvin is an application environment that lets things talk to things. It comprises of both a development framework for application developers, and a runtime environment that handles the running application.
 * [DeviceHive](https://github.com/devicehive) - IoT Data Platform. Wide range of connectivity options, device management, security and data processing.
-* [embARC Open Software Platform (OSP)](https://github.com/foss-for-synopsys-dwc-arc-processors/embarc_osp) - is a software distribution aimed at facilitating the development of embedded systems based on ARCv2 Processors.
+* [embARC Open Software Platform (OSP) ★ 23 ⧗ 9](https://github.com/foss-for-synopsys-dwc-arc-processors/embarc_osp) - is a software distribution aimed at facilitating the development of embedded systems based on ARCv2 Processors.
 * [flowchain-app ★ 22 ⧗ 50](https://github.com/flowchain/flowchain-app) - A Flowchain plugin that provides the flow-based programming (FBP) engine.
-* [GrovePi](https://github.com/DexterInd/GrovePi) - is an open source platform for connecting Grove Sensors to the Raspberry Pi.
+* [GrovePi ★ 330 ⧗ 0](https://github.com/DexterInd/GrovePi) - is an open source platform for connecting Grove Sensors to the Raspberry Pi.
+* [Hologram](https://hologram.io/) - Open source, full stack platform with standalone devices and usb plug in. Offers a free developer tier.
 * **[IoT.js ★ 921 ⧗ 0](https://github.com/Samsung/iotjs)** - Platform for Internet of Things with JavaScript.
 * [IoTgo ★ 173 ⧗ 0](https://github.com/itead/IoTgo) - is an open source IoT platform, like WordPress, ZenCart and all other open source software, you can deploy your own IoTgo cloud service.
 * [Jasper](http://jasperproject.github.io/) - Jasper is an open source platform for developing always-on, voice-controlled applications.
-* [KERBEROS.IO Web](https://github.com/kerberos-io/web) - a  GUI to configure the machinery and to view events that were detected by the machinery.
-* [Kitnic](https://github.com/monostable/kitnic) - A registry for ready to build open hardware electronics projects.
+* [KERBEROS.IO Web ★ 176 ⧗ 16](https://github.com/kerberos-io/web) - a  GUI to configure the machinery and to view events that were detected by the machinery.
+* [Kitnic ★ 124 ⧗ 0](https://github.com/monostable/kitnic) - A registry for ready to build open hardware electronics projects.
 * [Lan ★ 105 ⧗ 0](https://github.com/phodal/lan) - Internet of Things Server Layer with CoAP, WebSocket, MQTT, HTTP f
 * [Mainflux ★ 33 ⧗ 3](https://github.com/Mainflux/mainflux) - Mainflux is an open source and patent-free IoT cloud platform based on microservices.
-* [Mobius](https://github.com/IoTKETI/Mobius) -  is the open source IoT server platform based on the oneM2M standard.
+* [Mobius ★ 46 ⧗ 2](https://github.com/IoTKETI/Mobius) -  is the open source IoT server platform based on the oneM2M standard.
 * [Mongoose IoT ★ 487 ⧗ 0](https://github.com/cesanta/iot) -  is a full-stack IoT platform including firmware and cloud components available for ESP8266.
 * [Nebula](http://nebula.readthedocs.io) -  A docker orchestrator designed to manage IoT devices
 * [Pagenodes ★ 99 ⧗ 0](https://github.com/monteslu/pagenodes) - Completely Browser Based IOT Platform, A Chrome Progressive Web App.
 * [Particle(Spark)](http://spark.github.io/) - Particle (formally Spark) is a complete, open source, full-stack solution for cloud-connected devices.
-* [PharoThings](https://github.com/pharo-iot/PharoThings) - is a Live programming platform for IoT projects based on Pharo.
+* [PharoThings ★ 37 ⧗ 29](https://github.com/pharo-iot/PharoThings) - is a Live programming platform for IoT projects based on Pharo.
 * **[PlatformIO ★ 980 ⧗ 0](https://github.com/platformio/platformio)** - PlatformIO is a cross-platform code builder and the missing library manager.
 * [Siemens MindSphere](https://www.siemens.com/global/en/home/products/software/mindsphere.html) - Open, cloud-based IoT operating system (uses OPC UA as communication standard) from Siemens which is extensible with services.
 * [ThingEngine ★ 3 ⧗ 0](https://github.com/Stanford-Mobisocial-IoT-Lab/thingengine-core) - An open source platform for IoT rules that you can execute anywhere you want.
 * [Thingsboard ★ 259 ⧗ 0](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
-* [Hologram](https://hologram.io/) - Open source, full stack platform with standalone devices and usb plug in. Offers a free developer tier.
 
 ## IoT Clouds
 
@@ -293,8 +295,8 @@ ToC
 
 ## Middleware
 
-* **[Kuzzle ★ 502 ⧗ 0](https://github.com/kuzzleio/kuzzle)** - An open-source backend with advanced features like real-time pub/sub or geofencing and a multiprotocol interface that supports MQTT, LoRaWAN and more. [(Website)](https://kuzzle.io/solutions/technologies/iot-backend/)
 * [Kaa ★ 234 ⧗ 0](https://github.com/kaaproject/kaa) - Kaa open-source middleware platform for building, managing, and integrating connected products with the Internet of Everything.
+* **[Kuzzle ★ 502 ⧗ 0](https://github.com/kuzzleio/kuzzle)** - An open-source backend with advanced features like real-time pub/sub or geofencing and a multiprotocol interface that supports MQTT, LoRaWAN and more. [(Website)](https://kuzzle.io/solutions/technologies/iot-backend/)
 * [Meact ★ 6 ⧗ 43](https://github.com/bkupidura/meact) - task is to get metric from external stuff, write it to  and perform various action.
 * [OpenIoT ★ 205 ⧗ 0](https://github.com/OpenIotOrg/openiot) - The OpenIoT middleware infrastructure will support flexible configuration and deployment of algorithms for collection
 * [SiteWhere ★ 61 ⧗ 0](https://github.com/sitewhere/sitewhere) - SiteWhere open-source IoT platform for device connectivity & management, data persistence, processing, integration, and analytics -- both in cloud and on-premise.
@@ -310,7 +312,7 @@ Layered architecture of JTAG interface and TAP support
 * [macchina.io ★ 144 ⧗ 0](https://github.com/macchina-io/macchina.io) - An open-source toolkit for building embedded IoT applications that connect sensors, devices and cloud services.
 * [OpenOCD ★ 10 ⧗ 34](https://github.com/arduino/OpenOCD) - OpenOCD provides on-chip programming and debugging support with a layered architecture of JTAG interface and TAP support
 * [pyOCD ★ 112 ⧗ 0](https://github.com/mbedmicro/pyOCD) - Open source python library for programming and debugging ARM Cortex-M microcontrollers using CMSIS-DAP.
-* [Renode](https://github.com/renode/renode) - a virtual development tool for multinode embedded networks.
+* [Renode ★ 81 ⧗ 0](https://github.com/renode/renode) - a virtual development tool for multinode embedded networks.
 
 ## Data Visualization
 
@@ -318,7 +320,7 @@ Layered architecture of JTAG interface and TAP support
 * [Crouton ★ 75 ⧗ 0](https://github.com/edfungus/Crouton) - is a dashboard that lets you visualize and control your IOT devices with minimal setup.
 * **[D3.JS ★ 49188 ⧗ 0](https://github.com/mbostock/d3)** - A JavaScript visualization library for HTML and SVG
 * **[Dashing ★ 10067 ⧗ 0](https://github.com/Shopify/dashing)** - Dashing is a Sinatra based framework that lets you build beautiful dashboards.
-* **[DevicePilot](https://www.devicepilot.com)** - Operational analytics for connected devices (includes free-forever tier).
+* [DevicePilot](https://www.devicepilot.com) - Operational analytics for connected devices (includes free-forever tier).
 * **[ECharts ★ 11457 ⧗ 0](https://github.com/ecomfe/echarts)** - Echarts is a commercial charting solution originally intended to address the report need of the Company's various business systems.
 * **[Freeboard ★ 3034 ⧗ 0](https://github.com/Freeboard/freeboard)** - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
 * **[HighCharts ★ 4949 ⧗ 0](https://github.com/highslide-software/highcharts.com)** - Highcharts JS, the JavaScript charting framework
@@ -350,22 +352,22 @@ Layered architecture of JTAG interface and TAP support
 
 * [CK.HomeAutomation ★ 15 ⧗ 9](https://github.com/chkr1011/CK.HomeAutomation) - The first open source Home Automation SDK for Windows 10 IoT Core.
 * [Eclipse SmartHome](http://eclipse.org/smarthome/) - Smart Home adoption will only gain momentum if the different devices can be connected into over-arching use cases, but currently the market for Smart Home systems and IoT gadgets is heavily fragmented.
-* [Floorplan for Home Assistant](https://github.com/pkozul/ha-floorplan) - the Home Assistant front end provides a great way of viewing and interacting with your entities.
+* **[Floorplan for Home Assistant ★ 949 ⧗ 0](https://github.com/pkozul/ha-floorplan)** - the Home Assistant front end provides a great way of viewing and interacting with your entities.
 * **[heimcontrol.js ★ 1306 ⧗ 4](https://github.com/ni-c/heimcontrol.js)** -  Home-Automation with node.js and Raspberry PI
 * **[home-assistant ★ 3237 ⧗ 0](https://github.com/balloob/home-assistant)** - Open-source home automation platform running on Python 3
 * [home.pi ★ 145 ⧗ 1](https://github.com/denschu/home.pi) - Home Automation with AngularJS and MQTT on a Raspberry Pi
 * **[Homebridge ★ 3030 ⧗ 0](https://github.com/nfarina/homebridge)** - Homebridge is a lightweight NodeJS server you can run on your home network that emulates the iOS HomeKit API.
-* [Lumos](https://github.com/jonathanrjpereira/Lumos) - aims to change that by pairing with WiFi and uses Machine Learning to adjust the light to match your sleep schedule.
+* [Lumos ★ 70 ⧗ 1](https://github.com/jonathanrjpereira/Lumos) - aims to change that by pairing with WiFi and uses Machine Learning to adjust the light to match your sleep schedule.
 * **[Magic Mirror ★ 503 ⧗ 0](https://github.com/MicrosoftEdge/magic-mirror-demo)** - A ⚡Magic Mirror⚡ powered by a UWP Hosted Web App.
 * [Mozilla Smart Home ★ 4 ⧗ 8](https://github.com/mozilla/smarthome.iot) - offers a middle ground between "in a box" solutions like Apple Homekit and DIY solutions like Raspberry Pi
-* [MyController](https://github.com/mycontroller-org/mycontroller) - is automation controller for home, office or any place.
+* [MyController ★ 110 ⧗ 0](https://github.com/mycontroller-org/mycontroller) - is automation controller for home, office or any place.
 * [Ninja Blocks](https://ninjablocks.com/) - Smart home controller. A computer for the coffee table.
 * **[openHAB ★ 2536 ⧗ 0](https://github.com/openhab/openhab-distro)** - a vendor and technology agnostic open source automation software for your home.
 * [Pimatic ★ 362 ⧗ 0](https://github.com/pimatic/pimatic) - A home automation server and framework for the raspberry pi running on node.js.
 * [PrivateEyePi](http://projects.privateeyepi.com/) - Home Automation and Monitoring Projects for Raspberry Pi
 * [RaZberry](http://razberry.z-wave.me/) - RaZberry brings Z-Wave to the Raspberry PI platform.
 * **[Smart Mirror ★ 1181 ⧗ 0](https://github.com/evancohen/smart-mirror)** - The fairest of them all. A DIY voice controlled smart mirror with IoT integration.
-* [Sonoff-HomeAssistant](https://github.com/KmanOz/Sonoff-HomeAssistant) - is alternative firmware for the brilliant & cheap ($ not quality) range of Sonoff range of ESP-8266 based WiFi controlled switches.
+* [Sonoff-HomeAssistant ★ 336 ⧗ 1](https://github.com/KmanOz/Sonoff-HomeAssistant) - is alternative firmware for the brilliant & cheap ($ not quality) range of Sonoff range of ESP-8266 based WiFi controlled switches.
 * [Vör ★ 31 ⧗ 2](https://github.com/futurice/vor) - is open source software and hardware for turning your open office into an open, real-time map for finding people, open work places and current events.
 
 ## IDE
@@ -388,7 +390,7 @@ for embedded systems (IoT in mind).
 
 * [Corto ★ 15 ⧗ 4](https://github.com/cortoproject/corto) - Corto is a tested, proven architecture for normalizing data from different technologies into one view regardless of location, format or datamodel.
 * [Emul8 ★ 50 ⧗ 71](https://github.com/emul8/emul8) - is an emulator of various embedded systems. With Emul8 you can develop embedded software entirely in a virtual environment that runs within your PC.
-* [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther) -  allows you to perform a deauth attack with an ESP8266 against selected networks.
+* **[ESP8266 Deauther ★ 3806 ⧗ 0](https://github.com/spacehuhn/esp8266_deauther)** -  allows you to perform a deauth attack with an ESP8266 against selected networks.
 * [fluent-bit ★ 90 ⧗ 4](https://github.com/fluent/fluent-bit) - is a data collector for Linux, Embedded Linux, OSX and BSD family operating systems.
 * [Kamanja ★ 21 ⧗ 1](https://github.com/LigaData/Kamanja) -  is an open-source continuous decisioning engine that is hardened for enterprise reliability requirements, scalable to IoT level data volumes, and enables low latency use cases.
 * **[Node-RED ★ 2513 ⧗ 0](https://github.com/node-red/node-red)** - A visual tool for wiring the Internet of Things.
@@ -396,15 +398,15 @@ for embedded systems (IoT in mind).
 * [redzilla ★ 13 ⧗ 37](https://github.com/muka/redzilla) -  is a service which allow to create easily instances of node-red.
 * [RemoteDebug ★ 17 ⧗ 11](https://github.com/JoaoLopesF/RemoteDebug) - A library to remote debug over telnet connection!
 * [rio ★ 68 ⧗ 0](https://github.com/SolidStateGroup/rio) - An open source library allowing you to create an internet connected LED wall
-* [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota) - Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE.
-* [tinyVP](https://github.com/lyegoshin/tinyVP) - is a very small and lean hypervisor using MIPS R5 hardware VZ option
+* **[Sonoff-Tasmota ★ 4869 ⧗ 0](https://github.com/arendst/Sonoff-Tasmota)** - Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE.
+* [tinyVP ★ 12 ⧗ 48](https://github.com/lyegoshin/tinyVP) - is a very small and lean hypervisor using MIPS R5 hardware VZ option
 * [vorto ★ 32 ⧗ 3](https://github.com/eclipse/vorto) - is a toolset that lets you describe devices using a simple language and share these descriptions, so-called Information Models, in a centralized Vorto Repository.
 
 ## Language
 
 * [ELIoT ★ 76 ⧗ 48](https://github.com/c3d/elfe) - Extensible Language for Everyday (and the Internet of Things)
 * [eLua ★ 393 ⧗ 1](https://github.com/elua/elua) - Quickly prototype and develop embedded software applications with the power of Lua and run them on a wide range of microcontroller architectures.
-* [ESP Basic](https://github.com/esp8266/Basic) - Basic Interpreter for the ESP8266
+* [ESP Basic ★ 144 ⧗ 0](https://github.com/esp8266/Basic) - Basic Interpreter for the ESP8266
 * **[JerryScript ★ 1244 ⧗ 0](https://github.com/Samsung/jerryscript)** - A JavaScript engine for Internet of Things.
 * **[luvit ★ 2237 ⧗ 0](https://github.com/luvit/luvit)** - Node.JS for the Lua Inventor.
 * **[MicroPython ★ 3070 ⧗ 0](https://github.com/micropython/micropython)** - MicroPython is a lean and fast implementation of the Python 3 programming language that is optimised to run on a microcontroller.
@@ -426,33 +428,33 @@ for embedded systems (IoT in mind).
 
 ### MQTT
 
-* [Aphid](https://github.com/IBM-Swift/Aphid) - A lightweight MQTT 3.1.1 client written in pure Swift 3.
+* [Aphid ★ 58 ⧗ 4](https://github.com/IBM-Swift/Aphid) - A lightweight MQTT 3.1.1 client written in pure Swift 3.
 * [arduino-mqtt ★ 95 ⧗ 6](https://github.com/256dpi/arduino-mqtt) - MQTT library for Arduino based on the Eclipse Paho projects.
-* [Eclipse Paho JavaScript client](https://github.com/eclipse/paho.mqtt.javascript) - The Paho JavaScript Client is an MQTT browser-based client library written in Javascript that uses WebSockets to connect to an MQTT Broker.
+* **[Eclipse Paho JavaScript client ★ 510 ⧗ 1](https://github.com/eclipse/paho.mqtt.javascript)** - The Paho JavaScript Client is an MQTT browser-based client library written in Javascript that uses WebSockets to connect to an MQTT Broker.
 * [Eclipse Paho MQTT C client ★ 142 ⧗ 3](https://github.com/eclipse/paho.mqtt.c) - This code builds libraries which enable applications to connect to an MQTT broker to publish messages, and to subscribe to topics and receive published messages.
 * **[emqttd ★ 921 ⧗ 0](https://github.com/emqtt/emqttd)** - Erlang MQTT Broker
 * [ESP8266 MQTT ★ 440 ⧗ 0](https://github.com/tuanpmt/esp_mqtt) - MQTT client library for ESP8266 Soc
 * [Espruna](https://bitbucket.org/xoseperez/espurna) - Firmware for ESP8266 based smart switches. Includes Web GUI, MQTT and AOT software updates.
-* [gLeam](https://github.com/mikespook/gleam) - A operation cluster based on MQTT.
+* [gLeam ★ 50 ⧗ 108](https://github.com/mikespook/gleam) - A operation cluster based on MQTT.
 * [Homie for ESP8266 ★ 115 ⧗ 1](https://github.com/marvinroger/homie-esp8266) - An Arduino for ESP8266 implementation of Homie, an MQTT convention for the IoT.
 * [Homie Server ★ 45 ⧗ 3](https://github.com/marvinroger/homie-server) - A Web server for Homie, an MQTT convention for the IoT.
 * [Java mqtt-client ★ 405 ⧗ 2](https://github.com/fusesource/mqtt-client) - A Java MQTT Client.
-* [LightMQTT](https://github.com/PasiSalenius/LightMQTT) - is a lightweight MQTT client, written in Swift.
+* [LightMQTT ★ 32 ⧗ 11](https://github.com/PasiSalenius/LightMQTT) - is a lightweight MQTT client, written in Swift.
 * [m2mqtt ★ 69 ⧗ 11](https://github.com/ppatierno/m2mqtt) - MQTT Client Library for .Net and WinRT.
-* [microTT](https://github.com/uNetworking/uTT) - is a lightweight and efficient MQTT broker designed to raise the bar for pub/sub performance.
+* **[microTT ★ 673 ⧗ 1](https://github.com/uNetworking/uTT)** - is a lightweight and efficient MQTT broker designed to raise the bar for pub/sub performance.
 * [moquette ★ 309 ⧗ 2](https://github.com/andsel/moquette) - Java MQTT lightweight broker.
 * **[mosca ★ 1097 ⧗ 0](https://github.com/mcollina/mosca)** - Mosca is a node.js mqtt broker.
 * [Mosquitto ★ 158 ⧗ 0](https://github.com/eclipse/mosquitto) - An Open Source MQTT v3.1/v3.1.1 Broker.
-* [MQTT-C](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike.
 * [MQTT Kafka Bridge ★ 28 ⧗ 35](https://github.com/jacklund/mqttKafkaBridge) - Bridge which consumes MQTT messages and republishes them on Kafka on the same topic.
+* [MQTT-C ★ 52 ⧗ 2](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike.
 * **[MQTT.js ★ 1359 ⧗ 0](https://github.com/mqttjs/MQTT.js)** - The MQTT client for Node.js and the browser.
 * [neurite ★ 4 ⧗ 5](https://github.com/linkgo/neurite) - A serial to MQTT bridge, an easier way to build IoT product with esp8266 Arduino.
-* [paho.mqtt.wxapp](https://github.com/tennessine/paho.mqtt.wxapp) - paho.mqtt.javascript可以让你在微信小程序里连接MQTT broker，实现在小程序里控制硬件，也可用于游戏。
+* [paho.mqtt.wxapp ★ 196 ⧗ 0](https://github.com/tennessine/paho.mqtt.wxapp) - paho.mqtt.javascript可以让你在微信小程序里连接MQTT broker，实现在小程序里控制硬件，也可用于游戏。
 * **[PubSub Client ★ 684 ⧗ 0](https://github.com/knolleary/pubsubclient)** - A client library for the Arduino Ethernet Shield that provides support for MQTT.
 * [strong-pubsub ★ 97 ⧗ 1](https://github.com/strongloop/strong-pubsub) - PubSub for Node.js, Browser, Mobile and IoT
 * **[SurgeMQ ★ 776 ⧗ 1](https://github.com/surgemq/surgemq)** -  is a high performance MQTT broker and client library that aims to be fully compliant with MQTT 3.1 and 3.1.1 specs.
 * **[VerneMQ ★ 561 ⧗ 1](https://github.com/erlio/vernemq)** - A distributed MQTT message broker.
-* [WolfSSL MQTT](https://github.com/wolfSSL/wolfMQTT) - A C MQTT library that works with WolfSSL.
+* [WolfSSL MQTT ★ 155 ⧗ 14](https://github.com/wolfSSL/wolfMQTT) - A C MQTT library that works with WolfSSL.
 
 ### CoAP
 
@@ -462,9 +464,9 @@ for embedded systems (IoT in mind).
 * [Go CoAP ★ 110 ⧗ 8](https://github.com/dustin/go-coap) - Implementation of CoAP in go.
 * [h5.coap ★ 36 ⧗ 26](https://github.com/morkai/h5.coap) - Implementation of the Constrained Application Protocol (CoAP) client for node.js.
 * [iCoAP ★ 28 ⧗ 21](https://github.com/stuffrabbit/iCoAP) - Objective-C Client Implementation of CoAP.
-* [lobaro-coap](https://github.com/Lobaro/lobaro-coap) - Complete CoAP Implementation in C.
-* [mbed CoAP](https://github.com/ARMmbed/java-coap) - makes it easy to integrate a Java SE enabled device with coap based services like mbed Cloud.
-* [microcoap](https://github.com/1248/microcoap) - A small CoAP implementation for microcontrollers.
+* [lobaro-coap ★ 74 ⧗ 4](https://github.com/Lobaro/lobaro-coap) - Complete CoAP Implementation in C.
+* [mbed CoAP ★ 23 ⧗ 11](https://github.com/ARMmbed/java-coap) - makes it easy to integrate a Java SE enabled device with coap based services like mbed Cloud.
+* [microcoap ★ 259 ⧗ 10](https://github.com/1248/microcoap) - A small CoAP implementation for microcontrollers.
 * [MQTT Client Framework ★ 312 ⧗ 1](https://github.com/ckrey/MQTT-Client-Framework) - iOS, OSX, tvOS native ObjectiveC MQTT Client Framework.
 * [Node CoAP ★ 176 ⧗ 11](https://github.com/mcollina/node-coap) - node-coap is a client and server library for CoAP modeled after the http module.
 * [Python CoAP ★ 36 ⧗ 5](https://github.com/openwsn-berkeley/coap) - A CoAP Python library.
@@ -478,13 +480,13 @@ for embedded systems (IoT in mind).
 
 ### WeMo
 
-* [arduino-esp8266-alexa-multiple-wemo-switch](https://github.com/kakopappa/arduino-esp8266-alexa-multiple-wemo-switch) - #Arduino Esp8266 Alexa Multiple Belkin wemo switch emulator.
-* [arduino-esp8266-alexa-wemo-switch](https://github.com/kakopappa/arduino-esp8266-alexa-wemo-switch) - Amazon Alexa + WeMos switch made with Arduino D1 Mini.
-* [fauxmo](https://github.com/makermusings/fauxmo) - Emulated Belkin WeMo devices that work with the Amazon Echo.
-* [homebridge-platform-wemo](https://github.com/rudders/homebridge-platform-wemo) - Belkin WeMo Platform plugin for the awesome Homebridge project.
+* [arduino-esp8266-alexa-multiple-wemo-switch ★ 213 ⧗ 0](https://github.com/kakopappa/arduino-esp8266-alexa-multiple-wemo-switch) - #Arduino Esp8266 Alexa Multiple Belkin wemo switch emulator.
+* [arduino-esp8266-alexa-wemo-switch ★ 213 ⧗ 5](https://github.com/kakopappa/arduino-esp8266-alexa-wemo-switch) - Amazon Alexa + WeMos switch made with Arduino D1 Mini.
+* [fauxmo ★ 430 ⧗ 0](https://github.com/makermusings/fauxmo) - Emulated Belkin WeMo devices that work with the Amazon Echo.
+* [homebridge-platform-wemo ★ 106 ⧗ 24](https://github.com/rudders/homebridge-platform-wemo) - Belkin WeMo Platform plugin for the awesome Homebridge project.
 * [ouimeaux ★ 319 ⧗ 0](https://github.com/iancmcc/ouimeaux) - Open source control for Belkin WeMo devices.
-* [wemo.js](https://github.com/thatguydan/wemo.js) - This library aims to provide a simple interface to a Belkin WeMo Power Sockets.
-* [wemore](https://github.com/dhleong/wemore) - A more awesome library for Belkin WeMo interactions.
+* [wemo.js ★ 19 ⧗ 288](https://github.com/thatguydan/wemo.js) - This library aims to provide a simple interface to a Belkin WeMo Power Sockets.
+* [wemore ★ 26 ⧗ 10](https://github.com/dhleong/wemore) - A more awesome library for Belkin WeMo interactions.
 
 ### SMCP
 
@@ -499,18 +501,18 @@ for embedded systems (IoT in mind).
 
 ### OSGP
 
-* [OSGP Platform](https://github.com/OSGP/Platform) - is an open, generic, scalable and independent 'Internet of Things' platform, which enables various connected smart objects in the public space to be easily controlled and monitored.
+* [OSGP Platform ★ 35 ⧗ 7](https://github.com/OSGP/Platform) - is an open, generic, scalable and independent 'Internet of Things' platform, which enables various connected smart objects in the public space to be easily controlled and monitored.
 
 ### OpenThread
 
 * **[OpenThread ★ 1139 ⧗ 2](https://github.com/openthread/openthread)** - OpenThread is an open-source implementation of the Thread networking protocol.
-* [OpenThread Border Router](https://github.com/openthread/borderrouter) - An open source border router, built to work with OpenThread.
+* [OpenThread Border Router ★ 64 ⧗ 0](https://github.com/openthread/borderrouter) - An open source border router, built to work with OpenThread.
 
 ### Others
 
 * [Anjay ★ 16 ⧗ 23](https://github.com/AVSystem/Anjay) - is a C library that aims to be the reference implementation of the OMA Lightweight Machine-to-Machine (LwM2M) device management protocol.
-* [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A library to communicate with services of Apple iOS devices using native protocols.
-* [MeQ](https://github.com/teamsaas/meq) - is a real-time communication service for connecting online devices.
+* **[libimobiledevice ★ 2294 ⧗ 0](https://github.com/libimobiledevice/libimobiledevice)** - A library to communicate with services of Apple iOS devices using native protocols.
+* **[MeQ ★ 920 ⧗ 1](https://github.com/teamsaas/meq)** - is a real-time communication service for connecting online devices.
 * [OSS-7 ★ 44 ⧗ 37](https://github.com/MOSAIC-LoPoW/dash7-ap-open-source-stack) - is an open source implementation of the DASH7 Alliance protocol for ultra low power wireless sensor communication.
 
 ## Fork
@@ -522,9 +524,10 @@ for embedded systems (IoT in mind).
 
 ### Bluetooth
 
-* [BluetoothSerial](https://github.com/don/BluetoothSerial) - Cordova (PhoneGap) Plugin for Serial Communication over Bluetooth
 * [BluetoothLinux](https://github.com/PureSwift/BluetoothLinux)  is a Pure Swift Linux Bluetooth Stack.
-* [React Native Bluetooth Serial](https://github.com/rusel1989/react-native-bluetooth-serial) - React Native version of BluetoothSerial plugin. For both android and ios
+
+* **[BluetoothSerial ★ 863 ⧗ 0](https://github.com/don/BluetoothSerial)** - Cordova (PhoneGap) Plugin for Serial Communication over Bluetooth
+* [React Native Bluetooth Serial ★ 299 ⧗ 2](https://github.com/rusel1989/react-native-bluetooth-serial) - React Native version of BluetoothSerial plugin. For both android and ios
 
 ### NFC
 
@@ -542,17 +545,17 @@ for embedded systems (IoT in mind).
 
 ### Others
 
-* [Balena](https://github.com/resin-os/balena) -  is a new container engine purpose-built for embedded and IoT use cases and compatible with Docker containers. 
+* [Balena ★ 329 ⧗ 3](https://github.com/resin-os/balena) -  is a new container engine purpose-built for embedded and IoT use cases and compatible with Docker containers. 
 * **[Drake ★ 500 ⧗ 0](https://github.com/RobotLocomotion/drake)** -  is a toolbox maintained by the Robot Locomotion Group at the MIT Computer Science and Artificial Intelligence Lab (CSAIL).
 * [IBM messaging](https://github.com/ibm-messaging) - Community around IBM Messaging products.
 * [IotWeb ★ 4 ⧗ 9](https://github.com/sensaura-public/iotweb) - A Embedded HTTP and WebSocket Server for UWP/.NET 4.5.
 * [Mender: Deployment Service ★ 8 ⧗ 14](https://github.com/mendersoftware/deployments) - Microservice for managing software deployments for IIoT devices within Mender ecosystem.
 * **[meshblu ★ 738 ⧗ 0](https://github.com/octoblu/meshblu)** - Machine-to-machine instant messaging platform for the internet of things.
 * [Python Enocean ★ 13 ⧗ 45](https://github.com/kipe/enocean) - A Python library for reading and controlling EnOcean devices.
-* [React Native ESP8266 Smartconfig](https://github.com/tuanpmt/react-native-smartconfig) - a react-native module for ESP8266 ESPTOUCH Smart config.
+* [React Native ESP8266 Smartconfig ★ 75 ⧗ 5](https://github.com/tuanpmt/react-native-smartconfig) - a react-native module for ESP8266 ESPTOUCH Smart config.
 * **[Servo ★ 7821 ⧗ 0](https://github.com/servo/servo)** -  is a prototype web browser engine written in the Rust language.
 * [The Things Network ★ 67 ⧗ 4](https://github.com/TheThingsNetwork/ttn) - The Things Network is a global open crowdsourced Internet of Things data network.
-* [The Things Network Arduino Library](https://github.com/TheThingsNetwork/arduino-device-lib) - is an Arduino Library for Arduino devices like The Things Uno and Node to communicate via The Things Network.
+* [The Things Network Arduino Library ★ 82 ⧗ 9](https://github.com/TheThingsNetwork/arduino-device-lib) - is an Arduino Library for Arduino devices like The Things Uno and Node to communicate via The Things Network.
 * [WAMP Protocol ★ 228 ⧗ 1](https://github.com/wamp-proto/wamp-proto) - The Web Application Messaging Protocol The Web Application Messaging Protocol.
 
 ## Software
@@ -632,7 +635,7 @@ for embedded systems (IoT in mind).
 ### Related Resources Projects
 
 * [awesome-embedded-systems ★ 0 ⧗ 29](https://github.com/fkromer/awesome-embedded-systems) - The website [awesome-embedded-systems.org](http://awesome-embedded-systems.org) lists resources about embedded system, software and hardware development.
-* [awesome-mqtt](https://github.com/hobbyquaker/awesome-mqtt) - Curated list of MQTT related stuff.
+* **[awesome-mqtt ★ 668 ⧗ 0](https://github.com/hobbyquaker/awesome-mqtt)** - Curated list of MQTT related stuff.
 
 ### Tutorial
 
@@ -645,21 +648,22 @@ for embedded systems (IoT in mind).
 
 ## AI
 
-* [ELL](https://github.com/Microsoft/ELL) - allows you to build and deploy machine-learned pipelines onto embedded platforms, like Raspberry Pis, Arduinos, micro:bits, and other microcontrollers.
+* **[ELL ★ 1859 ⧗ 0](https://github.com/Microsoft/ELL)** - allows you to build and deploy machine-learned pipelines onto embedded platforms, like Raspberry Pis, Arduinos, micro:bits, and other microcontrollers.
 * [libdeep](https://github.com/bashrc/libdeep) - A deep learning library for C/C++.
 * [Machinery ★ 174 ⧗ 0](https://github.com/kerberos-io/machinery) - is a low-budget video surveillance solution, that uses computer vision algorithms to detect changes, and that can trigger other devices.
 * [TensorFlow for Raspberry Pi ★ 317 ⧗ 0](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) - step-by-step instructions for installing TensorFlow from source using Bazel (which is also compiled from-scratch), as well as pre-built TensorFlow binaries.
 
 ## Analytics
 
+* [Bistro ★ 321 ⧗ 0](https://github.com/asavinov/bistro) - light-weight batch and stream analytics engine which radically changes the way data is processed. Bistro relies on a novel column-oriented data model and is intended for IoT applications and data processing at the edge.
 * **[NetData ★ 18973 ⧗ 0](https://github.com/firehol/netdata)** - is a system for distributed real-time performance and health monitoring.
 * **[Piwik ★ 5374 ⧗ 0](https://github.com/piwik/piwik)** - Piwik is the leading Free/Libre open analytics platform.
 * [Samsara ★ 64 ⧗ 1](https://github.com/samsara/samsara) - is a real-time analytics platform.
-* [Bistro](https://github.com/asavinov/bistro) - light-weight batch and stream analytics engine which radically changes the way data is processed. Bistro relies on a novel column-oriented data model and is intended for IoT applications and data processing at the edge.
 
 ## Digital Twins
 
 * [Eclipse Ditto](https://github.com/eclipse/ditto) is the open-source project of Eclipse IoT that provides a ready-to-use functionality to manage the state of Digital Twins.
+
 
 ## Others
 
