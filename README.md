@@ -399,6 +399,7 @@ for embedded systems (IoT in mind).
 
 ## Language
 
+* **[AtomVM](https://github.com/bettio/AtomVM)** - AtomVM is a tiny portable virtual machine that allows Erlang and Elixir code to run on microcontrollers with less than 500KB of RAM such as the ESP32.
 * [ELIoT ★ 76 ⧗ 48](https://github.com/c3d/elfe) - Extensible Language for Everyday (and the Internet of Things)
 * [eLua ★ 393 ⧗ 1](https://github.com/elua/elua) - Quickly prototype and develop embedded software applications with the power of Lua and run them on a wide range of microcontroller architectures.
 * [ESP Basic](https://github.com/esp8266/Basic) - Basic Interpreter for the ESP8266
