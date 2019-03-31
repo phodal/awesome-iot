@@ -401,6 +401,7 @@ for embedded systems (IoT in mind).
 * **[Sonoff-Tasmota ★ 4869 ⧗ 0](https://github.com/arendst/Sonoff-Tasmota)** - Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE.
 * [tinyVP ★ 12 ⧗ 48](https://github.com/lyegoshin/tinyVP) - is a very small and lean hypervisor using MIPS R5 hardware VZ option
 * [vorto ★ 32 ⧗ 3](https://github.com/eclipse/vorto) - is a toolset that lets you describe devices using a simple language and share these descriptions, so-called Information Models, in a centralized Vorto Repository.
+* [AWS IoT Button logger to git](https://github.com/kachkaev/aws-iot-button-logger-to-git/) - A beginner-friendly AWS Lambda function that logs events from IoT devices into a git repository of your choice. Written in TypeScript, tested with Jest, compiled with Parcel. Uses Azure Pipelines for CI/CD.
 
 ## Language
 
