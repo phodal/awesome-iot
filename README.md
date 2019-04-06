@@ -106,7 +106,7 @@ ToC
 
 ### SDK
 
-* [Armbian build SDK ★ 630](https://github.com/armbian/build) - for creating customized kernel and Debian based userspace for popular development boards. 
+* [Armbian build SDK ★ 630](https://github.com/armbian/build) - for creating customized kernel and Debian based userspace for popular development boards.
 
 * [AWS IoT Arduino Yún SDK ★ 63 ⧗ 4](https://github.com/aws/aws-iot-device-sdk-arduino-yun) - SDK for connecting to AWS IoT from an Arduino Yún.
 * [Azure IoT Gateway SDK ★ 26 ⧗ 2](https://github.com/Azure/azure-iot-gateway-sdk) - contains the infrastructure and modules to create IoT gateway solutions.
@@ -188,7 +188,7 @@ ToC
 
 * [Mynewt](https://github.com/apache/mynewt-core) is an open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
 
-* **[Amazon FreeRTOS ★ 842 ⧗ 0](https://github.com/aws/amazon-freertos)** - is an operating system for microcontrollers that makes small, low-power edge devices easy to program, deploy, secure, connect, and manage. 
+* **[Amazon FreeRTOS ★ 842 ⧗ 0](https://github.com/aws/amazon-freertos)** - is an operating system for microcontrollers that makes small, low-power edge devices easy to program, deploy, secure, connect, and manage.
 * **[ARM mbed ★ 629 ⧗ 0](https://github.com/mbedmicro/mbed)** - The ARM® mbed™ IoT Device Platform provides the operating system, cloud services, tools and developer ecosystem to make the creation and deployment of commercial, standards-based IoT solutions possible at scale.
 * [Armbian](https://www.armbian.com) - Debian based Docker enabled lightweight Linux for popular development boards. Optimised for embedded usage.
 * [Brillo](https://developers.google.com/brillo/) - Brillo extends the Android platform to all your connected devices.
@@ -272,7 +272,7 @@ ToC
 * [IBM Watson](http://www.ibm.com/watson/) - IBM cloud for the IoT.
 * [Oracle IoT Cloud](https://cloud.oracle.com/iot) - ORACLE Cloud for the Internet of Things.
 * [Salesforce IoT Cloud](http://www.salesforce.com/iot-cloud/) - Salesforce cloud for the Internet of Things.
-* [SAP HANA](http://go.sap.com/product/technology-platform/iot-platform-cloud.html) - SAP cloud for the Internet of Things.
+* [SAP HANA](https://www.sap.com/products/iot-platform-cloud.html) - SAP cloud for the Internet of Things.
 * [Siemens MindSphere](http://www.siemens.com/global/en/home/company/topic-areas/digitalization/mindsphere.html) - Open IoT ecosystem as PaaS.
 * [Xively IoT Cloud](https://www.xively.com/) - IoT platform.
 * [Yaler](https://yaler.net/) - "Relay infrastructure for secure access to embedded systems".
@@ -280,7 +280,6 @@ ToC
 
 ## IIoT Clouds
 
-* [Autodesk Fusion Connect](http://autodeskfusionconnect.com/) - No-coding industrial IoT platform.
 * [DataXChange](https://www.scytec.com/) - Cloud manufacturing.
 * [deviceWISE for Factory](http://www.telit.com/solutions/industries/smart-manufacturing/) - Telit IIoT cloud.
 * [Predix](https://www.predix.com/) - Industrial IoT cloud (by General Electric).
@@ -548,7 +547,7 @@ for embedded systems (IoT in mind).
 
 ### Others
 
-* [Balena ★ 329 ⧗ 3](https://github.com/resin-os/balena) -  is a new container engine purpose-built for embedded and IoT use cases and compatible with Docker containers. 
+* [Balena ★ 329 ⧗ 3](https://github.com/resin-os/balena) -  is a new container engine purpose-built for embedded and IoT use cases and compatible with Docker containers.
 * **[Drake ★ 500 ⧗ 0](https://github.com/RobotLocomotion/drake)** -  is a toolbox maintained by the Robot Locomotion Group at the MIT Computer Science and Artificial Intelligence Lab (CSAIL).
 * [IBM messaging](https://github.com/ibm-messaging) - Community around IBM Messaging products.
 * [IotWeb ★ 4 ⧗ 9](https://github.com/sensaura-public/iotweb) - A Embedded HTTP and WebSocket Server for UWP/.NET 4.5.
