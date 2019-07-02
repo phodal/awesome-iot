@@ -277,6 +277,7 @@ ToC
 * [Xively IoT Cloud](https://www.xively.com/) - IoT platform.
 * [Yaler](https://yaler.net/) - "Relay infrastructure for secure access to embedded systems".
 * [Zatar](http://www.zatar.com/) - "Zatar is the first ARMmbed standards-based IoT cloud service".
+* [Rightech IoT Cloud](https://app.rightech.io) - IoT platform.
 
 ## IIoT Clouds
 
