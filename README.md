@@ -435,7 +435,7 @@ for embedded systems (IoT in mind).
 * [arduino-mqtt ★ 95 ⧗ 6](https://github.com/256dpi/arduino-mqtt) - MQTT library for Arduino based on the Eclipse Paho projects.
 * **[Eclipse Paho JavaScript client ★ 510 ⧗ 1](https://github.com/eclipse/paho.mqtt.javascript)** - The Paho JavaScript Client is an MQTT browser-based client library written in Javascript that uses WebSockets to connect to an MQTT Broker.
 * [Eclipse Paho MQTT C client ★ 142 ⧗ 3](https://github.com/eclipse/paho.mqtt.c) - This code builds libraries which enable applications to connect to an MQTT broker to publish messages, and to subscribe to topics and receive published messages.
-* **[emqttd ★ 921 ⧗ 0](https://github.com/emqtt/emqttd)** - Erlang MQTT Broker
+* **[EMQ X ★ 4777 ⧗ 0](https://github.com/emqx/emqx)** - Scalable and Reliable Real-time MQTT Messaging Engine for IoT in 5G Era. 
 * [ESP8266 MQTT ★ 440 ⧗ 0](https://github.com/tuanpmt/esp_mqtt) - MQTT client library for ESP8266 Soc
 * [Espruna](https://bitbucket.org/xoseperez/espurna) - Firmware for ESP8266 based smart switches. Includes Web GUI, MQTT and AOT software updates.
 * [gLeam ★ 50 ⧗ 108](https://github.com/mikespook/gleam) - A operation cluster based on MQTT.
