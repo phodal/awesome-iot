@@ -99,7 +99,7 @@ ToC
 * [SensorBee ★ 54 ⧗ 33](https://github.com/sensorbee/sensorbee) - Lightweight stream processing engine for IoT
 * **[Serverless ★ 7951 ⧗ 0](https://github.com/serverless/serverless)** - Serverless is the application framework for building web, mobile and IoT applications exclusively on Amazon Web Services' Lambda and API Gateway.
 * [Simgrid ★ 46 ⧗ 53](https://github.com/simgrid/simgrid) -  is a scientific instrument to study the behavior of large-scale distributed systems such as Grids, Clouds, HPC or P2P systems.
-* [Sming ★ 1800 ⧗ 0](https://github.com/SmingHub/Sming) - Sming is an asynchronous C/C++ framework with superb performance and multiple network features. Sming is open source and is tailored towards embedded devices.
+* **[Sming ★ 1800 ⧗ 0](https://github.com/SmingHub/Sming)** - Sming is an asynchronous C/C++ framework with superb performance and multiple network features. Sming is open source and is tailored towards embedded devices.
 * [Thingsboard IoT Gateway ★ 463 ⧗ 246](https://github.com/thingsboard/thingsboard-gateway) - open-source IoT Gateway - integrates devices connected to legacy and third-party systems with Thingsboard IoT Platform using OPC-UA and MQTT protocols.
 
 ## Library
@@ -167,10 +167,10 @@ ToC
 * [Cordova BLE ★ 149 ⧗ 3](https://github.com/evothings/cordova-ble) - Bluetooth Low Energy plugin for Cordova
 * [Cordova MQTT Plugin ★ 24 ⧗ 11](https://github.com/arcoirislabs/cordova-plugin-mqtt) - MQTT Cordova Plugin for Apache Cordova
 * [IOT Espressif Android ★ 46 ⧗ 1](https://github.com/EspressifApp/IOT-Espressif-Android) - is used to control ESP8266 device by Android pad or phone.
+* [MQTTX ★ 12 ⧗ 0](https://github.com/emqx/MQTTX) - MQTTX is a cross-platform MQTT desktop client open sourced by EMQ, which supports macOS, Linux, and Windows. It allows users to quickly and easily test MQTT / MQTTS connections, publish and subscribe to MQTT messages.
 * [PhoneGap NFC ★ 312 ⧗ 2](https://github.com/chariotsolutions/phonegap-nfc) - PhoneGap NFC Plugin
 * [PWAify ★ 269 ⧗ 8](https://github.com/vladikoff/PWAify) - Experimental project to convert your PWA (Progressive Web App) into a cross-platform Electron app. Brings PWAs to your desktop.
 * [Summon ★ 7 ⧗ 52](https://github.com/lab11/summon) - A platform for mobile devices that provides a convenient and scalable mechanism for IoT device interactivity, enabled by web-based interfaces and driven by the devices themselves.
-* [MQTTX ★ 12 ⧗ 0](https://github.com/emqx/MQTTX) - MQTTX is a cross-platform MQTT desktop client open sourced by EMQ, which supports macOS, Linux, and Windows. It allows users to quickly and easily test MQTT / MQTTS connections, publish and subscribe to MQTT messages.
 
 ## Storage
 
@@ -234,6 +234,7 @@ ToC
 ## Platform
 
 * [[thing-it-node] ★ 20 ⧗ 3](https://github.com/marcgille/thing-it-node/) - A device-independent IoT platform including support of complex event processing, storyboards, and a mobile app.
+* [ActorCloud ★ 32 ⧗ 0](https://github.com/actorcloud/ActorCloud) - ActorCloud is an IoT platform that provides one-stop platform services for enterprises with low-power IoT networks. It provides multiple protocol access, message flow management, data parsing and data processing capabilities for devices on a secure and reliable basis.
 * [Astarte ★ 19 ⧗ 0](https://github.com/astarte-platform/astarte) - Astarte is an Open Source IoT platform written in Elixir. It is a turnkey solution which packs in everything you need for connecting a device fleet to a set of remote applications. It performs data modeling, automated data reduction, real-time events, and provides you with any feature you might expect in a modern IoT platform. Right now, Linux and ESP32 devices are supported out of the box using the provided SDKs.
 * **[Blynk ★ 716 ⧗ 0](https://github.com/blynkkk/blynk-server)** - is a platform with iOS and Android apps to control Arduino, ESP8266, Raspberry Pi and the likes over the Internet.
 * [Clavin ★ 212 ⧗ 2](https://github.com/EricssonResearch/calvin-base) - Calvin is an application environment that lets things talk to things. It comprises of both a development framework for application developers, and a runtime environment that handles the running application.
@@ -241,7 +242,7 @@ ToC
 * [embARC Open Software Platform (OSP) ★ 23 ⧗ 9](https://github.com/foss-for-synopsys-dwc-arc-processors/embarc_osp) - is a software distribution aimed at facilitating the development of embedded systems based on ARCv2 Processors.
 * [flowchain-app ★ 22 ⧗ 50](https://github.com/flowchain/flowchain-app) - A Flowchain plugin that provides the flow-based programming (FBP) engine.
 * [GrovePi ★ 330 ⧗ 0](https://github.com/DexterInd/GrovePi) - is an open source platform for connecting Grove Sensors to the Raspberry Pi.
-* [HiveMQ](https://github.com/hivemq/hivemq-community-edition) - is an open source MQTT platform and MQTT broker.
+* [HiveMQ ★ 329 ⧗ 0](https://github.com/hivemq/hivemq-community-edition) - is an open source MQTT platform and MQTT broker.
 * [Hologram](https://hologram.io/) - Open source, full stack platform with standalone devices and usb plug in. Offers a free developer tier.
 * **[IoT.js ★ 921 ⧗ 0](https://github.com/Samsung/iotjs)** - Platform for Internet of Things with JavaScript.
 * [IoTgo ★ 173 ⧗ 0](https://github.com/itead/IoTgo) - is an open source IoT platform, like WordPress, ZenCart and all other open source software, you can deploy your own IoTgo cloud service.
@@ -259,8 +260,7 @@ ToC
 * **[PlatformIO ★ 980 ⧗ 0](https://github.com/platformio/platformio)** - PlatformIO is a cross-platform code builder and the missing library manager.
 * [Siemens MindSphere](https://www.siemens.com/global/en/home/products/software/mindsphere.html) - Open, cloud-based IoT operating system (uses OPC UA as communication standard) from Siemens which is extensible with services.
 * [ThingEngine ★ 3 ⧗ 0](https://github.com/Stanford-Mobisocial-IoT-Lab/thingengine-core) - An open source platform for IoT rules that you can execute anywhere you want.
-* [Thingsboard ★ 5102 ⧗ 1700](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
-* [ActorCloud ★ 32 ⧗ 0](https://github.com/actorcloud/ActorCloud) - ActorCloud is an IoT platform that provides one-stop platform services for enterprises with low-power IoT networks. It provides multiple protocol access, message flow management, data parsing and data processing capabilities for devices on a secure and reliable basis.
+* **[Thingsboard ★ 5102 ⧗ 1700](https://github.com/thingsboard/thingsboard)** - Open-source IoT Platform - Device management, data collection, processing and visualization.
 
 ## IoT Clouds
 
@@ -275,13 +275,13 @@ ToC
 * [Google Cloud IoT](https://cloud.google.com/solutions/iot/) - Google Cloud Platform IoT solutions.
 * [IBM Watson](http://www.ibm.com/watson/) - IBM cloud for the IoT.
 * [Oracle IoT Cloud](https://cloud.oracle.com/iot) - ORACLE Cloud for the Internet of Things.
+* [Rightech IoT Cloud](https://app.rightech.io) - IoT platform.
 * [Salesforce IoT Cloud](http://www.salesforce.com/iot-cloud/) - Salesforce cloud for the Internet of Things.
 * [SAP HANA](https://www.sap.com/products/iot-platform-cloud.html) - SAP cloud for the Internet of Things.
 * [Siemens MindSphere](http://www.siemens.com/global/en/home/company/topic-areas/digitalization/mindsphere.html) - Open IoT ecosystem as PaaS.
 * [Xively IoT Cloud](https://www.xively.com/) - IoT platform.
 * [Yaler](https://yaler.net/) - "Relay infrastructure for secure access to embedded systems".
 * [Zatar](http://www.zatar.com/) - "Zatar is the first ARMmbed standards-based IoT cloud service".
-* [Rightech IoT Cloud](https://app.rightech.io) - IoT platform.
 
 ## IIoT Clouds
 
@@ -443,9 +443,9 @@ for embedded systems (IoT in mind).
 * [ESP8266 MQTT ★ 440 ⧗ 0](https://github.com/tuanpmt/esp_mqtt) - MQTT client library for ESP8266 Soc
 * [Espruna](https://bitbucket.org/xoseperez/espurna) - Firmware for ESP8266 based smart switches. Includes Web GUI, MQTT and AOT software updates.
 * [gLeam ★ 50 ⧗ 108](https://github.com/mikespook/gleam) - A operation cluster based on MQTT.
+* [HiveMQ](https://github.com/hivemq) - a MQTT broker and MQTT client in Java.
 * [Homie for ESP8266 ★ 115 ⧗ 1](https://github.com/marvinroger/homie-esp8266) - An Arduino for ESP8266 implementation of Homie, an MQTT convention for the IoT.
 * [Homie Server ★ 45 ⧗ 3](https://github.com/marvinroger/homie-server) - A Web server for Homie, an MQTT convention for the IoT.
-* [HiveMQ](https://github.com/hivemq) - a MQTT broker and MQTT client in Java.
 * [Java mqtt-client ★ 405 ⧗ 2](https://github.com/fusesource/mqtt-client) - A Java MQTT Client.
 * [LightMQTT ★ 32 ⧗ 11](https://github.com/PasiSalenius/LightMQTT) - is a lightweight MQTT client, written in Swift.
 * [m2mqtt ★ 69 ⧗ 11](https://github.com/ppatierno/m2mqtt) - MQTT Client Library for .Net and WinRT.
