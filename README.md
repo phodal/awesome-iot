@@ -586,7 +586,6 @@ for embedded systems (IoT in mind).
 
 ### Course
 
-* [A developer's guide to the Internet of Things (by IBM)](https://www.coursera.org/learn/developer-iot/home/welcome) - None
 * [Advanced Penetration Testing](https://www.cybrary.it/course/advanced-penetration-testing/) - Free
 * [An Introduction to Programming the Internet of Things (IOT) Specialization](https://www.coursera.org/specializations/iot) - Landing page of 6 courses (Introduction to the Internet of Things and Embedded Systems / The Arduino Platform and C Programming / Interfacing with the Arduino / The Raspberry Pi Platform and Python Programming for the Raspberry Pi / Interfacing with the Raspberry Pi / Programming for the Internet of Things Capstone).
 * [Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-architecture) - Free
