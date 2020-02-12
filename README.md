@@ -146,6 +146,7 @@ ToC
 * [matrixssl ★ 36 ⧗ 0](https://github.com/matrixssl/matrixssl) - is an embedded SSL and TLS implementation designed for small footprint IoT devices requiring low overhead per connection.
 * [MCUBoot ★ 43 ⧗ 3](https://github.com/runtimeco/mcuboot) - is a secure bootloader for 32-bit MCUs.
 * **[nexmon ★ 885 ⧗ 2](https://github.com/seemoo-lab/nexmon)** -  is our C-based firmware patching framework for Broadcom/Cypress WiFi chips.
+* [Pelion Device Management Client ★ 19 ⧗ 41](https://github.com/ARMmbed/mbed-cloud-client) - a library that connects devices to Pelion Device Management service and to Mbed-enabled cloud services from our partners.
 * [pingo-py ★ 223 ⧗ 15](https://github.com/pingo-io/pingo-py) - provides a uniform API to program devices like the Raspberry Pi, BeagleBone Black, pcDuino etc. just like the Python DBAPI provides an uniform API for database programming in Python.
 * [polymcu ★ 57 ⧗ 3](https://github.com/labapart/polymcu) - an open framework for micro-controller software.
 * [Secure Device Grid ★ 4 ⧗ 20](https://github.com/trifork/secure-device-grid) - Secure device-to-device communication solution for IOT.
@@ -266,6 +267,7 @@ ToC
 
 * [Agile IoT Platform](https://www.aylanetworks.com/products/iot-platform) - Ayla Networks IoT Platform (with cloud services).
 * [AlibabaCloud](https://intl.aliyun.com/solutions/IoT) - "A cloud computing solution"
+* [ARM Pelion](https://www.pelion.com/) - "Arm Pelion IoT Platform including Connectivity, Device and Data management service"
 * [Artik Cloud](https://artik.cloud/) - Samsung cloud for the IoT.
 * [AWS IoT](https://aws.amazon.com/iot/) - Amazon cloud for the IoT.
 * [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/) - Microsoft cloud for the IoT.
