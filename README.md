@@ -582,6 +582,7 @@ for embedded systems (IoT in mind).
 ## Voice
 
 * [chelexa ★ 2 ⧗ 25](https://github.com/chelexa/chelexa) - Natural voice recognition IoT cloud chess solution via the Amazon Echo platform.
+* [Mycroft](https://mycroft.ai/) - Mycroft is the world’s first open source voice assistant.
 
 ## Resources-Websites-Projects
 
