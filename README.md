@@ -565,6 +565,7 @@ for embedded systems (IoT in mind).
 * [Python Enocean ★ 13 ⧗ 45](https://github.com/kipe/enocean) - A Python library for reading and controlling EnOcean devices.
 * [React Native ESP8266 Smartconfig ★ 75 ⧗ 5](https://github.com/tuanpmt/react-native-smartconfig) - a react-native module for ESP8266 ESPTOUCH Smart config.
 * **[Servo ★ 7821 ⧗ 0](https://github.com/servo/servo)** -  is a prototype web browser engine written in the Rust language.
+* [ShellHub ★ 234 ⧗ 11](https://github.com/shellhub-io/shellhub) - Centralized SSH for the the edge and cloud computing.
 * [The Things Network ★ 67 ⧗ 4](https://github.com/TheThingsNetwork/ttn) - The Things Network is a global open crowdsourced Internet of Things data network.
 * [The Things Network Arduino Library ★ 82 ⧗ 9](https://github.com/TheThingsNetwork/arduino-device-lib) - is an Arduino Library for Arduino devices like The Things Uno and Node to communicate via The Things Network.
 * [WAMP Protocol ★ 228 ⧗ 1](https://github.com/wamp-proto/wamp-proto) - The Web Application Messaging Protocol The Web Application Messaging Protocol.
