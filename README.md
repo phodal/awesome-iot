@@ -1,10 +1,16 @@
+作者GITHUB：https://github.com/HQarroum/awesome-iot/
+
+![thingsboard交流QQ群 121202538](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9jZG4uaW90c2Nob29sLmNvbS9waG90by8yMDIwLzY1MDFkOWY2LWU4ZWYtNDFkNC04NjQ1LTBhN2NlMTc2ZTJkMS5wbmc?x-oss-process=image/format,png)
+
+欢迎大家加入thingsboard 二次开发讨论群：121202538
+
 Awesome IoT ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ===
 
 A curated list of IoT. Everyone can contribute here!
 
 Simliar Projects
-
+* [IoTFS](https://www.iotfs.com/) - Internet of things flexible system.
 * [Awesome Azure IoT](https://github.com/formulahendry/awesome-azure-iot) - A curated list of awesome Azure Internet of Things projects and resources.
 * [Awesome Android Things](https://github.com/amitshekhariitbhu/awesome-android-things) - A curated list of awesome Android Things tutorials, libraries and much more at one place
 * [Awesome OpenIoT](https://github.com/Agile-IoT/awesome-open-iot) - A curated list of awesome open source IoT frameworks, libraries and software.
