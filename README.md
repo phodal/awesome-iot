@@ -71,6 +71,8 @@ ToC
 
 ## Framework
 
+* **[.NET Core IoT ★ 1193 ⧗ 292](https://github.com/dotnet/iot)** - A set of libraries to interact with sensors, displays and input devices from .NET Core framework.
+This libraries allows to work with the GPIO port for various boards like Raspberry Pi and Hummingboard and contains a growing set of community-maintained device bindings for IoT components.
 * **[Cylon ★ 2339 ⧗ 0](https://github.com/hybridgroup/cylon)** - JavaScript framework for robotics, physical computing, and the Internet of Things.
 * [devify-server ★ 53 ⧗ 1](https://github.com/DevifyPlatform/devify-server) - s extremely light weight, and is very easy to use. It aims to help developers to create IoT application servers, faster.
 * [Epoc.js ★ 27 ⧗ 0](https://github.com/charliegerard/Epoc.js) - This framework provides an interface to access data from the Emotiv EPOC brain sensor using Node.js.
