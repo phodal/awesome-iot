@@ -629,6 +629,8 @@ for embedded systems (IoT in mind).
 * [Intel IoT Blog](https://software.intel.com/zh-cn/iot/home) - None
 * [Microsoft IoT Blog](https://blogs.microsoft.com/iot/) - None
 * [唯笑志在-ServerSuperIO](http://www.cnblogs.com/lsjwq/) - None
+* [Bosch ConnectedWorld Blog](https://blog.bosch-si.com/) - IoT articles from the world of Bosch
+* [IoT for All](https://www.iotforall.com/) - High-quality IoT content, resources, and news
 
 ### Group
 
