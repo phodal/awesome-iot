@@ -378,6 +378,7 @@ Layered architecture of JTAG interface and TAP support
 * **[Smart Mirror ★ 1181 ⧗ 0](https://github.com/evancohen/smart-mirror)** - The fairest of them all. A DIY voice controlled smart mirror with IoT integration.
 * [Sonoff-HomeAssistant ★ 336 ⧗ 1](https://github.com/KmanOz/Sonoff-HomeAssistant) - is alternative firmware for the brilliant & cheap ($ not quality) range of Sonoff range of ESP-8266 based WiFi controlled switches.
 * [Vör ★ 31 ⧗ 2](https://github.com/futurice/vor) - is open source software and hardware for turning your open office into an open, real-time map for finding people, open work places and current events.
+* [Node-RED](https://nodered.org/) - Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.
 
 ## IDE
 
