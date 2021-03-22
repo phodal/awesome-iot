@@ -472,6 +472,7 @@ for embedded systems (IoT in mind).
 * **[VerneMQ ★ 561 ⧗ 1](https://github.com/erlio/vernemq)** - A distributed MQTT message broker.
 * [WolfSSL MQTT ★ 155 ⧗ 14](https://github.com/wolfSSL/wolfMQTT) - A C MQTT library that works with WolfSSL.
 * [Waterstream](https://waterstream.io/) - MQTT broker leveraging Apache Kafka as its own storage and distribution engine.
+* [NanoMQ](https://github.com/nanomq/nanomq) - A light-weight and Blazing-fast MQTT Broker for IoT Edge platform.
 
 ### CoAP
 
