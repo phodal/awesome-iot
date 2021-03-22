@@ -287,6 +287,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 * [Xively IoT Cloud](https://www.xively.com/) - IoT platform.
 * [Yaler](https://yaler.net/) - "Relay infrastructure for secure access to embedded systems".
 * [Zatar](http://www.zatar.com/) - "Zatar is the first ARMmbed standards-based IoT cloud service".
+* [EMQ X Cloud](https://cloud.emqx.io/) - Fully managed MQTT IoT Cloud. IoT MQTT 5.0 cloud service for rapid deployment, easy management, and on-demand expansion.
 
 ## IIoT Clouds
 
