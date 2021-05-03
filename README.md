@@ -265,6 +265,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 * [Siemens MindSphere](https://www.siemens.com/global/en/home/products/software/mindsphere.html) - Open, cloud-based IoT operating system (uses OPC UA as communication standard) from Siemens which is extensible with services.
 * [ThingEngine ★ 3 ⧗ 0](https://github.com/Stanford-Mobisocial-IoT-Lab/thingengine-core) - An open source platform for IoT rules that you can execute anywhere you want.
 * **[Thingsboard ★ 5102 ⧗ 1700](https://github.com/thingsboard/thingsboard)** - Open-source IoT Platform - Device management, data collection, processing and visualization.
+* [United Manufacturing Hub ★ 9 ⧗ 0](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example nodered, VerneMQ and timescaleDB)
 
 ## IoT Clouds
 
