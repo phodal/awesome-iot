@@ -668,7 +668,7 @@ for embedded systems (IoT in mind).
 ## Edge
 
 * [Project Flogo ★ 207 ⧗ 0](https://github.com/TIBCOSoftware/flogo) - is an Open Source Framework for IoT Edge Apps & Integration.
-* [Eden ★ 25 ⧗ 0](https://github.com/ - lf-edge/eden) - CLI for Edge Virtualization Engine (EVE)
+* [Eden ★ 25 ⧗ 0](https://github.com/lf-edge/eden) - CLI for Edge Virtualization Engine (EVE)
 
 ## AI
 
