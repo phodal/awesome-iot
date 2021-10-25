@@ -73,6 +73,7 @@ ToC
 
 * **[.NET Core IoT ★ 1193 ⧗ 292](https://github.com/dotnet/iot)** - A set of libraries to interact with sensors, displays and input devices from .NET Core framework.
 This libraries allows to work with the GPIO port for various boards like Raspberry Pi and Hummingboard and contains a growing set of community-maintained device bindings for IoT components.
+* **[AREG SDK ★ 15 ⧗ 0](https://github.com/aregtech/areg-sdk)** - AREG SDK is a developer-friendly, an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-computing](https://csrc.nist.gov/publications/detail/sp/500-325/final), where connected Things interact and provide services, as if they act like thin distributed servers.
 * **[Cylon ★ 2339 ⧗ 0](https://github.com/hybridgroup/cylon)** - JavaScript framework for robotics, physical computing, and the Internet of Things.
 * [devify-server ★ 53 ⧗ 1](https://github.com/DevifyPlatform/devify-server) - s extremely light weight, and is very easy to use. It aims to help developers to create IoT application servers, faster.
 * [Epoc.js ★ 27 ⧗ 0](https://github.com/charliegerard/Epoc.js) - This framework provides an interface to access data from the Emotiv EPOC brain sensor using Node.js.
@@ -667,8 +668,9 @@ for embedded systems (IoT in mind).
 
 ## Edge
 
-* [Project Flogo ★ 207 ⧗ 0](https://github.com/TIBCOSoftware/flogo) - is an Open Source Framework for IoT Edge Apps & Integration.
+* **[AREG SDK ★ 15 ⧗ 0](https://github.com/aregtech/areg-sdk)** - AREG SDK is a developer-friendly, an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-computing](https://csrc.nist.gov/publications/detail/sp/500-325/final), where connected Things interact and provide services, as if they act like thin distributed servers.
 * [Eden ★ 25 ⧗ 0](https://github.com/lf-edge/eden) - CLI for Edge Virtualization Engine (EVE)
+* [Project Flogo ★ 207 ⧗ 0](https://github.com/TIBCOSoftware/flogo) - is an Open Source Framework for IoT Edge Apps & Integration.
 
 ## AI
 
