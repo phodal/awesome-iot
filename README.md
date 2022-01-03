@@ -429,7 +429,7 @@ for embedded systems (IoT in mind).
 * [szl ★ 100 ⧗ 0](https://github.com/dimkr/szl) - is a tiny, embeddable scripting engine inspired by Tcl and shell.
 * **[Terra ★ 1248 ⧗ 0](https://github.com/zdevito/terra)** - is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language.
 * **[V7 ★ 576 ⧗ 0](https://github.com/cesanta/v7)** - V7 is a JavaScript engine written in C. It makes it possible to program Internet of Things (IoT) devices in JavaScript.
-* **[PikaScript ★ 88 ⧗ 0](https://github.com/pikasTech/pikaScript)** - PikaScript is a extremely lightweight python engine that can run with less than 4KB of RAM such as stm32g030c8 and stm32f103c8. It is zero dependency, zero configuration, easy to deploy and expand.
+* **[PikaScript ★ 211 ⧗ 17](https://github.com/pikasTech/pikaScript)** - PikaScript is a extremely lightweight python engine that can run with less than 4KB of RAM such as stm32g030c8 and stm32f103c8. It is zero dependency, zero configuration, easy to deploy and expand.
 ### Others
 
 * [ESP8266-Wifi-Relay ★ 31 ⧗ 19](https://github.com/JanGoe/esp8266-wifi-relay) - ESP8266-ESP12e Wifi Doppel Relay IOT Unterputz Montage möglich / Schaltaktor.
