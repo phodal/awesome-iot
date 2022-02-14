@@ -280,6 +280,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 * [CloudPlugs IoT](https://cloudplugs.com/) - "An end-to-end Fog Computing Platform for IoT."
 * [Exosite murano](https://exosite.com/platform/) - IoT platform by Exosite.
 * [Google Cloud IoT](https://cloud.google.com/solutions/iot/) - Google Cloud Platform IoT solutions.
+* [Huawei Cloud IoTDA](https://www.huaweicloud.com/product/iothub.html) - Huawei cloud for the IoT.
 * [IBM Watson](http://www.ibm.com/watson/) - IBM cloud for the IoT.
 * [Oracle IoT Cloud](https://cloud.oracle.com/iot) - ORACLE Cloud for the Internet of Things.
 * [Rightech IoT Cloud](https://app.rightech.io) - IoT platform.
