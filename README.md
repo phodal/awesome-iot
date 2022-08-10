@@ -626,6 +626,7 @@ for embedded systems (IoT in mind).
 * [Infoq IoT Weekly](http://www.infoq.com/cn/adf) - Weekly IoT News, Open Source Project, Hardware
 * [Instructables - tech](http://www.instructables.com/tag/type-id/category-technology/) - Explore the Biggest How To and DIY community where people make and share inspiring, entertaining, and useful projects, recipes, and hacks.
 * [Makezine](https://makezine.com/) - DIY Projects and Ideas for Makers.
+* [Explore IoT](https://kandi.openweaver.com/explore/internet-of-things) - A search engine 🔎 tool to discover & find a curated list of popular & new IoT libraries across all languages, top authors, trending project kits, discussions, tutorials & learning resources.
 
 ### Blog
 
