@@ -387,6 +387,8 @@ Layered architecture of JTAG interface and TAP support
 * [Sonoff-HomeAssistant ★ 336 ⧗ 1](https://github.com/KmanOz/Sonoff-HomeAssistant) - is alternative firmware for the brilliant & cheap ($ not quality) range of Sonoff range of ESP-8266 based WiFi controlled switches.
 * [Vör ★ 31 ⧗ 2](https://github.com/futurice/vor) - is open source software and hardware for turning your open office into an open, real-time map for finding people, open work places and current events.
 * [Node-RED](https://github.com/node-red/node-red) - Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.
+* [hkontroller](https://github.com/hkontrol/hkontroller) - Apple HomeKit Controller implemented in Go programming language.
+* [hkmobile](https://github.com/hkontrol/hkmobile) - Apple HomeKit Controller for Android.
 
 ## IDE
 
