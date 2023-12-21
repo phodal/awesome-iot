@@ -318,6 +318,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 * [t6 ★ 21 ⧗ 4](https://github.com/mathcoll/t6) - Data-first IoT platform to connect physical Objects with time-series DB and perform Data Analysis.
 * **[ThingSpeak ★ 743 ⧗ 0](https://github.com/iobridge/ThingSpeak)** - ThingSpeak is an open source "Internet of Things" application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network.\
 * [Shifu ★ 312 ⧗ 0](https://github.com/Edgenesis/shifu) - Shifu is a Kubernetes native IoT development framework that supports multi-protocol device access.
+* [Zilla](https://github.com/aklivity/zilla) - A Multi-protocol event-native edge/service proxy that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
 
 ## Toolkits Include Non-OS
 
