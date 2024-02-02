@@ -585,7 +585,7 @@ for embedded systems (IoT in mind).
 * [React Native ESP8266 Smartconfig ★ 75 ⧗ 5](https://github.com/tuanpmt/react-native-smartconfig) - a react-native module for ESP8266 ESPTOUCH Smart config.
 * **[Servo ★ 7821 ⧗ 0](https://github.com/servo/servo)** -  is a prototype web browser engine written in the Rust language.
 * [ShellHub ★ 702 ⧗ 70](https://github.com/shellhub-io/shellhub) - Centralized SSH for the the edge and cloud computing.
-* [The Things Network ★ 67 ⧗ 4](https://github.com/TheThingsNetwork/ttn) - The Things Network is a global open crowdsourced Internet of Things data network.
+* [The Things Stack ★ 887 ⧗ 4](https://github.com/TheThingsNetwork/lorawan-stack) - The Things Stack, an open source LoRaWAN network server created by The Things Industries. Creators of the global open crowdsourced Internet of Things data network The Things Network.
 * [The Things Network Arduino Library ★ 82 ⧗ 9](https://github.com/TheThingsNetwork/arduino-device-lib) - is an Arduino Library for Arduino devices like The Things Uno and Node to communicate via The Things Network.
 * [WAMP Protocol ★ 228 ⧗ 1](https://github.com/wamp-proto/wamp-proto) - The Web Application Messaging Protocol The Web Application Messaging Protocol.
 
