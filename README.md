@@ -127,6 +127,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 * [PJON ★ 427 ⧗ 4](https://github.com/gioblu/PJON) - Digital communication framework for Arduino and IOT.
 * [Windows Remote Arduino ★ 98 ⧗ 13](https://github.com/ms-iot/remote-wiring) - Remote "Arduino Wiring" interface for Windows 8.1, Windows Phone 8.1 and Windows 10. Used to control an Arduino from a Universal Windows Platform application.
 * [WiringPi ★ 455 ⧗ 11](https://github.com/WiringPi/WiringPi) - Gordon's Arduino wiring-like WiringPi Library for the Raspberry Pi.
+* [Theengs decoder](https://decoder.theengs.io) Lightweight parsing library compatible with multiple OS and platforms.
 
 ### Low Level
 
@@ -175,6 +176,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 * [PhoneGap NFC ★ 312 ⧗ 2](https://github.com/chariotsolutions/phonegap-nfc) - PhoneGap NFC Plugin
 * [PWAify ★ 269 ⧗ 8](https://github.com/vladikoff/PWAify) - Experimental project to convert your PWA (Progressive Web App) into a cross-platform Electron app. Brings PWAs to your desktop.
 * [Summon ★ 7 ⧗ 52](https://github.com/lab11/summon) - A platform for mobile devices that provides a convenient and scalable mechanism for IoT device interactivity, enabled by web-based interfaces and driven by the devices themselves.
+* [Theengs App](https://app.theengs.io) Mobile BLE to MQTT and reader application compatible with over 90 Bluetooth sensors.
 
 ## Storage
 
@@ -417,6 +419,7 @@ for embedded systems (IoT in mind).
 * [fluent-bit ★ 90 ⧗ 4](https://github.com/fluent/fluent-bit) - is a data collector for Linux, Embedded Linux, OSX and BSD family operating systems.
 * [Kamanja ★ 21 ⧗ 1](https://github.com/LigaData/Kamanja) -  is an open-source continuous decisioning engine that is hardened for enterprise reliability requirements, scalable to IoT level data volumes, and enables low latency use cases.
 * **[Node-RED ★ 2513 ⧗ 0](https://github.com/node-red/node-red)** - A visual tool for wiring the Internet of Things.
+* [OpenMQTTGateway](https://docs.openmqttgateway.com) - BLE, 433Mhz, LoRa to MQTT gateway with hundreds of devices supported. Integrate with Home-Assistant, OpenHAB, Jeedom, Domoticz, FHEM and many more.
 * [Parlay ★ 8 ⧗ 160](https://github.com/PromenadeSoftware/Parlay) -  is software that brings visibility and accessibility to embedded devices.
 * [redzilla ★ 13 ⧗ 37](https://github.com/muka/redzilla) -  is a service which allow to create easily instances of node-red.
 * [RemoteDebug ★ 17 ⧗ 11](https://github.com/JoaoLopesF/RemoteDebug) - A library to remote debug over telnet connection!
@@ -555,7 +558,7 @@ for embedded systems (IoT in mind).
 ### Bluetooth
 
 * [BluetoothLinux](https://github.com/PureSwift/BluetoothLinux)  is a Pure Swift Linux Bluetooth Stack.
-
+* [Theengs gateway](https://gateway.theengs.io) BLE to MQTT gateway compatible with over 90 Bluetooth sensors.
 * **[BluetoothSerial ★ 863 ⧗ 0](https://github.com/don/BluetoothSerial)** - Cordova (PhoneGap) Plugin for Serial Communication over Bluetooth
 * [React Native Bluetooth Serial ★ 299 ⧗ 2](https://github.com/rusel1989/react-native-bluetooth-serial) - React Native version of BluetoothSerial plugin. For both android and ios
 
