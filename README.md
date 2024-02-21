@@ -31,6 +31,7 @@ ToC
 - [Middleware](#middleware)
 - [Toolkits Include Non-OS](#toolkits-include-non-os)
 - [Data Visualization](#data-visualization)
+- [Real-time Data](#real-time-data)
 - [Hardware](#hardware)
 - [Home Automation](#home-automation)
 - [IDE](#ide)
@@ -347,6 +348,10 @@ Layered architecture of JTAG interface and TAP support
 * **[HighCharts ★ 4949 ⧗ 0](https://github.com/highslide-software/highcharts.com)** - Highcharts JS, the JavaScript charting framework
 * [iotdashboard ★ 7 ⧗ 14](https://github.com/electrocoder/iotdashboard) - Fast Django server for IOT Devices.
 * [Shelloid ★ 20 ⧗ 1](https://github.com/shelloid/shelloid) - is an open source IoT-ready real-time big data web application platform built using Node.js and Clojure.
+
+## Real-time Data
+
+* [Streamdal](https://github.com/streamdal/streamdal) - An IoT-ready, Wasm-powered workflow engine you embed directly into application code for ridiculously fast, real-time data transformations.
 
 ## Hardware
 
