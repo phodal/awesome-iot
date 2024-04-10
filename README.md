@@ -476,7 +476,7 @@ for embedded systems (IoT in mind).
 * [LightMQTT ★ 32 ⧗ 11](https://github.com/PasiSalenius/LightMQTT) - is a lightweight MQTT client, written in Swift.
 * [m2mqtt ★ 69 ⧗ 11](https://github.com/ppatierno/m2mqtt) - MQTT Client Library for .Net and WinRT.
 * **[microTT ★ 673 ⧗ 1](https://github.com/uNetworking/uTT)** - is a lightweight and efficient MQTT broker designed to raise the bar for pub/sub performance.
-* [moquette ★ 309 ⧗ 2](https://github.com/andsel/moquette) - Java MQTT lightweight broker.
+* [moquette ★ 2239 ⧗ 2](https://github.com/moquette-io/moquette) - Java MQTT lightweight broker.
 * **[mosca ★ 1097 ⧗ 0](https://github.com/mcollina/mosca)** - Mosca is a node.js mqtt broker.
 * [Mosquitto ★ 158 ⧗ 0](https://github.com/eclipse/mosquitto) - An Open Source MQTT v3.1/v3.1.1 Broker.
 * [MQTT Explorer](https://mqtt-explorer.com/) - Tool to visualize your MQTT topics in a topic hierarchy, a MQTT swiss-army knife.
