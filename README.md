@@ -311,6 +311,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 
 * [OGC SensorThings API ★ 21 ⧗ 15](https://github.com/opengeospatial/sensorthings) - The OGC SensorThings API is an OGC standard specification for providing an open and unified way to interconnect IoT devices, data, and applications over the Web
 * [Qeo Tinq ★ 6 ⧗ 392](https://github.com/brunodebus/tinq-core) - Tinq is completely based on the Qeo publish/subscribe framework produced by Technicolor as explained in the license section.
+* [OpenCage](https://opencagedata.com/) - provide a reverse geocoding API based on open data for high volume conversion of device coordinates (lat,lon) into useful location information (address, timezone, etc).
 
 ## Middleware
 
