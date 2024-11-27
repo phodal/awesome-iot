@@ -105,6 +105,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 * [Simgrid ★ 46 ⧗ 53](https://github.com/simgrid/simgrid) -  is a scientific instrument to study the behavior of large-scale distributed systems such as Grids, Clouds, HPC or P2P systems.
 * **[Sming ★ 1800 ⧗ 0](https://github.com/SmingHub/Sming)** - Sming is an asynchronous C/C++ framework with superb performance and multiple network features. Sming is open source and is tailored towards embedded devices.
 * [Thingsboard IoT Gateway ★ 463 ⧗ 246](https://github.com/thingsboard/thingsboard-gateway) - open-source IoT Gateway - integrates devices connected to legacy and third-party systems with Thingsboard IoT Platform using OPC-UA and MQTT protocols.
+* [WTX](https://github.com/c410-f3r/wtx) - A framework for web-oriented applications
 
 ## Library
 
