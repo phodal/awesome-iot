@@ -257,6 +257,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 * [Hologram](https://hologram.io/) - Open source, full stack platform with standalone devices and usb plug in. Offers a free developer tier.
 * **[IoT.js ★ 921 ⧗ 0](https://github.com/Samsung/iotjs)** - Platform for Internet of Things with JavaScript.
 * [IoTgo ★ 173 ⧗ 0](https://github.com/itead/IoTgo) - is an open source IoT platform, like WordPress, ZenCart and all other open source software, you can deploy your own IoTgo cloud service.
+* [Iotellect](https://iotellect.com) - A low-code IoT/IIoT Application Enablement Platform (AEP) for building, deploying and managing industrial automation, remote monitoring and smart infrastructure solutions. Integrates edge and cloud capabilities with MQTT, OPC-UA, Modbus and 100+ protocols support.
 * [Jasper](http://jasperproject.github.io/) - Jasper is an open source platform for developing always-on, voice-controlled applications.
 * [KERBEROS.IO Web ★ 176 ⧗ 16](https://github.com/kerberos-io/web) - a  GUI to configure the machinery and to view events that were detected by the machinery.
 * [Kitnic ★ 124 ⧗ 0](https://github.com/monostable/kitnic) - A registry for ready to build open hardware electronics projects.
