@@ -155,6 +155,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 * **[nexmon ★ 885 ⧗ 2](https://github.com/seemoo-lab/nexmon)** -  is our C-based firmware patching framework for Broadcom/Cypress WiFi chips.
 * [Pelion Device Management Client ★ 19 ⧗ 41](https://github.com/ARMmbed/mbed-cloud-client) - a library that connects devices to Pelion Device Management service and to Mbed-enabled cloud services from our partners.
 * [pingo-py ★ 223 ⧗ 15](https://github.com/pingo-io/pingo-py) - provides a uniform API to program devices like the Raspberry Pi, BeagleBone Black, pcDuino etc. just like the Python DBAPI provides an uniform API for database programming in Python.
+* [PiSpot-Show](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi WiFi voucher display system with weather integration and PiJuice battery management.
 * [polymcu ★ 57 ⧗ 3](https://github.com/labapart/polymcu) - an open framework for micro-controller software.
 * [Secure Device Grid ★ 4 ⧗ 20](https://github.com/trifork/secure-device-grid) - Secure device-to-device communication solution for IOT.
 * **[simbody ★ 540 ⧗ 0](https://github.com/simbody/simbody)** - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
