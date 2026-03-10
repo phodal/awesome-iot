@@ -373,6 +373,8 @@ Layered architecture of JTAG interface and TAP support
 * [Intel Galileo](http://www.arduino.cc/en/ArduinoCertified/IntelGalileo) - Galileo is a microcontroller board based on the Intel® Quark SoC X1000 Application Processor, a 32-bit Intel Pentium-class system on a chip
 * [Microduino](https://www.microduino.cc/) - Microduino is about the size of a quarter and less than half the size of the original Arduino board.
 * [NodeMCU](http://www.nodemcu.com/) -  a firmware based on ESP8266 wifi-soc.
+* [PiSpot Show](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi WiFi voucher display system with weather integration and PiJuice battery management.
+* [PiSpot Watch](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Raspberry Pi Zero smartwatch with e-ink display for generating WiFi voucher codes on demand.
 * [Powerduino ★ 53 ⧗ 102](https://github.com/dekuNukem/Powerduino) - A fully programmable power strip with energy monitoring and wireless connectivity.
 * [PULPino ★ 201 ⧗ 0](https://github.com/pulp-platform/pulpino) - PULPino is an open-source microcontroller system, based on a small 32-bit RISC-V core developed at ETH Zurich.
 * [Raspberry Pi](https://www.raspberrypi.org/) - a tiny and affordable computer that you can use to learn programming through fun, practical projects
