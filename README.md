@@ -374,6 +374,8 @@ Layered architecture of JTAG interface and TAP support
 * [NodeMCU](http://www.nodemcu.com/) -  a firmware based on ESP8266 wifi-soc.
 * [Powerduino ★ 53 ⧗ 102](https://github.com/dekuNukem/Powerduino) - A fully programmable power strip with energy monitoring and wireless connectivity.
 * [PULPino ★ 201 ⧗ 0](https://github.com/pulp-platform/pulpino) - PULPino is an open-source microcontroller system, based on a small 32-bit RISC-V core developed at ETH Zurich.
+* [PiSpot Show ★ 1](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi WiFi voucher display system with weather integration and PiJuice battery management.
+* [PiSpot Watch ★ 1](https://github.com/GeiserX/PiSpot-Watch) - Software for running a PiSpot Watch, composed of a Raspberry Pi Zero and a PaPiRus Zero e-ink display.
 * [Raspberry Pi](https://www.raspberrypi.org/) - a tiny and affordable computer that you can use to learn programming through fun, practical projects
 * [SquareWear](http://rayshobby.net/sqrwear/) - An Open-Source Arduino-based Wearable Microcontroller
 * [Tessel](https://tessel.io/) - Tessel is a completely open source and community-driven IoT and robotics development. platform.
