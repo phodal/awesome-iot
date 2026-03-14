@@ -621,7 +621,6 @@ for embedded systems (IoT in mind).
 * [Mer](https://github.com/iotmertech/iot-data-generator) - A developer-friendly IoT test data generator CLI written in Rust. Supports MQTT, HTTP, and TCP for simulating realistic sensor payloads.
 * [MQTT File Uploader](https://github.com/volkanalkilic/Mqtt-File-Uploader) - MQTT File Uploader is a simple Cross-platform .NET Core application that watches local directories for changes and uploads new or modified files to an MQTT broker.
 
-
 ## Voice
 
 * [chelexa ★ 2 ⧗ 25](https://github.com/chelexa/chelexa) - Natural voice recognition IoT cloud chess solution via the Amazon Echo platform.
