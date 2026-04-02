@@ -193,6 +193,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 ## Security
 
 * [IoTSeeker](https://github.com/rapid7/IoTSeeker) This scanner will scan a network for specific types of IoT devices to detect if they are using the default, factory set credentials.
+* [HookProbe](https://github.com/hookprobe/hookprobe) - Edge-first autonomous SOC and AI-native IDS for IoT network security. Runs on Raspberry Pi.
 
 * [nShield ★ 66 ⧗ 35](https://github.com/fnzv/nShield) - An Easy and Simple Anti-DDoS solution for VPS,Dedicated Servers and IoT devices based on iptables.
 * [Scanners-Box ★ 424 ⧗ 0](https://github.com/We5ter/Scanners-Box) - the toolbox of open source scanners.
