@@ -303,6 +303,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 * [Zatar](http://www.zatar.com/) - "Zatar is the first ARMmbed standards-based IoT cloud service".
 * [EMQX Cloud](https://www.emqx.com/en/cloud) - Fully managed MQTT service for IoT. Connect your IoT devices to any cloud without the burden of maintaining infrastructure.
 * [IoTSharp](https://github.com/IoTSharp/IoTSharp) - IoTSharp is an open-source IoT platform.
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for IoT device orchestration, automated monitoring, and multi-agent infrastructure management. MIT licensed.
 
 ## IIoT Clouds
 
