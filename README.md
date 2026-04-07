@@ -717,6 +717,7 @@ for embedded systems (IoT in mind).
 * [libdeep](https://github.com/bashrc/libdeep) - A deep learning library for C/C++.
 * [Machinery ★ 174 ⧗ 0](https://github.com/kerberos-io/machinery) - is a low-budget video surveillance solution, that uses computer vision algorithms to detect changes, and that can trigger other devices.
 * [TensorFlow for Raspberry Pi ★ 317 ⧗ 0](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) - step-by-step instructions for installing TensorFlow from source using Bazel (which is also compiled from-scratch), as well as pre-built TensorFlow binaries.
+* [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 
 ## Analytics
 
