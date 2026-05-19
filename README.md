@@ -198,6 +198,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 * [nShield ★ 66 ⧗ 35](https://github.com/fnzv/nShield) - An Easy and Simple Anti-DDoS solution for VPS,Dedicated Servers and IoT devices based on iptables.
 * [Scanners-Box ★ 424 ⧗ 0](https://github.com/We5ter/Scanners-Box) - the toolbox of open source scanners.
 * [trezor-crypto ★ 94 ⧗ 1](https://github.com/trezor/trezor-crypto) - 📙 Heavily optimized cryptography algorithms for embedded devices.
+* [data-act-iot-kit](https://github.com/plusultra-tools/data-act-iot-kit) - EU Data Act Art. 4-5 reference implementation. Drop-in user-data-access HTTP endpoint for connected products, with verbatim-cited compliance manifest. Targets the 2026-09-11 access-by-design obligation.
 
 ## OS
 
