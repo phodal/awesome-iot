@@ -314,6 +314,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 * [Space-Time Insight IIoT](http://www.spacetimeinsight.com/solutions/internet-of-things/) - Industrial IoT cloud (formerly go-factory.com).
 * [Thingworx](https://www.thingworx.com/platforms/industrial-connectivity/) - Industrial IoT cloud.
 * [Voice of the Machine](http://www.parker.com/portal/site/PARKER/menuitem.17c8315d31f057bc86a6c3544256d1ca/?vgnextoid=244744e25684b510VgnVCM100000e6651dacRCRD&vgnextchannel=9f45216358d55510VgnVCM100000e6651dacRCRD&vgnextfmt=) - Industrial IoT cloud (by Parker Hannifin, based on Exosite).
+* [ForestHub.ai](https://foresthub.ai) - Embedded & edge AI agent platform for industrial devices.
 
 ## APIs
 
