@@ -340,6 +340,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 
 Layered architecture of JTAG interface and TAP support
 
+* [Electrum ★ 4 ⧗ 1](https://github.com/yoelf22/electrum) - A structured, AI-assisted toolkit for defining hardware products that have software inside — from concept through engineering spec to presentation-ready materials in eight phases.
 * [IoT Toolkit ★ 39 ⧗ 41](https://github.com/connectIOT/iottoolkit) - Reference implementation of the smart object API
 * [iot-adk-addonkit ★ 8 ⧗ 1](https://github.com/ms-iot/iot-adk-addonkit) - Contains command line scripts for package creation and image creation process and samples for iot products based on RPi2/MBM.
 * [KinomaJS ★ 293 ⧗ 0](https://github.com/Kinoma/kinomajs) - A JavaScript runtime optimized for the applications that power IoT devices.
