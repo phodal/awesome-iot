@@ -573,6 +573,13 @@ for embedded systems (IoT in mind).
 * **[MeQ ★ 920 ⧗ 1](https://github.com/teamsaas/meq)** - is a real-time communication service for connecting online devices.
 * [OSS-7 ★ 44 ⧗ 37](https://github.com/MOSAIC-LoPoW/dash7-ap-open-source-stack) - is an open source implementation of the DASH7 Alliance protocol for ultra low power wireless sensor communication.
 
+
+### Modbus
+
+* [aem-modbus-simulator ★ 0 ⧗ 0](https://github.com/leaberg69/aem-modbus-simulator) - Open-source Modbus RTU/TCP slave simulator for the LRI AEM-60DC8 industrial DC monitor. Mirrors 147 holding registers, supports six baudrates (4,800–115,200), TCP and Serial modes. Useful for SCADA/PLC integration testing without physical hardware.
+* [pymodbus ★ 2400 ⧗ 100](https://github.com/pymodbus-dev/pymodbus) - A full Modbus protocol implementation for Python, supporting RTU, TCP, ASCII over serial and network transports.
+* [libmodbus ★ 2400 ⧗ 50](https://github.com/stephane/libmodbus) - A Modbus library for Linux, Mac OS, FreeBSD, QNX and Windows, written in C.
+
 ## Fork
 
 * [AWS IoT Button ★ 5 ⧗ 4](https://github.com/ianmas-aws/iot-button-emulator) - Emulate the AWS IoT Button on a Raspberry Pi with a simple push button using this C++ sample.
