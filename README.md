@@ -324,6 +324,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 * [OpenCage](https://opencagedata.com/) - provide a reverse geocoding API based on open data for high volume conversion of device coordinates (lat,lon) into useful location information (address, timezone, etc).
 * [Qeo Tinq ★ 6 ⧗ 392](https://github.com/brunodebus/tinq-core) - Tinq is completely based on the Qeo publish/subscribe framework produced by Technicolor as explained in the license section.
 * [Vedika API](https://vedika.io) - Vedic astrology API with AI chatbot for IoT displays, smart mirrors, and embedded dashboards. Provides birth charts, daily horoscopes, panchang, and muhurta calculations.
+* [Superhighway](https://superhighway.walls.sh/guides/manufacturing-research-agent) - Live web search API for AI agents. Build a Python agent that researches manufacturing markets, IIoT landscapes, OEE benchmarks, and supply chain trends. Pay-per-call with USDC via x402.
 
 ## Middleware
 
