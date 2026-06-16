@@ -446,6 +446,7 @@ for embedded systems (IoT in mind).
 * [Kamanja ★ 21 ⧗ 1](https://github.com/LigaData/Kamanja) -  is an open-source continuous decisioning engine that is hardened for enterprise reliability requirements, scalable to IoT level data volumes, and enables low latency use cases.
 * **[Node-RED ★ 2513 ⧗ 0](https://github.com/node-red/node-red)** - A visual tool for wiring the Internet of Things.
 * [OpenMQTTGateway](https://docs.openmqttgateway.com) - BLE, 433Mhz, LoRa to MQTT gateway with hundreds of devices supported. Integrate with Home-Assistant, OpenHAB, Jeedom, Domoticz, FHEM and many more.
+* [Smart Plantation](https://github.com/sushantkumarkhobian-lab/Smart-Plantation) - ESP32-based smart agriculture platform featuring real-time environmental monitoring, automated irrigation, crop-yield prediction, pest detection, secure sensor-data logging, and dashboard visualization.
 * [Parlay ★ 8 ⧗ 160](https://github.com/PromenadeSoftware/Parlay) -  is software that brings visibility and accessibility to embedded devices.
 * [redzilla ★ 13 ⧗ 37](https://github.com/muka/redzilla) -  is a service which allow to create easily instances of node-red.
 * [RemoteDebug ★ 17 ⧗ 11](https://github.com/JoaoLopesF/RemoteDebug) - A library to remote debug over telnet connection!
