@@ -329,7 +329,6 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 * [Qeo Tinq ★ 6 ⧗ 392](https://github.com/brunodebus/tinq-core) - Tinq is completely based on the Qeo publish/subscribe framework produced by Technicolor as explained in the license section.
 * [Vedika API](https://vedika.io) - Vedic astrology API with AI chatbot for IoT displays, smart mirrors, and embedded dashboards. Provides birth charts, daily horoscopes, panchang, and muhurta calculations.
 * [Superhighway](https://superhighway.walls.sh/guides/manufacturing-research-agent) - Live web search API for AI agents. Build a Python agent that researches manufacturing markets, IIoT landscapes, OEE benchmarks, and supply chain trends. Pay-per-call with USDC via x402.
-* [FoundryNet Canonical Schema](https://github.com/FoundryNet/canonical-schema) - Open universal schema for industrial equipment telemetry normalization. 366 canonical fields, 16,908 cross-vendor mappings across 18 OEM families. MIT licensed.
 
 ## Middleware
 
@@ -461,6 +460,7 @@ for embedded systems (IoT in mind).
 * [tinyVP ★ 12 ⧗ 48](https://github.com/lyegoshin/tinyVP) - is a very small and lean hypervisor using MIPS R5 hardware VZ option
 * [vorto ★ 32 ⧗ 3](https://github.com/eclipse/vorto) - is a toolset that lets you describe devices using a simple language and share these descriptions, so-called Information Models, in a centralized Vorto Repository.
 * [boto3-refresh-session](https://github.com/michaelthomasletts/boto3-refresh-session) - A drop-in replacement for `boto3.session.Session` for automatically refreshing temporary AWS credentials from the AWS IoT Core credential provider (using an X.509 certificate).
+* [FoundryNet Canonical Schema](https://github.com/FoundryNet/canonical-schema) - Open universal schema for industrial equipment telemetry normalization. 366 canonical fields, 16,908 cross-vendor mappings across 18 OEM families. MIT licensed.
 
 ## Language
 
