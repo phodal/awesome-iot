@@ -424,6 +424,7 @@ Layered architecture of JTAG interface and TAP support
 * [hkontroller](https://github.com/hkontrol/hkontroller) - Apple HomeKit Controller implemented in Go programming language.
 * [hkmobile](https://github.com/hkontrol/hkmobile) - Apple HomeKit Controller for Android.
 * [ZHAC](https://github.com/zhac-project/zhac-platform) - A dual-chip ESP32-P4 + ESP32-S3 Zigbee home automation controller with a Lua rule engine, local web UI, and MQTT gateway.
+* [ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) - Cross-platform Node.js service that reads BLE smart scales, calculates body composition, and exports readings to MQTT with Home Assistant auto-discovery, InfluxDB, Garmin Connect, and webhooks.
 
 ## IDE
 
