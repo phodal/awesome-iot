@@ -29,6 +29,7 @@ FENCE = re.compile(r"^ {0,3}(`{3,}|~{3,})")
 
 class GitHubRedirects(HTTPRedirectHandler):
     def redirect_request(self, request, response, code, message, headers, newurl):
+        """Reject redirects that could send authentication outside GitHub's API."""
         target = urlsplit(newurl)
         if target.scheme != "https" or target.netloc.lower() != "api.github.com":
             raise RuntimeError("Refusing an authenticated redirect outside GitHub's API")
@@ -36,6 +37,7 @@ class GitHubRedirects(HTTPRedirectHandler):
 
 
 def repository_name(url):
+    """Return owner/repository only for a valid GitHub repository-root URL."""
     parsed = urlsplit(url)
     if parsed.scheme != "https" or parsed.netloc.lower() != "github.com":
         return None
@@ -46,6 +48,7 @@ def repository_name(url):
 
 
 def fetch_repository(repository):
+    """Fetch validated metadata; return None only for HTTP 404/410 responses."""
     headers = {"Accept": "application/vnd.github+json", "User-Agent": "awesome-iot-metadata"}
     token = os.environ.get("GITHUB_TOKEN")
     if token:
@@ -69,6 +72,7 @@ def fetch_repository(repository):
 
 
 def refresh_readme(text, fetch):
+    """Refresh eligible list entries without changing unrelated Markdown content."""
     cache, output, removed = {}, [], []
     refreshed = 0
     fence = None
@@ -107,6 +111,7 @@ def refresh_readme(text, fetch):
 
 
 def update_file(path, fetch=fetch_repository):
+    """Replace the README atomically only after every metadata request succeeds."""
     path = Path(path)
     with path.open(encoding="utf-8", newline="") as source:
         original = source.read()
@@ -127,6 +132,7 @@ def update_file(path, fetch=fetch_repository):
 
 
 def main():
+    """Run the updater and report sanitized failures without exposing tokens."""
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("readme", nargs="?", default="README.md")
     arguments = parser.parse_args()
