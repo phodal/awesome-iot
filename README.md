@@ -167,7 +167,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 * [IoTDL ★ 16 ⧗ 8](https://github.com/dpjanes/iotdb-iotql) - an SQL-like language for the IoT.
 * [node-iotdb ★ 47 ⧗ 61](https://github.com/dpjanes/node-iotdb) - Easily control the Internet of Things using Semantics.
 * [HStreamDB ★ 722](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
-* [AimDB ★ 101](https://github.com/aimdb-dev/aimdb) - An async, in-memory data bridge that syncs records across microcontrollers, edge gateways and cloud instances. Define once, stream and sync everywhere.
+* [AimDB ★ 101](https://github.com/aimdb-dev/aimdb) - Data ingestion layer for distributed systems with typed contracts, safe schema evolution and one place to see and manage every node, from microcontroller to cloud.
 * [ReductStore ★ 373](https://github.com/reductstore/reductstore) - high-performance blob and time-series storage for industrial IoT, with edge deployment, selective replication, and efficient querying of multimodal data.
 
 ## Security
@@ -249,6 +249,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 * [awtSCADA](https://github.com/larionovavi-stack/awtscada) - Industrial SCADA/HMI system that runs from a single HTML file in any browser. Supports IEC 61850, OPC UA, Modbus TCP. 53 function blocks, 65 graphic elements. No installation required.
 * [Simple IoT](https://github.com/dingdaoyi/simple-iot) - Single-binary, self-hosted IoT platform built with Spring Boot 4 + Vue 3. Built-in MQTT broker, visual rule engine, hot-loaded Java/JS/Groovy/Lua protocol scripts, InfluxDB 3 time-series storage. One-command deploy on a 2 GB VPS.
 * [DeviceChain](https://github.com/devicechain-io/devicechain) - Apache-2.0 self-hosted IoT platform written in Go and React. Multi-tenant microservices on Kubernetes: MQTT/Sparkplug B/LwM2M ingest, TimescaleDB time-series storage, a CEL-based rule engine with alarms and outbound connectors, versioned dashboards, and GraphQL APIs. [(Docs)](https://docs.devicechain.io)
+* [Zelos](https://zeloscloud.io) - Data platform for hardware systems. Desktop app to connect hardware, stream live data, and analyze traces. Free for macOS, Windows, and Linux.
 
 ## IoT Clouds
 
@@ -563,6 +564,7 @@ for embedded systems (IoT in mind).
 * **[Toit ★ 961 ⧗ 67](https://toit.io/)** - The Toit platform combines the functionality of serving your devices in a robust, resilient way, and letting you have control over your devices and your data, as well as ready-to-use over-the-air firmware and application updates on your network-connected embedded devices.
 * [Mer](https://github.com/iotmertech/iot-data-generator) - A developer-friendly IoT test data generator CLI written in Rust. Supports MQTT, HTTP, and TCP for simulating realistic sensor payloads.
 * [MQTT File Uploader](https://github.com/volkanalkilic/Mqtt-File-Uploader) - MQTT File Uploader is a simple Cross-platform .NET Core application that watches local directories for changes and uploads new or modified files to an MQTT broker.
+* [Mqttable](https://mqttable.com/) - Desktop MQTT workbench for traffic inspection, replay, load testing, fault injection, and PCAP analysis.
 
 ## Voice
 
