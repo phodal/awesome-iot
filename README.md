@@ -564,6 +564,7 @@ for embedded systems (IoT in mind).
 * [Mer](https://github.com/iotmertech/iot-data-generator) - A developer-friendly IoT test data generator CLI written in Rust. Supports MQTT, HTTP, and TCP for simulating realistic sensor payloads.
 * [MQTT File Uploader](https://github.com/volkanalkilic/Mqtt-File-Uploader) - MQTT File Uploader is a simple Cross-platform .NET Core application that watches local directories for changes and uploads new or modified files to an MQTT broker.
 * [Mqttable](https://mqttable.com/) - Desktop MQTT workbench for traffic inspection, replay, load testing, fault injection, and PCAP analysis.
+* [SolidPing](https://github.com/fclairamb/solidping) - Self-hosted uptime monitoring with an MQTT check that runs a publish/subscribe round trip on a broker and alerts on failure.
 
 ## Voice
 
