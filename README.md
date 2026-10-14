@@ -101,6 +101,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 * **[Sming ★ 1569 ⧗ 0](https://github.com/SmingHub/Sming)** - Sming is an asynchronous C/C++ framework with superb performance and multiple network features. Sming is open source and is tailored towards embedded devices.
 * [Thingsboard IoT Gateway ★ 2196 ⧗ 246](https://github.com/thingsboard/thingsboard-gateway) - open-source IoT Gateway - integrates devices connected to legacy and third-party systems with Thingsboard IoT Platform using OPC-UA and MQTT protocols.
 * [WTX](https://github.com/c410-f3r/wtx) - A framework for web-oriented applications
+* [pympacds ★ 1 ⧗ 0](https://github.com/dargor0/pympacds) - Lightweight D-Bus-native asyncio framework for building modular, multi-process Linux daemons, suited to embedded and IoT gateways with automatic service discovery.
 
 ## Library
 
