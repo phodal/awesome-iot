@@ -216,6 +216,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 * [alexa-rubykit ★ 158 ⧗ 6](https://github.com/damianFC/alexa-rubykit) - implements a quick back-end service for deploying applications for Amazon's Echo (Alexa).
 * [AlexaPi ★ 46 ⧗ 1](https://github.com/sammachin/AlexaPi) - Turn a Raspberry Pi into an Alexa Client.
 * **[flask-ask ★ 1910 ⧗ 0](https://github.com/johnwheeler/flask-ask)** - is a Flask extension that makes building Alexa skills for the Amazon Echo easier and much more fun.
+* [VoxRT](https://github.com/VoxRT) - On-device voice AI runtime (wake-word, VAD, keyword spotting, streaming ASR) for IoT devices. Native Rust runtime with SDKs for Linux (aarch64 Raspberry Pi), iOS, Android, and WebAssembly. No cloud dependency, no API keys.
 
 ## Platform
 
