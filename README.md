@@ -399,6 +399,7 @@ for embedded systems (IoT in mind).
 * [tinyVP ★ 21 ⧗ 48](https://github.com/lyegoshin/tinyVP) - is a very small and lean hypervisor using MIPS R5 hardware VZ option
 * [boto3-refresh-session](https://github.com/michaelthomasletts/boto3-refresh-session) - A drop-in replacement for `boto3.session.Session` for automatically refreshing temporary AWS credentials from the AWS IoT Core credential provider (using an X.509 certificate).
 * [FoundryNet Canonical Schema](https://github.com/FoundryNet/canonical-schema) - Open universal schema for industrial equipment telemetry normalization. 366 canonical fields, 16,908 cross-vendor mappings across 18 OEM families. MIT licensed.
+* [Coffee Edition](https://github.com/ierolsen/coffee-edition-kit) - Newspaper a Raspberry Pi Pico W prints every morning: a Claude routine writes it overnight, GitHub Actions checks every page, and the Pico pulls the job over HTTPS and streams it to a network printer over IPP.
 
 ## Language
 
