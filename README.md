@@ -275,6 +275,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 * [Zatar](http://www.zatar.com/) - "Zatar is the first ARMmbed standards-based IoT cloud service".
 * [EMQX Cloud](https://www.emqx.com/en/cloud) - Fully managed MQTT service for IoT. Connect your IoT devices to any cloud without the burden of maintaining infrastructure.
 * [IoTSharp](https://github.com/IoTSharp/IoTSharp) - IoTSharp is an open-source IoT platform.
+* [HydroNode](https://hydronode.tech/) - Free hosted platform for ESP32, ESP8266 and LoRaWAN sensors. Devices are flashed from the browser and take signed firmware and config updates over the air with automatic rollback. Charts, anomaly alerts, iOS and Android apps and a Home Assistant integration.
 
 ## IIoT Clouds
 
