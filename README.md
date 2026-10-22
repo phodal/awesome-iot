@@ -568,6 +568,7 @@ for embedded systems (IoT in mind).
 * [MQTT File Uploader](https://github.com/volkanalkilic/Mqtt-File-Uploader) - MQTT File Uploader is a simple Cross-platform .NET Core application that watches local directories for changes and uploads new or modified files to an MQTT broker.
 * [Mqttable](https://mqttable.com/) - Desktop MQTT workbench for traffic inspection, replay, load testing, fault injection, and PCAP analysis.
 * [SolidPing](https://github.com/fclairamb/solidping) - Self-hosted uptime monitoring with an MQTT check that runs a publish/subscribe round trip on a broker and alerts on failure.
+* [Easy BACnet](https://easybacnet.com/) - Free Android app for discovering, reading and writing BACnet/IP devices on building networks. The website also hosts free BACnet points lists for 122 HVAC devices.
 
 ## Voice
 
