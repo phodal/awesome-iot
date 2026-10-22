@@ -178,6 +178,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 * [nShield ★ 251 ⧗ 35](https://github.com/fnzv/nShield) - An Easy and Simple Anti-DDoS solution for VPS,Dedicated Servers and IoT devices based on iptables.
 * [Scanners-Box ★ 9121 ⧗ 0](https://github.com/We5ter/Scanners-Box) - the toolbox of open source scanners.
 * [data-act-iot-kit](https://github.com/plusultra-tools/data-act-iot-kit) - EU Data Act Art. 4-5 reference implementation. Drop-in user-data-access HTTP endpoint for connected products, with verbatim-cited compliance manifest. Targets the 2026-09-12 access-by-design obligation.
+* [LegacyMind](https://www.legacymind.de/en/formats) - Hosted firmware analysis for IoT device makers. Upload an embedded Linux image or a Keil, IAR or GNU Arm ELF/AXF and get the SBOM with component versions, known vulnerabilities, hardening checks and embedded keys, exported as CycloneDX or SPDX. Commercial, free check for one file.
 
 ## OS
 
