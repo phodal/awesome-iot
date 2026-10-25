@@ -161,6 +161,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 * [PWAify ★ 439 ⧗ 8](https://github.com/vladikoff/PWAify) - Experimental project to convert your PWA (Progressive Web App) into a cross-platform Electron app. Brings PWAs to your desktop.
 * [Summon ★ 17 ⧗ 52](https://github.com/lab11/summon) - A platform for mobile devices that provides a convenient and scalable mechanism for IoT device interactivity, enabled by web-based interfaces and driven by the devices themselves.
 * [Theengs App](https://app.theengs.io) Mobile BLE to MQTT and reader application compatible with over 90 Bluetooth sensors.
+* [TopicBench](https://github.com/unipsycho/topicbench) - Free open-source multi-broker MQTT explorer and monitor desktop client written in Rust.
 
 ## Storage
 
