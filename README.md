@@ -644,6 +644,7 @@ for embedded systems (IoT in mind).
 ### Related Resources Projects
 
 * **[awesome-mqtt ★ 2408 ⧗ 0](https://github.com/hobbyquaker/awesome-mqtt)** - Curated list of MQTT related stuff.
+* [Awesome Reverse-Engineered](https://github.com/alexgaoth/awesome-reverse-engineered) - Index of 16,800+ open-source projects built by reverse engineering closed devices, protocols, apps and file formats, with 3,000+ device and IoT entries and 800+ that mention Home Assistant.
 
 ### Tutorial
 * [100 Days 100 IoT Projects](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects) - A 100-day challenge building real-world IoT projects with MicroPython on ESP32, ESP8266 and Raspberry Pi Pico 2W. Step-by-step documented with wiring diagrams and code for beginners.
