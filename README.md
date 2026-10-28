@@ -372,7 +372,7 @@ Layered architecture of JTAG interface and TAP support
 * [Node-RED](https://github.com/node-red/node-red) - Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.
 * [ZHAC](https://github.com/zhac-project/zhac-platform) - A dual-chip ESP32-P4 + ESP32-S3 Zigbee home automation controller with a Lua rule engine, local web UI, and MQTT gateway.
 * [ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) - Cross-platform Node.js service that reads BLE smart scales, calculates body composition, and exports readings to MQTT with Home Assistant auto-discovery, InfluxDB, Garmin Connect, and webhooks.
-* [Animara Free Sampler](https://github.com/animaraicons/animara-free-sampler) - MIT licensed animated SVG device icons for Home Assistant dashboards that follow each device's real state (fan spins, washer drum turns), installable as a HACS custom repository.
+* [Animara Free Sampler](https://github.com/animaraicons/animara-free-sampler) - MIT licensed animated SVG device icons for Home Assistant dashboards that follow each device's real state (fan spins, kettle boils), installable as a HACS custom repository.
 
 ## IDE
 
