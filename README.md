@@ -573,6 +573,7 @@ for embedded systems (IoT in mind).
 * [SolidPing](https://github.com/fclairamb/solidping) - Self-hosted uptime monitoring with an MQTT check that runs a publish/subscribe round trip on a broker and alerts on failure.
 * [TestMQTT](https://testmqtt.com/) - Free browser-based MQTT client for testing any broker over WebSockets: connect, subscribe, publish and debug topics with no install or sign-up.
 * [Easy BACnet](https://easybacnet.com/) - Free Android app for discovering, reading and writing BACnet/IP devices on building networks. The website also hosts free BACnet points lists for 122 HVAC devices.
+* [LibreDB Studio](https://github.com/libredb/libredb-studio) - Open source web database IDE that also reads industrial and IoT sources, read-only: MQTT 5.0 topic trees, Sparkplug B namespaces, OPC UA address spaces, Modbus TCP registers, MTConnect agents and SNMP devices.
 
 ## Voice
 
