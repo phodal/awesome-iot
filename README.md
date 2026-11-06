@@ -254,6 +254,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 * [Simple IoT](https://github.com/dingdaoyi/simple-iot) - Single-binary, self-hosted IoT platform built with Spring Boot 4 + Vue 3. Built-in MQTT broker, visual rule engine, hot-loaded Java/JS/Groovy/Lua protocol scripts, InfluxDB 3 time-series storage. One-command deploy on a 2 GB VPS.
 * [DeviceChain](https://github.com/devicechain-io/devicechain) - Apache-2.0 self-hosted IoT platform written in Go and React. Multi-tenant microservices on Kubernetes: MQTT/Sparkplug B/LwM2M ingest, TimescaleDB time-series storage, a CEL-based rule engine with alarms and outbound connectors, versioned dashboards, and GraphQL APIs. [(Docs)](https://docs.devicechain.io)
 * [Zelos](https://zeloscloud.io) - Data platform for hardware systems. Desktop app to connect hardware, stream live data, and analyze traces. Free for macOS, Windows, and Linux.
+* [ThingBoot](https://github.com/ThingBoot) - AI + physical world open IoT ecosystem: free device SDKs for ESP-IDF/Arduino/STM32 with MQTT, OTA and Mesh support, a self-hostable cloud platform, and MCP-native AI device control (natural language to real devices). [(Docs)](https://thingboot.com)
 
 ## IoT Clouds
 
