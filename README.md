@@ -181,6 +181,8 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 * [data-act-iot-kit](https://github.com/plusultra-tools/data-act-iot-kit) - EU Data Act Art. 4-5 reference implementation. Drop-in user-data-access HTTP endpoint for connected products, with verbatim-cited compliance manifest. Targets the 2026-09-12 access-by-design obligation.
 * [LegacyMind](https://www.legacymind.de/en/formats) - Hosted firmware analysis for IoT device makers. Upload an embedded Linux image or a Keil, IAR or GNU Arm ELF/AXF and get the SBOM with component versions, known vulnerabilities, hardening checks and embedded keys, exported as CycloneDX or SPDX. Commercial, free check for one file.
 * [iotaudit](https://github.com/emirmrkaljevic/iotaudit) - Local, consent-first audit of what your own smart home devices send over the network, with a one-page report per device. Passive capture, no telemetry.
+* [Trustpoint](https://github.com/Trustpoint-Project/trustpoint) - MIT-licensed, open-source PKI and machine identity management platform for Industrial IoT (IIoT) and OT environments. Automates X.509 certificate enrollment, renewal and revocation, supports CA/RA operation, and integrates industrial devices through EST, CMP, SCEP and OPC UA GDS Push.
+
 
 ## OS
 
