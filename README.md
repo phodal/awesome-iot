@@ -302,6 +302,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 * [Qeo Tinq ★ 12 ⧗ 392](https://github.com/brunodebus/tinq-core) - Tinq is completely based on the Qeo publish/subscribe framework produced by Technicolor as explained in the license section.
 * [Vedika API](https://vedika.io) - Vedic astrology API with AI chatbot for IoT displays, smart mirrors, and embedded dashboards. Provides birth charts, daily horoscopes, panchang, and muhurta calculations.
 * [Superhighway](https://superhighway.walls.sh/guides/manufacturing-research-agent) - Live web search API for AI agents. Build a Python agent that researches manufacturing markets, IIoT landscapes, OEE benchmarks, and supply chain trends. Pay-per-call with USDC via x402.
+* [MatterCatalog](https://mattercatalog.com/developers) - Free JSON API and read-only MCP server for Matter smart home products, with CSA certificate IDs, certification dates, networks and platforms.
 
 ## Middleware
 
