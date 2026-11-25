@@ -376,6 +376,7 @@ Layered architecture of JTAG interface and TAP support
 * [Node-RED](https://github.com/node-red/node-red) - Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.
 * [ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) - Cross-platform Node.js service that reads BLE smart scales, calculates body composition, and exports readings to MQTT with Home Assistant auto-discovery, InfluxDB, Garmin Connect, and webhooks.
 * [Animara Free Sampler](https://github.com/animaraicons/animara-free-sampler) - MIT licensed animated SVG device icons for Home Assistant dashboards that follow each device's real state (fan spins, kettle boils), installable as a HACS custom repository.
+* [Xiaomi Vacuum](https://github.com/matteocelani/xiaomi-vacuum) - Home Assistant custom integration for Xiaomi robot vacuums, forked from Tasshack/dreame-vacuum.
 * [Tapo](https://github.com/mihai-dinculescu/tapo) - Rust API, Python API, and MCP Server for TP-Link Tapo smart devices.
 
 ## IDE
