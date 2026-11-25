@@ -513,6 +513,7 @@ for embedded systems (IoT in mind).
 * [Anjay ★ 220 ⧗ 23](https://github.com/AVSystem/Anjay) - is a C library that aims to be the reference implementation of the OMA Lightweight Machine-to-Machine (LwM2M) device management protocol.
 * **[libimobiledevice ★ 8375 ⧗ 0](https://github.com/libimobiledevice/libimobiledevice)** - A library to communicate with services of Apple iOS devices using native protocols.
 * **[MeQ ★ 3961 ⧗ 1](https://github.com/teamsaas/meq)** - is a real-time communication service for connecting online devices.
+* [NLTP](https://github.com/indian-aman/NLTP-Arduino) - Open-source wireless transport protocol in C99 (Arduino/ESP32/ESP8266), Python, JS, and Java combining X25519, ChaCha20-Poly1305 AEAD, LZ4 compression, and systematic GF(2^8) Cauchy FEC for lossy IoT links.
 
 
 ### Modbus
