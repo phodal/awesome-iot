@@ -257,6 +257,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 * [DeviceChain](https://github.com/devicechain-io/devicechain) - Apache-2.0 self-hosted IoT platform written in Go and React. Multi-tenant microservices on Kubernetes: MQTT/Sparkplug B/LwM2M ingest, TimescaleDB time-series storage, a CEL-based rule engine with alarms and outbound connectors, versioned dashboards, and GraphQL APIs. [(Docs)](https://docs.devicechain.io)
 * [Zelos](https://zeloscloud.io) - Data platform for hardware systems. Desktop app to connect hardware, stream live data, and analyze traces. Free for macOS, Windows, and Linux.
 * [ThingBoot](https://github.com/ThingBoot) - AI + physical world open IoT ecosystem: free device SDKs for ESP-IDF/Arduino/STM32 with MQTT, OTA and Mesh support, a self-hostable cloud platform, and MCP-native AI device control (natural language to real devices). [(Docs)](https://thingboot.com)
+* [Voltrus SCADA](https://github.com/VoltrusID/voltrus-scada) - Self-hosted SCADA and industrial monitoring in a single Rust binary: Modbus TCP, OPC UA, S7, EtherNet/IP, DNP3 and BACnet/IP drivers, embedded MQTT broker, SQLite historian, dashboards and alarms.
 
 ## IoT Clouds
 
