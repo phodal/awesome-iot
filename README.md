@@ -154,6 +154,7 @@ This libraries allows to work with the GPIO port for various boards like Raspber
 
 ## App
 
+* [Bus Scope](https://hannes-software.com/bus-scope/) - Local-first desktop USB protocol analyzer for Linux `usbmon` and Windows `USBPcap` captures, designed for IoT/embedded hardware and USB device debugging (free Community Edition).
 * [Cordova BLE ★ 244 ⧗ 3](https://github.com/evothings/cordova-ble) - Bluetooth Low Energy plugin for Cordova
 * [Cordova MQTT Plugin ★ 85 ⧗ 11](https://github.com/arcoirislabs/cordova-plugin-mqtt) - MQTT Cordova Plugin for Apache Cordova
 * [MQTTX ★ 5110 ⧗ 0](https://github.com/emqx/MQTTX) - MQTTX is a cross-platform MQTT desktop client open sourced by EMQ, which supports macOS, Linux, and Windows. It allows users to quickly and easily test MQTT / MQTTS connections, publish and subscribe to MQTT messages.
